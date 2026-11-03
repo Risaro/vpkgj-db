@@ -1,5 +1,5 @@
 {
- "version": "fcc15f4e857c",
+ "version": "e6099dcf9469",
  "categories": {
   "ports": [],
   "homebrew": [
@@ -9,7 +9,7 @@
     "version": "1.0",
     "author": "Risaro",
     "lang": "ru",
-    "vpk": "https://github.com/Risaro/vpkgj/releases/latest/download/VPKGJ.vpk",
+    "vpk": "https://github.com/Risaro/vpkgj/releases/download/v1.0/VPKGJ.vpk",
     "icon": "VPKG00001/icon.png",
     "shots": [
      "VPKG00001/shot1.png"
@@ -17,8 +17,67 @@
     "description": "Магазин для PS Vita: игры, порты, переводы, хоумбрю и плагины. Каталог берётся из GitHub, файлы качаются напрямую.\\nИсходники: github.com/Risaro/vpkgj"
    }
   ],
-  "translations": [],
-  "plugins": [],
+  "translations": [
+   {
+    "titleid": "PCSB00176",
+    "name": "Metal Gear Solid 3 HD",
+    "version": "1.0",
+    "author": "Mr.President, Risaro",
+    "lang": "ru",
+    "install": "repatch+plugin",
+    "url": "https://drive.usercontent.google.com/download?id=1pfzhszJGZAQsy-VKcm1Lg4JLLTki26H3&export=download&confirm=t;https://drive.usercontent.google.com/download?id=1vsPE8z8UxkgbQYOwezd-t2QNhwbI_Yu3&export=download&confirm=t",
+    "size": 1873564927,
+    "region": "EU",
+    "game_version": "01.00",
+    "icon": "PCSB00176/icon.png",
+    "shots": [
+     "PCSB00176/shot1.png",
+     "PCSB00176/shot2.png",
+     "PCSB00176/shot3.png",
+     "PCSB00176/shot4.png",
+     "PCSB00176/shot5.png"
+    ],
+    "description": "Полный русский перевод: субтитры, радио, подсказки, меню и картинки.\\nПеревод Mr.President (t.me/mgs3ru), порт на Vita Risaro (t.me/lik1sa).\\nСпециально для phc.lokilab.ru.\\nНужна игра PCSB00176 версии 01.00. rePatch и плагин перевода ставятся и прописываются сами, после установки перезагрузи консоль."
+   }
+  ],
+  "plugins": [
+   {
+    "id": "repatch",
+    "name": "rePatch reDux0",
+    "version": "3.0",
+    "author": "dots-tb",
+    "url": "https://github.com/dots-tb/rePatch-reDux0/releases/download/3.0/repatch.skprx",
+    "size": 4645,
+    "tai_section": "KERNEL",
+    "check": "repatch",
+    "icon": "repatch/icon.png",
+    "description": "Подменяет файлы игр из ux0:rePatch. Нужен для переводов и модов. Ставится сам, если перевод его требует."
+   },
+   {
+    "id": "kubridge",
+    "name": "kubridge",
+    "version": "0.3.1",
+    "author": "bythos14",
+    "url": "https://github.com/bythos14/kubridge/releases/download/v0.3.1_hotfix/kubridge.skprx",
+    "size": 11630,
+    "tai_section": "KERNEL",
+    "check": "kubridge",
+    "icon": "kubridge/icon.png",
+    "description": "Нужен многим портам с Android."
+   },
+   {
+    "id": "fdfix",
+    "name": "FdFix",
+    "version": "1.0",
+    "author": "TheOfficialFloW",
+    "url": "https://github.com/TheOfficialFloW/FdFix/releases/download/v1.0/fd_fix.skprx",
+    "size": 1733,
+    "tai_section": "KERNEL",
+    "check": "fd_fix",
+    "icon": "fdfix/icon.png",
+    "description": "Исправляет ошибку с дескрипторами файлов после сна. Нужен портам на so_loader."
+   }
+  ],
   "games": []
  },
  "media": "https://raw.githubusercontent.com/Risaro/vpkgj-db/main/media/"

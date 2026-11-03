@@ -33,7 +33,8 @@ def copy_media(key, files, prefix):
             out.append(src.as_posix())
             continue
         name = f"{prefix}{i if prefix != 'icon' else ''}{src.suffix.lower()}"
-        shutil.copyfile(src, dest / name)
+        if src.resolve() != (dest / name).resolve():
+            shutil.copyfile(src, dest / name)
         out.append(f"{key}/{name}")
     return out
 

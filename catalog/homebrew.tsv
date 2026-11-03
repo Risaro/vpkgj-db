@@ -1,2 +1,2 @@
-titleid	name	version	author	lang	vpk	data	data_path	mirror	size	sha256	icon	shots	description
-VPKG00001	VPKGJ	1.0	Risaro	ru	https://github.com/Risaro/vpkgj/releases/latest/download/VPKGJ.vpk						VPKG00001/icon.png	VPKG00001/shot1.png	Магазин для PS Vita: игры, порты, переводы, хоумбрю и плагины. Каталог берётся из GitHub, файлы качаются напрямую.\nИсходники: github.com/Risaro/vpkgj
+titleid	name	version	author	lang	vpk	data	data_path	mirror	size	sha256	requires	icon	shots	description
+VPKG00001	VPKGJ	1.0	Risaro	ru	https://github.com/Risaro/vpkgj/releases/download/v1.0/VPKGJ.vpk							VPKG00001/icon.png	VPKG00001/shot1.png	Магазин для PS Vita: игры, порты, переводы, хоумбрю и плагины. Каталог берётся из GitHub, файлы качаются напрямую.\nИсходники: github.com/Risaro/vpkgj

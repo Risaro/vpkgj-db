@@ -1,1 +1,4 @@
-id	name	version	author	url	mirror	size	sha256	tai_section	icon	shots	description
+id	name	version	author	url	mirror	size	sha256	tai_section	check	icon	shots	description
+repatch	rePatch reDux0	3.0	dots-tb	https://github.com/dots-tb/rePatch-reDux0/releases/download/3.0/repatch.skprx		4645		KERNEL	repatch	repatch/icon.png		Подменяет файлы игр из ux0:rePatch. Нужен для переводов и модов. Ставится сам, если перевод его требует.
+kubridge	kubridge	0.3.1	bythos14	https://github.com/bythos14/kubridge/releases/download/v0.3.1_hotfix/kubridge.skprx		11630		KERNEL	kubridge	kubridge/icon.png		Нужен многим портам с Android.
+fdfix	FdFix	1.0	TheOfficialFloW	https://github.com/TheOfficialFloW/FdFix/releases/download/v1.0/fd_fix.skprx		1733		KERNEL	fd_fix	fdfix/icon.png		Исправляет ошибку с дескрипторами файлов после сна. Нужен портам на so_loader.

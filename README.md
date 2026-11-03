@@ -17,13 +17,15 @@ tools/     build_index.py, add.py
 
 | Файл | Колонки |
 |---|---|
-| ports, homebrew | `titleid name version author lang vpk data data_path mirror size sha256 icon shots description` |
-| translations | `titleid name version author lang install url mirror size sha256 region game_version icon shots description` |
-| plugins | `id name version author url mirror size sha256 tai_section icon shots description` |
+| ports, homebrew | `titleid name version author lang vpk data data_path mirror size sha256 requires icon shots description` |
+| translations | `titleid name version author lang install url mirror size sha256 requires region game_version icon shots description` |
+| plugins | `id name version author url mirror size sha256 tai_section check icon shots description` |
 | games | `titleid region name pkg zrif content_id size sha256 icon shots description` |
 
 - `version`: если меняешь версию, приложение покажет «Обновление» тем, кто ставил старую.
-- `data`: zip, распаковывается в `data_path` (по умолчанию `ux0:data`). Структура внутри архива сохраняется.
+- `data`: zip, распаковывается в `data_path` (по умолчанию `ux0:data`). Структура внутри архива сохраняется. Если архивов несколько и им нужны разные папки, пиши через `;` и `>`: `https://...usm.zip>ux0:data;https://...extra.zip>ux0:data/extra`.
+- `requires`: id плагинов из `plugins.tsv` через запятую, например `kubridge,fdfix`. Перед установкой приложение смотрит `config.txt` в `ux0:tai` и `ur0:tai`. Если плагин уже прописан, пропускает, если нет, ставит сам и просит перезагрузить консоль. Переводам с `rePatch` плагин `repatch` добавляется автоматически.
+- `check` у плагинов: по какой строке в `config.txt` понять, что плагин уже стоит (например `repatch`). Можно несколько через `|`. По умолчанию имя файла из ссылки.
 - `install` у переводов:
   - `repatch`: zip с папкой `rePatch/TITLEID/...` или сразу с файлами игры;
   - `repatch+plugin`: то же, плюс все `.suprx` из архивов ставятся в `tai` и прописываются под `*TITLEID`;
@@ -31,7 +33,7 @@ tools/     build_index.py, add.py
 - `tai_section` у плагинов: `KERNEL`, `main`, `ALL` или titleid. `.skprx` всегда идёт в `*KERNEL`.
 - `size`: в байтах, нужен для проверки места и отображения.
 - `sha256`: для игр проверяется после загрузки, для остального пока справочно.
-- `icon`, `shots`: пути внутри `media/` или полные ссылки. Скриншотов несколько через `;`. Лучше 960x544, png или jpg.
+- `icon`, `shots`: пути внутри `media/` или полные ссылки. Для игр из списков pkgj обложки, скриншоты и описания берутся из `covers.json`, если у записи своих нет. Скриншотов несколько через `;`. Лучше 960x544, png или jpg.
 - `description`: перенос строки пишется как `\n`.
 
 ## Ссылки

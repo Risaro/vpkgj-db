@@ -121,6 +121,12 @@ def check_links(index):
 def main():
     errors = []
     cats = {cat: load(cat, errors) for cat in SCHEMA}
+    plugin_ids = {p["id"].lower() for p in cats["plugins"]}
+    for cat, items in cats.items():
+        for it in items:
+            for dep in [d.strip().lower() for d in it.get("requires", "").replace(";", ",").split(",") if d.strip()]:
+                if dep not in plugin_ids:
+                    errors.append(f"{cat}/{it.get('titleid') or it.get('id')}: нет плагина {dep} в plugins.tsv")
     if errors:
         print("\n".join(errors))
         sys.exit(1)
