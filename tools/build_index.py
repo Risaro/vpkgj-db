@@ -12,7 +12,7 @@ MEDIA = ROOT / "media"
 DEFAULT_REPO = "Risaro/vpkgj-db/main"
 
 SCHEMA = {
-    "ports": {"required": ["titleid", "name", "version", "vpk"], "urls": ["vpk", "data", "mirror"]},
+    "ports": {"required": ["titleid", "name", "version", "vpk"], "urls": ["vpk", "data", "mirror", "alt_vpk"]},
     "homebrew": {"required": ["titleid", "name", "version", "vpk"], "urls": ["vpk", "data", "mirror"]},
     "translations": {"required": ["titleid", "name", "install", "url"], "urls": ["url", "mirror"]},
     "plugins": {"required": ["id", "name"], "urls": ["url", "mirror"]},
@@ -41,11 +41,19 @@ def direct(url):
 
 
 def split_urls(value):
-    return [u.strip() for part in value.split(";") for u in part.split("|") if u.strip()]
+    return [u.split(">")[0].strip() for part in value.split(";") for u in part.split("|") if u.split(">")[0].strip()]
+
+
+def convert_part(part):
+    dest = ""
+    if ">" in part:
+        part, dest = part.split(">", 1)
+        dest = ">" + dest.strip()
+    return "|".join(direct(u.strip()) for u in part.split("|") if u.strip()) + dest
 
 
 def convert_urls(value):
-    return ";".join("|".join(direct(u.strip()) for u in part.split("|") if u.strip()) for part in value.split(";") if part.strip())
+    return ";".join(convert_part(part) for part in value.split(";") if part.strip())
 
 
 def media_list(value):
