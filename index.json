@@ -1,0 +1,25 @@
+{
+ "version": "fcc15f4e857c",
+ "categories": {
+  "ports": [],
+  "homebrew": [
+   {
+    "titleid": "VPKG00001",
+    "name": "VPKGJ",
+    "version": "1.0",
+    "author": "Risaro",
+    "lang": "ru",
+    "vpk": "https://github.com/Risaro/vpkgj/releases/latest/download/VPKGJ.vpk",
+    "icon": "VPKG00001/icon.png",
+    "shots": [
+     "VPKG00001/shot1.png"
+    ],
+    "description": "Магазин для PS Vita: игры, порты, переводы, хоумбрю и плагины. Каталог берётся из GitHub, файлы качаются напрямую.\\nИсходники: github.com/Risaro/vpkgj"
+   }
+  ],
+  "translations": [],
+  "plugins": [],
+  "games": []
+ },
+ "media": "https://raw.githubusercontent.com/Risaro/vpkgj-db/main/media/"
+}
