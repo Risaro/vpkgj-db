@@ -15,11 +15,11 @@ SCHEMA = {
     "ports": {"required": ["titleid", "name", "version", "vpk"], "urls": ["vpk", "data", "mirror"]},
     "homebrew": {"required": ["titleid", "name", "version", "vpk"], "urls": ["vpk", "data", "mirror"]},
     "translations": {"required": ["titleid", "name", "install", "url"], "urls": ["url", "mirror"]},
-    "plugins": {"required": ["id", "name", "url", "tai_section"], "urls": ["url", "mirror"]},
+    "plugins": {"required": ["id", "name"], "urls": ["url", "mirror"]},
     "games": {"required": ["titleid", "region", "name", "pkg"], "urls": ["pkg", "mirror"]},
 }
 INSTALL = {"repatch", "plugin", "repatch+plugin", "data", "vpk"}
-TITLEID = re.compile(r"^[A-Z]{4}\d{5}$")
+TITLEID = re.compile(r"^[A-Z0-9_]{9}$")
 SHA256 = re.compile(r"^[0-9a-f]{64}$")
 DRIVE_ID = [
     re.compile(r"drive\.google\.com/file/d/([\w-]+)"),
@@ -68,6 +68,10 @@ def check_row(cat, n, row, errors):
         errors.append(f"{where}: size должен быть числом байт")
     if row.get("sha256") and not SHA256.match(row["sha256"]):
         errors.append(f"{where}: неверный sha256")
+    if cat == "plugins" and not row.get("url") and not row.get("check", "").startswith("file:"):
+        errors.append(f"{where}: у плагина нет url, нужен check вида file:путь")
+    if cat == "plugins" and row.get("url") and not row.get("tai_section"):
+        errors.append(f"{where}: нужен tai_section")
     if cat == "translations" and row.get("install") and row["install"] not in INSTALL:
         errors.append(f"{where}: install должен быть одним из {sorted(INSTALL)}")
     for rel in media_list(row.get("icon")) + media_list(row.get("shots")):
