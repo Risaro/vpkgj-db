@@ -1,5 +1,5 @@
 {
- "version": "603e32fa9140",
+ "version": "5f3c47744611",
  "categories": {
   "ports": [
    {
@@ -1870,7 +1870,7 @@
    },
    {
     "titleid": "PSPEMUCFW",
-    "name": "Мы подготовили Standalone VPK, с уже встроенной прошивкой, д",
+    "name": "Adrenaline",
     "version": "00.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/PSPEMUCFW/Adrenaline_8.0.2.vpk",
@@ -1879,7 +1879,7 @@
    },
    {
     "titleid": "AFTBURCLI",
-    "name": "Установка",
+    "name": "After Burner Climax",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/AFTBURCLI/afterburne1.1r.vpk",
@@ -1890,7 +1890,7 @@
    },
    {
     "titleid": "APPC00001",
-    "name": "Клиент для PC",
+    "name": "AppCenter Companion",
     "version": "01.60",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/APPC00001/AppCenterCompanion.vpk",
@@ -1918,7 +1918,7 @@
    },
    {
     "titleid": "ASPHALT20",
-    "name": "Установка",
+    "name": "Asphalt 8: Airborne",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/ASPHALT20/Asphalt8Vita_0.2.vpk",
@@ -1929,7 +1929,7 @@
    },
    {
     "titleid": "BALD14030",
-    "name": "Установка",
+    "name": "Baldi's Basics Classic",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/BALD14030/BALDI.vpk",
@@ -1940,7 +1940,7 @@
    },
    {
     "titleid": "BGDA00001",
-    "name": "Особености",
+    "name": "Baldur's Gate: Dark Alliance",
     "version": "01.06",
     "author": "@lolkekkekkekcheburek",
     "vpk": "https://firsts3.ru/vpkgj/ports/BGDA00001/BGDA.vpk",
@@ -1951,7 +1951,7 @@
    },
    {
     "titleid": "BOZ000001",
-    "name": "Оригинальный дизайн пузырька, пу сути никакой, для эстетики",
+    "name": "BOZ",
     "version": "02.02",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/BOZ000001/boz_vita_phcbubble_2.02.vpk",
@@ -1962,7 +1962,7 @@
    },
    {
     "titleid": "CDRR00000",
-    "name": "Установка",
+    "name": "Chip 'n Dale: Rescue Rangers",
     "version": "00.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/CDRR00000/ChipN_Dale-RescueRangers.VPK",
@@ -1987,7 +1987,7 @@
    },
    {
     "titleid": "A3A400001",
-    "name": "Установка",
+    "name": "Cookie Clicker",
     "version": "00.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/A3A400001/Cookie.Clicker.vpk",
@@ -1996,7 +1996,7 @@
    },
    {
     "titleid": "CRDL00001",
-    "name": "Установка",
+    "name": "Cordless",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/CRDL00001/Cordless.vpk",
@@ -2006,7 +2006,7 @@
    },
    {
     "titleid": "CHRD00001",
-    "name": "Установка",
+    "name": "Dino Vita",
     "version": "00.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/CHRD00001/Dino_Vita.vpk",
@@ -2033,7 +2033,7 @@
    },
    {
     "titleid": "DSVITA000",
-    "name": "Установка",
+    "name": "DSVita",
     "version": "00.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/DSVITA000/dsvit_.vpk",
@@ -2060,7 +2060,7 @@
    },
    {
     "titleid": "DUSKGXM01",
-    "name": "Установка",
+    "name": "dusklight Vita",
     "version": "00.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/DUSKGXM01/DuskGXM-0-6-10.vpk",
@@ -2080,7 +2080,7 @@
    },
    {
     "titleid": "FLOPROCKE",
-    "name": "Установка",
+    "name": "Flop Rocket",
     "version": "00.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/FLOPROCKE/FLOP_ROCKET_1_.VPK",
@@ -2089,7 +2089,7 @@
    },
    {
     "titleid": "FRUT02026",
-    "name": "Установка",
+    "name": "FrutiFusion",
     "version": "00.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/FRUT02026/FrutiFusion.vpk",
@@ -2098,7 +2098,7 @@
    },
    {
     "titleid": "GAMIDEF00",
-    "name": "Установка",
+    "name": "Galactic M",
     "version": "00.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/GAMIDEF00/GAMIDEF00.vpk",
@@ -2157,7 +2157,7 @@
    },
    {
     "titleid": "JK2VITA01",
-    "name": "Установка",
+    "name": "Star Wars Jedi Knight II: Jedi Outcast",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/JK2VITA01/JK2VITA-1.0.vpk",
@@ -2168,7 +2168,7 @@
    },
    {
     "titleid": "KOTR00001",
-    "name": "Представляем вашему внимаю Star Wars: Knights of the Old Rep",
+    "name": "Star Wars: Knights of the Old Republic",
     "version": "01.00",
     "author": "@lolkekkekkekcheburek",
     "lang": "ru",
@@ -2225,7 +2225,7 @@
    },
    {
     "titleid": "MIKU00039",
-    "name": "Установка",
+    "name": "MikuVU",
     "version": "00.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/MIKU00039/MikuVU_2.0_.vpk",
@@ -2280,7 +2280,7 @@
    },
    {
     "titleid": "POMO00137",
-    "name": "Установка",
+    "name": "Pocket Mortys",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/POMO00137/PocketMortys_RU_EN.vpk",
@@ -2319,7 +2319,7 @@
    },
    {
     "titleid": "PSVAS1178",
-    "name": "Установка",
+    "name": "PSVitaAlive",
     "version": "01.08",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/PSVAS1178/PSVitaAlive.vpk",
@@ -2363,7 +2363,7 @@
    },
    {
     "titleid": "SODA00001",
-    "name": "Установка",
+    "name": "Soda Dungeon",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/SODA00001/soda-redistributable.vpk",
@@ -2374,7 +2374,7 @@
    },
    {
     "titleid": "SONIC4EP1",
-    "name": "Пост",
+    "name": "Sonic the Hedgehog 4: Episode I",
     "version": "00.30",
     "author": "@lolkekkekkekcheburek",
     "vpk": "https://firsts3.ru/vpkgj/ports/SONIC4EP1/Sonic4Ep1-beta-0.30-debug.vpk",
@@ -2464,7 +2464,7 @@
    },
    {
     "titleid": "ISAACR001",
-    "name": "Установка",
+    "name": "The Binding of Isaac: Repentance",
     "version": "01.01",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/ISAACR001/repentogxm-v0.1.1-alpha.vpk",
@@ -2518,7 +2518,7 @@
    },
    {
     "titleid": "UTYV00001",
-    "name": "Установка",
+    "name": "Undertale Yellow",
     "version": "00.02",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/UTYV00001/UndertaleYellowVita-v0.1.vpk",
@@ -2529,7 +2529,7 @@
    },
    {
     "titleid": "USAG00001",
-    "name": "Установка",
+    "name": "Usagi PKGj",
     "version": "00.73",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/USAG00001/UsagiPKGJ.vpk",
@@ -2581,7 +2581,7 @@
    },
    {
     "titleid": "VTUB00001",
-    "name": "Установка",
+    "name": "ViTube",
     "version": "01.10",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/VTUB00001/ViTube.vpk",
@@ -2590,7 +2590,7 @@
    },
    {
     "titleid": "EVS000001",
-    "name": "Установка",
+    "name": "Бесконечное Лето",
     "version": "01.06",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/EVS000001/_.vpk",
@@ -2599,7 +2599,7 @@
    },
    {
     "titleid": "MONO00004",
-    "name": "Установка",
+    "name": "大富翁4Fun",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/MONO00004/Richman_4_Fun.vpk",
@@ -2608,7 +2608,7 @@
    },
    {
     "titleid": "LPAC19801",
-    "name": "Установка",
+    "name": "Pac-Man: Deadline",
     "version": "00.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/LPAC19801/PacManDeadline.vpk",
@@ -2618,7 +2618,7 @@
    },
    {
     "titleid": "BALD00003",
-    "name": "Установка",
+    "name": "ABYSS",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/BALD00003/ABYSS.vpk",
@@ -2628,7 +2628,7 @@
    },
    {
     "titleid": "ALTO11111",
-    "name": "Установка",
+    "name": "Alto's Adventure",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/ALTO11111/DoneAlto.vpk",
@@ -2638,7 +2638,7 @@
    },
    {
     "titleid": "CWRS00001",
-    "name": "Установка",
+    "name": "AT: Card Wars",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/CWRS00001/CardWarsVitaV5.vpk",
@@ -2648,7 +2648,7 @@
    },
    {
     "titleid": "BKRM80522",
-    "name": "Установка",
+    "name": "Backrooms",
     "version": "01.52",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/BKRM80522/Backrooms.vpk",
@@ -2660,7 +2660,7 @@
    },
    {
     "titleid": "BPGS20201",
-    "name": "Установка",
+    "name": "Bad Piggies",
     "version": "02.31",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/BPGS20201/BPV.vpk",
@@ -2670,7 +2670,7 @@
    },
    {
     "titleid": "HBPS00001",
-    "name": "Установка",
+    "name": "Benny",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/HBPS00001/benny.vpk",
@@ -2680,7 +2680,7 @@
    },
    {
     "titleid": "BEHO20247",
-    "name": "Установка",
+    "name": "Bewilder House",
     "version": "00.11",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/BEHO20247/BewilderHouse.vpk",
@@ -2690,7 +2690,7 @@
    },
    {
     "titleid": "CATS11111",
-    "name": "Установка",
+    "name": "Cat Quest",
     "version": "01.00",
     "author": "@psvitaport",
     "lang": "ru",
@@ -2701,7 +2701,7 @@
    },
    {
     "titleid": "CSTC00001",
-    "name": "Установка",
+    "name": "Caustic 3 Vita",
     "version": "01.03",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/CSTC00001/Caustic3Vita-v1.0.2.vpk",
@@ -2712,7 +2712,7 @@
    },
    {
     "titleid": "CNRN20066",
-    "name": "Управление",
+    "name": "Chameleon Run",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/CNRN20066/CNRN.vpk",
@@ -2722,7 +2722,7 @@
    },
    {
     "titleid": "GNPL00001",
-    "name": "Установка",
+    "name": "Gnomopolis",
     "version": "01.93",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/GNPL00001/gnomopolis.vpk",
@@ -2732,7 +2732,7 @@
    },
    {
     "titleid": "LAPY00008",
-    "name": "Установка",
+    "name": "Duck Hunt Remake",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/LAPY00008/Duck_Hunt_Remake.vpk",
@@ -2742,7 +2742,7 @@
    },
    {
     "titleid": "HANF64519",
-    "name": "Установка",
+    "name": "Granny",
     "version": "01.20",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/HANF64519/Granny.vpk",
@@ -2752,7 +2752,7 @@
    },
    {
     "titleid": "BBFF12345",
-    "name": "Установка",
+    "name": "Kill'em All",
     "version": "01.03",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/BBFF12345/Killemall_fixed.vpk",
@@ -2762,7 +2762,7 @@
    },
    {
     "titleid": "KGNL22222",
-    "name": "Установка",
+    "name": "Kingdom",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/KGNL22222/KingdomNewLands.vpk",
@@ -2772,7 +2772,7 @@
    },
    {
     "titleid": "HELL12345",
-    "name": "Установка",
+    "name": "Neighbours from Hell",
     "version": "01.00",
     "author": "@psvitaport",
     "lang": "ru",
@@ -2783,7 +2783,7 @@
    },
    {
     "titleid": "REDVITASS",
-    "name": "Установка",
+    "name": "Red Space",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/REDVITASS/Red.Space-01.00.vpk",
@@ -2793,7 +2793,7 @@
    },
    {
     "titleid": "RBLX00123",
-    "name": "О боже... Создали офлайн-версию Roblox на движке Unity для P",
+    "name": "Roblox",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/RBLX00123/Roblox.vpk",
@@ -2807,7 +2807,7 @@
    },
    {
     "titleid": "SVEN12345",
-    "name": "Примечание",
+    "name": "Samurai II: Vengeance",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/SVEN12345/SM2V.vpk",
@@ -2817,7 +2817,7 @@
    },
    {
     "titleid": "MOQI00010",
-    "name": "Установка",
+    "name": "Shadowgun",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/MOQI00010/shadowgun.vpk",
@@ -2827,7 +2827,7 @@
    },
    {
     "titleid": "STEP62012",
-    "name": "Установка",
+    "name": "Slender - The Eight Pages",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/STEP62012/slender8.vpk",
@@ -2837,7 +2837,7 @@
    },
    {
     "titleid": "SLMR26110",
-    "name": "Установка",
+    "name": "Slenderman Returns",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/SLMR26110/slendermanreturns.vpk",
@@ -2863,7 +2863,7 @@
    },
    {
     "titleid": "SUSU01010",
-    "name": "Установка",
+    "name": "Subway Surfers",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/SUSU01010/Subway_Surfers_1_.vpk",
@@ -2873,7 +2873,7 @@
    },
    {
     "titleid": "PTVT45668",
-    "name": "Ссылки на бэкапы архива",
+    "name": "The Hallway",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/PTVT45668/TheHallway.vpk",
@@ -2883,7 +2883,7 @@
    },
    {
     "titleid": "TLCK42069",
-    "name": "Установка",
+    "name": "TinyLegends: Crazy Knight",
     "version": "01.00",
     "author": "@psvitaport",
     "lang": "ru",
@@ -2894,7 +2894,7 @@
    },
    {
     "titleid": "TORN12345",
-    "name": "Установка",
+    "name": "Torn",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/TORN12345/Torn.vpk",
@@ -2904,7 +2904,7 @@
    },
    {
     "titleid": "VTHT52118",
-    "name": "Установка",
+    "name": "VitaHOT",
     "version": "01.07",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/VTHT52118/VitaHot.vpk",
@@ -2914,7 +2914,7 @@
    },
    {
     "titleid": "DWLF00001",
-    "name": "Установка",
+    "name": "Werewolf vs Lucy",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/DWLF00001/drunk-werewolf.vpk",
@@ -2924,7 +2924,7 @@
    },
    {
     "titleid": "AGKB22101",
-    "name": "Установка",
+    "name": "Wrecking Wave",
     "version": "01.00",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/AGKB22101/Wrecking_Wave.vpk",
