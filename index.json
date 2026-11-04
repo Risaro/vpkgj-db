@@ -1,5 +1,5 @@
 {
- "version": "5f3c47744611",
+ "version": "a3c40cf129f8",
  "categories": {
   "ports": [
    {
@@ -2949,10 +2949,10 @@
    {
     "titleid": "VPKG00001",
     "name": "VPKGJ",
-    "version": "1.2",
+    "version": "1.3",
     "author": "Risaro",
     "lang": "ru",
-    "vpk": "https://github.com/Risaro/vpkgj/releases/download/1.2/VPKGJ.vpk",
+    "vpk": "https://github.com/Risaro/vpkgj/releases/download/1.3/VPKGJ.vpk",
     "icon": "VPKG00001/icon.png",
     "shots": [
      "VPKG00001/shot1.png"
