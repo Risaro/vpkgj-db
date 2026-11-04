@@ -1,5 +1,5 @@
 {
- "version": "658127fd0740",
+ "version": "2b23349c05f2",
  "categories": {
   "ports": [
    {
@@ -16,23 +16,23 @@
     "name": "9MM (Gameloft)",
     "version": "01.00",
     "author": "iwannagooutside",
-    "vpk": "https://github.com/iwannagooutside/9mm-vita/releases/download/v1.0/9mm.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NMHD00001/9mm.vpk",
     "data_path": "ux0:data/9mm",
-    "size": 2026430,
+    "size": 1752171,
     "requires": "kubridge,fdfix,libshacccg",
     "icon": "ports/NMHD00001/c.jpg",
-    "description": "PS Vita port of 9mm HD (Android), running the original ARMv7 binary with native controls\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/9mm. Подробности в README автора.\\nИсходники и инструкция: github.com/iwannagooutside/9mm-vita"
+    "description": "Обновили нашу сборку 9mm! 👌\\n\\nУдалось пофиксить баг порта, при котором после старта игры, потом начать новую игру было нельзя, только продолжить текущую. 👍🏻\\n\\nДля тех, у кого уже была скачена сборка, делимся отдельным от сборки VPK-файлом.\\n\\nPS Vita port of 9mm HD (Android), running the original ARMv7 binary with native controls\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/9mm. Подробности в README автора.\\nИсходники и инструкция: github.com/iwannagooutside/9mm-vita"
    },
    {
     "titleid": "ABAF00011",
     "name": "A Bite at Freddy’s",
     "version": "00.00",
     "author": "Rocroverss",
-    "vpk": "https://github.com/Rocroverss/A-Bite-at-Freddy-s-psvita/releases/download/V1.01/AbAF-v1.01.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ABAF00011/A_Bite_at_Freddy_s_Vita_v.1.01.vpk",
     "data_path": "ux0:data/game_data",
-    "size": 15656987,
+    "size": 80124473,
     "icon": "ports/ABAF00011/c.jpg",
-    "description": "A Bite at Freddy's psvita port\\nПорт с Fan-made / Mod. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/game_data. Подробности в README автора.\\nИсходники и инструкция: github.com/Rocroverss/A-Bite-at-Freddy-s-psvita"
+    "description": "Установка:\\n\\n- Скачать .VPK-файл\\n- Установить через VitaShell\\n- Играть!\\n\\nБэкап архива\\n\\nA Bite at Freddy's psvita port\\nПорт с Fan-made / Mod. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/game_data. Подробности в README автора.\\nИсходники и инструкция: github.com/Rocroverss/A-Bite-at-Freddy-s-psvita"
    },
    {
     "titleid": "ADVENA001",
@@ -62,21 +62,26 @@
     "name": "Alisa",
     "version": "01.00",
     "author": "Rinnegatamante",
-    "vpk": "https://github.com/Rinnegatamante/Alisa-Vita/releases/download/v.1.2/alisa.vpk",
-    "size": 55052776,
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ALSA50001/alisaV1.2.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/ALSA50001/alisa_developer_s_cut_RU-EN.zip",
+    "data_path": "ux0:data",
+    "size": 167671761,
+    "sha256": "8868c2a505e1cea0d22f431a9f1b84f2ad46bf062ba1273bfaf8b27986cad60e",
     "icon": "ports/ALSA50001/c.jpg",
-    "description": "Port of Alisa: Developer's Cut for PSVita.\\nПорт с PC. Стадия: Release.\\nИсходники и инструкция: github.com/Rinnegatamante/Alisa-Vita"
+    "description": "Установка:\\n\\nВерсия с русским текстом от raveneesy и озвучкой от Сергея Тенева.\\n1 - Скачать архив и в первую очередь установить VPK файл.\\n2 - После установки VPK, папку app переместить в корень ux0: согласившись на замену файлов.\\n\\nДругие версии игры (оригинал, русский текст с английской озвучкой) в нашем архиве.\\n\\nСсылки на бэкапы архива\\n\\nPort of Alisa: Developer's Cut for PSVita.\\nПорт с PC. Стадия: Release.\\nИсходники и инструкция: github.com/Rinnegatamante/Alisa-Vita"
    },
    {
     "titleid": "AMNE00001",
     "name": "Amnesia: The Dark Descent",
     "version": "01.50",
     "author": "FridiNaTor1",
-    "vpk": "https://github.com/FridiNaTor1/HPL2-handyman/releases/download/1.5/Amnesia-Vita-01.50.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/AMNE00001/Amnesia.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/AMNE00001/datafiles.zip",
     "data_path": "ux0:data/Amnesia/cache",
     "size": 5926144,
     "icon": "ports/AMNE00001/c.jpg",
-    "description": "HPL2 upkeep, fixes, upgrades and compatibility\\nПорт с PC. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/Amnesia/cache. Подробности в README автора.\\nИсходники и инструкция: github.com/FridiNaTor1/HPL2-handyman"
+    "description": "Установка:\\n\\n- Скачать и распаковать архив\\n- Папку Amnesia поместить по пути ux0:data/\\n- Установить VPK файл\\n- Играть!\\n\\nБэкап архива\\n\\nHPL2 upkeep, fixes, upgrades and compatibility\\nПорт с PC. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/Amnesia/cache. Подробности в README автора.\\nИсходники и инструкция: github.com/FridiNaTor1/HPL2-handyman"
    },
    {
     "titleid": "ACGC00001",
@@ -138,14 +143,18 @@
    {
     "titleid": "PSVBL0002",
     "name": "Badland 2",
-    "version": "01.10",
+    "version": "01.00",
     "author": "MetalSyntax",
-    "vpk": "https://github.com/MetalSyntax/Badland-2-vita/releases/download/v1.1.1/badland2.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PSVBL0002/badland2.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/PSVBL0002/badlandvita.zip",
     "data_path": "ux0:data/badland2",
-    "size": 905487,
+    "size": 917992,
     "requires": "kubridge,fdfix,libshacccg",
     "icon": "ports/PSVBL0002/c.jpg",
-    "description": "Android to PS Vita port of Badland 2\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/badland2. Подробности в README автора.\\nИсходники и инструкция: github.com/MetalSyntax/Badland-2-vita"
+    "description": "Android to PS Vita port of Badland 2\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/badland2. Подробности в README автора.\\nИсходники и инструкция: github.com/MetalSyntax/Badland-2-vita",
+    "alt_vpk": "https://github.com/MetalSyntax/Badland-2-vita/releases/download/v1.1.1/badland2.vpk",
+    "alt_version": "01.10",
+    "alt_source": "GitHub автора"
    },
    {
     "titleid": "BANJO0064",
@@ -163,10 +172,10 @@
     "name": "Barony",
     "version": "01.00",
     "author": "Brendonm17",
-    "vpk": "https://github.com/Brendonm17/Barony-Vita/releases/download/v0.0.2-5.0.2/barony-vita-blank.vpk",
-    "size": 9976925,
+    "vpk": "https://firsts3.ru/vpkgj/ports/BARO00001/barony-full_eng.vpk",
+    "size": 408790439,
     "icon": "ports/BARO00001/c.jpg",
-    "description": "Barony Open Source Release, PS Vita port\\nПорт с PC. Стадия: Release.\\nИсходники и инструкция: github.com/Brendonm17/Barony-Vita"
+    "description": "Установка:\\n\\n- Скачать и установить .vpk-файл через VitaShell.\\n- Играть!\\n\\nБэкап архива\\n\\nBarony Open Source Release, PS Vita port\\nПорт с PC. Стадия: Release.\\nИсходники и инструкция: github.com/Brendonm17/Barony-Vita"
    },
    {
     "titleid": "BC2000000",
@@ -208,7 +217,8 @@
     "name": "Brothers in Arms 2: Global Front HD",
     "version": "01.00",
     "author": "MetalSyntax",
-    "vpk": "https://github.com/MetalSyntax/Brothers-in-Arms-2-vita/releases/download/v1.0.0/brothersinarms2.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PSVBIA002/brothersinarms2.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/PSVBIA002/data.zip",
     "data_path": "ux0:data/brothersinarms2",
     "size": 2067171,
     "requires": "kubridge,fdfix,libshacccg",
@@ -220,24 +230,27 @@
     "name": "Buckshot Roulette",
     "version": "01.00",
     "author": "voidchecksam",
-    "vpk": "https://github.com/voidchecksam/BuckshotRoulettePortable-BSHT/releases/download/v1.0.3/BuckshotRoulettePortable-BSHT-v1.0.3.vpk",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BSHT00016/BuckshotRoulettePortable-BSHT-v1.0.0.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/BSHT00016/data.zip",
     "data_path": "ur0:data/libshacccg.suprx",
-    "size": 2793570,
+    "size": 2789326,
     "requires": "libshacccg",
     "icon": "ports/BSHT00016/c.jpg",
-    "description": "A native C++ port(able) of Buckshot Roulette. General Release of Liability on the Vita\\nПорт с PC. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ur0:data/libshacccg.suprx. Подробности в README автора.\\nИсходники и инструкция: github.com/voidchecksam/BuckshotRoulettePortable-BSHT"
+    "description": "Buckshot Roulette\\n\\nСостоялся релиз реимплементации (повторная реализация) инди-хоррора в жанре симулятора настольной игры. Игра представляет собой мрачное и напряженное переосмысление классической русской рулетки, где вместо традиционного револьвера используется помповое ружье 12-го калибра.\\n\\nИгрок садится за стол против загадочного искусственного интеллекта — Дилера (The Dealer). В ружье случайным образом заряжается комбинация из боевых и холостых патронов. Игрок может стрелять либо в Дилера, либо в себя (если патрон холостой, ход сохраняется). Русский язык в комплекте.\\n\\nУстановка:\\n\\n1) Скачать и распаковать архив и VPK\\n2) Папку bsht поместить по пути ux0:data\\n3) Установить VPK\\n4) Играть!\\n\\nБэкап архива\\n\\nA native C++ port(able) of Buckshot Roulette. General Release of Liability on the Vita\\nПорт с PC. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ur0:data/libshacccg.suprx. Подробности в README автора.\\nИсходники и инструкция: github.com/voidchecksam/BuckshotRoulettePortable-BSHT"
    },
    {
     "titleid": "BULLY0000",
     "name": "Bully: Anniversary Edition (Android)",
     "version": "01.01",
     "author": "delon5",
-    "vpk": "https://github.com/delon5/bully_vita/releases/download/v1.01-release/BULLY-V1.01-RELEASE.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BULLY0000/BULLY-V1.01-RELEASE.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/BULLY0000/bully.zip",
     "data_path": "ux0:data/Bully",
     "size": 1245400,
     "requires": "kubridge,fdfix",
     "icon": "ports/BULLY0000/c.jpg",
-    "description": "Bully: Anniversary Edition Vita\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/Bully. Подробности в README автора.\\nИсходники и инструкция: github.com/delon5/bully_vita"
+    "description": "Инструкция по установке:\\n\\n0. Присутствуют две версии VPK файла. Первая от разработчика порта (Bully1.vpk), вторая тестовый самопал где подвезли правки для более корректной работы (Bully2.vpk)\\n1. Загрузите архив\\n2. Распакуйте архив Вully и перенесите на консоль папку Bully с файлами игры по пути: ux0:data/\\n3. Установите на консоле обновленный VPK\\n4. Играть!\\n\\nBully: Anniversary Edition Vita\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/Bully. Подробности в README автора.\\nИсходники и инструкция: github.com/delon5/bully_vita"
    },
    {
     "titleid": "BOZM00001",
@@ -312,7 +325,8 @@
     "name": "Castle of Illusion Starring Mickey Mouse",
     "version": "00.12",
     "author": "jwfeniello",
-    "vpk": "https://github.com/jwfeniello/Castle-of-Illusion-Vita/releases/download/v0.12/castle_of_illusion_vita.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/COIV00001/castle_of_illusion_vita_0.12.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/COIV00001/vitacastleofillusion.7z",
     "data_path": "ux0:data/castleofillusion",
     "size": 2836946,
     "requires": "kubridge,libshacccg",
@@ -344,12 +358,14 @@
     "name": "Conker’s Bad Fur Day",
     "version": "01.30",
     "author": "HenryKun55",
-    "vpk": "https://github.com/HenryKun55/conker-vita/releases/download/v1.3.0/conker.vpk",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CBFD00064/conker_vita_ru.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/CBFD00064/data.zip",
     "data_path": "ux0:data/conker",
-    "size": 8592053,
+    "size": 8759138,
     "requires": "libshacccg",
     "icon": "ports/CBFD00064/c.jpg",
-    "description": "Conker's Bad Fur Day native PS Vita port - releases (no game files)\\nПорт с Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/conker. Подробности в README автора.\\nИсходники и инструкция: github.com/HenryKun55/conker-vita"
+    "description": "Conker's Bad Fur Day\\n\\nСостоялся релиз порта культовой игры с Nintendo 64! Игра знаменита своим резким контрастом: за яркой, мультяшной графикой с милыми антропоморфными животными скрывается взрослый контент (рейтинг ESRB: Mature) с черным юмором, обилием ненормативной лексики, жестокостью, алкогольной тематикой и пародиями на популярные фильмы.\\n\\nМы подготовили сборку на русском языке, пришлось пересоберать VPK из исходников, чтобы русский заработал, язык системы должен быть на русском языке!\\n\\nУстановка:\\n\\n1) Скачать и распаковать архив и VPK\\n2) Папку conker поместить по пути ux0:data\\n3) Установить VPK\\n4) Играть!\\n\\nБэкап\\n\\nConker's Bad Fur Day native PS Vita port - releases (no game files)\\nПорт с Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/conker. Подробности в README автора.\\nИсходники и инструкция: github.com/HenryKun55/conker-vita"
    },
    {
     "titleid": "TWEV00001",
@@ -367,11 +383,12 @@
     "name": "Crash Team Racing: High Octane (Native)",
     "version": "00.00",
     "author": "Rinnegatamante",
-    "vpk": "https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane/releases/download/v.1.5/ctr.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CTR000004/ctr.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/CTR000004/ctrRUS.zip",
     "data_path": "ux0:data/ctr/assets",
-    "size": 3634906,
+    "size": 3575693,
     "icon": "ports/CTR000004/c.jpg",
-    "description": "Advanced sourceport of Crash Team Racing for PSVita, PC and Web Browser.\\nПорт с Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/ctr/assets. Подробности в README автора.\\nИсходники и инструкция: github.com/Rinnegatamante/Crash-Team-Racing-High-Octane"
+    "description": "Установка:\\n\\n- Скачать и распаковать архив\\n- Папку ctr поместить по пути ux0:data/\\n- Установить VPK файл\\n- Играть!\\n\\nБэкап архива\\n\\nAdvanced sourceport of Crash Team Racing for PSVita, PC and Web Browser.\\nПорт с Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/ctr/assets. Подробности в README автора.\\nИсходники и инструкция: github.com/Rinnegatamante/Crash-Team-Racing-High-Octane"
    },
    {
     "titleid": "CRAZYTAXI",
@@ -390,10 +407,11 @@
     "name": "Cuphead",
     "version": "01.82",
     "author": "PatnosDD",
-    "vpk": "https://github.com/PatnosDD/Cuphead-PS-VITA/releases/download/V0.82/Cuphead.vpk",
-    "size": 17382192,
+    "vpk": "https://firsts3.ru/vpkgj/ports/CPHD23233/Cuphead_V0.82.vpk",
+    "size": 337164820,
+    "sha256": "50f972c0ee66059eedc2a57dc4bdbfcfe9a13adb9e95f8175ae011e8673c84eb",
     "icon": "ports/CPHD23233/c.jpg",
-    "description": "Порт с PC / Console. Стадия: Release.\\nИсходники и инструкция: github.com/PatnosDD/Cuphead-PS-VITA"
+    "description": "Предварительно:\\n- На консоли должен быть установлен плагин ioPlus от dots-tb. (закреплен в посте https://vk.com/psvitaport?w=wall-219388565_94)\\n\\nУстановка:\\n\\n- Скачать .VPK и перенести на консоль.\\n- Установить .VPK через VitaShell\\n- Играть!\\n\\nСсылки на бэкапы архива\\n\\nПорт с PC / Console. Стадия: Release.\\nИсходники и инструкция: github.com/PatnosDD/Cuphead-PS-VITA"
    },
    {
     "titleid": "CTROPE001",
@@ -456,14 +474,18 @@
    {
     "titleid": "DTWO00001",
     "name": "Diablo II",
-    "version": "00.23",
+    "version": "00.00",
     "author": "Franckrst",
-    "vpk": "https://github.com/Franckrst/D2Vita/releases/download/v0.2.3/d2vita.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DTWO00001/d2vita2.0.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/DTWO00001/D2_fix_sound.zip",
     "data_path": "ux0:data/d2vita",
-    "size": 8083946,
+    "size": 8001016,
     "requires": "kubridge",
     "icon": "ports/DTWO00001/c.jpg",
-    "description": "Порт с PC. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/d2vita. Подробности в README автора.\\nИсходники и инструкция: github.com/Franckrst/D2Vita"
+    "description": "В общем, порт Diablo 2 полностью починен, звук вернули!\\n\\nДля тех, кто уже скачал сборку и играет без звука, просто скачайте этот файл и перекиньте по пути ux0:data/d2vita/\\n\\nДля тех кто не качал, сборка обновлена, можете качать и играть в легенду! 😋\\n\\nПорт с PC. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/d2vita. Подробности в README автора.\\nИсходники и инструкция: github.com/Franckrst/D2Vita",
+    "alt_vpk": "https://github.com/Franckrst/D2Vita/releases/download/v0.2.3/d2vita.vpk",
+    "alt_version": "00.23",
+    "alt_source": "GitHub автора"
    },
    {
     "titleid": "GBLN00001",
@@ -482,11 +504,12 @@
     "name": "DOOM 3 BFG Edition",
     "version": "00.90",
     "author": "Rayz0rum",
-    "vpk": "https://github.com/Rayz0rum/doom3bfg-vita/releases/download/v0.9/Doom3BFG_v0.9.vpk",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DBFG00001/Doom3BFG_v0.9.vpk",
     "data_path": "ux0:data/doom3bfg",
     "size": 10260071,
     "icon": "ports/DBFG00001/c.jpg",
-    "description": "DOOM 3 BFG Edition for the PlayStation Vita - every campaign, DOOM 1 & 2, trophies, and LAN/online multiplayer with bots\\nПорт с PC / Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/doom3bfg. Подробности в README автора.\\nИсходники и инструкция: github.com/Rayz0rum/doom3bfg-vita"
+    "description": "DOOM 3: BFG Edition\\n\\nСостоялся релиз порта расширенного переиздание научно-фантастического шутера Doom 3.\\n\\nЧто входит в состав издания:\\n\\n• Дополнение Resurrection of Evil: Официальный аддон, продолжающий сюжет.\\n• The Lost Mission: Эксклюзивная для этого издания сюжетная мини-кампания, состоящая из 7 абсолютно новых уровней.\\n• Классические игры серии: Полные версии оригинальных DOOM и DOOM II (включая эпизод No Rest for the Living).\\n\\nПо отзывам этот порт работает лучше порта оригинального Doom 3, есть русский язык. Спасибо ų爪ẳפίςãŁ за файлы игры.\\n\\nУстановка:\\n\\n1) Скачать и распаковать архив и VPK\\n2) Папку doom3bfg поместить по пути ux0:data\\n3) Установить VPK\\n4) Играть!\\n\\nБэкап архива\\n\\nDOOM 3 BFG Edition for the PlayStation Vita - every campaign, DOOM 1 & 2, trophies, and LAN/online multiplayer with bots\\nПорт с PC / Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/doom3bfg. Подробности в README автора.\\nИсходники и инструкция: github.com/Rayz0rum/doom3bfg-vita"
    },
    {
     "titleid": "DOOM64EX1",
@@ -527,24 +550,26 @@
     "name": "Dragon Ball Z: Budokai Tenkaichi 3 (Tenkaichi3Decomp)",
     "version": "01.10",
     "author": "arielxflores",
-    "vpk": "https://github.com/arielxflores/Tenkaichi3Decomp-Vita/releases/download/v1.1/Tenkaichi3Decomp-Vita.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BTTD00010/Tenkaichi3Decomp-Vita.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/BTTD00010/_.zip",
     "data_path": "ux0:data/bt3",
     "size": 2665717,
     "requires": "libshacccg",
     "icon": "ports/BTTD00010/c.jpg",
-    "description": "PS Vita port of Dragon Ball Z: Budokai Tenkaichi 3, based on Tenkaichi3Decomp\\nПорт с Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/bt3. Подробности в README автора.\\nИсходники и инструкция: github.com/arielxflores/Tenkaichi3Decomp-Vita"
+    "description": "Dragon Ball Z: Budokai Tenkaichi 3\\n\\nСостоялся релиз порта легендарного файтинга с PS2! Игра кардинально отличается от классических 2D и 3D файтингов вроде Mortal Kombat, Tekken или Street Fighter. Вместо симуляции спортивного поединка на арене игра пытается максимально точно воссоздать масштабные и хаотичные битвы из аниме. Здесь камера всегда закреплена за спиной вашего персонажа, как в экшенах от третьего лица. Бойцы могут свободно летать во всех направлениях (вверх, вниз, в стороны), стремительно пикировать на землю, прятаться за скалами или уходить под воду. Короче говоря советую попробовать!\\n\\nУстановка:\\n\\n1) Скачать и распаковать архив и VPK\\n2) Папку bt3 поместить по пути ux0:data\\n3) Установить VPK\\n4) Играть!\\n\\nБэкап архива\\n\\nPS Vita port of Dragon Ball Z: Budokai Tenkaichi 3, based on Tenkaichi3Decomp\\nПорт с Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/bt3. Подробности в README автора.\\nИсходники и инструкция: github.com/arielxflores/Tenkaichi3Decomp-Vita"
    },
    {
     "titleid": "DNMPIOS01",
     "name": "Duke Nukem: Manhattan Project",
     "version": "00.90",
     "author": "myname24",
-    "vpk": "https://github.com/myname24/dnmp-vita/releases/download/V0.0.9/dnmp_ios.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DNMPIOS01/DNMP-Vita-themed.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/DNMPIOS01/_.rar",
     "data_path": "ux0:data/dnmp_ios",
-    "size": 890064,
+    "size": 1053293,
     "requires": "kubridge,libshacccg",
     "icon": "ports/DNMPIOS01/c.jpg",
-    "description": "Порт с PC. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/dnmp_ios. Подробности в README автора.\\nИсходники и инструкция: github.com/myname24/dnmp-vita"
+    "description": "Duke Nukem: Manhattan Project\\n\\nИ вот до нас добрался еще один порт хорошей игрушки с iOS, встречайте Duke Nukem на PS Vita! Изначально игра вышла на ПК в 2002, затем в 2010 на Xbox 360, и последний официальный релиз был на iOS в 2014.\\n\\nДанный спинофф выполнен, как 2.5D платформер с элементами шутера. Камера показывает Дюка сбоку, однако сам мир полностью трёхмерен. Игроку доступно перемещение вглубь экрана на развилках, карабканье по трубам и уступам.\\n\\nБезумный учёный Мех Морфикс использует радиоактивную слизь G.L.O.P.P., чтобы превратить жителей Нью-Йорка (включая аллигаторов и тараканов) в кровожадных мутантов. Дюк Нюкем отправляется зачищать Манхэттен и спасать попавших в беду девушек.\\n\\nVPK был без какого-либо оформление, мы естественно это подправили. Автор рекомендует разгон, так как порт пока что бета, в будущем будет подтягивать оптимизацию.\\n\\nУстановка:\\n\\n1) Скачать и распаковать архив и VPK\\n2) Папку dnmp_ios поместить по пути ux0:data\\n3) Установить VPK\\n4) Играть!\\n\\nБэкап\\n\\nПорт с PC. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/dnmp_ios. Подробности в README автора.\\nИсходники и инструкция: github.com/myname24/dnmp-vita"
    },
    {
     "titleid": "PSVDH0002",
@@ -653,11 +678,12 @@
     "name": "Gravity Defied",
     "version": "01.05",
     "author": "LokiDSx",
-    "vpk": "https://github.com/LokiDSx/Gravity-Defied-Vita/releases/download/1.5/GravityDefied.1.5.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GDIF00001/GravityDefied_1.5.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/GDIF00001/data.rar",
     "data_path": "ux0:data/GravityDefied",
     "size": 2197671,
     "icon": "ports/GDIF00001/c.jpg",
-    "description": "PlayStation Vita homebrew port of Gravity Defied. Physics and engine based on the C++ and SDL2 reconstruction.\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/GravityDefied. Подробности в README автора.\\nИсходники и инструкция: github.com/LokiDSx/Gravity-Defied-Vita"
+    "description": "Gravity Defied\\n\\nПредставляем вашему вниманию наш порт мобильной (не смартфоновой) легенды - Gravity Defied! Порт основан на неофициальном порте с ПК \"Gravity Defied Cpp\".\\n\\nНовшества и отличия от оригинала:\\n\\n- Меню игры по центру экрана, а не слева вверху как было.\\n- Для казуальных игроков добавили возможность заднего хода мотоцикла ( △ / L )\\n- Нативная поддержка модов(трекпаков) прям из меню игры. Для модов так же своих сохранения(очки, лиги) и не конфликтуют друг с другом. Трекпаки устанавливаются по пути ux0:data/GravityDefied/[название папки трекпака]/levels.mrg скачать остальные можно с этого ресурса.\\n\\nОпционально: включили в архив 3 трекпака в комплект.\\n\\nУстановка:\\n\\n1) Скачать VPK\\n2) Установить VPK\\n2.1) Опционально, доп трекпаки: распаковать архив, папку GravityDefied поместить по пути ux0:data\\n3) Играть!\\n\\nБэкап\\n\\nPlayStation Vita homebrew port of Gravity Defied. Physics and engine based on the C++ and SDL2 reconstruction.\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/GravityDefied. Подробности в README автора.\\nИсходники и инструкция: github.com/LokiDSx/Gravity-Defied-Vita"
    },
    {
     "titleid": "PSVGTRHE1",
@@ -698,14 +724,18 @@
    {
     "titleid": "HCEV00001",
     "name": "Halo: Combat Evolved",
-    "version": "01.12",
+    "version": "01.10",
     "author": "BirchWoodGod",
-    "vpk": "https://github.com/BirchWoodGod/halo-ce-vita/releases/download/v1.1.2/halo-ce-vita-1.1.2-vita.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HCEV00001/halo-rus-v1.1.0.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/HCEV00001/haloce-vita.zip",
     "data_path": "ur0:data/libshacccg.suprx",
-    "size": 6928381,
+    "size": 4848370,
     "requires": "libshacccg",
     "icon": "ports/HCEV00001/c.jpg",
-    "description": "Halo: Combat Evolved for the PS Vita (decomp port)\\nПорт с PC / Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ur0:data/libshacccg.suprx. Подробности в README автора.\\nИсходники и инструкция: github.com/BirchWoodGod/halo-ce-vita"
+    "description": "Halo: Combat Evolved for the PS Vita (decomp port)\\nПорт с PC / Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ur0:data/libshacccg.suprx. Подробности в README автора.\\nИсходники и инструкция: github.com/BirchWoodGod/halo-ce-vita",
+    "alt_vpk": "https://github.com/BirchWoodGod/halo-ce-vita/releases/download/v1.1.2/halo-ce-vita-1.1.2-vita.vpk",
+    "alt_version": "01.12",
+    "alt_source": "GitHub автора"
    },
    {
     "titleid": "PSVHOS001",
@@ -865,9 +895,10 @@
     "name": "Medal of Honor: Allied Assault",
     "version": "00.00",
     "author": "HenryKun55",
-    "vpk": "https://github.com/HenryKun55/openmohaa/releases/download/v0.5-vita/OpenMoHAA.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/OMHA00001/OpenMoHAA.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/OMHA00001/openmohaaRU.zip",
     "data_path": "ux0:data/openmohaa",
-    "size": 11163402,
+    "size": 10614887,
     "requires": "libshacccg",
     "icon": "ports/OMHA00001/c.jpg",
     "description": "Open re-implementation of Medal of Honor: Allied Assault including Spearhead and Breakthrough expansions with modern features and bugfixes from ioquake3 with cross-platform support\\nПорт с PC. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/openmohaa. Подробности в README автора.\\nИсходники и инструкция: github.com/HenryKun55/openmohaa"
@@ -888,22 +919,25 @@
     "name": "Minecraft: Pocket Edition (0.9.0)",
     "version": "01.40",
     "author": "DevZer0D4Y",
-    "vpk": "https://github.com/DevZer0D4Y/mcpe-psvita-edition/releases/download/release_smallfix/mcpe_0.9.0_alpha_R3.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/VITAMCPE0/mcpe_0.9.0_alpha_R3.vpk",
     "size": 16012374,
+    "sha256": "db9f818ced3e8c2ba36e805486deed3118fd35b490f21b3da8f7b53d276ab8ac",
     "icon": "ports/VITAMCPE0/c.jpg",
-    "description": "A MCPE (v0.9.0 ALPHA) port for PS VITA\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nИсходники и инструкция: github.com/DevZer0D4Y/mcpe-psvita-edition"
+    "description": "Minecraft PE v.0.9.0 Alpha\\n\\nВышел порт Minecraft PE v.0.9.0 Alpha для PlayStation Vita. Проект полностью робчий но имеет пару моментов:\\n* Пока не работает управление стиками/кнопками, только сенсорное\\n* Не работает мультиплеер\\n* Частые фризы, иногда вылеты (играть с разгоном обязательно!)\\n\\nPs: это не старая слитая версия 0.6.1 Alpha, а совершенно новая, тут миры уже бесконечные\\n\\nA MCPE (v0.9.0 ALPHA) port for PS VITA\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nИсходники и инструкция: github.com/DevZer0D4Y/mcpe-psvita-edition"
    },
    {
     "titleid": "MCSM00001",
     "name": "Minecraft: Story Mode",
-    "version": "01.11",
+    "version": "01.19",
     "author": "LeZergan",
-    "vpk": "https://github.com/LeZergan/mcsm-vita/releases/download/v1.11/MCSM-1.11-logging.vpk",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/MCSM00001/mcsm_release.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/MCSM00001/MStory.part1.zip",
     "data_path": "ux0:data/mcsm",
-    "size": 3522042,
+    "size": 3428991,
     "requires": "kubridge,fdfix,libshacccg",
     "icon": "ports/MCSM00001/c.jpg",
-    "description": "Minecraft: Story Mode PS Vita loader — public prerelease with an easy Windows data builder.\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/mcsm. Подробности в README автора.\\nИсходники и инструкция: github.com/LeZergan/mcsm-vita"
+    "description": "Minecraft: Story Mode\\n\\nСостоялся релиз порта Minecraft: Story Mode. Сюжетное приключение в жанре интерактивная игра(кино). Вы управляете героем по имени Джесси, общаетесь с персонажами, делаете выбор (который влияет на сюжет), решаете головоломки и участвуете в экшен-сценах (QTE).\\n\\nПримечание:\\n- В порте присутствует русский язык!\\n- В сборке полная версия со всеми эпизодами.\\n- Используйте разгон, проект крупный.\\n\\nУстановка:\\n\\n- Скачать и распаковать архивы\\n- Установить .vpk-файл!\\n- Папку mcsm поместить по пути ux0:data/\\n- Играть!\\n\\nТак же (опционально):\\n- Скачайте кэш шейдеров игры.\\n- Распакуйте архив по пути ux0:data\\n\\nОгромное спасибо нашему подписчику, за инфу, за файлы, и кэш шейдеров!\\n—\\nБэкап архива\\n\\nMinecraft: Story Mode PS Vita loader — public prerelease with an easy Windows data builder.\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/mcsm. Подробности в README автора.\\nИсходники и инструкция: github.com/LeZergan/mcsm-vita"
    },
    {
     "titleid": "MC2V00001",
@@ -932,14 +966,19 @@
    {
     "titleid": "MH3WII001",
     "name": "Monster Hunter Tri",
-    "version": "00.22",
+    "version": "00.01",
     "author": "Grarak",
-    "vpk": "https://github.com/Grarak/mh3-wii/releases/download/0.2.2/mh3-vita.vpk",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/MH3WII001/mh3-vita.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/MH3WII001/mh3-wii.zip",
     "data_path": "ux0:/data/mh3-wii",
-    "size": 18773761,
+    "size": 18308898,
     "requires": "kubridge",
     "icon": "ports/MH3WII001/c.jpg",
-    "description": "Порт с Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:/data/mh3-wii. Подробности в README автора.\\nИсходники и инструкция: github.com/Grarak/mh3-wii"
+    "description": "Monster Hunter Tri (3)\\n\\nСостоялся релиз первого порта игры с 7го поколения - Monster Hunter Tri! Невероятно конечно, порт в целом играется плавно, в 60FPS, а с разгоном еще плавнее.\\n\\nЭто знаковая ролевая экшен-игра от компании Capcom, выпущенная эксклюзивно(до сегодняшнего дня) для консоли Nintendo Wii. Игрок прибывает в уютную островную деревню Мога, которая страдает от регулярных и разрушительных землетрясений. Местные жители уверены, что виной всему — колоссальный морской дракон Лагиакрус. Как единственный профессиональный охотник в округе, вы должны защитить деревню, завоевать доверие местных жителей, исследовать дикую природу и в конечном итоге одолеть хозяина морей.\\n\\nИгру никто не переводил, русского нет((\\n\\nУстановка:\\n\\n- Скачать и распаковать архив\\n- Папку mh3-wii поместить по пути ux0:data/\\n- Установить VPK файл\\n- Играть!\\n\\nБэкап архива\\n\\nПорт с Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:/data/mh3-wii. Подробности в README автора.\\nИсходники и инструкция: github.com/Grarak/mh3-wii",
+    "alt_vpk": "https://github.com/Grarak/mh3-wii/releases/download/0.2.2/mh3-vita.vpk",
+    "alt_version": "00.22",
+    "alt_source": "GitHub автора"
    },
    {
     "titleid": "VLLY22132",
@@ -968,11 +1007,11 @@
     "name": "NAOH: Arcade Collection (Capcom)",
     "version": "00.00",
     "author": "KiddRwxSsj",
-    "vpk": "https://github.com/KiddRwxSsj/naoh-ac/releases/download/2.0.1/naoh_arcade_collection2.0.1.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NAOH00001/naoh_arcade_collection1.2.vpk",
     "data_path": "ux0:data/NaohAC",
-    "size": 34805622,
+    "size": 11989270,
     "icon": "ports/NAOH00001/c.jpg",
-    "description": "Native PS Vita arcade launcher written in C. Drives statically linked libretro cores (CPS2/MAME) directly without RetroArch.\\nПорт с Arcade / Sega. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/NaohAC. Подробности в README автора.\\nИсходники и инструкция: github.com/KiddRwxSsj/naoh-ac"
+    "description": "Установка:\\n\\n- Установить vpk\\n- Румы игр скидывать по пути - ux0:data/NaohAC/roms/\\n(Поддерживается только регион США, установленный для каждой игры!)\\n- Обложки (необязательно) скидывать по пути ux0:data/NaohAC/covers/\\n\\nNative PS Vita arcade launcher written in C. Drives statically linked libretro cores (CPS2/MAME) directly without RetroArch.\\nПорт с Arcade / Sega. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/NaohAC. Подробности в README автора.\\nИсходники и инструкция: github.com/KiddRwxSsj/naoh-ac"
    },
    {
     "titleid": "NBAJ00000",
@@ -991,7 +1030,8 @@
     "name": "Need for Speed II: Special Edition (SE)",
     "version": "01.00",
     "author": "veitorman",
-    "vpk": "https://github.com/veitorman/nfs2se-vita/releases/download/v1.0.0/nfs2se-vita-v1.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NFSR00001/nfs2se-vita-v1.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/NFSR00001/Need_for_Speed_II_Special_Edition.zip",
     "data_path": "ur0:data/libshacccg.suprx",
     "size": 3539852,
     "requires": "libshacccg",
@@ -1003,9 +1043,10 @@
     "name": "Need for Speed III: Hot Pursuit",
     "version": "01.00",
     "author": "NDRWhun",
-    "vpk": "https://github.com/NDRWhun/NFS3VITA/releases/download/release-1.0/NFS3VITA-1.0.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NFS3VITA1/NFS3VITA_oformlenie.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/NFS3VITA1/nfs3HP.zip",
     "data_path": "ux0:data/nfs3vita",
-    "size": 4710326,
+    "size": 5204884,
     "icon": "ports/NFS3VITA1/c.jpg",
     "description": "Порт с PC. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/nfs3vita. Подробности в README автора.\\nИсходники и инструкция: github.com/NDRWhun/NFS3VITA"
    },
@@ -1022,13 +1063,18 @@
    {
     "titleid": "NFSMWVITA",
     "name": "Need For Speed: Most Wanted Black Edition",
-    "version": "01.40",
+    "version": "00.01",
     "author": "germanalvarez15",
-    "vpk": "https://github.com/germanalvarez15/nfsmw-vita/releases/download/1.4.0/nfsmw.vpk",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NFSMWVITA/nfsmw.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/NFSMWVITA/Data_NFS.rar",
     "data_path": "ux0:data/nfsmw",
-    "size": 3189620,
+    "size": 3187680,
     "icon": "ports/NFSMWVITA/c.jpg",
-    "description": "Need for Speed: Most Wanted (PS2) port to PS Vita\\nПорт с PC / Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/nfsmw. Подробности в README автора.\\nИсходники и инструкция: github.com/germanalvarez15/nfsmw-vita"
+    "description": "Need For Speed: Most Wanted (2005)\\n\\nИ так друзья, этот порт релизнулся в целом недавно, и мы не спешили сразу его постить. В чатике пользователи хорошечно его протестировали, и с сегодняшней обновой порт в целом играбелен, поэтому могу нас смело поздравить, NFS Most Wanted 2005 теперь у нас в кармане! 🎉🎉🎉\\n\\nДумаю описывать игру нет смысла, все про нее и так знают. Могу сказать, что автор порта регульрно выпускает обновления. Как запустите игру, поковыряйтесь в настройках графики, FPS у порта стабильный.\\n\\nМы пости сборочку от подписчика со свежим VPK, с русскими видеороликами, в дальнейшем попробуем русифицировать игру полностью... Порт кстати с PS2)\\n\\nМини обзор с чатика:\\n\\nНа Виту ток сейчас в целом начали такие проекты закидывать и факт их запуска это уже хорошо\\n\\nЕсли хотите как на пк, берите прошитый свитч или консоли на его уровне или выше и играйте. Портатив всегда был про компромисс, так что это нормально\\n\\nПорт базируется на оригинальном образе американского региона версии Black Edition для PS2\\n\\nМожно настроить разрешение в нем, фильтр вкл/выкл, размытие также и освещение настроить\\n\\nФпс хороший в принципе и играть можно, плюс очень регулярно выходят апдейты\\n\\nИграть советую\\n\\nУстановка:\\n\\n1) Скачать и распаковать архив и VPK\\n2) Папку nfsmw поместить по пути ux0:data\\n3) Установить VPK\\n4) Играть!\\n\\nБэкап\\n\\nNeed for Speed: Most Wanted (PS2) port to PS Vita\\nПорт с PC / Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/nfsmw. Подробности в README автора.\\nИсходники и инструкция: github.com/germanalvarez15/nfsmw-vita",
+    "alt_vpk": "https://github.com/germanalvarez15/nfsmw-vita/releases/download/1.4.0/nfsmw.vpk",
+    "alt_version": "01.40",
+    "alt_source": "GitHub автора"
    },
    {
     "titleid": "NFSHP0000",
@@ -1055,13 +1101,17 @@
    {
     "titleid": "OMWV00001",
     "name": "OpenMW (Elder Scrolls Morrowind)",
-    "version": "02.41",
+    "version": "02.20",
     "author": "TheLostPantheon",
-    "vpk": "https://github.com/TheLostPantheon/openmw/releases/download/v2.4.1/openmw-2.4.1.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/OMWV00001/openmw2.2.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/OMWV00001/Morrowind2.2.zip",
     "data_path": "ux0:data/openmw",
-    "size": 175238181,
+    "size": 168343545,
     "icon": "ports/OMWV00001/c.jpg",
-    "description": "OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/\\nПорт с PC. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/openmw. Подробности в README автора.\\nИсходники и инструкция: github.com/TheLostPantheon/openmw"
+    "description": "Установка:\\n\\n- Скачать архив и распаковать его.\\n- Установить VPK файл, через VitaShell\\n- Папку openmw поместить по пути ux0:data/\\n- Играть!\\n\\nUPD: обязательно назовите персонажа полностью строчными буквами, в имени не должно быть кириллицы и заглавных букв! Быстрое сохранение назначено на правый верхний угол экрана.\\n\\nБэкап архива\\n\\nОтдельный VPK\\n\\nOpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/\\nПорт с PC. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/openmw. Подробности в README автора.\\nИсходники и инструкция: github.com/TheLostPantheon/openmw",
+    "alt_vpk": "https://github.com/TheLostPantheon/openmw/releases/download/v2.4.1/openmw-2.4.1.vpk",
+    "alt_version": "02.41",
+    "alt_source": "GitHub автора"
    },
    {
     "titleid": "PAPERBOAT",
@@ -1091,20 +1141,23 @@
     "name": "Plants vs Zombies 2",
     "version": "01.01",
     "author": "LeZergan",
-    "vpk": "https://github.com/LeZergan/pvz2vita/releases/download/v1.1-rc29/pvz2-vita-latest.vpk",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PVZ2VITA1/pvz2-vita-latest.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/PVZ2VITA1/Pvz2_PSVITA.zip",
     "data_path": "ur0:data/external",
     "size": 1108934,
     "requires": "kubridge,libshacccg",
     "icon": "ports/PVZ2VITA1/c.jpg",
-    "description": "Unofficial PS Vita loader for the Android 4.5.2 ROW build of Plants vs. Zombies 2.\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ur0:data/external. Подробности в README автора.\\nИсходники и инструкция: github.com/LeZergan/pvz2vita"
+    "description": "Представляем вашему вниманию Plants vs. Zombies 2: It’s About Time на русском языке!\\n\\n- Сам перевод взят от Dark_legend, но он был сделан для более поздней версии (PS Vita базируется на 4.5.2, перевод 12.4).\\n- Участие к адаптации русификатора, так же принял сам автор порта, предоставив нам обновленный VPK версии 1.1 RC25 без проверки контрольной суммы .OBB файлов игры и с прочими исправлениями(они так же касаются и английской версии, ее сборку обновили).\\n\\nМод на деньги и кристаллы:\\n\\n- Планировали сделать хак на взлом валюты в игре, но его давно уже сделали :-), и оно работает с нашей версией игры.\\nПосле прохождения пролога, у вас автоматически генерируется профиль игры по пути ux0:data/pvz2/userdata/No_Backup и в этой папке файл pp.dat, его закидывайте на сайт для редактирования. (Будьте осторожны, редактор сохранений заточен на новые версии игры).\\n- Для особо ленивых в архиве уже есть подготовленный профиль с 9999 монет и кристаллов на старте игры.\\n\\nПримечания:\\n- В некоторых местах в тексте может появится \"/n\", не критично, тяжело лечится, как полечим, сообщим.\\n- Магазин(донатный) не переведен, так как не работает.\\n\\nУстановка:\\n\\n- Скачать и распаковать архив\\n- Папку pvsz2 поместить по пути ux0:data/\\n- Установить VPK файл\\n- Играть!\\n\\nPS:\\nVPK с английской сборки не совместим с русской, поэтому если ранее ставили игру, ставьте все с нуля.\\n\\nБэкап архива\\n\\nUnofficial PS Vita loader for the Android 4.5.2 ROW build of Plants vs. Zombies 2.\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ur0:data/external. Подробности в README автора.\\nИсходники и инструкция: github.com/LeZergan/pvz2vita"
    },
    {
     "titleid": "PRED42069",
     "name": "Predators",
     "version": "01.00",
     "author": "AJ170",
-    "vpk": "https://github.com/AJ170/Predators-PSVita-Port/releases/download/1.0/PREDATORS-FinalBuild_v1.0-stub.vpk",
-    "size": 14860020,
+    "vpk": "https://firsts3.ru/vpkgj/ports/PRED42069/PREDATORS-FinalBuild_v1.0.vpk",
+    "size": 145099319,
+    "sha256": "46f1f998505ad4c8681f154d060faca558136cf6628033828e47cb87f222d952",
     "icon": "ports/PRED42069/c.jpg",
     "description": "Predators 2010 port to vita\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nИсходники и инструкция: github.com/AJ170/Predators-PSVita-Port"
    },
@@ -1137,10 +1190,11 @@
     "name": "Punch Club",
     "version": "01.00",
     "author": "PatnosDD",
-    "vpk": "https://github.com/PatnosDD/Punch-Club-Ps-Vita/releases/download/V1.0/PunchClub.vpk",
-    "size": 17054914,
+    "vpk": "https://firsts3.ru/vpkgj/ports/PNCH11111/PunchClub.vpk",
+    "size": 48384618,
+    "sha256": "f97b704630da44e86cf7f551cd4220b528ec23b6e9dbacf13cb9eced1ac08545",
     "icon": "ports/PNCH11111/c.jpg",
-    "description": "Port of Punch Club for Ps Vita\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nИсходники и инструкция: github.com/PatnosDD/Punch-Club-Ps-Vita"
+    "description": "Установка:\\n\\n- Скачать VPK файл и перенести его на консоль.\\n- Установить .vpk-файл через VitaShell.\\n- Играть!\\n\\nБэкап архива\\n\\nPort of Punch Club for Ps Vita\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nИсходники и инструкция: github.com/PatnosDD/Punch-Club-Ps-Vita"
    },
    {
     "titleid": "PSVRT0001",
@@ -1169,14 +1223,18 @@
    {
     "titleid": "PSVRJR001",
     "name": "Rayman Jungle Run",
-    "version": "01.10",
+    "version": "01.00",
     "author": "MetalSyntax",
-    "vpk": "https://github.com/MetalSyntax/Rayman-Jungle-Run-vita/releases/download/v1.1.0/raymanjunglerun.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PSVRJR001/raymanjunglerun.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/PSVRJR001/Vitarayman.zip",
     "data_path": "ux0:data/raymanjunglerun",
-    "size": 918770,
+    "size": 917752,
     "requires": "kubridge,fdfix,libshacccg",
     "icon": "ports/PSVRJR001/c.jpg",
-    "description": "Android to PS Vita port of Ubisoft Rayman Jungle Run\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/raymanjunglerun. Подробности в README автора.\\nИсходники и инструкция: github.com/MetalSyntax/Rayman-Jungle-Run-vita"
+    "description": "Android to PS Vita port of Ubisoft Rayman Jungle Run\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/raymanjunglerun. Подробности в README автора.\\nИсходники и инструкция: github.com/MetalSyntax/Rayman-Jungle-Run-vita",
+    "alt_vpk": "https://github.com/MetalSyntax/Rayman-Jungle-Run-vita/releases/download/v1.1.0/raymanjunglerun.vpk",
+    "alt_version": "01.10",
+    "alt_source": "GitHub автора"
    },
    {
     "titleid": "REVOLTGLV",
@@ -1195,10 +1253,10 @@
     "name": "Real Racing 2",
     "version": "00.00",
     "author": "CHUTA7X",
-    "vpk": "https://github.com/CHUTA7X/Real-Racing-2-Vita-Port-Release/releases/download/VitaPort/RR2Vita_Public_Beta_1.0.0.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RR2VITA01/RR2Vita_Public_Beta_1.0.0.vpk",
     "size": 6363044,
     "icon": "ports/RR2VITA01/c.jpg",
-    "description": "A RR2 vita port based on android HD version.\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nИсходники и инструкция: github.com/CHUTA7X/Real-Racing-2-Vita-Port-Release"
+    "description": "Подготовили русифицированный кэш Real Racing 2, перевод найден на просторах 4PDA, полностью ручной не машинный.\\n\\nКто уже установил игру, просто перезапишите кэш. VPK тут (если еще не устанавливали игру).\\n\\nA RR2 vita port based on android HD version.\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nИсходники и инструкция: github.com/CHUTA7X/Real-Racing-2-Vita-Port-Release"
    },
    {
     "titleid": "RR3VITA36",
@@ -1217,24 +1275,31 @@
     "name": "Regular Show: Best Park in the Universe",
     "version": "00.10",
     "author": "jwfeniello",
-    "vpk": "https://github.com/jwfeniello/regular-show-best-park-in-the-universe-vita/releases/download/v0.10/best_park_vita.vpk",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BPARK0001/best_park_vita.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/BPARK0001/bestpark.rar",
     "data_path": "ux0:data/bestpark",
     "size": 2375925,
     "requires": "kubridge,libshacccg",
     "icon": "ports/BPARK0001/c.jpg",
-    "description": "Heavily AI-assisted PS Vita port of Regular Show: Best Park in the Universe (Android 1.2.1).\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/bestpark. Подробности в README автора.\\nИсходники и инструкция: github.com/jwfeniello/regular-show-best-park-in-the-universe-vita"
+    "description": "Regular Show: Best Park in the Universe\\n\\nСостоялся релиз порта игры полностью основана на популярном мультсериале «Обычное шоу» (Regular Show) от Cartoon Network. Игра в жанре beat 'em up. Поддерживается русский язык.\\n\\nМордекай и Ригби заключают сделку с загадочным Зеленым Человеком, чтобы превратить свой обычный парк в лучший парк во Вселенной. Однако всё идет наперекосяк: Зеленый Человек запускает парк в открытый космос и начинает красть чужие парки с других планет. Команде приходится сражаться с инопланетянами, монстрами и безумными работниками, чтобы вернуть всё на свои места до того, как Бенсон вернется с конференции и устроит проверку.\\n\\nУстановка:\\n\\n- Скачать и распаковать архив\\n- Папку bestpark поместить по пути ux0:data/\\n- Установить VPK файл\\n- Играть!\\n\\nБэкап архива\\n\\nHeavily AI-assisted PS Vita port of Regular Show: Best Park in the Universe (Android 1.2.1).\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/bestpark. Подробности в README автора.\\nИсходники и инструкция: github.com/jwfeniello/regular-show-best-park-in-the-universe-vita"
    },
    {
     "titleid": "RECVX0001",
     "name": "Resident Evil Code: Veronica",
-    "version": "01.01",
+    "version": "01.00",
     "author": "Rinnegatamante",
-    "vpk": "https://github.com/Rinnegatamante/recvx_vita/releases/download/v.1.2/recvx.vpk",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RECVX0001/recvx-vita.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/RECVX0001/_.rar",
     "data_path": "ux0:data/recvx",
-    "size": 13994003,
+    "size": 2793724,
     "requires": "libshacccg",
     "icon": "ports/RECVX0001/c.jpg",
-    "description": "Port of Resident Evil: Code Veronica X for PSVita.\\nПорт с Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/recvx. Подробности в README автора.\\nИсходники и инструкция: github.com/Rinnegatamante/recvx_vita"
+    "description": "Resident Evil: Code Veronica X\\n\\nСостоялся релиз порта с PS2 в целом ключевой игры в серии Resident Evil! Это культовая игра в жанре survival horror, разработанная компанией Capcom. Хотя игра не имеет номерного индекса в названии, по своей значимости, масштабу и влиянию на сюжет она является полноценной номерной частью легендарной франшизы\\n\\nРинне обещал вам Резик - обещание выполнил... :)\\n\\nМы подготовили две версии английскую и русскую (текст+озвучка) от Team Racoon.\\n\\nУстановка:\\n\\n1) Скачать и распаковать архив и VPK (RUS) (ENG)\\n2) Папку recvx поместить по пути ux0:data\\n3) Установить VPK\\n4) Играть!\\n\\nБэкап архива\\n\\nPort of Resident Evil: Code Veronica X for PSVita.\\nПорт с Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/recvx. Подробности в README автора.\\nИсходники и инструкция: github.com/Rinnegatamante/recvx_vita",
+    "alt_vpk": "https://github.com/Rinnegatamante/recvx_vita/releases/download/v.1.2/recvx.vpk",
+    "alt_version": "01.01",
+    "alt_source": "GitHub автора"
    },
    {
     "titleid": "PSVRGP001",
@@ -1319,23 +1384,27 @@
     "name": "Shadow Fight 2",
     "version": "01.00",
     "author": "franciscoclou",
-    "vpk": "https://github.com/franciscoclou/shadowfight2-vita/releases/download/v1.0/ShadowFight2.vpk",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SHDF00002/ShadowFight2.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SHDF00002/data.rar",
     "data_path": "ur0:data/libshacccg.suprx",
     "size": 1241451,
     "requires": "kubridge,libshacccg",
-    "description": "Loader port of Shadow Fight 2 (Android, 1.9.38) to the PS Vita. Contains no game code or data; you supply your own APK.\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ur0:data/libshacccg.suprx. Подробности в README автора.\\nИсходники и инструкция: github.com/franciscoclou/shadowfight2-vita"
+    "description": "Shadow Fight 2\\n\\nСостоялся релиз порта довольно популярного файтинга с мобилок! В игре кстати есть элементы RPG - Вы сможете покупать, улучшать и комбинировать различные виды оружия (нунчаки, катаны, когти), доспехи, шлемы, а также метательное оружие и магию.\\n\\nПорт работает стабильно, 60 FPS, без разгона и прочего. Управление кнопочное. В игре есть русский язык, меняется в настройках!\\n\\nУстановка:\\n\\n- Скачать и распаковать архив\\n- Папку shadowfight2 поместить по пути ux0:data/\\n- Установить VPK файл\\n- Играть!\\n\\nБэкап архива\\n\\nLoader port of Shadow Fight 2 (Android, 1.9.38) to the PS Vita. Contains no game code or data; you supply your own APK.\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ur0:data/libshacccg.suprx. Подробности в README автора.\\nИсходники и инструкция: github.com/franciscoclou/shadowfight2-vita"
    },
    {
     "titleid": "PSVSGHD01",
     "name": "Shadow Guardian HD",
     "version": "01.00",
     "author": "MetalSyntax",
-    "vpk": "https://github.com/MetalSyntax/Shadow-Guardian-vita/releases/download/v1.4/shadowguardian.vpk",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PSVSGHD01/shadowguardian.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/PSVSGHD01/shadow.zip",
     "data_path": "ux0:data/shadowguardian",
-    "size": 1166610,
+    "size": 1183212,
     "requires": "kubridge,fdfix,libshacccg",
     "icon": "ports/PSVSGHD01/c.jpg",
-    "description": "Android to PS Vita port of Gameloft's Shadow Guardian HD\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/shadowguardian. Подробности в README автора.\\nИсходники и инструкция: github.com/MetalSyntax/Shadow-Guardian-vita"
+    "description": "Shadow Guardian HD\\n\\nВ начале сентября автор MetalSyntax публично представил порт Shadow Guardian на PS Vita, и на данный момент уже вышло шестое обновление, и это уже вполне годно и играбельно.\\n\\nShadow Guardian - это Uncharted от Gameloft для мобилок. Сочетает в себе динамичные перестрелки с укрытиями, карабканье по стенам в стиле паркура и решение древних головоломок.\\nДжейсон Кэлл, отправляется в опасное путешествие по всему миру (включая заброшенные храмы Египта и руины под водой), чтобы остановить таинственную организацию и не дать ей завладеть могущественным артефактом - Прима-Материей.\\n\\nПримечание:\\n\\n- Управление полу -кнопочное/сенсорное, чуть надо привыкнуть.\\n- Картинка плавная, но с разгоном плавнее.\\n- Русский язык имеется.\\n\\nУстановка:\\n\\n- Скачать и распаковать архив\\n- Папку shadowguardian поместить по пути ux0:data/\\n- Установить VPK файл\\n- Играть!\\n\\nБэкап архива\\n\\nAndroid to PS Vita port of Gameloft's Shadow Guardian HD\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/shadowguardian. Подробности в README автора.\\nИсходники и инструкция: github.com/MetalSyntax/Shadow-Guardian-vita"
    },
    {
     "titleid": "SGKV00002",
@@ -1353,44 +1422,48 @@
     "name": "Silent Hill 1 (Native)",
     "version": "00.70",
     "author": "khajit2412",
-    "vpk": "https://github.com/khajit2412/SilentVitaHill/releases/download/v0.7/SilentHillVita.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SHPC00001/SilentHillVita.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SHPC00001/data.zip",
     "data_path": "ur0:data/external",
     "size": 5370796,
     "requires": "libshacccg",
-    "description": "Silent Hill Vita Port\\nПорт с Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ur0:data/external. Подробности в README автора.\\nИсходники и инструкция: github.com/khajit2412/SilentVitaHill"
+    "description": "Silent Hill\\n\\nСостоялся нативный порт Silent Hill с PS1! Зачем он нужен, когда есть Adrenaline/PSP спросите вы?\\n\\nА вот почему:\\n\\n- Второй стик!\\n- Широкоэкранный формат.\\n- Два графических режима:\\nНовый: 480x272, 2x MSAA, PGXP (без искажения текстур и дрожания полигонов), попиксельный фонарик с мягкими тенями в реальном времени, ограничение частоты кадров 30 fps.\\nКлассический: 720x408, 2x MSAA, оригинальный фонарик PS1, PGXP отключен, ограничение частоты кадров до 60 fps.\\n- Три режима управления: стандартный, от третьего лица, от плеча и от первого лица, со свободным прицеливанием. Небольшой обзорчик\\n\\nПримечание:\\n\\nУ PS Vita две боковые кнопки, тогда как у PS1 их было четыре, поэтому L и R соответствуют кнопкам L2 и R2 на PS1 (прицеливание и обзор), а кнопки L1 и R1 на PS1 — двум верхним углам переднего сенсорного экрана. Каждый угол занимает четверть ширины экрана и треть его высоты. Более подробно на GitHub проекта.\\n\\nУстановка:\\n\\n1) Скачать и распаковать архив и VPK\\n2) Папку silenthill поместить по пути ux0:data\\n3) Установить VPK\\n4) Играть!\\n\\nБэкап архива\\n\\nSilent Hill Vita Port\\nПорт с Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ur0:data/external. Подробности в README автора.\\nИсходники и инструкция: github.com/khajit2412/SilentVitaHill"
    },
    {
     "titleid": "SILH00004",
     "name": "Silent Hill 4: The Room",
     "version": "00.01",
     "author": "vallfrr",
-    "vpk": "https://github.com/vallfrr/sh4vita/releases/download/v1.0.1/sh4vita.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SILH00004/sh4vita.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SILH00004/data.zip",
     "data_path": "ur0:data/libshacccg.suprx",
-    "size": 5773319,
+    "size": 5773811,
     "requires": "libshacccg",
     "icon": "ports/SILH00004/c.jpg",
-    "description": "Native port of Silent Hill 4: The Room for PlayStationVita\\nПорт с PC / Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ur0:data/libshacccg.suprx. Подробности в README автора.\\nИсходники и инструкция: github.com/vallfrr/sh4vita"
+    "description": "Silent Hill 4: The Room\\n\\nСостоялся релиз порта действительно культовой игры, нумерной четвертой части Silent Hill!\\nНа момент релиза в 2004 году отношение к игре было скорее прохладным: и критики, и преданные фанаты встретили её с недоумением. Однако спустя годы отношение к The Room кардинально изменилось — сегодня её называют \"непризнанным шедевром\", в целом мы с этим согласны!\\n\\nПолноценный порт с ПК, с приемлемой графикой, с 30+ FPS, и... Да, мы смогли в день релиза порта портировать русификацию на нее, порт ругался ругался, а мы взяли и добили, все для вас наши любимые подписчики. Сегодня вечер пятницы, самое то, чтобы поиграть в прекрасный хоррор :)\\n\\nСюжет:\\n\\nГлавный герой Генри Уотерс оказывается заперт в собственной квартире № 302 в городе Эшфилд. Дверь заблокирована изнутри массивными цепями, окна не открываются, а телефон отключен. Единственным выходом становится загадочная дыра, появившаяся в стене ванной комнаты.\\n\\nPS:\\n\\nЕсли по умолчанию запустился английский язык, измените его в настройках игры! А так же подготовили английскую версию игры.\\n\\nУстановка:\\n\\n1) Скачать и распаковать архив и VPK [RUS] / [ENG]\\n2) Папку sh4 поместить по пути ux0:data\\n3) Установить VPK\\n4) Играть!\\n\\nБэкап\\n\\nNative port of Silent Hill 4: The Room for PlayStationVita\\nПорт с PC / Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ur0:data/libshacccg.suprx. Подробности в README автора.\\nИсходники и инструкция: github.com/vallfrr/sh4vita"
    },
    {
     "titleid": "ROADRAGE2",
     "name": "Simpson’s Hit & Run",
     "version": "00.61",
     "author": "ZenoArrows",
-    "vpk": "https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/releases/download/v0.6.1/SimpsonsNTSC.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ROADRAGE2/SimpsonsPAL.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/ROADRAGE2/simpsons.zip",
     "data_path": "ux0:/data/simpsons",
-    "size": 20270056,
+    "size": 20383884,
     "requires": "libshacccg",
     "icon": "ports/ROADRAGE2/c.jpg",
-    "description": "Switch port of The Simpsons: Hit & Run original source code from 2003\\nПорт с PC / Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:/data/simpsons. Подробности в README автора.\\nИсходники и инструкция: github.com/ZenoArrows/The-Simpsons-Hit-and-Run"
+    "description": "Обновление 0.6.1\\n- Исправлена ​​ошибка, из-за которой зацикливание звуковых эффектов воспроизводилось в неправильном месте.\\n- Исправлена ​​ошибка, из-за которой текстуры не освобождались, из-за чего в игре заканчивалась видеопамять.\\n- Исправлен черный экран, отображавшийся вместо сообщения об ошибке при отсутствии файлов.\\n- Ресурсы пользовательского интерфейса были перестроены с нуля, что исправило многочисленные несоответствия.\\n\\nЕсли при игре были какие-то проблемы, обновляйтесь.\\n\\nSwitch port of The Simpsons: Hit & Run original source code from 2003\\nПорт с PC / Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:/data/simpsons. Подробности в README автора.\\nИсходники и инструкция: github.com/ZenoArrows/The-Simpsons-Hit-and-Run"
    },
    {
     "titleid": "SKTV00001",
     "name": "Skate 3 Vita (0.1.0 Beta)",
     "version": "00.00",
     "author": "irolup",
-    "vpk": "https://github.com/irolup/skate-3-vita/releases/download/v0.2.0-beta/skate-3-vita-0.2.0-beta.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SKTV00001/skate-3-vita-0.1.0-beta.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SKTV00001/data.zip",
     "data_path": "ux0:data/SKATEVITA",
-    "size": 6852131,
+    "size": 5718949,
     "icon": "ports/SKTV00001/c.jpg",
     "description": "Skate 3 on the PS Vita.\\nПорт с Console. Стадия: Alpha.\\nНужны файлы оригинальной игры: положи их в ux0:data/SKATEVITA. Подробности в README автора.\\nИсходники и инструкция: github.com/irolup/skate-3-vita"
    },
@@ -1480,22 +1553,24 @@
     "name": "SSX (2012)",
     "version": "01.00",
     "author": "lukebrl",
-    "vpk": "https://github.com/lukebrl/ssx-vita/releases/download/v1.1.1/ssx_vita.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SSXV00001/ssx_vita.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SSXV00001/data.rar",
     "data_path": "ux0:data/ssx/assets",
-    "size": 2718188,
+    "size": 2716370,
     "requires": "kubridge,libshacccg",
     "icon": "ports/SSXV00001/c.jpg",
-    "description": "Unofficial port of SSX (2012, Android) to the PS Vita\\nПорт с Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/ssx/assets. Подробности в README автора.\\nИсходники и инструкция: github.com/lukebrl/ssx-vita"
+    "description": "SSX (2012)\\n\\nСостоялся порт симулятора сноубординга с Android. Игра вышла в декабре 2013 года, но не появилась в обычном Google Play, но а теперь она очень даже доступна у нас на PS Vita!\\n\\nЭто полноценный трехмерный порт игры на движке для мобильных устройств, разработанный совместно с Intel. Произошли конечно какие-то урезания, но в целом хорошая версия.\\n\\nАвтор рекомендует установить плагин CupUnlocker и иметь свободных 2 гб памяти.\\n\\nУстановка:\\n\\n1) Скачать и распаковать архив и VPK\\n2) Папку ssx поместить по пути ux0:data\\n3) Установить VPK\\n4) Играть!\\n\\nБэкап архива\\n\\nUnofficial port of SSX (2012, Android) to the PS Vita\\nПорт с Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/ssx/assets. Подробности в README автора.\\nИсходники и инструкция: github.com/lukebrl/ssx-vita"
    },
    {
     "titleid": "STWF00001",
     "name": "Star Warfare",
     "version": "01.00",
     "author": "hatoving",
-    "vpk": "https://github.com/hatoving/starwarfare-vita/releases/download/0.9-hotfix.0/starwarfare.vpk",
-    "size": 15121987,
+    "vpk": "https://firsts3.ru/vpkgj/ports/STWF00001/StarWarfarev0.9Fix.vpk",
+    "size": 158501001,
+    "sha256": "b774379821a4f4f77f472b181397c8bbd30924aa6c89ddc5ea1527a1c6fdb08f",
     "icon": "ports/STWF00001/c.jpg",
-    "description": "Port of Star Warfare: Alien Invasion for the PlayStation Vita\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nИсходники и инструкция: github.com/hatoving/starwarfare-vita"
+    "description": "Установка:\\n\\n- Скачать VPK-файл.\\n- Установить через VitaShell\\n- Играть!\\n\\nУ кого не работает магазин и кастомизация, переключите язык системы Виты на английский.\\n\\nЗеркало архива\\n\\nPort of Star Warfare: Alien Invasion for the PlayStation Vita\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nИсходники и инструкция: github.com/hatoving/starwarfare-vita"
    },
    {
     "titleid": "STARSHIP1",
@@ -1513,9 +1588,10 @@
     "name": "StepMania 5",
     "version": "01.06",
     "author": "LuckyI13I",
-    "vpk": "https://github.com/LuckyI13I/stepmania-psvita/releases/download/b112/StepMania5-Vita50-b112.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SM50VITA1/StepMania5-Vita50-b42.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SM50VITA1/data.zip",
     "data_path": "ux0:data/stepmania-5.0",
-    "size": 44320258,
+    "size": 42185323,
     "icon": "ports/SM50VITA1/c.jpg",
     "description": "StepMania 5 for PlayStation Vita\\nПорт с PC. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/stepmania-5.0. Подробности в README автора.\\nИсходники и инструкция: github.com/LuckyI13I/stepmania-psvita"
    },
@@ -1524,7 +1600,8 @@
     "name": "Street Fighter IV Champion Edition",
     "version": "01.00",
     "author": "frangarcj",
-    "vpk": "https://github.com/frangarcj/sf4ce_vita/releases/download/v1.0-rc3/SF4CE.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SF4CE0000/SF4CE.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SF4CE0000/data.rar",
     "data_path": "ux0:data/sf4ce",
     "size": 1270545,
     "requires": "kubridge,fdfix,libshacccg",
@@ -1556,24 +1633,29 @@
    {
     "titleid": "MLVITA002",
     "name": "Super Smash Bros Melee Vita",
-    "version": "00.94",
+    "version": "00.87",
     "author": "zm2283145",
-    "vpk": "https://github.com/zm2283145/melee-Vita/releases/download/v0.8.16/SmashMeleevita-0.8.16.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/MLVITA002/SmashMeleevita.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/MLVITA002/SSBM.zip",
     "data_path": "ur0:data/libshacccg.suprx",
-    "size": 6708500,
+    "size": 5331339,
     "requires": "kubridge,libshacccg",
     "icon": "ports/MLVITA002/c.jpg",
-    "description": "Native PlayStation Vita port of Super Smash Bros. Melee (NTSC-U 1.02), built from doldecomp/melee on aurora. No game data; bring your own disc.\\nПорт с Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ur0:data/libshacccg.suprx. Подробности в README автора.\\nИсходники и инструкция: github.com/zm2283145/melee-Vita"
+    "description": "Native PlayStation Vita port of Super Smash Bros. Melee (NTSC-U 1.02), built from doldecomp/melee on aurora. No game data; bring your own disc.\\nПорт с Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ur0:data/libshacccg.suprx. Подробности в README автора.\\nИсходники и инструкция: github.com/zm2283145/melee-Vita",
+    "alt_vpk": "https://github.com/zm2283145/melee-Vita/releases/download/v0.8.16/SmashMeleevita-0.8.16.vpk",
+    "alt_version": "00.94",
+    "alt_source": "GitHub автора"
    },
    {
     "titleid": "IDOL00001",
     "name": "The Case of The Golden Idol",
     "version": "00.00",
     "author": "WolffsRoom",
-    "vpk": "https://github.com/WolffsRoom/GoldenIdol-PSVita/releases/download/v0.8.7/GoldenIdol-Vita-v0.8.7.vpk",
-    "size": 20430723,
+    "vpk": "https://firsts3.ru/vpkgj/ports/IDOL00001/GoldenIdol-Vita-v0.8.7_RUS.vpk",
+    "size": 354755063,
+    "sha256": "03e2267d90eed5ef38e6377e857ddf0096528df410356591dba2ef1d8e311de3",
     "icon": "ports/IDOL00001/c.jpg",
-    "description": "The Case of the Golden Idol port for PS VITA\\nПорт с PC. Стадия: Release.\\nИсходники и инструкция: github.com/WolffsRoom/GoldenIdol-PSVita"
+    "description": "Установка:\\n\\n- Скачать .VPK и перенести на консоль.\\n- Установить .VPK через VitaShell\\n- Играть!\\n\\nБэкап архива\\n\\nThe Case of the Golden Idol port for PS VITA\\nПорт с PC. Стадия: Release.\\nИсходники и инструкция: github.com/WolffsRoom/GoldenIdol-PSVita"
    },
    {
     "titleid": "CONDUIT00",
@@ -1624,14 +1706,18 @@
    {
     "titleid": "THUG00001",
     "name": "Tony Hawk's Underground (Native)",
-    "version": "01.05",
+    "version": "01.02",
     "author": "iwannagooutside",
-    "vpk": "https://github.com/iwannagooutside/thug-vita-port/releases/download/v1.2.0/thug_vita.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/THUG00001/thug_vita.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/THUG00001/Tony_Hawk_s_Underground_2003_.zip",
     "data_path": "ur0:data/libshacccg.suprx",
-    "size": 4663833,
+    "size": 3342590,
     "requires": "libshacccg",
     "icon": "ports/THUG00001/c.jpg",
-    "description": "Tony Hawk's Underground running natively on the PS Vita\\nПорт с PC / Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ur0:data/libshacccg.suprx. Подробности в README автора.\\nИсходники и инструкция: github.com/iwannagooutside/thug-vita-port"
+    "description": "Tony Hawk's Underground running natively on the PS Vita\\nПорт с PC / Console. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ur0:data/libshacccg.suprx. Подробности в README автора.\\nИсходники и инструкция: github.com/iwannagooutside/thug-vita-port",
+    "alt_vpk": "https://github.com/iwannagooutside/thug-vita-port/releases/download/v1.2.0/thug_vita.vpk",
+    "alt_version": "01.05",
+    "alt_source": "GitHub автора"
    },
    {
     "titleid": "TRBO00001",
@@ -1672,22 +1758,23 @@
     "name": "Unreal Tournament",
     "version": "00.00",
     "author": "Rinnegatamante",
-    "vpk": "https://github.com/Rinnegatamante/UT99-Vita/releases/download/v.0.8/ut99.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/UNREALT99/ut99.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/UNREALT99/UnrealUT99.zip",
     "data_path": "ux0:data/ut99",
     "size": 2970931,
     "requires": "kubridge,fdfix,libshacccg",
     "icon": "ports/UNREALT99/c.jpg",
-    "description": "Launcher for the Android port of Unreal Tournament 99 for PSVita.\\nПорт с PC. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/ut99. Подробности в README автора.\\nИсходники и инструкция: github.com/Rinnegatamante/UT99-Vita"
+    "description": "Установка:\\n\\n- Скачать архив и распаковать его.\\n- Установить VPK файл.\\n- Папку поместить ut99 в ux0:data.\\n- Играть!\\n\\nБэкап архива\\n\\nLauncher for the Android port of Unreal Tournament 99 for PSVita.\\nПорт с PC. Стадия: Release.\\nНужны файлы оригинальной игры: положи их в ux0:data/ut99. Подробности в README автора.\\nИсходники и инструкция: github.com/Rinnegatamante/UT99-Vita"
    },
    {
     "titleid": "WAGC00001",
     "name": "Wagic The Homebrew",
     "version": "01.00",
     "author": "Brendonm17",
-    "vpk": "https://github.com/Brendonm17/wagic-vita/releases/download/v0.1.0a/wagic.vpk",
-    "size": 31680585,
+    "vpk": "https://firsts3.ru/vpkgj/ports/WAGC00001/wagic0.1.1.vpk",
+    "size": 930840349,
     "icon": "ports/WAGC00001/c.jpg",
-    "description": "Wagic the Homebrew, PS Vita port\\nПорт с Fan-made / Mod. Стадия: Release.\\nИсходники и инструкция: github.com/Brendonm17/wagic-vita"
+    "description": "Установка:\\n\\n- Скачать VPK файл.\\n- Установить VPK через VitaShell\\n- Играть!\\n\\nБэкап архива\\n\\nWagic the Homebrew, PS Vita port\\nПорт с Fan-made / Mod. Стадия: Release.\\nИсходники и инструкция: github.com/Brendonm17/wagic-vita"
    },
    {
     "titleid": "SHBI00001",
@@ -1775,10 +1862,1087 @@
     "name": "Zombieville USA 2",
     "version": "01.00",
     "author": "AJ170",
-    "vpk": "https://github.com/AJ170/ZombievilleUSA2-PSVita-Port/releases/download/1.01/ZUSA2.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ZUSA42069/ZUSA2.vpk",
     "size": 165927721,
+    "sha256": "a6b1ec8dff2d16211fcf2e04095d4ecc3bb50ab3c65983d30e9f62df8cd1ce47",
     "icon": "ports/ZUSA42069/c.jpg",
-    "description": "port of zombieville usa 2 for the PSVita\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nИсходники и инструкция: github.com/AJ170/ZombievilleUSA2-PSVita-Port"
+    "description": "Установка:\\n\\n- Скачать VPK файл и установить его через VitaShell\\n- Играть!\\n\\nБэкап архива\\n\\nport of zombieville usa 2 for the PSVita\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nИсходники и инструкция: github.com/AJ170/ZombievilleUSA2-PSVita-Port"
+   },
+   {
+    "titleid": "PSPEMUCFW",
+    "name": "Мы подготовили Standalone VPK, с уже встроенной прошивкой, д",
+    "version": "00.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PSPEMUCFW/Adrenaline_8.0.2.vpk",
+    "size": 33034970,
+    "description": "Мы подготовили Standalone VPK, с уже встроенной прошивкой, достаточно просто установить VPK, прошивку PSP искать не нужно.\\n\\nУстановка:\\n\\n- Скачать и установить .vpk-файл через VitaShell.\\n- Запустить Adrenaline и установить прошивку, после пройти первоначальную настройку PSP.\\n- Enjoy!\\n\\nМини FAQ:\\n\\nВопрос:\\n\\nСтарый Адреналин не нужно удалять?\\nИгры не слетят после установки нового?\\n\\nОтвет:\\n\\nВ общем и целом, да удалять.\\nЧто будет не работать: Всякие лаунчеры и менеджеры пузырьков, если это важно не стоит обновляться. (Поддержка нового адреналина в этих прогах еще ожидается)\\nИгры и сохранения не потрутся.\\n\\nСтарая версия\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "AFTBURCLI",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/AFTBURCLI/afterburne1.1r.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/AFTBURCLI/017.zip",
+    "data_path": "ux0:data",
+    "size": 1698161,
+    "description": "Установка:\\n\\n- Скачать и распаковать архив.\\n- Папку afterburner перенести по пути ux0:data.\\n- Установить .vpk-файл через VitaShell.\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "APPC00001",
+    "name": "Клиент для PC",
+    "version": "01.60",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/APPC00001/AppCenterCompanion.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/APPC00001/AppCenterPC.zip",
+    "data_path": "ux0:data",
+    "size": 1334436,
+    "description": "Клиент для PC\\n\\n_\\n\\nКак использовать:\\n\\n- Установите AppCenter Companion (VPK) на свою PlayStation Vita.\\n- Запустите AppCenter Companion в консоли.\\n- Загрузите клиент AppCenter для Windows или Android .\\n- Запустите клиент и нажмите кнопку «Connect» .\\n- Клиент автоматически обнаружит вашу PlayStation Vita и установит соединение.\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "ARCA69420",
+    "name": "Arcaea",
+    "version": "01.00",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ARCA69420/arcaea.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/ARCA69420/ArcaeaVita.zip",
+    "data_path": "ux0:data",
+    "size": 2723249,
+    "icon": "ports/ARCA69420/c.jpg",
+    "shots": [
+     "ports/ARCA69420/s1.jpg",
+     "ports/ARCA69420/s2.jpg",
+     "ports/ARCA69420/s3.jpg"
+    ],
+    "description": "Arcaea\\n\\nСостоялся релиз порта популярной ритм-игры в аниме стилистике - Arcaea. История повествует о двух девушках — Хикари (Свет) и Тайрицу (Конфликт), которые проснулись в разрушенном мире, наполненном осколками воспоминаний прошлого в виде музыки.\\n\\nГлавная особенность геймплея — трехмерное игровое поле, сочетающее классические наземные ноты (Floor Notes) и парящие в воздухе дуги (Arc Notes), что создает уникальное «новое измерение» для любителей жанра.\\n\\nУстановка:\\n\\n- Скачать и распаковать нужный вам архив\\n- Папку arcaea поместить по пути ux0:data/\\n- Установить VPK файл\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "ASPHALT20",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ASPHALT20/Asphalt8Vita_0.2.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/ASPHALT20/ASPHALT_8_VPK_E_DATA.zip",
+    "data_path": "ux0:data",
+    "size": 2038421,
+    "description": "Установка:\\n\\n- Скачать и распаковать архив.\\n- Установить .vpk-файл!\\n- Папку asphalt8 поместить по пути ux0:\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "BALD14030",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BALD14030/BALDI.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/BALD14030/Fran_Bow_1-4.zip",
+    "data_path": "ux0:data",
+    "size": 51910042,
+    "description": "Установка:\\n\\n- Распаковать архив\\n(В игре 5 глав, на пс виту портировали пока что только 4)\\n- В архиве 1 и 2 глава в виде готового vpk, с вшитой data\\n- 3 и 4 глава в виде vpk который нужно установить, и data которую нужно переместить по пути ux0:data/\\n(Каждая глава устанавливается как отдельная игра)\\n\\nPs: Для всех этих игр рекомендуется использовать разгон!"
+   },
+   {
+    "titleid": "BGDA00001",
+    "name": "Особености",
+    "version": "01.06",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BGDA00001/BGDA.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/BGDA00001/bgda1.zip",
+    "data_path": "ux0:data",
+    "size": 5993441,
+    "description": "Особености:\\n- Прилагаю русифицированную версию игры.\\n- Все работает, можно играть.\\n\\nУстановка:\\n- Скачать архив и распаковать.\\n- Папку bgda расположить в вашей консоли в ux0:/data/\\n- Установить VPK файл\\n- Играть в это чудо, мазафака.\\n\\nОбновили архив:\\n- Исправлены сбои/зависания непосредственно перед экраном загрузки при входе на новый уровень. Это происходило после некоторого времени игры и нескольких смен уровней из-за утечки памяти в потоке, отвечающем за загрузку.\\n- Исправлена ​​ошибка, приводившая к сбою во время финальной кат-сцены после победы над финальным боссом.\\n- Включено двукратное сглаживание, поскольку влияние на производительность, по-видимому, незначительно.\\n\\nОбновленный ВПК версия 1.6"
+   },
+   {
+    "titleid": "BOZ000001",
+    "name": "Оригинальный дизайн пузырька, пу сути никакой, для эстетики",
+    "version": "02.02",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BOZ000001/boz_vita_phcbubble_2.02.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/BOZ000001/CoD_1.03.zip",
+    "data_path": "ux0:data",
+    "size": 2224004,
+    "description": "Оригинальный дизайн пузырька, пу сути никакой, для эстетики мы его подредактировали (смотреть 4й скрин).\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "CDRR00000",
+    "name": "Установка",
+    "version": "00.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CDRR00000/ChipN_Dale-RescueRangers.VPK",
+    "size": 82838495,
+    "description": "Установка:\\n\\n- Скачать .VPK-файл\\n- Установить через VitaShell\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "MMCOH0001",
+    "name": "Might & Magic: Clash of Heroes",
+    "version": "01.00",
+    "author": "@lolkekkekkekcheburek",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/MMCOH0001/mmcohRU.vpk",
+    "size": 2334739,
+    "icon": "ports/MMCOH0001/c.jpg",
+    "shots": [
+     "ports/MMCOH0001/s1.jpg",
+     "ports/MMCOH0001/s2.jpg",
+     "ports/MMCOH0001/s3.jpg"
+    ],
+    "description": "Might & Magic: Clash of Heroes\\n\\nСостоялся релиз порта культовой смеси пошаговой стратегии, ролевой игры и тактической головоломки «три в ряд» от Ubisoft.\\n\\nСюжет разворачивается во вселенной Асхан за 40 лет до событий Heroes of Might & Magic V. Вам предстоит управлять пятью юными героями (Анвэн, Годрик, Фиона, Айдан и Надия), каждый из которых возглавляет свою уникальную фракцию, чтобы раскрыть заговор демонов и спасти мир.\\n\\n Автор порта рекомендует разгон в тяжелых сценах. Порт в целом работает великолепно.\\n\\nПодготовили русскую и английскую версию.\\n\\nУстановка:\\n\\n- Скачать и распаковать архив\\n- Папку mmcoh поместить по пути ux0:data/\\n- Установить VPK файл\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "A3A400001",
+    "name": "Установка",
+    "version": "00.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/A3A400001/Cookie.Clicker.vpk",
+    "size": 3818431,
+    "description": "Установка:\\n\\nПросто установить VPK файл через VitaShell.\\n\\nСсылки на бэкапы архива"
+   },
+   {
+    "titleid": "CRDL00001",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CRDL00001/Cordless.vpk",
+    "data_path": "ux0:data/NaohAC/covers/",
+    "size": 3253276,
+    "description": "Установка:\\n\\n- Установить vpk\\n- Румы игр скидывать по пути - ux0:data/NaohAC/roms/\\n(Поддерживается только регион США, установленный для каждой игры!)\\n- Обложки (необязательно) скидывать по пути ux0:data/NaohAC/covers/"
+   },
+   {
+    "titleid": "CHRD00001",
+    "name": "Установка",
+    "version": "00.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CHRD00001/Dino_Vita.vpk",
+    "size": 3939767,
+    "description": "Установка:\\n\\n- Скачать VPK и перенести на консоль\\n- Установить через VItaShel\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "DHEWM3ES2",
+    "name": "Doom 3",
+    "version": "00.00",
+    "author": "@lolkekkekkekcheburek",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DHEWM3ES2/dhewm3.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/DHEWM3ES2/Dhewm3Vita.zip",
+    "data_path": "ux0:data",
+    "size": 9993277,
+    "icon": "ports/DHEWM3ES2/c.jpg",
+    "shots": [
+     "ports/DHEWM3ES2/s1.jpg",
+     "ports/DHEWM3ES2/s2.jpg",
+     "ports/DHEWM3ES2/s3.jpg"
+    ],
+    "description": "Doom 3\\n\\nПосле трех лет работы над портированием третьего Дума Rinnegatamante все-таки представил рабочий порт, да Doom 3 на PS Vita!\\n\\nПримечания:\\n\\nРазгон? - Да, обязательно!\\nРусский? - Пока нет. (работаем над этим)\\nПервая загрузка игры долгая, далее будет быстрее.\\nРазмер игры 5.9гб (ауф)\\n\\nУстановка:\\n\\n- Скачать и распаковать архив!\\n- Папку dhewm3 поместить по пути ux0:data\\n- Установить .VPK через VitaShell\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "DSVITA000",
+    "name": "Установка",
+    "version": "00.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DSVITA000/dsvit_.vpk",
+    "data_path": "ux0:data/NaohAC/covers/",
+    "size": 3990656,
+    "description": "Установка:\\n\\n- Установить vpk\\n- Румы игр скидывать по пути - ux0:data/NaohAC/roms/\\n(Поддерживается только регион США, установленный для каждой игры!)\\n- Обложки (необязательно) скидывать по пути ux0:data/NaohAC/covers/"
+   },
+   {
+    "titleid": "DUK000000",
+    "name": "DuckTales: Remastered",
+    "version": "01.00",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DUK000000/DuckTales.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/DUK000000/data.zip",
+    "data_path": "ux0:data",
+    "size": 1330062,
+    "icon": "ports/DUK000000/c.jpg",
+    "shots": [
+     "ports/DUK000000/s1.jpg",
+     "ports/DUK000000/s2.jpg",
+     "ports/DUK000000/s3.jpg"
+    ],
+    "description": "DuckTales: Remastered\\n\\nСостоялся релиз масштабного двухмерного платформера-ремейка, и тут же был удален автором, но что попало в интернет, там и остается.\\n\\nВы управляете Скруджем Макдаком, который путешествует по всему земному шару (Амазонка, Трансильвания, Гималаи, африканские рудники и Луна) в поисках пяти легендарных сокровищ.\\n\\nУстановка:\\n\\n1) Скачать и распаковать архив и VPK\\n2) Папку duck поместить по пути ux0:data\\n3) Установить VPK\\n4) Играть!\\n\\nБэкап"
+   },
+   {
+    "titleid": "DUSKGXM01",
+    "name": "Установка",
+    "version": "00.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DUSKGXM01/DuskGXM-0-6-10.vpk",
+    "size": 15338655,
+    "description": "Установка:\\n\\n- Скачать и распаковать архив\\n- Папку dusklight поместить по пути ux0:data/\\n- Установить VPK файл\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "ECST00001",
+    "name": "Ecstatica",
+    "version": "01.00",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ECST00001/ecstatica-vita-e1.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/ECST00001/1ecstatica1.rar",
+    "data_path": "ux0:data",
+    "size": 576534,
+    "description": "Ecstatica"
+   },
+   {
+    "titleid": "FLOPROCKE",
+    "name": "Установка",
+    "version": "00.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FLOPROCKE/FLOP_ROCKET_1_.VPK",
+    "size": 23400442,
+    "description": "Установка:\\n\\n- Скачать VPK-файл.\\n- Установить через VitaShell\\n- Играть!\\n\\nБэкап файла"
+   },
+   {
+    "titleid": "FRUT02026",
+    "name": "Установка",
+    "version": "00.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FRUT02026/FrutiFusion.vpk",
+    "size": 21747494,
+    "description": "Установка:\\n\\n- Скачать VPK\\n- Установить VPK файл, через VitaShell\\n- Играть!\\n\\nБэкап архива\\n\\nPS:\\nВ случае нахождения багов, автор обещал исправлять и обновлять игру."
+   },
+   {
+    "titleid": "GAMIDEF00",
+    "name": "Установка",
+    "version": "00.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GAMIDEF00/GAMIDEF00.vpk",
+    "size": 72945080,
+    "description": "Установка:\\n\\n- Скачать VPK файл\\n- Установить через VitaShell\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "GEVT00001",
+    "name": "GoldenEye 007",
+    "version": "00.00",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GEVT00001/GE007Vita.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/GEVT00001/DataGoldenEye.rar",
+    "data_path": "ux0:data",
+    "size": 2156199,
+    "description": "GoldenEye 007\\n\\nПост"
+   },
+   {
+    "titleid": "RELCS0001",
+    "name": "Grand Theft Auto: Liberty City Stories",
+    "version": "01.19",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RELCS0001/reLCS-01.19-intro-complete.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/RELCS0001/datalcs.zip",
+    "data_path": "ux0:data",
+    "size": 165564238,
+    "description": "Grand Theft Auto: Liberty City Stories\\n\\nПост / GitHub"
+   },
+   {
+    "titleid": "HBDM00001",
+    "name": "7 Days Salvation",
+    "version": "01.10",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HBDM00001/hebdomad.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/HBDM00001/VItaHebdomadSevenVigils.7z",
+    "data_path": "ux0:data",
+    "size": 2168062,
+    "icon": "ports/HBDM00001/c.jpg",
+    "shots": [
+     "ports/HBDM00001/s1.jpg",
+     "ports/HBDM00001/s2.jpg",
+     "ports/HBDM00001/s3.jpg"
+    ],
+    "description": "7 Days Salvation\\n\\nТеперь на нашу любимую портативку начали добираться порты с легендарной мобильной ОС Symbian. Состоялся релиз аналога ранних Silent Hill/Resident Evil - 7 Days Salvation.\\n\\nГлавный герой игры - Кен Сальватор (Ken Salvator), успешный, но страдающий от глубоких психологических проблем писатель, автор популярных хоррор-романов. Действие разворачивается в его собственном огромном уединенном особняке. Кен оказывается заперт внутри своего дома на 7 дней. Каждый день (глава игры) приносит новые кошмары: грань между реальностью и больными фантазиями писателя полностью стирается. Герою предстоит столкнуться с собственными демонами, ужасными монстрами и раскрыть мрачные тайны своего прошлого, чтобы выбраться из этого кошмара живым.\\n\\nУстановка:\\n\\n- Скачать и распаковать архив\\n- Папку HebdomadSevenVigils поместить по пути ux0:data/\\n- Установить VPK файл\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "IGNVITA12",
+    "name": "Ignition Vita",
+    "version": "01.00",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/IGNVITA12/IgnitionVita_v1.0_CUSTOM.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/IGNVITA12/ignitionPHC.zip",
+    "data_path": "ux0:data",
+    "size": 2208494,
+    "description": "Ignition Vita"
+   },
+   {
+    "titleid": "JK2VITA01",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/JK2VITA01/JK2VITA-1.0.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/JK2VITA01/JK2.zip",
+    "data_path": "ux0:data",
+    "size": 3422087,
+    "description": "Установка:\\n\\n- Скачать и распаковать архив\\n- Установить .vpk-файл!\\n- Папку JK2Vita поместить по пути ux0:data\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "KOTR00001",
+    "name": "Представляем вашему внимаю Star Wars: Knights of the Old Rep",
+    "version": "01.00",
+    "author": "@lolkekkekkekcheburek",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/KOTR00001/KOTOR.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/KOTR00001/swk.rar",
+    "data_path": "ux0:data",
+    "size": 2602049,
+    "icon": "ports/KOTR00001/c.jpg",
+    "shots": [
+     "ports/KOTR00001/s1.jpg",
+     "ports/KOTR00001/s2.jpg",
+     "ports/KOTR00001/s3.jpg"
+    ],
+    "description": "Представляем вашему внимаю Star Wars: Knights of the Old Republic на русском. Это работа от нашего подписчика, большой ему респект за этот проект!\\n\\nЧто вас ждет:\\n\\n- Полностью перенесена русификация и адаптирована под PS Vita.\\n- Визуально изменены элементы управления, теперь будто игра и делалась для Sony.\\n\\nУстановка:\\n0) Удалить все, если ранее была установлена инглишь версия, пузырек и кэш игры!!!\\n1) Скачать и распаковать архив\\n3) Установить VPK\\n4) Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "KOTR00002",
+    "name": "KOTOR II",
+    "version": "01.00",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/KOTR00002/KOTOR2.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/KOTR00002/kotor2.zip",
+    "data_path": "ux0:data",
+    "size": 2007670,
+    "description": "KOTOR II"
+   },
+   {
+    "titleid": "MKWV00001",
+    "name": "Mario Kart Wii",
+    "version": "01.00",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/MKWV00001/mkw.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/MKWV00001/mkwVita.zip",
+    "data_path": "ux0:data",
+    "size": 2263503,
+    "description": "Mario Kart Wii\\n\\nПост"
+   },
+   {
+    "titleid": "MSCN00003",
+    "name": "Mario Strikers Charged",
+    "version": "01.00",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/MSCN00003/strikers.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/MSCN00003/data.rar",
+    "data_path": "ux0:data",
+    "size": 3889375,
+    "icon": "ports/MSCN00003/c.jpg",
+    "shots": [
+     "ports/MSCN00003/s1.jpg",
+     "ports/MSCN00003/s2.jpg",
+     "ports/MSCN00003/s3.jpg"
+    ],
+    "description": "Mario Strikers Charged\\n\\nСостоялся релиз третьего порта с Wii, Mario Strikers Charged (известная в Европе как Mario Strikers Charged Football).\\n\\nЗабудьте о фолах и карточках. Здесь можно (и нужно) жестко толкать соперников на электрическое ограждение поля, швырять в них панцири черепах и использовать культовые предметы (бананы, бомбы, грибы ускорения) для получения преимущества.\\n\\nПорт работает хорошо, скриншоты правда с порта выглядят почему-то не очень, в целом очень даже играбельно, для любителей футбола и вселенной Марио - Must Have!\\n\\nУстановка:\\n\\n1) Скачать и распаковать архив и VPK\\n2) Папку mscharged поместить по пути ux0:data\\n3) Установить VPK\\n4) Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "MIKU00039",
+    "name": "Установка",
+    "version": "00.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/MIKU00039/MikuVU_2.0_.vpk",
+    "data_path": "ux0:data/MikuVU/SAVED/",
+    "size": 3973671,
+    "description": "Установка:\\n\\n- Скачать vpk\\n- Картинки сохраняются по пути - ux0:data/MikuVU/SAVED/\\n\\nPS: гайд на управление, а то нигде в приложении не говориться нормально\\n\\nL / R (Левый и правый курки) - Сохранить текущую картинку в галерею консоли.\\nКрестик (X) - Загрузить новую случайную картинку.\\nВверх / Треугольник (△) - Включить или выключить автоматический таймер (слайд-шоу).\\nВправо / Кружок (◯) - Увеличить время задержки таймера.\\nВлево / Квадрат (▢) - Уменьшить время задержки таймера.\\nВниз - Сбросить настройки таймера на стандартные"
+   },
+   {
+    "titleid": "NOVA30001",
+    "name": "N.O.V.A. 3",
+    "version": "00.20",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NOVA30001/NOVA3Vita_v0.1.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/NOVA30001/nova3data.zip",
+    "data_path": "ux0:data",
+    "size": 2519278,
+    "description": "N.O.V.A. 3\\n\\nПост / GitLab"
+   },
+   {
+    "titleid": "NBA2K1600",
+    "name": "NBA 2K16",
+    "version": "00.20",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NBA2K1600/NBA2K16Vita_v0.2.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/NBA2K1600/NBA_2K16_Vita.rar",
+    "data_path": "ux0:data",
+    "size": 2842006,
+    "icon": "ports/NBA2K1600/c.jpg",
+    "shots": [
+     "ports/NBA2K1600/s1.jpg",
+     "ports/NBA2K1600/s2.jpg",
+     "ports/NBA2K1600/s3.jpg"
+    ],
+    "description": "NBA 2K16\\n\\nДА! Этот порт до нас добрался! Это премиальный, полноценный 3D-симулятор баскетбола и он теперь доступен на PS Vita!\\n\\nПорт в целом работает хорошо, 28-32 FPS, разгон использовать советую!)\\n\\nУстановка:\\n\\n1) Скачать и распаковать архив и VPK\\n2) Папку nba2k16 и shader_cache поместить по пути ux0:data\\n3) Установить VPK\\n4) Играть!\\n\\nБэкап"
+   },
+   {
+    "titleid": "PPMR00001",
+    "name": "Paper Mario (в Японии известная как Mario Story)",
+    "version": "00.00",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PPMR00001/PaperMarioVita.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/PPMR00001/paper_mario.zip",
+    "data_path": "ux0:data",
+    "size": 7878173,
+    "icon": "ports/PPMR00001/c.jpg",
+    "shots": [
+     "ports/PPMR00001/s1.jpg",
+     "ports/PPMR00001/s2.jpg",
+     "ports/PPMR00001/s3.jpg"
+    ],
+    "description": "Paper Mario (в Японии известная как Mario Story)\\n\\nСостоялся релиз культовой ролевой игры, разработанная студией Intelligent Systems и выпущенная компанией Nintendo для консоли Nintendo 64.  Игра положила начало одноименной серии и запомнилась уникальным визуальным стилем, где плоские двухмерные персонажи, будто вырезанные из бумаги, перемещаются по трехмерному миру.\\n\\nPaper Mario - это гармоничное сочетание классического платформера про Марио и глубокой пошаговой ролевой игры (RPG).\\n\\nУстановка:\\n\\n- Скачать и распаковать архив\\n- Папку papership поместить по пути ux0:data/\\n- Установить VPK файл\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "POMO00137",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/POMO00137/PocketMortys_RU_EN.vpk",
+    "size": 94340220,
+    "description": "Установка:\\n\\n- Скачать VPK-файл\\n- Установить VPK-файл в VitaShell\\n- Играть!\\n\\nБэкап"
+   },
+   {
+    "titleid": "POLE00001",
+    "name": "Поле Чудес",
+    "version": "02.00",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/POLE00001/VitaPole.vpk",
+    "size": 4965055,
+    "icon": "ports/POLE00001/c.jpg",
+    "shots": [
+     "ports/POLE00001/s1.jpg",
+     "ports/POLE00001/s2.jpg",
+     "ports/POLE00001/s3.jpg"
+    ],
+    "description": "Поле Чудес\\n\\nАвтор клиента Telegram для PS Vita (VitaGram), поделился портом народной игры с DOS - Поле чудес. В релизе оригинальная с DOS игра \"Поле Чудес\" (1993 год) и её расширенная мультиплеерная версия, часто называемая \"Поле Чудес 2\". В Поле Чудес 2 есть режим друг против друга для двух игроков с одной консоли.\\n\\nУстановка:\\n\\n1) Скачать  VPK\\n2) Установить VPK через VitaShell\\n3) Играть!"
+   },
+   {
+    "titleid": "PIGI00001",
+    "name": "Project I.G.I.: I’m Going In",
+    "version": "00.20",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PIGI00001/igi.vpk",
+    "size": 6703390,
+    "icon": "ports/PIGI00001/c.jpg",
+    "shots": [
+     "ports/PIGI00001/s1.jpg",
+     "ports/PIGI00001/s2.jpg",
+     "ports/PIGI00001/s3.jpg"
+    ],
+    "description": "Project I.G.I.: I’m Going In\\n\\nСостоялся релиз порта тактического шутера от первого лица с элементами стелса. Игра делает упор на скрытное прохождение, использование гаджетов (таких как бинокль с тепловизором) и планирование штурма военных баз. Одной из ключевых особенностей движка была огромная по тем временам дальность прорисовки открытых пространств.\\n\\nИгра получила культовый статус (особенно в странах СНГ и Южной Азии), однако в момент выхода её критиковали за отсутствие сохранений во время миссий и слабый искусственный интеллект противников (Поверьте, для геймплея Виты самое то).\\n\\nПримечание:\\n\\n- Порт самообновляемый, вышло обновление, и он обновился - кайф.\\n- Разгончик пока нужен.\\n- Кто если не мы, русифицировали игру! Все для вас! (для англоязычных, управление в настройках нужно выставить по умолчанию)\\n\\nУстановка:\\n\\n- Скачать и распаковать нужный вам архив\\n- Папку igi поместить по пути ux0:data/\\n- Установить VPK файл\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "PSVAS1178",
+    "name": "Установка",
+    "version": "01.08",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PSVAS1178/PSVitaAlive.vpk",
+    "size": 4380203,
+    "description": "Установка:\\n\\n- установить vpk\\n- при заходе нужно подождать загрузку всех нужных параметров и обновлений\\n- в конце вас попросят загрузить 2гб изображений различных игр от виты и хоумбрю, советую отказаться так как это долго, и сами изображения всё равно будут автоматически загружаться во время просмотра"
+   },
+   {
+    "titleid": "RR3VITA01",
+    "name": "Real Racing 3",
+    "version": "00.00",
+    "author": "@lolkekkekkekcheburek",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RR3VITA01/RR3Vita_Public_Beta_1.1.1.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/RR3VITA01/RR3rusfixPHC.zip",
+    "data_path": "ux0:data",
+    "size": 5181695,
+    "icon": "ports/RR3VITA01/c.jpg",
+    "shots": [
+     "ports/RR3VITA01/s1.jpg",
+     "ports/RR3VITA01/s2.jpg",
+     "ports/RR3VITA01/s3.jpg"
+    ],
+    "description": "Real Racing 3\\n\\nНу, что наигрались в Real Racing 2, успели пройти карьеру? Релизнулся порт третьей части! Эта игра задала высочайший стандарт для мобильных гонок благодаря лицензированным трассам, реалистичной графике и огромному автопарку. А еще графоний, он смотрится невероятно красиво, это наверно самый графонистый порт на Виту, на памяти Portal, Leo’s Fortune и хоумбрюшка Abbys могла таким похвастаться.\\n\\nПримечания:\\n\\n- Порт изначально с поломанным русским, планировали запостить прям с утра этот порт, но мы пошаманили и вернули русский в игру, использовав шрифты из Real Racing 2. Все для вас, наши любимые подписчики. Для англоязычных пользователей: английский, испанский, португальский есть в игре.\\n- Разгон? - Советую, но без него вроде норм работает.\\n- В пузырьке есть конфигуратор, там можете экспериментировать с графикой, с локом кадров, управлением и прочим.\\n- Для тех, кто следит за нашим сообществом, в Архиве появляются запланированные порты на публикацию, бетасборки. И кто заметил раннюю сборку и уже скачал с поломанным русским, тут отдельный фикс, чтобы не качать лишние гигабайты.\\n\\nУстановка:\\n\\n- Скачать и распаковать архив\\n- Папку rr3 поместить по пути ux0:data/\\n- Установить VPK файл\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "SRAL00094",
+    "name": "Sega Rally Championship",
+    "version": "01.24",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SRAL00094/segarally.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SRAL00094/srallyc.zip",
+    "data_path": "ux0:data",
+    "size": 3364087,
+    "icon": "ports/SRAL00094/c.jpg",
+    "shots": [
+     "ports/SRAL00094/s1.jpg",
+     "ports/SRAL00094/s2.jpg",
+     "ports/SRAL00094/s3.jpg"
+    ],
+    "description": "Sega Rally Championship\\n\\nлегендарная аркадная гоночная игра, выпущенная компанией Sega в 1994 году для аркадных автоматов на базе платы Sega Model 2 и теперь доступна на консоли PS Vita!\\nИгра совершила революцию в жанре, став первой гоночной игрой, в которой тип дорожного покрытия (асфальт, гравий, грязь) напрямую влиял на физику поведения и управляемость автомобиля.\\n\\nУстановка:\\n\\n1) Скачать и распаковать архив и VPK\\n2) Папку stairfax поместить по пути ux0:data\\n3) Установить VPK\\n4) Играть!"
+   },
+   {
+    "titleid": "SODA00001",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SODA00001/soda-redistributable.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SODA00001/soda_rus.zip",
+    "data_path": "ux0:data",
+    "size": 1183935,
+    "description": "Установка:\\n\\n- Скачать и распаковать архив.\\n- Папку soda перенести по пути ux0:data.\\n- Установить .vpk-файл через VitaShell.\\n- Играть!\\n\\nБэкап архивов"
+   },
+   {
+    "titleid": "SONIC4EP1",
+    "name": "Пост",
+    "version": "00.30",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SONIC4EP1/Sonic4Ep1-beta-0.30-debug.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SONIC4EP1/sonic4ep1byZigZack.zip",
+    "data_path": "ux0:data",
+    "size": 1147304,
+    "description": "Пост"
+   },
+   {
+    "titleid": "STFX00001",
+    "name": "Star Fox Adventures",
+    "version": "01.00",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/STFX00001/StarFoxAdventures.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/STFX00001/Datastairfax.zip",
+    "data_path": "ux0:data",
+    "size": 5774138,
+    "icon": "ports/STFX00001/c.jpg",
+    "shots": [
+     "ports/STFX00001/s1.jpg",
+     "ports/STFX00001/s2.jpg",
+     "ports/STFX00001/s3.jpg"
+    ],
+    "description": "Star Fox Adventures\\n\\nСостоялся релиз приключенческого экшена с GameCube! Подумать только, в начале года радовались Star Fox с N64, а теперь нам доступна Star Fox с GameCube...\\n\\nВ отличие от предыдущих и последующих частей серии, которые были космическими симуляторами (рельсовыми шутерами), Star Fox Adventures во многом копирует формулу игр серии The Legend of Zelda:\\n• Наземные приключения: Большую часть времени Фокс перемещается на своих двоих, сражается магическим посохом, решает головоломки и исследует мир.\\n• Полёты на Arwing: Традиционные космические уровни остались, но они служат лишь короткими мостиками для перелёта между осколками планеты. Чтобы запустить корабль, Фоксу нужно собирать топливные элементы.\\n• Напарник: В путешествии Фокса сопровождает маленький динозавр - принц Трики. Ему можно отдавать команды: например, попросить выкопать секрет или поджечь препятствие.\\n\\nПорт работает в стабильных 30 фпс без разгона, и отлично чувствует себя на PS Vita!\\n\\nУстановка:\\n\\n1) Скачать и распаковать архив и VPK\\n2) Папку stairfax поместить по пути ux0:data\\n3) Установить VPK\\n4) Играть!\\n\\nБэкап"
+   },
+   {
+    "titleid": "STSW00001",
+    "name": "Star Swarm",
+    "version": "01.00",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/STSW00001/StarSwarm.vpk",
+    "size": 76779090,
+    "icon": "ports/STSW00001/c.jpg",
+    "shots": [
+     "ports/STSW00001/s1.jpg",
+     "ports/STSW00001/s2.jpg",
+     "ports/STSW00001/s3.jpg"
+    ],
+    "description": "Star Swarm\\n\\nНаш подписчик @AnTaiCa поделился крутой историей. Он купил консоль сыну, в итоге затянуло самого, да так, что они вместе написали собственную игру для Виты!\\nВстречайте Star Swarm  — драйвовый аркадный космический шутер в лучших традициях легендарных Galaga и Galaxian.\\n\\n🚀 Что внутри:\\nЭволюция корабля: начинаешь с одним скромным стволом, а заканчиваешь мощным флагманом, сметающим всё на пути.\\nМасштабные сражения: классический строй пришельцев и целых 20 уникальных боссов.\\nЮмор и колорит: на связи 22 пилота. Сюжет порадует живыми диалогами — от сурового майора-ветерана до... вахтёрши, которая буквально отказывается пускать финального босса без пропуска!\\n\\nПроект ламповый и сделанный с душой для сообщества.\\n\\nУстановка:\\n\\n- Скачать VPK\\n- Установить VPK\\n- Играть!"
+   },
+   {
+    "titleid": "TPMP00001",
+    "name": "Star Wars: Episode I – The Phantom Menace",
+    "version": "00.01",
+    "author": "@lolkekkekkekcheburek",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/TPMP00001/StarWarsPhantom.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/TPMP00001/tpmRUS.zip",
+    "data_path": "ux0:data",
+    "size": 2922384,
+    "icon": "ports/TPMP00001/c.jpg",
+    "shots": [
+     "ports/TPMP00001/s1.jpg",
+     "ports/TPMP00001/s2.jpg",
+     "ports/TPMP00001/s3.jpg"
+    ],
+    "description": "Star Wars: Episode I – The Phantom Menace\\n\\nСостоялся релиз порта классической приключенческой игры по Звездным Войнам, игра в точности воссоздает и расширяет сюжет фильма «Звёздные войны. Эпизод I: Скрытая угроза». The Phantom Menace не является линейным коридорным шутером. На многих уровнях (особенно на Татуине и в Корусанте) вам нужно общаться с мирными жителями, собирать информацию, выполнять побочные задания и торговать (например, обменивать детали у Уотто).\\n\\nПорт в целом получился хорошим, работает в 60fps, мы подготовили оба варианта локализации текста, русский и английский.\\n\\nУстановка:\\n\\n- Скачать и распаковать нужный вам архив\\n- Папку tpm поместить по пути ux0:data/\\n- Установить VPK файл\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "STDV00001",
+    "name": "Stardew Valley 1.6",
+    "version": "01.60",
+    "author": "@lolkekkekkekcheburek",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/STDV00001/stardew.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/STDV00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 15035021,
+    "icon": "ports/STDV00001/c.jpg",
+    "shots": [
+     "ports/STDV00001/s1.jpg",
+     "ports/STDV00001/s2.jpg",
+     "ports/STDV00001/s3.jpg"
+    ],
+    "description": "Stardew Valley 1.6\\n\\nСостоялся релиз порта с ПК последней версии Stardew Valley 1.6.15! В целом все работает очень хорошо, есть русский язык. Теперь с нативной версии можно уходить.\\n\\nStardew Valley - это бесконечная и глубокая песочница-симулятор загородной жизни с элементами RPG, которая предлагает игроку полную свободу выбора. Здесь нет жестких временных рамок или обязательного финала: вы можете развивать свой участок годами, концентрируясь только на тех занятиях, которые приносят вам удовольствие.\\nГеймплей строится вокруг смены четырех времен года, ежедневного планирования энергии и исследования окружающего мира.\\n\\nУстановка:\\n\\n1) Скачать и распаковать архив и VPK\\n2) Папку StardewValley поместить по пути ux0:data\\n3) Установить VPK\\n4) Играть!"
+   },
+   {
+    "titleid": "TANK00001",
+    "name": "Tanks 2027",
+    "version": "01.00",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/TANK00001/Tanks2027vita.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/TANK00001/Tanks2027_PSP.zip",
+    "data_path": "ux0:data",
+    "size": 2622911,
+    "description": "Tanks 2027\\n\\nGitHub / VitaDB / Пост"
+   },
+   {
+    "titleid": "ISAACR001",
+    "name": "Установка",
+    "version": "01.01",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ISAACR001/repentogxm-v0.1.1-alpha.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/ISAACR001/isaacrru.zip",
+    "data_path": "ux0:data",
+    "size": 17529342,
+    "description": "Установка:\\n\\n- Скачать и распаковать архив\\n- Папку isaacr001 поместить по пути ux0:data/\\n- Установить VPK файл\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "DRFT00001",
+    "name": "The Drifter",
+    "version": "01.00",
+    "author": "@lolkekkekkekcheburek",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DRFT00001/drifter-vita-small.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/DRFT00001/ux0.rar",
+    "data_path": "ux0:data",
+    "size": 17060824,
+    "icon": "ports/DRFT00001/c.jpg",
+    "shots": [
+     "ports/DRFT00001/s1.jpg",
+     "ports/DRFT00001/s2.jpg",
+     "ports/DRFT00001/s3.jpg"
+    ],
+    "description": "The Drifter\\n\\nЭто получивший признание критиков двухмерный пиксельный триллер в жанре point-and-click-квеста. Давно хотели запостить данный порт, но он категорически штатно не хотел дружить с русификатором, и вот мы его подготовили, поэтому представляем его вашему вниманию! Русификатор адаптирован с ПК версии от Zone of Games.\\n\\nСюжет игры:\\n\\nГлавный герой — бродяга по имени Мик Картер, который возвращается в родной город на похороны матери. Он становится свидетелем жестокого убийства, после чего его самого убивают. Однако его сознание перемещается в прошлое — за несколько секунд до гибели. Мику предстоит распутать клубок корпоративного заговора и мистических событий, попутно скрываясь от преследования.\\n\\nПомимо русской версии, подготовили и английскую.\\n\\nУстановка:\\n\\n1) Скачать и распаковать архив и VPK [RUS] / [ENG]\\n2) В первую очередь (!) установить VPK\\n3) Папки app и data с архива поместить в корень карты ux:0 согласившись с заменой.\\n4) Играть!\\n\\nБэкап"
+   },
+   {
+    "titleid": "SIMS30000",
+    "name": "The Sims 3",
+    "version": "01.00",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SIMS30000/The_Sims_3_phc.vpk",
+    "size": 2621218,
+    "description": "The Sims 3"
+   },
+   {
+    "titleid": "UMNK00001",
+    "name": "Umineko When They Cry",
+    "version": "01.40",
+    "author": "@lolkekkekkekcheburek",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/UMNK00001/umineko.vpk",
+    "size": 5779604,
+    "icon": "ports/UMNK00001/c.jpg",
+    "shots": [
+     "ports/UMNK00001/s1.jpg",
+     "ports/UMNK00001/s2.jpg",
+     "ports/UMNK00001/s3.jpg"
+    ],
+    "description": "Umineko When They Cry\\nКогда плачут чайки\\n\\nЭто культовая японская визуальная новелла в жанре детективного психологического хоррора и мистического триллера.\\n\\nДействие разворачивается 4 и 5 октября 1986 года на изолированном острове Роккэндзима. Влиятельный и баснословно богатый клан Уширомия собирается на ежегодную семейную конференцию, чтобы обсудить раздел имущества тяжелобольного главы семьи — Кинзо.\\n\\nВ сборке установлен русский язык. Присутствуют все главы.\\n\\nУстановка:\\n\\n- Скачать и распаковать архив\\n- Папку umineko поместить по пути ux0:data/\\n- Установить VPK файл\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "UTYV00001",
+    "name": "Установка",
+    "version": "00.02",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/UTYV00001/UndertaleYellowVita-v0.1.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/UTYV00001/UndertaleYellow-data.zip",
+    "data_path": "ux0:data",
+    "size": 1845122,
+    "description": "Установка:\\n\\n- Скачать и распаковать архив\\n- Папку undertale-yellow поместить по пути ux0:data/\\n- Установить VPK файл\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "USAG00001",
+    "name": "Установка",
+    "version": "00.73",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/USAG00001/UsagiPKGJ.vpk",
+    "data_path": "ux0:data/NaohAC/covers/",
+    "size": 3015182,
+    "description": "Установка:\\n\\n- Установить vpk\\n- Румы игр скидывать по пути - ux0:data/NaohAC/roms/\\n(Поддерживается только регион США, установленный для каждой игры!)\\n- Обложки (необязательно) скидывать по пути ux0:data/NaohAC/covers/"
+   },
+   {
+    "titleid": "VFTR00095",
+    "name": "Virtua Fighter 2",
+    "version": "01.24",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/VFTR00095/virtuafighter2.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/VFTR00095/vf2data.zip",
+    "data_path": "ux0:data",
+    "size": 3748575,
+    "description": "Virtua Fighter 2"
+   },
+   {
+    "titleid": "VITAGRM01",
+    "name": "VitaGram",
+    "version": "38.09",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/VITAGRM01/vitagram-0.38.09.vpk",
+    "size": 35384511,
+    "icon": "ports/VITAGRM01/c.jpg",
+    "shots": [
+     "ports/VITAGRM01/s1.jpg",
+     "ports/VITAGRM01/s2.jpg",
+     "ports/VITAGRM01/s3.jpg"
+    ],
+    "description": "VitaGram\\n\\nМожно нас поздравить, Телеграм на PS Vita!\\n\\nРаботы по проекту ещё ведутся, но на первый релиз автор подготовил много хорошего, помимо и так всем понятного чтения/писания/ответа:\\n\\n- Отправка и просмотр почти всего мультимедиа. (Отправка звукового? Да! Кружочек с Vita? ДА! Просмотр релиза новой серии анимешки в группе? ДАААА!)\\n- Скачивание файлов из ТГ? бетатестеры такое оценят.\\n- Поддержка Proxy.\\n- Парольная защита ваших данных (читайте описание, не забывайте, что вы пользуетесь взломанным устройством).\\n- Несколько тем. (Включая темную и светлую)\\n- Поиск.\\n\\nПланы на работу (помимо устранения различных багов):\\n\\n- Доработать интерфейс, сделать удобней для работы.\\n- Поддержка оставшихся базовых возможностей Телеграмма (улучшенное форматирование текста и работа с ботами)\\n- Доступная возможность самостоятельной загрузки тем на основе ассетов.\\n\\nПоздравляем Сергея с релизом, он следит за обратной связью и обязательно учтет недостатки (если они есть)!\\n\\nУстановка:\\n\\n- Скачать VPK файл\\n- Установить VPK файл\\n- Наслаждаться мессенджером на PS Vita!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "VLTR00001",
+    "name": "Vitalatro (Balatro)",
+    "version": "00.01",
+    "author": "@lolkekkekkekcheburek",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/VLTR00001/Vitalatro.vpk",
+    "size": 25536990,
+    "icon": "ports/VLTR00001/c.jpg",
+    "shots": [
+     "ports/VLTR00001/s1.jpg",
+     "ports/VLTR00001/s2.jpg",
+     "ports/VLTR00001/s3.jpg"
+    ],
+    "description": "Vitalatro (Balatro)\\n\\nРанее уже был порт Balatro прямо с ПК, мы его даже русифицировали, но многих он не устраивал по качеству оптимизации и разрешению... Так вот, Vitalatro - полное воссоздание движка игры для Виты, в порте уже присутствует русский язык, а также сенсорное управлением из коробки. Те кто ждал данную игру на Виту со стабильным фреймрейтом возрадуйтесь она уже здесь и сейчас!\\n\\nУстановка:\\n- Скачать VPK файл\\n- Установить VPK файл\\n- Играть!\\n\\nБэкап"
+   },
+   {
+    "titleid": "VTUB00001",
+    "name": "Установка",
+    "version": "01.10",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/VTUB00001/ViTube.vpk",
+    "size": 4206177,
+    "description": "Установка:\\n\\n- Скачать VPK\\n- Установить VPK через VitaShell\\n- Играть!"
+   },
+   {
+    "titleid": "EVS000001",
+    "name": "Установка",
+    "version": "01.06",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/EVS000001/_.vpk",
+    "size": 581070985,
+    "description": "Установка:\\n\\n- Установить vpk\\n- Папку RNPYDDLC1 перекинуть по пути ux0:app/ (не data)\\n- Открыть vpk и подождать пока он вылетит (ага да да)\\n- Перекинуть ещё раз папку RNPYDDLC1 в ux0:app\\n- Теперь можно играть 😇\\n- В игре только английский язык, думаю скоро сделаем русификатор\\n\\n(Ps: порт получился таким и за того что это оригинальная renpy версия, а не ранняя DDLC LOVE которая была скопирована на другом движке, так что пришлось качать ориг. версию со стима и в ручную перекидывать только нужные файлы)"
+   },
+   {
+    "titleid": "MONO00004",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/MONO00004/Richman_4_Fun.vpk",
+    "size": 243219747,
+    "description": "Установка:\\n\\n- Скачать .VPK-файл\\n- Установить через VitaShell\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "LPAC19801",
+    "name": "Установка",
+    "version": "00.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/LPAC19801/PacManDeadline.vpk",
+    "size": 71198073,
+    "sha256": "2c62e79e3a4cc7c2ece1689004c04fd371f163ca086ae314bd3d567948b298f0",
+    "description": "Установка:\\n\\n- Скачать VPK\\n- Установить VPK через VitaShell\\n- Играть!\\n\\nБэкап"
+   },
+   {
+    "titleid": "BALD00003",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BALD00003/ABYSS.vpk",
+    "size": 170851730,
+    "sha256": "a10c01295af1bb782806d28ee7fe07dc04e0fbaf60b58865ef577b8375e50b0d",
+    "description": "Установка:\\n\\n- Скачать файл и переместить его на консоль.\\n- Установить VPK файл, через VitaShell\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "ALTO11111",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ALTO11111/DoneAlto.vpk",
+    "size": 83339393,
+    "sha256": "cae308929a556bb464b408dadd8c353ad2d9bf9b172824f125e1c348af2b8f93",
+    "description": "Установка:\\n\\n- Скачать VPK-файл.\\n- Установить через VitaShell\\n- Играть!\\n\\nЗеркало архива"
+   },
+   {
+    "titleid": "CWRS00001",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CWRS00001/CardWarsVitaV5.vpk",
+    "size": 193213005,
+    "sha256": "5bacc2fa0e3e0a5ffaa84621dc29c2e77ebcd8d35093264681589835feef8313",
+    "description": "Установка:\\n\\n- Скачать VPK файл и перенести его на консоль.\\n- Установить .vpk-файл через VitaShell.\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "BKRM80522",
+    "name": "Установка",
+    "version": "01.52",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BKRM80522/Backrooms.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/BKRM80522/Fran_Bow_1-4.zip",
+    "data_path": "ux0:data",
+    "size": 47068642,
+    "sha256": "d0d7d7a9d9a5495d6ff6fe4735c191af3fb552382b8fbb648cb7b51a967efddc",
+    "description": "Установка:\\n\\n- Распаковать архив\\n(В игре 5 глав, на пс виту портировали пока что только 4)\\n- В архиве 1 и 2 глава в виде готового vpk, с вшитой data\\n- 3 и 4 глава в виде vpk который нужно установить, и data которую нужно переместить по пути ux0:data/\\n(Каждая глава устанавливается как отдельная игра)\\n\\nPs: Для всех этих игр рекомендуется использовать разгон!"
+   },
+   {
+    "titleid": "BPGS20201",
+    "name": "Установка",
+    "version": "02.31",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BPGS20201/BPV.vpk",
+    "size": 77837069,
+    "sha256": "dcfc7c1155b49a0b60c01a1949001bfad75bdcc1df9db141f617a6ef60b7d0ec",
+    "description": "Установка:\\n\\n- Скачать VPK-файл\\n- Установить через VitaShell VPK-файл\\n- Играть!\\n\\nПримечание:\\n\\nДолжен быть установлен плагин ioplus!\\n\\nБэкапы архивов"
+   },
+   {
+    "titleid": "HBPS00001",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HBPS00001/benny.vpk",
+    "size": 43131039,
+    "sha256": "bc2f0ab4a0d9d3f4a491ffc0848effdfbd4c62867340b334246256c534249f58",
+    "description": "Установка\\n\\n- Скачать VPK файл.\\n- Установить через VitaShell\\n- Играть!\\n\\nСсылки на бэкапы архива"
+   },
+   {
+    "titleid": "BEHO20247",
+    "name": "Установка",
+    "version": "00.11",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BEHO20247/BewilderHouse.vpk",
+    "size": 61062119,
+    "sha256": "b671ebbb6272c49a2995df20e4c0bdb3df4e1564aaa963f1fe09ef20c6c3666f",
+    "description": "Установка:\\n\\n- Скачать VPK файл\\n- Установить через VitaShell\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "CATS11111",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CATS11111/CatQuest.vpk",
+    "size": 61031642,
+    "sha256": "49ea2ad6630f31ee06d6dfa815e5307978ef260c82ca21e80e382f1d2d684812",
+    "description": "Установка:\\n\\n1 - Скачать VPK файл\\n2 - Установить через VitaShell\\n3 - Играть! (При первом запуске выбрать русский язык)\\n\\nСсылки на бэкапы архива"
+   },
+   {
+    "titleid": "CSTC00001",
+    "name": "Установка",
+    "version": "01.03",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CSTC00001/Caustic3Vita-v1.0.2.vpk",
+    "data_path": "ux0:data/NaohAC/covers/",
+    "size": 74755343,
+    "sha256": "7b10dae1eb0a1c692c954ffb560599236bdf9fb52533201abf5ed6de598cb2f8",
+    "description": "Установка:\\n\\n- Установить vpk\\n- Румы игр скидывать по пути - ux0:data/NaohAC/roms/\\n(Поддерживается только регион США, установленный для каждой игры!)\\n- Обложки (необязательно) скидывать по пути ux0:data/NaohAC/covers/"
+   },
+   {
+    "titleid": "CNRN20066",
+    "name": "Управление",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CNRN20066/CNRN.vpk",
+    "size": 34793217,
+    "sha256": "ae6d274dd124c7cd0082d34d036f1d6211a8837bf0157c9a289de93b6ee7898e",
+    "description": "Управление:\\nТач в игре не работает!\\n- Навигация по меню производится через левый стик.\\n- Прыжок Х\\n- Смена цвета крестовина\\n\\nУстановка:\\n- Скачать VPK файл\\n- Установить через VitaShell\\n- Играть\\n\\nСсылки на бэкапы архива"
+   },
+   {
+    "titleid": "GNPL00001",
+    "name": "Установка",
+    "version": "01.93",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GNPL00001/gnomopolis.vpk",
+    "size": 152381609,
+    "sha256": "68f549c81eeb8a41f3be46ae9d797fe03d453ba94a04a3b07283088ffc4a0d9a",
+    "description": "Установка:\\n\\n- Скачать VPK файл, кэша нет, все в одном файле.\\n- Установить файл через VitaShell\\n- Играть!\\n\\nСсылки на бэкапы архива"
+   },
+   {
+    "titleid": "LAPY00008",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/LAPY00008/Duck_Hunt_Remake.vpk",
+    "size": 32453176,
+    "sha256": "6044deb0a13bbaf03c69f03345c2a0e1f9259a47ebf6161bd8584bd5a89b8736",
+    "description": "Установка:\\n\\nПросто установить данный VPK через VitaShell, и играть!\\n\\nСсылки на бэкапы архива"
+   },
+   {
+    "titleid": "HANF64519",
+    "name": "Установка",
+    "version": "01.20",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HANF64519/Granny.vpk",
+    "size": 172648081,
+    "sha256": "b2e43258143996a6bbb7352e7b5bc014a94e6e95aa77b22084926b8bd2d47f1e",
+    "description": "Установка:\\n\\n- Скачать VPK файл и установить через VitaShell.\\n- Играть!\\n\\nСсылки на бэкапы архива"
+   },
+   {
+    "titleid": "BBFF12345",
+    "name": "Установка",
+    "version": "01.03",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BBFF12345/Killemall_fixed.vpk",
+    "size": 505812160,
+    "sha256": "352ea7532a3029cd03d13dc15543f5cc7292b70bf6962e9b5f109e7261f2810a",
+    "description": "Установка:\\n\\n- Скачать VPK файл и перенести его на консоль.\\n- Установить .vpk-файл через VitaShell.\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "KGNL22222",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/KGNL22222/KingdomNewLands.vpk",
+    "size": 97808387,
+    "sha256": "344b2214732f09eda2c619fbc11d23db991074e08549a4979c43d0228a7767fc",
+    "description": "Установка:\\n\\nСкачать VPK\\nУстановить VPK файл, через VitaShell\\nИграть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "HELL12345",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HELL12345/HELL12345.vpk",
+    "size": 83892880,
+    "sha256": "ddc2333447b7cb105525b8863b2c8d753390ce390367b3ef2693a4d00a4e4415",
+    "description": "Установка:\\n- Скачать и установить VPK файл через VitaShell.\\n\\nПримечание:\\nПосле запуска игра определяет русский язык, но его никак не отображает. Потому сразу в главном меню, справа на верху смените язык на английский и перезапустите игру.\\n\\nСсылки на бэкапы архива"
+   },
+   {
+    "titleid": "REDVITASS",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/REDVITASS/Red.Space-01.00.vpk",
+    "size": 114083447,
+    "sha256": "c662b202f8d74dec8fbd41f9be8e93c84ab2469a3bd7e5c824b48ac6bd02d597",
+    "description": "Установка:\\n\\n- Скачать VPK файл и перенести его на консоль.\\n- Установить .vpk-файл через VitaShell.\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "RBLX00123",
+    "name": "О боже... Создали офлайн-версию Roblox на движке Unity для P",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RBLX00123/Roblox.vpk",
+    "size": 39169181,
+    "sha256": "5e389a86ff487e23e29898f845fc76e03b98462f8eab2fb181c1a2e0ae47eba3",
+    "icon": "ports/RBLX00123/c.jpg",
+    "shots": [
+     "ports/RBLX00123/s1.jpg"
+    ],
+    "description": "О боже... Создали офлайн-версию Roblox на движке Unity для PS Vita.\\nОна представляет собой базовую воссозданную версию Roblox Studio и классические карты (например, с зомби и паркуром).\\nВ игре также можно менять скин, и создавать свои уровни"
+   },
+   {
+    "titleid": "SVEN12345",
+    "name": "Примечание",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SVEN12345/SM2V.vpk",
+    "size": 94406929,
+    "sha256": "913ae89d12b0ba492938d92a60dc59c0024d7aeb233c5a6a2fbccf912ce34f3f",
+    "description": "Примечание:\\n• У игры нет кэша, игра недоступна на VitaDB, потому чтобы ее установить достаточно запустить VPK файл через Vitashell\\n\\nУстановка:\\nСкачать файл VPK файл\\nУстановить файл VPK через Vitashell и играть!\\n\\nСсылки на бэкапы архива"
+   },
+   {
+    "titleid": "MOQI00010",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/MOQI00010/shadowgun.vpk",
+    "size": 310352395,
+    "sha256": "f23e653de7f46cf032d311bad48cd0dbf68b3eb9e14550dffd885767aaa90ab5",
+    "description": "Установка:\\n\\n- Скачать VPK файл, и установить через VitaShell\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "STEP62012",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/STEP62012/slender8.vpk",
+    "size": 59456074,
+    "sha256": "ef578389b4b6db22d0d24b8e23dfde2482a391b21323ddf5e031cf27f322507d",
+    "description": "Установка:\\n\\n1) Скачать VPK файл\\n2) Установить, через VitaShell\\n3) Играть!\\n\\nСсылки на бэкапы архива"
+   },
+   {
+    "titleid": "SLMR26110",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SLMR26110/slendermanreturns.vpk",
+    "size": 84121943,
+    "sha256": "fb7784064d63107861bad0381d2fc6b32327815e77622f7e3ffb561bc5a4d19e",
+    "description": "Установка:\\n\\n1) Скачать VPK\\n2) установить VPK файл через Vitashell.\\n4) Играть!\\n\\nСсылки на бэкапы архива"
+   },
+   {
+    "titleid": "STDF22222",
+    "name": "StandOff 2",
+    "version": "01.00",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/STDF22222/StandVita2FirstRelease.vpk",
+    "size": 680312173,
+    "sha256": "63809a9746ce9f4d7f059058f0ce8bfbef8538ba2bfd33bfe05657764fb75a41",
+    "icon": "ports/STDF22222/c.jpg",
+    "shots": [
+     "ports/STDF22222/s1.jpg",
+     "ports/STDF22222/s2.jpg",
+     "ports/STDF22222/s3.jpg"
+    ],
+    "description": "StandOff 2\\n\\nРебят, мы дождались наконец релиза, первого стабильного и рабочего!!! Порт подготовил так же админ нашего сообщества, также приглашаем в dev-канал разработки, там обновления будут очевидно быстрее приходить.\\n\\nПримечания:\\n\\nДа, графика может быть не очень, но вполне играбельной. Также могут быть интервальные фризы, но не сильные, привыкнуть будет можно. Онлайн работает, лобби и матчмейкинг, ботов пока нет.\\n\\nКейсы тоже рабочие, голда бесплатная (нажимаете на \"+\" в углу). Еще не уверен, видны ли скины другим, но должны быть. Однако кланы не рабочие, также как и кнопка сообщений и статистика, и это проблема не моя а исходников игры.\\n\\nЗвуков тоже не будет, но в обновлении я попробую это исправить, ведь переносить по 500 звуков из одного движка на другой очень сложно.\\n\\nУстановка:\\n\\n- Скачать VPK\\n- Установить VPK\\n- Играть!\\n\\nБэкап"
+   },
+   {
+    "titleid": "SUSU01010",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SUSU01010/Subway_Surfers_1_.vpk",
+    "size": 52196822,
+    "sha256": "268e0d0f0840dfc3c98588b6251f0e19afd0c5bdad51a0ab81022a056b3a0b39",
+    "description": "Установка:\\n\\n- Скачиваем VPK файл\\n- Переносим файл на консоль и устанавливаем через\\nVitaShell\\n- Играем.\\n\\nСсылки на бэкапы архива"
+   },
+   {
+    "titleid": "PTVT45668",
+    "name": "Ссылки на бэкапы архива",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PTVT45668/TheHallway.vpk",
+    "size": 114002075,
+    "sha256": "1ae029c746f540483bed75ed4ab2bbb995df7c98e7c6dfb559e06782493a2017",
+    "description": "Ссылки на бэкапы архива\\n\\nУстановка:\\n1. Скачать VPK файл игры, и скопировать его на флешку консоли.\\n2. Установить его через Vita Shell\\n3. Enjoy"
+   },
+   {
+    "titleid": "TLCK42069",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/TLCK42069/CrazyKnight_v002_Loader.vpk",
+    "size": 168306303,
+    "sha256": "5527bb92b6c8a459d8fa285a17bab8f17a592f9a7aa1dda6bc58e2bea48d7b63",
+    "description": "Установка:\\n\\n - Скачать VPK файл, и установить его через VitaShell\\n - Играть\\n\\nPS: Есть у порта мааааленький минус на данный момент, он нестабильно работает если в системе выставлен русский язык, отлично работает на инглише.\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "TORN12345",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/TORN12345/Torn.vpk",
+    "size": 55897615,
+    "sha256": "c3037a00fc2502083f1578fbbcb0cca2a3faaf39b999ab2a5dc01fcc7384ec58",
+    "description": "Установка:\\n\\n1) Скачайть VPK файл.\\n2) Установить через VitaShell.\\n3) Играть!\\n\\nСсылки на бэкапы архива"
+   },
+   {
+    "titleid": "VTHT52118",
+    "name": "Установка",
+    "version": "01.07",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/VTHT52118/VitaHot.vpk",
+    "size": 223750866,
+    "sha256": "4d91f4f556fc236803ec785838821b7ee4ed1409f2c9aa550d54c984bfa16b3f",
+    "description": "Установка:\\n\\n- Скачать VPK файл с этого поста\\n- Установить его на вашей консоле через VitaShell\\n- Играть!\\n\\nСсылки на бэкапы архива"
+   },
+   {
+    "titleid": "DWLF00001",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DWLF00001/drunk-werewolf.vpk",
+    "size": 114642307,
+    "sha256": "d28460e4738fd02296d729c784459cff929c4559082bb9cdb1effd8345fb4c2a",
+    "description": "Установка:\\n\\n- Скачать VPK файл и переместить на консоль\\n- Установить .VPK через VitaShell\\n- Играть!\\n\\nБэкап"
+   },
+   {
+    "titleid": "AGKB22101",
+    "name": "Установка",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "vpk": "https://firsts3.ru/vpkgj/ports/AGKB22101/Wrecking_Wave.vpk",
+    "size": 28534836,
+    "sha256": "fd57a4ab3408c63e18089bcce60dc2cb0ff5d7961da3cf1d5b2a562b08449ca2",
+    "description": "Установка:\\n\\n- Скачать .VPK-файл\\n- Установить через VitaShell\\n- Играть!\\n\\nБэкап архива"
+   },
+   {
+    "titleid": "HKVT12222",
+    "name": "Hollow Knight",
+    "version": "01.10",
+    "author": "@lolkekkekkekcheburek",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HKVT12222/HollowKnight.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/HKVT12222/HollowKnightVITA.zip",
+    "data_path": "ux0:data",
+    "size": 22090541,
+    "sha256": "6cfc7dcbc14efaca0fbbf1761e3a4e6756a742148c0f174ab935989251d65dc4",
+    "description": "Hollow Knight"
    }
   ],
   "homebrew": [
