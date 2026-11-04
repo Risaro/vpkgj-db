@@ -145,7 +145,7 @@ def main():
     body = json.dumps(cats, ensure_ascii=False, sort_keys=True)
     index = {"version": hashlib.sha1(body.encode()).hexdigest()[:12], "categories": cats}
     repo = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--repo=")), DEFAULT_REPO)
-    index["media"] = f"https://raw.githubusercontent.com/{repo}/media/"
+    index["media"] = "https://firsts3.ru/vpkgj/media/"
     if "--check-links" in sys.argv:
         bad = check_links(index)
         if bad:
