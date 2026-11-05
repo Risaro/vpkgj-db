@@ -1,5 +1,5 @@
 {
- "version": "871eb6a8b463",
+ "version": "5bbeee74cd18",
  "categories": {
   "ports": [
    {
@@ -4134,6 +4134,47 @@
     "region": "US",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод лицензия (ПК), перенос z@v1977 (подробнее.\\nНужна игра PCSE00651 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00661",
+    "name": "Hyperdimension Neptunia Re;Birth3 V GENERATION",
+    "version": "1.0",
+    "author": "перевод Zone of Games, перенос FaceOff",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00661/PCSE00661_rus.zip",
+    "size": 481612592,
+    "sha256": "99548b3a7a6c459ed1bd03919918987413cbc8db49d30962b4a550bf01d23fc6",
+    "region": "US",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Zone of Games, перенос FaceOff.\\nНужна игра PCSE00661 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00693",
+    "name": "Dungeon Travelers 2: The Royal Library & the Monster Seal",
+    "version": "0.81",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00693/PCSE00693_rus.zip",
+    "size": 5037457,
+    "sha256": "c9c1e2edc04b25941f9c0b2f656171196a64b54ffc64f565a2173b5e085fd790",
+    "region": "US",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст v0.81.\\nНужна игра PCSE00693 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00756",
+    "name": "VA-11 Hall-A",
+    "version": "1.0",
+    "author": "перевод Hy60koshk, перенос darndz",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00756/PCSE00756_rus.zip",
+    "size": 8938729,
+    "sha256": "bf221c9ff98ff015ee5ccb244f888dc728517c6de2f7a456963e72afc9a0b4a8",
+    "region": "US",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Hy60koshk, перенос darndz.\\nНужна игра PCSE00756 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
