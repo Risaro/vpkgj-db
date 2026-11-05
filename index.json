@@ -1,5 +1,5 @@
 {
- "version": "29f8b596aa55",
+ "version": "91c8c694eabc",
  "categories": {
   "ports": [
    {
@@ -1307,8 +1307,8 @@
     "author": "Rinnegatamante",
     "lang": "ru",
     "vpk": "https://firsts3.ru/vpkgj/ports/RECVX0001/recvx-vita.vpk",
-    "data": "https://firsts3.ru/vpkgj/ports/RECVX0001/_.rar",
-    "data_path": "ux0:data/recvx",
+    "data": "https://firsts3.ru/vpkgj/ports/RECVX0001/data.zip",
+    "data_path": "ux0:data",
     "size": 2793724,
     "requires": "libshacccg",
     "icon": "ports/RECVX0001/c.jpg",
@@ -1403,7 +1403,7 @@
     "author": "franciscoclou",
     "lang": "ru",
     "vpk": "https://firsts3.ru/vpkgj/ports/SHDF00002/ShadowFight2.vpk",
-    "data": "https://firsts3.ru/vpkgj/ports/SHDF00002/data.rar",
+    "data": "https://firsts3.ru/vpkgj/ports/SHDF00002/data.zip",
     "data_path": "ur0:data/libshacccg.suprx",
     "size": 1241451,
     "requires": "kubridge,libshacccg",
@@ -3024,6 +3024,32 @@
      "PCSB00176/shot5.png"
     ],
     "description": "Полный русский перевод: субтитры, радио, подсказки, меню и картинки.\\nПеревод Mr.President (t.me/mgs3ru), порт на Vita Risaro (t.me/lik1sa).\\nСпециально для phc.lokilab.ru.\\nНужна игра PCSB00176 версии 01.00. rePatch и плагин перевода ставятся и прописываются сами, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00025",
+    "name": "Puddle",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00025/PCSB00025_rus.zip",
+    "size": 225346636,
+    "sha256": "f99fc47b53cdaf5b18303ba8a9e74d7c22200bdf65e5c8961bee03127a1a1cc8",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00025 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00038",
+    "name": "Urban Trial Freestyle",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00038/PCSB00038_rus.zip",
+    "size": 60340,
+    "sha256": "a6d00989eed9e67451379e2f3ec58afd4a7b70f85dc640a91c7f48782b8eb466",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00038 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
