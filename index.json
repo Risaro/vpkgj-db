@@ -1,5 +1,5 @@
 {
- "version": "28ca42e08965",
+ "version": "6172249097fa",
  "categories": {
   "ports": [
    {
@@ -3451,6 +3451,20 @@
     "region": "EU",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод лицензия (ПК), перенос zav1977 & djonmarvel.\\nНужна игра PCSB00603 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00621",
+    "name": "Dragon Fin Soup",
+    "version": "1.0",
+    "author": "перевод Zone of Games, перенос AlchemistLab",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00621/PCSB00621_rus.zip",
+    "size": 363742415,
+    "sha256": "e5e179df9e78a2ab5c8c7e77651eab7da3a944dd165b6f25566ad61f54983a17",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Zone of Games, перенос AlchemistLab.\\nНужна игра PCSB00621 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
