@@ -1,5 +1,5 @@
 {
- "version": "f4a63fdcb86b",
+ "version": "7855558ff70f",
  "categories": {
   "ports": [
    {
@@ -3050,6 +3050,47 @@
     "region": "EU",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00038 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00041",
+    "name": "Dungeon Hunter: Alliance",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00041/PCSB00041_rus.zip",
+    "size": 801976497,
+    "sha256": "c00dd78f847dce77d6cc7fc36106cf7e77f3f053c40db387a083b62b9f8db54c",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00041 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00051",
+    "name": "FIFA Footbal (2012)",
+    "version": "1.0",
+    "author": "перевод лицензия (ПК), перенос zav1977 & djonmarvel",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00051/PCSB00051_rus.zip",
+    "size": 880988,
+    "sha256": "44afdcbb46d6647d56ec691d6f66be49f0d1b6f24ab66bd7ee299313a4cbadb3",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод лицензия (ПК), перенос zav1977 & djonmarvel.\\nНужна игра PCSB00051 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00056",
+    "name": "A-Men",
+    "version": "1.0",
+    "author": "перевод Zone of Games, перенос djonmarvel",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00056/PCSB00056_rus.zip",
+    "size": 251943236,
+    "sha256": "0c8f9c43f72bc42d0b72dc28c82ee98373bdf4c5d71755556219e5f148785908",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Zone of Games, перенос djonmarvel.\\nНужна игра PCSB00056 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
