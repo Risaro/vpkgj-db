@@ -1,5 +1,5 @@
 {
- "version": "ee19b3ef249d",
+ "version": "e4603c4f2db5",
  "categories": {
   "ports": [
    {
@@ -4026,6 +4026,46 @@
     "region": "US",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод лицензия (ПК), перенос AlchemistLab.\\nНужна игра PCSE00420 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00443",
+    "name": "Hyperdimension Neptunia Re;Birth1",
+    "version": "1.0",
+    "author": "перевод Zone of Games, перенос FaceOff",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00443/PCSE00443_rus.zip",
+    "size": 261780697,
+    "sha256": "9cb8117b71be9f678ef35110a2ed7544fea443e772debaeb1dfc181dc0e9d350",
+    "region": "US",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Zone of Games, перенос FaceOff.\\nНужна игра PCSE00443 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00450",
+    "name": "Don't Starve: Giant Edition",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00450/PCSE00450_rus.zip",
+    "size": 89019550,
+    "sha256": "b0784d3d20d52dea8f1d008c1892d7b30b2aa38e03645ae3a8b8ebbade06dcfb",
+    "region": "US",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSE00450 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00454",
+    "name": "Sparkle 2",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00454/PCSE00454_rus.zip",
+    "size": 52442,
+    "sha256": "7907a4cda0750430481155d25ae20fd4097b645fad1bd8e38acbc2c8adcd921f",
+    "region": "US",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSE00454 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
