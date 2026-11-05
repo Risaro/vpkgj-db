@@ -1,5 +1,5 @@
 {
- "version": "e844ee5db665",
+ "version": "ba7778f00f9d",
  "categories": {
   "ports": [
    {
@@ -3652,6 +3652,20 @@
     "region": "EU",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00954 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00973",
+    "name": "Atelier Sophie: The Alchemist of the Mysterious Book",
+    "version": "1.0",
+    "author": "перевод Re:I project, перенос Ефим",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00973/PCSB00973_rus.zip",
+    "size": 51890890,
+    "sha256": "5ed12a5fe300fd1a4cf872b215534fe96d85776093feb8794c88e60e24176278",
+    "region": "EU",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Re:I project, перенос Ефим.\\nНужна игра PCSB00973 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
