@@ -1,5 +1,5 @@
 {
- "version": "43e3448b5ef1",
+ "version": "33a7dee8f138",
  "categories": {
   "ports": [
    {
@@ -3277,6 +3277,86 @@
     "region": "EU",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00358 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00359",
+    "name": "Spelunky",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00359/PCSB00359_rus.zip",
+    "size": 101553901,
+    "sha256": "51ad4bc236ecefebd8cb87c6a30296e0a67f2a003f3df6cfdf9f5a802f10f83e",
+    "region": "EU",
+    "game_version": "01.05",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00359 версии 01.05.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00361",
+    "name": "Lone Survivor: The Director's Cut",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00361/PCSB00361_rus.zip",
+    "size": 1187857,
+    "sha256": "6b36395e543ef563e6dce22d339e0ff4d7f85a461c14839475e2b73a284e5278",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00361 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00400",
+    "name": "King Oddball",
+    "version": "1.0",
+    "author": "перевод лицензия (ПК), перенос AlchemistLab",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00400/PCSB00400_rus.zip",
+    "size": 175731,
+    "sha256": "14367a1c76ee6b8b8251787c9a5f1078097e783a44347e2d59a1a788746e4fe8",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод лицензия (ПК), перенос AlchemistLab.\\nНужна игра PCSB00400 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00404",
+    "name": "Muramasa Rebirth",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00404/PCSB00404_rus.zip",
+    "size": 40270264,
+    "sha256": "f06b1528bd035dd0fa5b6e7ad554de690d5b5da485d848305c6b5f0902a42fdd",
+    "region": "EU",
+    "game_version": "01.06",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00404 версии 01.06.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00405",
+    "name": "Terraria",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00405/PCSB00405_rus.zip",
+    "size": 56573340,
+    "sha256": "c11cefd046633b1cebac429b4866e7ba9b12681fd84b2f6a6ae6aeb8cd2c5a9e",
+    "region": "EU",
+    "game_version": "01.11",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00405 версии 01.11.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00411",
+    "name": "Walking Dead, The: Season 1",
+    "version": "1.0",
+    "author": "перевод Tolma4 Team, перенос pashok6798",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00411/PCSB00411_rus.zip",
+    "size": 5571930,
+    "sha256": "818a658fedf4a690304ff1641de2204b4b7ee93b776047905c60666a2308bb78",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Tolma4 Team, перенос pashok6798.\\nНужна игра PCSB00411 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
