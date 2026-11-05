@@ -1,5 +1,5 @@
 {
- "version": "ba7778f00f9d",
+ "version": "a576e34f0f73",
  "categories": {
   "ports": [
    {
@@ -3666,6 +3666,19 @@
     "region": "EU",
     "game_version": "01.01",
     "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Re:I project, перенос Ефим.\\nНужна игра PCSB00973 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00977",
+    "name": "Superdimension Neptune VS Sega Hard Girls",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00977/PCSB00977_rus.zip",
+    "size": 233246692,
+    "sha256": "13bbd9598745272b7c45c9f2b89016a7ca08f4a43b453800371fc98da73ea705",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00977 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
