@@ -1,5 +1,5 @@
 {
- "version": "fa09dc10a1fd",
+ "version": "741bbc8437c6",
  "categories": {
   "ports": [
    {
@@ -3892,6 +3892,72 @@
     "region": "US",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Napaleon.\\nНужна игра PCSE00044 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00088",
+    "name": "Jet Set Radio",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00088/PCSE00088_rus.zip",
+    "size": 104234495,
+    "sha256": "3b4eb13e86bc8bce73cd562058afe3b883c84caaabdc3ae37b22eec6eaac1982",
+    "region": "US",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSE00088 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00258",
+    "name": "Thomas Was Alone",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00258/PCSE00258_rus.zip",
+    "size": 239130,
+    "sha256": "c2081605bd85b5fd50cd8f6ea4f6adbfaecfbf0857c2939b175594186ae3e5bf",
+    "region": "US",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSE00258 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00290",
+    "name": "Stick It To The Man",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00290/PCSE00290_rus.zip",
+    "size": 26426000,
+    "sha256": "23d3c9bf81caf549b411980b4e0abe21cc9d1bb8ef25ac4f20598b18b4ffdd60",
+    "region": "US",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSE00290 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00315",
+    "name": "King Oddball",
+    "version": "1.0",
+    "author": "перевод лицензия (ПК), перенос AlchemistLab",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00315/PCSE00315_rus.zip",
+    "size": 175813,
+    "sha256": "ba9c11a0bfce9ee99fd7a3389c3a979edde18287efe86115a896bb773287fe3b",
+    "region": "US",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод лицензия (ПК), перенос AlchemistLab.\\nНужна игра PCSE00315 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00316",
+    "name": "Walking Dead, The: Season 1",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00316/PCSE00316_rus.zip",
+    "size": 5571930,
+    "sha256": "2f8579ec872b0cdbe1b382a7c7bb72a0bc8c345b2d3dc19e1631d004ddeee7c6",
+    "region": "US",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSE00316 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
