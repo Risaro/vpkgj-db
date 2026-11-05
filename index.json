@@ -1,5 +1,5 @@
 {
- "version": "d21cfab62e38",
+ "version": "748b580157ce",
  "categories": {
   "ports": [
    {
@@ -3518,6 +3518,113 @@
     "region": "EU",
     "game_version": "01.03",
     "description": "Фанатский русский перевод: перевод текст+звук.\\nНужна игра PCSB00731 версии 01.03.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00742",
+    "name": "Xcom Enemy Unknown Plus",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00742/PCSB00742_rus.zip",
+    "size": 262082312,
+    "sha256": "d32b08319a59238a12eb4b5575f0dff95dec71ac6ebd20eef25ef687fd114e36",
+    "region": "EU",
+    "game_version": "01.0?",
+    "description": "Фанатский русский перевод: русский текст и видео.\\nНужна игра PCSB00742 версии 01.0?.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00762",
+    "name": "WRC 5 FIA World Rally Championship",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00762/PCSB00762_rus.zip",
+    "size": 720498,
+    "sha256": "8b6eaf1e1fc65d4bf4d97788a2503d778cfcc1c03db29de30cfebee355927b97",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00762 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00779",
+    "name": "Axiom Verge",
+    "version": "1.0",
+    "author": "перевод лицензия (ПК), перенос z@v1977",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00779/PCSB00779_rus.zip",
+    "size": 11752685,
+    "sha256": "4abff0ae3672944b5c0cbfc9e6b79f77606a196c1db9db69ff4a8c73ad3534d6",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод лицензия (ПК), перенос z@v1977.\\nНужна игра PCSB00779 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00826",
+    "name": "Sky Force Anniversary",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00826/PCSB00826_rus.zip",
+    "size": 23567273,
+    "sha256": "24e01ef417304057044507ef7a373a3b2940df90d451645782c6dfcd21d81388",
+    "region": "EU",
+    "game_version": "01.02",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00826 версии 01.02.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00827",
+    "name": "Volume",
+    "version": "1.0",
+    "author": "перевод djonmarvel",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00827/PCSB00827_rus.zip",
+    "size": 84872,
+    "sha256": "56a86388dc69108edd24489c3bd6bf83572de9937bbb67fb1c3d395ee22453d0",
+    "region": "EU",
+    "game_version": "01.03",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод djonmarvel.\\nНужна игра PCSB00827 версии 01.03.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00868",
+    "name": "Uncanny Valley",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00868/PCSB00868_rus.zip",
+    "size": 26123298,
+    "sha256": "0a0adc90bfd129d6fd3850610e13142fdb476bf46a7a05f4ae1ed63923fac196",
+    "region": "EU",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00868 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00910",
+    "name": "Neon Chrome",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00910/PCSB00910_rus.zip",
+    "size": 491057,
+    "sha256": "078a1449906edf6ccda7dbe1b1831d0919f459e4576dff13735e655729254c51",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00910 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00942",
+    "name": "Zero Escape: Zero Time Dilemma",
+    "version": "1.0",
+    "author": "перевод Zone of Games, перенос Ворош и RikuKH3",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00942/PCSB00942_rus.zip",
+    "size": 10661625,
+    "sha256": "3e6a692f965fc66cbdd929c0a5c51644b74933d0a391acac5f55789b2795aa16",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Zone of Games, перенос Ворош и RikuKH3.\\nНужна игра PCSB00942 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
