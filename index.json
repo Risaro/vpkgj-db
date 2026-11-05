@@ -1,5 +1,5 @@
 {
- "version": "6c5d3d485a30",
+ "version": "fa09dc10a1fd",
  "categories": {
   "ports": [
    {
@@ -3825,6 +3825,73 @@
     "region": "EU",
     "game_version": "01.08",
     "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Tales&Stories Team, перенос djonmarvel.\\nНужна игра PCSB01157 версии 01.08.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB01163",
+    "name": "Secret of Mana",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB01163/PCSB01163_rus.zip",
+    "size": 108615755,
+    "sha256": "185b2f9fddc582159cd6e5fab2ae32684634a31277ada32a361e41741db43aa8",
+    "region": "EU",
+    "game_version": "01.03",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB01163 версии 01.03.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB01173",
+    "name": "99Vidas",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB01173/PCSB01173_rus.zip",
+    "size": 6259780,
+    "sha256": "dbdbd3c933ffc63bc4922370013c58a76fc8552e08327788db89b723cc9c17e4",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB01173 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB01190",
+    "name": "Reverie",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB01190/PCSB01190_rus.zip",
+    "size": 6137048,
+    "sha256": "2dd66063a7b4c076e8650618080816b302359b3b83166cf4926bccc8be835646",
+    "region": "EU",
+    "game_version": "01.02",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB01190 версии 01.02.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00019",
+    "name": "Dragon's Crown",
+    "version": "1.0",
+    "author": "перевод студия «Exclusive»",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00019/PCSE00019_rus.zip",
+    "size": 44701591,
+    "sha256": "1991a345a8c5d814b1e42600f41ab83797d6659b4872e368d3eee66c40a73262",
+    "region": "US",
+    "game_version": "01.09",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод студия «Exclusive».\\nНужна игра PCSE00019 версии 01.09.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00044",
+    "name": "Chronovolt",
+    "version": "1.0",
+    "author": "перевод Napaleon",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00044/PCSE00044_rus.zip",
+    "size": 8755,
+    "sha256": "871ec1d6bcfd87ca730aa7ce7dde0aa24dc71c2ee75e89a840b948eae1a3c1e7",
+    "region": "US",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Napaleon.\\nНужна игра PCSE00044 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
