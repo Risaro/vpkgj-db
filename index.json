@@ -1,5 +1,5 @@
 {
- "version": "741bbc8437c6",
+ "version": "3e8f6820839e",
  "categories": {
   "ports": [
    {
@@ -2274,7 +2274,7 @@
     "version": "00.20",
     "author": "@lolkekkekkekcheburek",
     "vpk": "https://firsts3.ru/vpkgj/ports/NBA2K1600/NBA2K16Vita_v0.2.vpk",
-    "data": "https://firsts3.ru/vpkgj/ports/NBA2K1600/NBA_2K16_Vita.rar",
+    "data": "https://firsts3.ru/vpkgj/ports/NBA2K1600/data.zip",
     "data_path": "ux0:data",
     "size": 2842006,
     "icon": "ports/NBA2K1600/c.jpg",
