@@ -1,5 +1,5 @@
 {
- "version": "a054608a6c3f",
+ "version": "d663d136c9b4",
  "categories": {
   "ports": [
    {
@@ -2508,7 +2508,7 @@
     "lang": "ru",
     "vpk": "https://firsts3.ru/vpkgj/ports/DRFT00001/drifter-vita-small.vpk",
     "data": "https://firsts3.ru/vpkgj/ports/DRFT00001/data.zip",
-    "data_path": "ux0:data",
+    "data_path": "ux0:",
     "size": 17060824,
     "icon": "ports/DRFT00001/c.jpg",
     "shots": [
