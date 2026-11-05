@@ -1,5 +1,5 @@
 {
- "version": "af6149d408e5",
+ "version": "069dfb821379",
  "categories": {
   "ports": [
    {
@@ -3758,6 +3758,46 @@
     "region": "EU",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB01059 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB01063",
+    "name": "Zero Escape: The Nonary Games",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB01063/PCSB01063_rus.zip",
+    "size": 470851757,
+    "sha256": "668acf5fea79408f495d88d90a8f9dc37b4f48f7d1c3e2db66376c8e02041226",
+    "region": "EU",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст (только первая часть).\\nНужна игра PCSB01063 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB01068",
+    "name": "Oceanhorn",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB01068/PCSB01068_rus.zip",
+    "size": 40119422,
+    "sha256": "3fb67fef83a23e40fa439030b3a99b0b3fcdfb1e40e1f98adeaf0f5d763132f9",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: русская озвучка.\\nНужна игра PCSB01068 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB01121",
+    "name": "Chasm",
+    "version": "1.0",
+    "author": "перевод Zone of Games, перенос djonmarvel",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB01121/PCSB01121_rus.zip",
+    "size": 12462060,
+    "sha256": "b7a9dbb07967b3ddae8c6ccd729a8f456bd9c1aa79c8316659d0be6f01c358fc",
+    "region": "EU",
+    "game_version": "01.06",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Zone of Games, перенос djonmarvel.\\nНужна игра PCSB01121 версии 01.06.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
