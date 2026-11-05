@@ -1,5 +1,5 @@
 {
- "version": "a66261e349da",
+ "version": "af6149d408e5",
  "categories": {
   "ports": [
    {
@@ -3732,6 +3732,32 @@
     "region": "EU",
     "game_version": "01.17",
     "description": "Фанатский русский перевод: русская озвучка.\\nАвторы: перевод GamesVoice, перенос spider_nrg.\\nНужна игра PCSB01017 версии 01.17.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB01041",
+    "name": "Bard's Tale: Remastered and Resnarkled, The",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB01041/PCSB01041_rus.zip",
+    "size": 391451538,
+    "sha256": "da23cf052ad2e69c8b005590c72e70f9b9eb04f705495e3b545d4ff7fafbdba0",
+    "region": "EU",
+    "game_version": "01.0?",
+    "description": "Фанатский русский перевод: русская озвучка.\\nНужна игра PCSB01041 версии 01.0?.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB01059",
+    "name": "Mary Skelter Nightmares",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB01059/PCSB01059_rus.zip",
+    "size": 28134847,
+    "sha256": "92753685b0741b73c7463e70a00d12c958fac49da085b64b5d7f4bc926b912fc",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB01059 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
