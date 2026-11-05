@@ -1,5 +1,5 @@
 {
- "version": "6a0e23ca0397",
+ "version": "bd64b2f38717",
  "categories": {
   "ports": [
    {
@@ -4417,6 +4417,18 @@
     "sha256": "cde0dd2a7f3c6d4addb264d8b55a78ca99392bff9320ab1a6463cce418269dbf",
     "region": "EU",
     "description": "Фанатский русский перевод: Rus.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSG00167",
+    "name": "Dead or Alive 5 Plus",
+    "version": "1.3",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSG00167/PCSG00167_rus.zip",
+    "size": 52152400,
+    "sha256": "d8a592bbd2782f3c31beb9525ac1f90a3928341b548de79938361888d80f4077",
+    "region": "JP",
+    "description": "Фанатский русский перевод: Rus 1.3.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
