@@ -1,5 +1,5 @@
 {
- "version": "dd39e19adda9",
+ "version": "f4a63fdcb86b",
  "categories": {
   "ports": [
    {
@@ -223,7 +223,7 @@
     "author": "MetalSyntax",
     "vpk": "https://firsts3.ru/vpkgj/ports/PSVBIA002/brothersinarms2.vpk",
     "data": "https://firsts3.ru/vpkgj/ports/PSVBIA002/data.zip",
-    "data_path": "ux0:data/brothersinarms2",
+    "data_path": "ux0:data",
     "size": 2067171,
     "requires": "kubridge,fdfix,libshacccg",
     "icon": "ports/PSVBIA002/c.jpg",
@@ -237,7 +237,7 @@
     "lang": "ru",
     "vpk": "https://firsts3.ru/vpkgj/ports/BSHT00016/BuckshotRoulettePortable-BSHT-v1.0.0.vpk",
     "data": "https://firsts3.ru/vpkgj/ports/BSHT00016/data.zip",
-    "data_path": "ur0:data/libshacccg.suprx",
+    "data_path": "ux0:",
     "size": 2789326,
     "requires": "libshacccg",
     "icon": "ports/BSHT00016/c.jpg",
@@ -368,7 +368,7 @@
     "lang": "ru",
     "vpk": "https://firsts3.ru/vpkgj/ports/CBFD00064/conker_vita_ru.vpk",
     "data": "https://firsts3.ru/vpkgj/ports/CBFD00064/data.zip",
-    "data_path": "ux0:data/conker",
+    "data_path": "ux0:data",
     "size": 8759138,
     "requires": "libshacccg",
     "icon": "ports/CBFD00064/c.jpg",
@@ -392,7 +392,7 @@
     "author": "Rinnegatamante",
     "vpk": "https://firsts3.ru/vpkgj/ports/CTR000004/ctr.vpk",
     "data": "https://firsts3.ru/vpkgj/ports/CTR000004/ctrRUS.zip",
-    "data_path": "ux0:data/ctr/assets",
+    "data_path": "ux0:data",
     "size": 3575693,
     "icon": "ports/CTR000004/c.jpg",
     "description": "Advanced sourceport of Crash Team Racing for PSVita, PC and Web Browser.\\nПорт с Console. Стадия: Release.\\nИсходники: github.com/Rinnegatamante/Crash-Team-Racing-High-Octane"
@@ -488,7 +488,7 @@
     "author": "Franckrst",
     "vpk": "https://firsts3.ru/vpkgj/ports/DTWO00001/d2vita2.0.vpk",
     "data": "https://firsts3.ru/vpkgj/ports/DTWO00001/D2_fix_sound.zip",
-    "data_path": "ux0:data/d2vita",
+    "data_path": "ux0:data",
     "size": 8001016,
     "requires": "kubridge",
     "icon": "ports/DTWO00001/c.jpg",
@@ -945,7 +945,7 @@
     "lang": "ru",
     "vpk": "https://firsts3.ru/vpkgj/ports/MCSM00001/mcsm_release.vpk",
     "data": "https://firsts3.ru/vpkgj/ports/MCSM00001/MStory.part1.zip",
-    "data_path": "ux0:data/mcsm",
+    "data_path": "ux0:data",
     "size": 3428991,
     "requires": "kubridge,fdfix,libshacccg",
     "icon": "ports/MCSM00001/c.jpg",
@@ -1118,7 +1118,7 @@
     "author": "TheLostPantheon",
     "vpk": "https://firsts3.ru/vpkgj/ports/OMWV00001/openmw2.2.vpk",
     "data": "https://firsts3.ru/vpkgj/ports/OMWV00001/Morrowind2.2.zip",
-    "data_path": "ux0:data/openmw",
+    "data_path": "ux0:data",
     "size": 168343545,
     "icon": "ports/OMWV00001/c.jpg",
     "description": "UPD: обязательно назовите персонажа полностью строчными буквами, в имени не должно быть кириллицы и заглавных букв! Быстрое сохранение назначено на правый верхний угол экрана.\\n\\nОтдельный VPK\\n\\nOpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/\\nПорт с PC. Стадия: Release.\\nИсходники: github.com/TheLostPantheon/openmw",
@@ -1608,7 +1608,7 @@
     "author": "LuckyI13I",
     "vpk": "https://firsts3.ru/vpkgj/ports/SM50VITA1/StepMania5-Vita50-b42.vpk",
     "data": "https://firsts3.ru/vpkgj/ports/SM50VITA1/data.zip",
-    "data_path": "ux0:data/stepmania-5.0",
+    "data_path": "ux0:data",
     "size": 42185323,
     "icon": "ports/SM50VITA1/c.jpg",
     "description": "StepMania 5 for PlayStation Vita\\nПорт с PC. Стадия: Release.\\nИсходники: github.com/LuckyI13I/stepmania-psvita"
