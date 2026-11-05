@@ -1,5 +1,5 @@
 {
- "version": "82e561164d3b",
+ "version": "459706125e0b",
  "categories": {
   "ports": [
    {
@@ -3004,6 +3004,20 @@
     "sha256": "ac66d0e65394bb9a6dfaf17158b2b74d2b82243244bd68a27ea797ee39a06ea5",
     "requires": "kubridge,fdfix,libshacccg",
     "description": "Порт Android-версии GTA: Chinatown Wars, русская версия.\\n\\nДанные игры (gtactw, русский архив) ставятся в ux0:data автоматически."
+   },
+   {
+    "titleid": "GTAFR0000",
+    "name": "Grand Theft Auto: FR",
+    "version": "01.00",
+    "author": "@psvitaport",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GTAFR0000/GTA_FR.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/GTAFR0000/data.zip",
+    "data_path": "ux0:data",
+    "size": 2918567,
+    "sha256": "b8cbbbdb6f159debf6949a58509b67095ebda6d8141f429d265b7de56b8f9dc5",
+    "requires": "libshacccg",
+    "description": "Порт GTA: FR, есть русский язык.\\n\\nДанные игры (gtaf) ставятся в ux0:data автоматически."
    }
   ],
   "homebrew": [
