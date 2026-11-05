@@ -1,5 +1,5 @@
 {
- "version": "33a7dee8f138",
+ "version": "c595d7546e99",
  "categories": {
   "ports": [
    {
@@ -3357,6 +3357,100 @@
     "region": "EU",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Tolma4 Team, перенос pashok6798.\\nНужна игра PCSB00411 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00456",
+    "name": "FEZ",
+    "version": "1.0",
+    "author": "перевод Zone of Games, перенос djonmarvel",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00456/PCSB00456_rus.zip",
+    "size": 214031582,
+    "sha256": "f7d23b123e4bc1a457920317e1ec2fd73a3034923f01b317a3832fca297b88a4",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Zone of Games, перенос djonmarvel.\\nНужна игра PCSB00456 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00470",
+    "name": "MXGP The Official Motocross Videogame",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00470/PCSB00470_rus.zip",
+    "size": 4539572,
+    "sha256": "33258f81531561f16cf83097ceb781ff61bfbaa60a96c06360e6bb238ba10ece",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00470 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00489",
+    "name": "Swapper, The",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00489/PCSB00489_rus.zip",
+    "size": 1475964,
+    "sha256": "dd66931aba0a72f734563f1f9d39ec8fb9371cf09f04c83dbc168a39aeaed3c0",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00489 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00504",
+    "name": "Titan Attacks!",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00504/PCSB00504_rus.zip",
+    "size": 1010265,
+    "sha256": "a2ab99d010d8a32655e9f08317dfe014f5f0a7c80531d09514587930923b98d3",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00504 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00511",
+    "name": "Hotline Miami 2: Wrong Number",
+    "version": "1.0",
+    "author": "перевод лицензия, перенос lupus & Yoti",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00511/PCSB00511_rus.zip",
+    "size": 4028102,
+    "sha256": "eb480988dfec3572487f9682dde524bddc70188acb45d87eae7d279778aaea08",
+    "region": "EU",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод лицензия, перенос lupus & Yoti.\\nНужна игра PCSB00511 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00581",
+    "name": "Crimsonland",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00581/PCSB00581_rus.zip",
+    "size": 111717,
+    "sha256": "9f178f165ca8f49a02374cbc02ecaea024d7f4aff4919979226c98e8eb877326",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00581 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00603",
+    "name": "FIFA 2015",
+    "version": "1.0",
+    "author": "перевод лицензия (ПК), перенос zav1977 & djonmarvel",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00603/PCSB00603_rus.zip",
+    "size": 923913,
+    "sha256": "a122cce684f27d256509857f34196c77784e262adb0e4cedf3cf69303b3a3381",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод лицензия (ПК), перенос zav1977 & djonmarvel.\\nНужна игра PCSB00603 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
