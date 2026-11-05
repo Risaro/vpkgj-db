@@ -1,5 +1,5 @@
 {
- "version": "28f1582c76a3",
+ "version": "0e8628eaa19f",
  "categories": {
   "ports": [
    {
@@ -4538,6 +4538,20 @@
     "region": "AS",
     "game_version": "01.01",
     "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод djonmarvel.\\nНужна игра PCSH10315 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSF00247",
+    "name": "Jack and Daxter Trilogy, The",
+    "version": "1.0",
+    "author": "перевод пиратский, перенос Ефим из PG Team",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSF00247/PCSF00247_rus.zip",
+    "size": 407805660,
+    "sha256": "a1b606be9ee9b05cee9e6386af480c218c236e8ee7171edb72f2009368639f4c",
+    "region": "EU",
+    "game_version": "01.01(?)",
+    "description": "Фанатский русский перевод: только русская озвучка.\\nАвторы: перевод пиратский, перенос Ефим из PG Team.\\nНужна игра PCSF00247 версии 01.01(?).\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
