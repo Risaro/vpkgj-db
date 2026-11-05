@@ -1,5 +1,5 @@
 {
- "version": "00c7674ea005",
+ "version": "6179888fa05d",
  "categories": {
   "ports": [
    {
@@ -4216,6 +4216,20 @@
     "region": "US",
     "game_version": "01.01",
     "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод djonmarvel.\\nНужна игра PCSE00846 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00895",
+    "name": "NightCry",
+    "version": "1.0",
+    "author": "перевод Zone of Games, перенос AlchemistLab",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00895/PCSE00895_rus.zip",
+    "size": 308953843,
+    "sha256": "b4e69fffb3ac34af0516391b6d6e26e4097924cd817359daa060ace3267b21f3",
+    "region": "US",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Zone of Games, перенос AlchemistLab.\\nНужна игра PCSE00895 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
