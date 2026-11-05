@@ -1,5 +1,5 @@
 {
- "version": "c595d7546e99",
+ "version": "28ca42e08965",
  "categories": {
   "ports": [
    {
@@ -2197,7 +2197,7 @@
     "author": "@lolkekkekkekcheburek",
     "lang": "ru",
     "vpk": "https://firsts3.ru/vpkgj/ports/KOTR00001/KOTOR.vpk",
-    "data": "https://firsts3.ru/vpkgj/ports/KOTR00001/swk.rar",
+    "data": "https://firsts3.ru/vpkgj/ports/KOTR00001/data.zip",
     "data_path": "ux0:data",
     "size": 2602049,
     "icon": "ports/KOTR00001/c.jpg",
