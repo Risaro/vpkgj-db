@@ -1,5 +1,5 @@
 {
- "version": "e0642579e0b7",
+ "version": "d21cfab62e38",
  "categories": {
   "ports": [
    {
@@ -3505,6 +3505,19 @@
     "region": "EU",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00716 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00731",
+    "name": "Grim Fandango Remastered",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00731/PCSB00731_rus.zip",
+    "size": 479943817,
+    "sha256": "89a0399f6a1778cb54da58a9d44ad87039b0cb1a26c838bf813a9b2b46082fc7",
+    "region": "EU",
+    "game_version": "01.03",
+    "description": "Фанатский русский перевод: перевод текст+звук.\\nНужна игра PCSB00731 версии 01.03.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
