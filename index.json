@@ -1,5 +1,5 @@
 {
- "version": "bd64b2f38717",
+ "version": "001ec5b7db96",
  "categories": {
   "ports": [
    {
@@ -4429,6 +4429,32 @@
     "sha256": "d8a592bbd2782f3c31beb9525ac1f90a3928341b548de79938361888d80f4077",
     "region": "JP",
     "description": "Фанатский русский перевод: Rus 1.3.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSG00330",
+    "name": "To Love-Ru Trouble Darkness: Battle Ecstasy",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSG00330/PCSG00330_rus.zip",
+    "size": 36172453,
+    "sha256": "ce7cf384b0f3c57e96bdbf69440658ac2de6eddf765586c899dac38036a11694",
+    "region": "JP",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSG00330 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSG00357",
+    "name": "Kono Oozora ni Tsubasa o Hirogete: Cruise Sign",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSG00357/PCSG00357_rus.zip",
+    "size": 3876027,
+    "sha256": "d12b16c6c4cb9fcd52a0a2231deb03be251dd18ce2c03ee8c2cae6df60504b3b",
+    "region": "JP",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSG00357 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
