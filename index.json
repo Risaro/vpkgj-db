@@ -1,5 +1,5 @@
 {
- "version": "7ff4f0477e99",
+ "version": "a66261e349da",
  "categories": {
   "ports": [
    {
@@ -3718,6 +3718,20 @@
     "region": "EU",
     "game_version": "01.02",
     "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB01012 версии 01.02.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB01017",
+    "name": "Darkest Dungeon",
+    "version": "1.0",
+    "author": "перевод GamesVoice, перенос spider_nrg",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB01017/PCSB01017_rus.zip",
+    "size": 316138978,
+    "sha256": "4541f3533b116074287a1b6258580a8cc4d5af85aa20ca38da8bad67181ed687",
+    "region": "EU",
+    "game_version": "01.17",
+    "description": "Фанатский русский перевод: русская озвучка.\\nАвторы: перевод GamesVoice, перенос spider_nrg.\\nНужна игра PCSB01017 версии 01.17.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
