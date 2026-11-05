@@ -1,5 +1,5 @@
 {
- "version": "e4603c4f2db5",
+ "version": "a054608a6c3f",
  "categories": {
   "ports": [
    {
@@ -2507,7 +2507,7 @@
     "author": "@lolkekkekkekcheburek",
     "lang": "ru",
     "vpk": "https://firsts3.ru/vpkgj/ports/DRFT00001/drifter-vita-small.vpk",
-    "data": "https://firsts3.ru/vpkgj/ports/DRFT00001/ux0.rar",
+    "data": "https://firsts3.ru/vpkgj/ports/DRFT00001/data.zip",
     "data_path": "ux0:data",
     "size": 17060824,
     "icon": "ports/DRFT00001/c.jpg",
@@ -4066,6 +4066,20 @@
     "region": "US",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSE00454 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00508",
+    "name": "Hyperdimension Neptunia Re;Birth2 SISTERS GENERATION",
+    "version": "1.0",
+    "author": "перевод Zone of Games, перенос FaceOff",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00508/PCSE00508_rus.zip",
+    "size": 420081216,
+    "sha256": "912891f6e788ce0c732fcd126dbf930fac1010d7550e2724a948e91928d9bbdc",
+    "region": "US",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Zone of Games, перенос FaceOff.\\nНужна игра PCSE00508 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
