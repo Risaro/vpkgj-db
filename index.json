@@ -1,5 +1,5 @@
 {
- "version": "1feba1aec0e8",
+ "version": "82e561164d3b",
  "categories": {
   "ports": [
    {
@@ -2990,6 +2990,20 @@
     "sha256": "8bdc2126f2fad3acd9f03a831735b80f0487287fc8f92f46db6d4c8bb77a80f3",
     "requires": "kubridge,fdfix,libshacccg",
     "description": "Порт Android-версии GTA: San Andreas.\\n\\nОсобенности:\\n- Порт на русском.\\n- L1 + Select вызывает консоль для ввода читов, используется с ПК версии.\\n\\nДанные игры (gtasa) ставятся в ux0:data автоматически."
+   },
+   {
+    "titleid": "GTACTW000",
+    "name": "Grand Theft Auto: Chinatown Wars",
+    "version": "00.00",
+    "author": "@psvitaport",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GTACTW000/GTACTW.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/GTACTW000/data.zip",
+    "data_path": "ux0:data",
+    "size": 978942,
+    "sha256": "ac66d0e65394bb9a6dfaf17158b2b74d2b82243244bd68a27ea797ee39a06ea5",
+    "requires": "kubridge,fdfix,libshacccg",
+    "description": "Порт Android-версии GTA: Chinatown Wars, русская версия.\\n\\nДанные игры (gtactw, русский архив) ставятся в ux0:data автоматически."
    }
   ],
   "homebrew": [
