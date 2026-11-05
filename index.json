@@ -1,5 +1,5 @@
 {
- "version": "459706125e0b",
+ "version": "45398e441d0a",
  "categories": {
   "ports": [
    {
@@ -3018,6 +3018,20 @@
     "sha256": "b8cbbbdb6f159debf6949a58509b67095ebda6d8141f429d265b7de56b8f9dc5",
     "requires": "libshacccg",
     "description": "Порт GTA: FR, есть русский язык.\\n\\nДанные игры (gtaf) ставятся в ux0:data автоматически."
+   },
+   {
+    "titleid": "GTAVCECTY",
+    "name": "Grand Theft Auto: Vice City (10th Anniversary Edition)",
+    "version": "00.00",
+    "author": "@psvitaport",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GTAVCECTY/GTAVC_1.1_10thAE_with_manual_rus.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/GTAVCECTY/data.zip",
+    "data_path": "ux0:data",
+    "size": 11123165,
+    "sha256": "5f87f80d68584e0d6bb85f4e7d87ba83ad644190a8c1e913bef56cad284e1839",
+    "requires": "libshacccg",
+    "description": "Порт GTA: Vice City с модом 10th Anniversary Edition и русским руководством.\\n\\nДанные игры (gtavc) ставятся в ux0:data автоматически."
    }
   ],
   "homebrew": [
