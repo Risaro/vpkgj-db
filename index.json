@@ -1,5 +1,5 @@
 {
- "version": "069dfb821379",
+ "version": "6c5d3d485a30",
  "categories": {
   "ports": [
    {
@@ -3798,6 +3798,33 @@
     "region": "EU",
     "game_version": "01.06",
     "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Zone of Games, перенос djonmarvel.\\nНужна игра PCSB01121 версии 01.06.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB01135",
+    "name": "Mercenary Kings",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB01135/PCSB01135_rus.zip",
+    "size": 94530242,
+    "sha256": "2ef790d138128397271bc5e5360212289c2e1b913a2bcc5331865b45972b4aa9",
+    "region": "EU",
+    "game_version": "01.04",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB01135 версии 01.04.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB01157",
+    "name": "Undertale",
+    "version": "1.0",
+    "author": "перевод Tales&Stories Team, перенос djonmarvel",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB01157/PCSB01157_rus.zip",
+    "size": 38765915,
+    "sha256": "b21e2176f5209a5fcbdb3fc1fdbbc3ea905a6c4bffaf1bf03c98ca59374c117a",
+    "region": "EU",
+    "game_version": "01.08",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Tales&Stories Team, перенос djonmarvel.\\nНужна игра PCSB01157 версии 01.08.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
