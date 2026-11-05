@@ -1,5 +1,5 @@
 {
- "version": "3df69ef87dc2",
+ "version": "ab3195d05a5c",
  "categories": {
   "ports": [
    {
@@ -3224,6 +3224,19 @@
     "region": "EU",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00272 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00275",
+    "name": "Oddworld Munch's Oddysee HD",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00275/PCSB00275_rus.zip",
+    "size": 437160981,
+    "sha256": "bbbcbc23e58dcda4cb9cf79ca7dde283207a29d8a7f5bd9570521848b610fd97",
+    "region": "EU",
+    "game_version": "01.02",
+    "description": "Фанатский русский перевод: текст и звук.\\nНужна игра PCSB00275 версии 01.02.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
