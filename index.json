@@ -1,5 +1,5 @@
 {
- "version": "4fe4257b97d6",
+ "version": "e5646148e533",
  "categories": {
   "ports": [
    {
@@ -2976,6 +2976,20 @@
     "size": 22090541,
     "sha256": "6cfc7dcbc14efaca0fbbf1761e3a4e6756a742148c0f174ab935989251d65dc4",
     "description": "Hollow Knight"
+   },
+   {
+    "titleid": "GTASA0000",
+    "name": "Grand Theft Auto: San Andreas",
+    "version": "00.00",
+    "author": "@psvitaport",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GTASA0000/GTASA.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/GTASA0000/data.zip",
+    "data_path": "ux0:data",
+    "size": 1353983,
+    "sha256": "8bdc2126f2fad3acd9f03a831735b80f0487287fc8f92f46db6d4c8bb77a80f3",
+    "requires": "kubridge,fdfix,libshacccg",
+    "description": "Порт Android-версии GTA: San Andreas.\\n\\nОсобенности:\\n- Порт на русском.\\n- L1 + Select вызывает консоль для ввода читов, используется с ПК версии.\\n\\nДанные игры (gtasa) ставятся в ux0:data автоматически."
    }
   ],
   "homebrew": [
