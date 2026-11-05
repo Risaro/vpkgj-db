@@ -1,5 +1,5 @@
 {
- "version": "1c351b857acb",
+ "version": "5161d4993bde",
  "categories": {
   "ports": [
    {
@@ -3104,6 +3104,86 @@
     "region": "EU",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00079 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00096",
+    "name": "Tales From Space Mutant Blobs Attack",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00096/PCSB00096_rus.zip",
+    "size": 58406182,
+    "sha256": "7c5fd693ced23d488743099fe02b36a1594c8906ee06308f0f7dbc00f30ab152",
+    "region": "EU",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00096 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00115",
+    "name": "Silent Hill Book of Memories",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00115/PCSB00115_rus.zip",
+    "size": 48227238,
+    "sha256": "50c1d64887f4ff04409ecf5e97e0e7c3868fe5b5cfd6df0f94af1cec1d239589",
+    "region": "EU",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00115 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00170",
+    "name": "FIFA 2013",
+    "version": "1.0",
+    "author": "перевод лицензия (ПК), перенос zav1977 & djonmarvel",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00170/PCSB00170_rus.zip",
+    "size": 897087,
+    "sha256": "a426b9ccee8d33f984817338e8cbf394858bcd0e46c2c32226fefe4839fc9aa2",
+    "region": "EU",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод лицензия (ПК), перенос zav1977 & djonmarvel.\\nНужна игра PCSB00170 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00182",
+    "name": "MUD FIM Motocross World Championship",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00182/PCSB00182_rus.zip",
+    "size": 2214970,
+    "sha256": "3e280a2ca46cb6e317a59840f47e91e2a757e183eccbb2fe040f542f673eefdc",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00182 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00189",
+    "name": "Guacamelee!",
+    "version": "1.0",
+    "author": "перевод Zone of Games, перенос lupus & djonmarvel",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00189/PCSB00189_rus.zip",
+    "size": 2259268,
+    "sha256": "48d67120de30c328a5890dfc5232fa7425af25bd9740d0f8112f32faef5e42cd",
+    "region": "EU",
+    "game_version": "01.03",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Zone of Games, перенос lupus & djonmarvel.\\nНужна игра PCSB00189 версии 01.03.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00204",
+    "name": "WRC 3 FIA World Rally Championship",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00204/PCSB00204_rus.zip",
+    "size": 3375507,
+    "sha256": "38bf5a92e6e333d077c4d0a57758c3cf5d84d4ebf0fdc7ce61bdff9cd67c2692",
+    "region": "EU",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00204 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
