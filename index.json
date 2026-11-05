@@ -1,5 +1,5 @@
 {
- "version": "0e8628eaa19f",
+ "version": "1feba1aec0e8",
  "categories": {
   "ports": [
    {
@@ -4552,6 +4552,19 @@
     "region": "EU",
     "game_version": "01.01(?)",
     "description": "Фанатский русский перевод: только русская озвучка.\\nАвторы: перевод пиратский, перенос Ефим из PG Team.\\nНужна игра PCSF00247 версии 01.01(?).\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSF00378",
+    "name": "CounterSpy",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSF00378/PCSF00378_rus.zip",
+    "size": 250225220,
+    "sha256": "1c72e82863c353cb51f0affd382d713188f81df831345c959727e7349ebdebd2",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSF00378 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
