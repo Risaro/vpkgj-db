@@ -1,5 +1,5 @@
 {
- "version": "6fa4ba49fc5a",
+ "version": "9fa747011a6a",
  "categories": {
   "ports": [
    {
@@ -4469,6 +4469,33 @@
     "region": "JP",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод metastigma.\\nНужна игра PCSG00497 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSG00689",
+    "name": "To Love-Ru Trouble Darkness: True Princess",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSG00689/PCSG00689_rus.zip",
+    "size": 381808154,
+    "sha256": "30dfa21d32d782d926f3709a82d174cabc46948b6247eaf17097f0ce595ee2e0",
+    "region": "JP",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSG00689 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSG00756",
+    "name": "I am Setsuna",
+    "version": "1.0",
+    "author": "перевод Zone of Games, перенос Nightmares88",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSG00756/PCSG00756_rus.zip",
+    "size": 7174257,
+    "sha256": "c16fa378bd1eb23ca66ac49cbce82eda194d670d576008fe2465fc1d1568000b",
+    "region": "JP",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Zone of Games, перенос Nightmares88.\\nНужна игра PCSG00756 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
