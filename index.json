@@ -1,5 +1,5 @@
 {
- "version": "6179888fa05d",
+ "version": "0f77fcb3b4ec",
  "categories": {
   "ports": [
    {
@@ -4230,6 +4230,115 @@
     "region": "US",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Zone of Games, перенос AlchemistLab.\\nНужна игра PCSE00895 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00919",
+    "name": "Darkest Dungeon",
+    "version": "1.0",
+    "author": "перевод GamesVoice, перенос spider_nrg",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00919/PCSE00919_rus.zip",
+    "size": 316138978,
+    "sha256": "3b4aabe90aaf47242277dca065693be41ca00f9627eae8c37f37a73212636ceb",
+    "region": "US",
+    "game_version": "01.17",
+    "description": "Фанатский русский перевод: русская озвучка.\\nАвторы: перевод GamesVoice, перенос spider_nrg.\\nНужна игра PCSE00919 версии 01.17.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00928",
+    "name": "Fate/Extella: The Umbral Star",
+    "version": "1.0",
+    "author": "перевод The Miracle, перенос djonmarvel",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00928/PCSE00928_rus.zip",
+    "size": 4978900,
+    "sha256": "44d372f17e8530092942646cc35ebe9ce689881c9e15e2526b281d1015823af6",
+    "region": "US",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод The Miracle, перенос djonmarvel.\\nНужна игра PCSE00928 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00950",
+    "name": "Shantae Half-Genie Hero",
+    "version": "2.71",
+    "lang": "ru",
+    "install": "repatch+plugin",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00950/PCSE00950_rus.zip",
+    "size": 24816131,
+    "sha256": "6100d05dad6f3d83eceb21496f070ea7640ab5efa92171a6c269c53f211b8216",
+    "region": "US",
+    "game_version": "01.05",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSE00950 версии 01.05.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00974",
+    "name": "Slain Back From Hell",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00974/PCSE00974_rus.zip",
+    "size": 3000639,
+    "sha256": "8c15501f5ba695d1b0de57423fc7666ba40f15ec703000e7fc252d48d15d76e7",
+    "region": "US",
+    "game_version": "01.02",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSE00974 версии 01.02.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00980",
+    "name": "Air Speed Race",
+    "version": "1.0",
+    "author": "перевод djonmarvel",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00980/PCSE00980_rus.zip",
+    "size": 49612,
+    "sha256": "93b16a8b9467c98bce6a864bcbb790b5152e6b945f8a4afd48cc0d531ba5db18",
+    "region": "US",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод djonmarvel.\\nНужна игра PCSE00980 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE01010",
+    "name": "Lichtspeer",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE01010/PCSE01010_rus.zip",
+    "size": 39305775,
+    "sha256": "ef6d556f20b4e872e443cc732061a2ff01856cb3146c3d0eb7d443000c9ece47",
+    "region": "US",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSE01010 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE01031",
+    "name": "Chasm",
+    "version": "1.0",
+    "author": "перевод Zone of Games, перенос AlchemistLab",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE01031/PCSE01031_rus.zip",
+    "size": 12474378,
+    "sha256": "8a23aaff1ba8e22d2c6a3cbbaa220710bb49f03fe71b3486a5c9bf18fe47407a",
+    "region": "US",
+    "game_version": "01.06",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Zone of Games, перенос AlchemistLab.\\nНужна игра PCSE01031 версии 01.06.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE01033",
+    "name": "Ys Origin",
+    "version": "1.0",
+    "author": "перевод The Miracle, перенос AlchemistLab",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE01033/PCSE01033_rus.zip",
+    "size": 17214762,
+    "sha256": "90136a8b6006ab2c498b7cadd0aaf3eeffe81979b1d9a7f039bef54f786d293c",
+    "region": "US",
+    "game_version": "01.02",
+    "description": "Фанатский русский перевод: тестовый перевод.\\nАвторы: перевод The Miracle, перенос AlchemistLab.\\nНужна игра PCSE01033 версии 01.02.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
