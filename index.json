@@ -1,5 +1,5 @@
 {
- "version": "a00d3469a3e0",
+ "version": "7ff4f0477e99",
  "categories": {
   "ports": [
    {
@@ -3705,6 +3705,19 @@
     "region": "EU",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00987 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB01012",
+    "name": "Steins Gate 0",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB01012/PCSB01012_rus.zip",
+    "size": 220280216,
+    "sha256": "05dbd4941f2ea6b89f70255e43f0f0d331ce604713486fac8ec91b16db1bab36",
+    "region": "EU",
+    "game_version": "01.02",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB01012 версии 01.02.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
