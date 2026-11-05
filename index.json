@@ -1,5 +1,5 @@
 {
- "version": "a5e2db8b6b28",
+ "version": "6a0e23ca0397",
  "categories": {
   "ports": [
    {
@@ -4405,6 +4405,18 @@
     "region": "EU",
     "game_version": "01.01",
     "description": "Фанатский русский перевод: перевод текст+звук.\\nНужна игра PCSF00105 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSF00570",
+    "name": "Borderlands 2 (EU)",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSF00570/PCSF00570_rus.zip",
+    "size": 12931530,
+    "sha256": "cde0dd2a7f3c6d4addb264d8b55a78ca99392bff9320ab1a6463cce418269dbf",
+    "region": "EU",
+    "description": "Фанатский русский перевод: Rus.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
