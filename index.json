@@ -1,5 +1,5 @@
 {
- "version": "9fa747011a6a",
+ "version": "28f1582c76a3",
  "categories": {
   "ports": [
    {
@@ -4496,6 +4496,48 @@
     "region": "JP",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Zone of Games, перенос Nightmares88.\\nНужна игра PCSG00756 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSG00940",
+    "name": "AIR",
+    "version": "1.0",
+    "author": "перевод Энтузиасты Team, перенос RikuKH3",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSG00940/PCSG00940_rus.zip",
+    "size": 465674832,
+    "sha256": "872e2dc3125870395eb654b1012dc6c656c2cf34ebed988bb9e04fc24d577fa6",
+    "region": "JP",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Энтузиасты Team, перенос RikuKH3.\\nНужна игра PCSG00940 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSG01093",
+    "name": "Kono Subarashii Sekai ni Shukufuku wo! Attack of the Destroyer",
+    "version": "1.0",
+    "author": "перевод FaceOff",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSG01093/PCSG01093_rus.zip",
+    "size": 992559,
+    "sha256": "1c69008564b61d007f1e60265d150e1a2a6d0f68ac262c829573a4ae8b9964cb",
+    "region": "JP",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод FaceOff.\\nНужна игра PCSG01093 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSH10315",
+    "name": "Horizon Chase Turbo",
+    "version": "1.0",
+    "author": "перевод djonmarvel",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSH10315/PCSH10315_rus.zip",
+    "size": 11391208,
+    "sha256": "9878413b1701a8e9df56ed8f31e9c5b7970b404a8d8aa8b3508fe0458724f7c4",
+    "region": "AS",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод djonmarvel.\\nНужна игра PCSH10315 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
