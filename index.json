@@ -1,5 +1,5 @@
 {
- "version": "7855558ff70f",
+ "version": "1c351b857acb",
  "categories": {
   "ports": [
    {
@@ -1572,7 +1572,7 @@
     "version": "01.00",
     "author": "lukebrl",
     "vpk": "https://firsts3.ru/vpkgj/ports/SSXV00001/ssx_vita.vpk",
-    "data": "https://firsts3.ru/vpkgj/ports/SSXV00001/data.rar",
+    "data": "https://firsts3.ru/vpkgj/ports/SSXV00001/data.zip",
     "data_path": "ux0:data/ssx/assets",
     "size": 2716370,
     "requires": "kubridge,libshacccg",
@@ -3091,6 +3091,19 @@
     "region": "EU",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Zone of Games, перенос djonmarvel.\\nНужна игра PCSB00056 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00079",
+    "name": "Rayman Origins",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00079/PCSB00079_rus.zip",
+    "size": 375922286,
+    "sha256": "903327757025fe57fda83348b146078cf55838f48cfc44562e9359b2d664df11",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00079 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
