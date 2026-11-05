@@ -1,5 +1,5 @@
 {
- "version": "ab3195d05a5c",
+ "version": "43e3448b5ef1",
  "categories": {
   "ports": [
    {
@@ -1619,8 +1619,8 @@
     "version": "01.00",
     "author": "frangarcj",
     "vpk": "https://firsts3.ru/vpkgj/ports/SF4CE0000/SF4CE.vpk",
-    "data": "https://firsts3.ru/vpkgj/ports/SF4CE0000/data.rar",
-    "data_path": "ux0:data/sf4ce",
+    "data": "https://firsts3.ru/vpkgj/ports/SF4CE0000/data.zip",
+    "data_path": "ux0:data",
     "size": 1270545,
     "requires": "kubridge,fdfix,libshacccg",
     "icon": "ports/SF4CE0000/c.jpg",
@@ -2096,7 +2096,7 @@
     "author": "@lolkekkekkekcheburek",
     "lang": "ru",
     "vpk": "https://firsts3.ru/vpkgj/ports/ECST00001/ecstatica-vita-e1.vpk",
-    "data": "https://firsts3.ru/vpkgj/ports/ECST00001/1ecstatica1.rar",
+    "data": "https://firsts3.ru/vpkgj/ports/ECST00001/data.zip",
     "data_path": "ux0:data",
     "size": 576534,
     "description": "Ecstatica"
@@ -2134,7 +2134,7 @@
     "version": "00.00",
     "author": "@lolkekkekkekcheburek",
     "vpk": "https://firsts3.ru/vpkgj/ports/GEVT00001/GE007Vita.vpk",
-    "data": "https://firsts3.ru/vpkgj/ports/GEVT00001/DataGoldenEye.rar",
+    "data": "https://firsts3.ru/vpkgj/ports/GEVT00001/data.zip",
     "data_path": "ux0:data",
     "size": 2156199,
     "description": "GoldenEye 007\\n\\nПост"
@@ -2157,7 +2157,7 @@
     "version": "01.10",
     "author": "@lolkekkekkekcheburek",
     "vpk": "https://firsts3.ru/vpkgj/ports/HBDM00001/hebdomad.vpk",
-    "data": "https://firsts3.ru/vpkgj/ports/HBDM00001/VItaHebdomadSevenVigils.7z",
+    "data": "https://firsts3.ru/vpkgj/ports/HBDM00001/data.zip",
     "data_path": "ux0:data",
     "size": 2168062,
     "icon": "ports/HBDM00001/c.jpg",
@@ -3237,6 +3237,46 @@
     "region": "EU",
     "game_version": "01.02",
     "description": "Фанатский русский перевод: текст и звук.\\nНужна игра PCSB00275 версии 01.02.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00317",
+    "name": "Stealth Inc A Clone in the Dark",
+    "version": "2.71",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00317/PCSB00317_rus.zip",
+    "size": 66222338,
+    "sha256": "ab833b0be12420af84db07c1c49efef586258d6239c3be34016154804042212b",
+    "region": "EU",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00317 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00339",
+    "name": "FIFA 2014",
+    "version": "1.0",
+    "author": "перевод лицензия (ПК), перенос zav1977 & djonmarvel",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00339/PCSB00339_rus.zip",
+    "size": 911943,
+    "sha256": "a93730f75b63b01eda67af3d5bd217d28f0f72f528e9ad20f5ebd38f697ba59b",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод лицензия (ПК), перенос zav1977 & djonmarvel.\\nНужна игра PCSB00339 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00358",
+    "name": "Proteus",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00358/PCSB00358_rus.zip",
+    "size": 19699,
+    "sha256": "8b8ebcfbc7ec81e0bf78b5c64ea97508d82d5e83d782ab450586de220713c3e4",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00358 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
