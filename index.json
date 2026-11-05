@@ -1,5 +1,5 @@
 {
- "version": "001ec5b7db96",
+ "version": "6fa4ba49fc5a",
  "categories": {
   "ports": [
    {
@@ -4455,6 +4455,20 @@
     "region": "JP",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSG00357 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSG00497",
+    "name": "Chaos Rings I",
+    "version": "1.0",
+    "author": "перевод metastigma",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSG00497/PCSG00497_rus.zip",
+    "size": 241942769,
+    "sha256": "e7821daa947d150656f727a3a7f1a7f022014101e5871909ef190e1660dd8f18",
+    "region": "JP",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод metastigma.\\nНужна игра PCSG00497 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
