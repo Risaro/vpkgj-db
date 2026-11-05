@@ -1,5 +1,5 @@
 {
- "version": "2f9029d1a34c",
+ "version": "e0642579e0b7",
  "categories": {
   "ports": [
    {
@@ -3492,6 +3492,19 @@
     "region": "EU",
     "game_version": "01.01",
     "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00694 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00716",
+    "name": "SpongeBob HeroPants",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00716/PCSB00716_rus.zip",
+    "size": 144169136,
+    "sha256": "36b41112c4012f069fda91da70b87fbfa557c4f4915876459dc931996036d2e2",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00716 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
