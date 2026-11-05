@@ -1,5 +1,5 @@
 {
- "version": "5bbeee74cd18",
+ "version": "4fe4257b97d6",
  "categories": {
   "ports": [
    {
@@ -4175,6 +4175,19 @@
     "region": "US",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Hy60koshk, перенос darndz.\\nНужна игра PCSE00756 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00813",
+    "name": "Trillion: God of Destruction",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00813/PCSE00813_rus.zip",
+    "size": 470071511,
+    "sha256": "dbc01167be957788c67606c593141e22da9d152f23f77cc12fd440c373139b07",
+    "region": "US",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSE00813 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
