@@ -1,5 +1,5 @@
 {
- "version": "d663d136c9b4",
+ "version": "871eb6a8b463",
  "categories": {
   "ports": [
    {
@@ -4080,6 +4080,60 @@
     "region": "US",
     "game_version": "01.01",
     "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод Zone of Games, перенос FaceOff.\\nНужна игра PCSE00508 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00547",
+    "name": "Grim Fandango Remastered",
+    "version": "1.0",
+    "author": "озвучка 7-ой Волк (ПК), перенос AWaskus + текст от freonSZ",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00547/PCSE00547_rus.zip",
+    "size": 479399026,
+    "sha256": "822a97da01748eeb88ad43531aef7a9c3511716b3ec523cfe2ad587c2cae3489",
+    "region": "US",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: перевод текст+звук.\\nАвторы: озвучка 7-ой Волк (ПК), перенос AWaskus + текст от freonSZ.\\nНужна игра PCSE00547 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00582",
+    "name": "Adventure Time: the Secret of the Nameless Kingdom",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00582/PCSE00582_rus.zip",
+    "size": 10399005,
+    "sha256": "1924d5c640d61079352849f43cf170bbbd5829ecfc4b40e7f80f1febb8e43833",
+    "region": "US",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSE00582 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00597",
+    "name": "Titan Souls",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00597/PCSE00597_rus.zip",
+    "size": 198857,
+    "sha256": "9e7d29a276515af1f178c869717ef6d5f65e15410de5674d80938f3d6a521180",
+    "region": "US",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSE00597 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE00651",
+    "name": "Axiom Verge",
+    "version": "1.0",
+    "author": "перевод лицензия (ПК), перенос z@v1977 (подробнее",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE00651/PCSE00651_rus.zip",
+    "size": 11752685,
+    "sha256": "c4a8a35b7ba76561566b55e9df00728a207df9aa8873f220f879fc473c07728a",
+    "region": "US",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nАвторы: перевод лицензия (ПК), перенос z@v1977 (подробнее.\\nНужна игра PCSE00651 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
