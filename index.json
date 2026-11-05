@@ -1,5 +1,5 @@
 {
- "version": "95bcb0225c97",
+ "version": "a00d3469a3e0",
  "categories": {
   "ports": [
    {
@@ -3692,6 +3692,19 @@
     "region": "EU",
     "game_version": "01.00",
     "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00981 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSB00987",
+    "name": "Yomawari Night Alone",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSB00987/PCSB00987_rus.zip",
+    "size": 538080766,
+    "sha256": "b9312dc0c90ee85805edfa75bd45289a90a6af6b85bb8483c94f7e00bbafb717",
+    "region": "EU",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSB00987 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
