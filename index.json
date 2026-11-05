@@ -1,5 +1,5 @@
 {
- "version": "0f77fcb3b4ec",
+ "version": "37751daefe77",
  "categories": {
   "ports": [
    {
@@ -4339,6 +4339,32 @@
     "region": "US",
     "game_version": "01.02",
     "description": "Фанатский русский перевод: тестовый перевод.\\nАвторы: перевод The Miracle, перенос AlchemistLab.\\nНужна игра PCSE01033 версии 01.02.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE01044",
+    "name": "Atelier Firis: The Alchemist And The Mysterious Journey",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE01044/PCSE01044_rus.zip",
+    "size": 72495396,
+    "sha256": "53d1af01686cb92f0141aefb8975c1313e0ec73aba4b0185e377b80ee3b97227",
+    "region": "US",
+    "game_version": "01.01",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSE01044 версии 01.01.\\nrePatch ставится сам, после установки перезагрузи консоль."
+   },
+   {
+    "titleid": "PCSE01095",
+    "name": "A Hole New World",
+    "version": "1.0",
+    "lang": "ru",
+    "install": "repatch",
+    "url": "https://firsts3.ru/vpkgj/translations/PCSE01095/PCSE01095_rus.zip",
+    "size": 9642012,
+    "sha256": "6b1436be71b6f9311da6656a6425559a71c95b5acb28a39708c2d48d674ea7d5",
+    "region": "US",
+    "game_version": "01.00",
+    "description": "Фанатский русский перевод: только русский текст.\\nНужна игра PCSE01095 версии 01.00.\\nrePatch ставится сам, после установки перезагрузи консоль."
    }
   ],
   "plugins": [
