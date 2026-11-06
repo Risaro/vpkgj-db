@@ -1,5 +1,5 @@
 {
- "version": "5ad9cd8c4d43",
+ "version": "518a23b57fbf",
  "categories": {
   "ports": [
    {
@@ -9808,6 +9808,21 @@
      "homebrew/JJH000001/s3.jpg"
     ],
     "description": "MemoryGame — простая игра для тренировки мозга на PS Vita, вдохновлённая популярной игрой Simon Says.\\n\\nИсходники: github.com/JJH47E/MemoryGame\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "JJJS1222A",
+    "name": "JUMPJUMPJUMPSTART!!!",
+    "version": "1.4",
+    "author": "bayashi",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/JJJS1222A/jjjs.vpk",
+    "size": 28510095,
+    "sha256": "de93806f83af176f08fbe24b12e754c07407593f2e104cc28a829f243c4a6114",
+    "icon": "homebrew/JJJS1222A/icon.png",
+    "shots": [
+     "homebrew/JJJS1222A/s1.jpg",
+     "homebrew/JJJS1222A/s2.jpg"
+    ],
+    "description": "Жестокая игра из Японии, страны, где родилась Vita! Она довольно раздражающая, потому что хитбоксы сделаны очень точно. Стремитесь к финишу, различая блоки с хитбоксами и без них!\\n(Подтверждено, что игру можно пройти.)\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
