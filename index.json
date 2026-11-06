@@ -1,5 +1,5 @@
 {
- "version": "09fce33a3e93",
+ "version": "fb26ed392e87",
  "categories": {
   "ports": [
    {
@@ -5155,6 +5155,39 @@
      "ports/ELDRITCH1/s3.jpg"
     ],
     "description": "Порт Eldritch для PSVita на основе ремастера Reanimated.\\nEldritch — экшен от первого лица, вдохновлённый рогаликами, immersive sim и Г. Ф. Лавкрафтом.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/eldritch-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ELMA00001",
+    "name": "Elasto Mania Vita",
+    "version": "1.1",
+    "author": "bosshunter",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ELMA00001/elma.vpk",
+    "size": 574454,
+    "sha256": "072bf8f85888d1e38cf19c6d98263225997c61d7b39c81f7f2c542ed4a6081b3",
+    "icon": "ports/ELMA00001/icon.png",
+    "shots": [
+     "ports/ELMA00001/s1.jpg",
+     "ports/ELMA00001/s2.jpg",
+     "ports/ELMA00001/s3.jpg"
+    ],
+    "description": "Порт на PS Vita исходного кода Elasto Mania (2000), опубликованного командой Elasto Mania Team на https://github.com/elastomania/elma-classic.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/bosshunter/elma-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "EMOJI0001",
+    "name": "Rolling Down Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/EMOJI0001/emoji.vpk",
+    "size": 2769091,
+    "sha256": "d9957d7e83fe241135043caccb17e9ecedee56124be306cf4b7e3796370197b3",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/EMOJI0001/icon.png",
+    "shots": [
+     "ports/EMOJI0001/s1.jpg",
+     "ports/EMOJI0001/s2.jpg",
+     "ports/EMOJI0001/s3.jpg"
+    ],
+    "description": "Это обёртка/порт Rolling Down: Emoji Adventure для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, и он патчится для корректной работы. По сути, это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/rolling-down-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -7065,6 +7098,49 @@
     "requires": "libshacccg",
     "icon": "homebrew/ELEB00002/icon.png",
     "description": "GPU-бенчмарк, портированный с ПК-версии ElectroBench того же разработчика. Содержит 2 сцены, очень ресурсоёмкий, поэтому запускается медленно. Использует vitaGL. Многопоточный.\\n\\nИсходники: github.com/deadbeef7/ElectroBench\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ELEVENMPV",
+    "name": "ElevenMPV",
+    "version": "2.10",
+    "author": "joel16",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ELEVENMPV/ElevenMPV.vpk",
+    "size": 2440427,
+    "sha256": "baf7a7182340210eb239f9a82e8139cdfcbc31343011ab9fbb44e63c900c9c17",
+    "icon": "homebrew/ELEVENMPV/icon.png",
+    "shots": [
+     "homebrew/ELEVENMPV/s1.jpg"
+    ],
+    "description": "Хоумбрю-музыкальный плеер для Playstation VITA, цель которого — поддерживать намного больше аудиоформатов, чем официальное музыкальное приложение PS VITA.\\n\\nИсходники: github.com/joel16/ElevenMPV\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ELICRY001",
+    "name": "Crystal PSM",
+    "version": "1",
+    "author": "Eli Crystal",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ELICRY001/CrystalPSM.vpk",
+    "size": 693250,
+    "sha256": "cedae322167eac05471c427c5b447f4acdd4120078c9faad2633dce5d43c104d",
+    "icon": "homebrew/ELICRY001/icon.png",
+    "shots": [
+     "homebrew/ELICRY001/s1.jpg"
+    ],
+    "description": "CrystalPSM installer — установщик в один клик, который скачивает и устанавливает PSM runtime для PS Vita.\\nСтремится быть легальным, быстрым и имеет современный стильный интерфейс.\\n\\nИсходники: github.com/EliCrystal2001/CrystalPSM\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ELICRY002",
+    "name": "Crystal Archiver",
+    "version": "1.0",
+    "author": "Eli Crystal",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ELICRY002/CrystalArchiver.vpk",
+    "size": 804205,
+    "sha256": "3480088834d4c0fdcf609723a8d2aa9284fe16ffda5ec20ba825d40c7239dd1e",
+    "icon": "homebrew/ELICRY002/icon.png",
+    "shots": [
+     "homebrew/ELICRY002/s1.jpg",
+     "homebrew/ELICRY002/s2.jpg"
+    ],
+    "description": "CrystalArchiver — массовый архиватор лицензий PSM в один клик, не требующий запуска каждой PSM-игры. Проект создан для PSM Yaroze, цель которого — сохранить не только историю PSM, но и историю Sony и независимых разработчиков.\\nКаждая лицензия резервируется вызовом оригинальных DRM-функций, использовавшихся оригинальным PSM-приложением, после чего создаётся обезличенный ключ в формате FAKE.RIF, используемом NoPSMDRM. Обезличенный ключ позволяет расшифровать бэкап и играть без активации PSM при наличии оригинальных файлов PSM. Поскольку он не привязан к конкретному пользователю, в нём нет персональной информации. Это позволяет играть в ваши PSM-игры на другой вашей Vita, даже если вы не активировали или не скачали их до закрытия PSM. Можно даже играть на ПК с Windows. Обратите внимание: инструмент предназначен для создания бэкапов, и мы просим не использовать его ни для чего, что может навредить разработчикам. Многие PSM-игры были портированы на другие системы, где их можно продолжать поддерживать.\\nПосле запуска CrystalArchiver бэкапы лицензий будут лежать в ux0:/data/psm.\\n\\nИсходники: github.com/EliCrystal2001/CrystalArchiver\\nИсточник: VitaDB."
    }
   ],
   "translations": [
