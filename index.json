@@ -1,5 +1,5 @@
 {
- "version": "948e27dfb4ed",
+ "version": "06828bb67b5b",
  "categories": {
   "ports": [
    {
@@ -4598,6 +4598,45 @@
      "ports/DDEF00001/s3.jpg"
     ],
     "description": "Defender II — довольно классическая игра в жанре tower defense / защита замка, в которой нужно отбивать бесконечные волны врагов с помощью лука и мощной магии.\\nВы играете за последнего защитника: вручную стреляете из лука и прокачиваете силу, скорость и способности. По ходу игры враги становятся сильнее и опаснее, поэтому нужно совершенствовать навыки и открывать новые средства защиты, такие как магические башни и особые силы.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rocroverss/Defender-II-PS-Vita-Port\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DDLCLOVE0",
+    "name": "DDLC-LOVE",
+    "version": "1.2.2",
+    "author": "LukeZGD",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DDLCLOVE0/DDLC-LOVE.vpk",
+    "size": 82097872,
+    "sha256": "fa8190f3da59364f109f8b01eabaadf364d8b058a0d2146adadc45832dae495b",
+    "icon": "ports/DDLCLOVE0/icon.png",
+    "shots": [
+     "ports/DDLCLOVE0/s1.jpg"
+    ],
+    "description": "DDLC-LOVE — порт Doki Doki Literature Club, написанный на Lua для Nintendo Switch, 3DS, Sony PS Vita, PSP и PS3!\\n\\nИсходники: github.com/LukeZGD/DDLC-LOVE\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DEADKNI01",
+    "name": "Dead Knight",
+    "version": "1.0",
+    "author": "rodentcat",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DEADKNI01/DeadKnight.vpk",
+    "size": 2870412,
+    "sha256": "84f18574e880ea1e956ba5d80f9023ca026738fc9a6c4d980ed7a7436098363b",
+    "icon": "ports/DEADKNI01/icon.png",
+    "description": "Dead Knight - Pocket Edition — урезанная версия готовящейся рогалик-метроидвании Dead Knight. Сделана для GBJam 4.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DEFD20485",
+    "name": "2048-Vita",
+    "version": "1.0",
+    "author": "FantaHourglass",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DEFD20485/2048-Vita.vpk",
+    "size": 34205612,
+    "sha256": "a9a93e3e30e2da2eadba807f00322bfae5cbe30330d17049d6e01637da85e223",
+    "icon": "ports/DEFD20485/icon.png",
+    "shots": [
+     "ports/DEFD20485/s1.jpg"
+    ],
+    "description": "Простой порт 2048 для PSVITA/PSTV.\\n\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -6206,6 +6245,23 @@
      "homebrew/DBMA00001/s1.jpg"
     ],
     "description": "Инструмент для управления расположением иконок на VITA и базой данных приложений.\\n\\nИсходники: github.com/deltaclock/Database-Manager\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DEDALOX64",
+    "name": "Daedalus X64",
+    "version": "Nightly",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DEDALOX64/DaedalusX64.vpk",
+    "data": "https://firsts3.ru/vpkgj/homebrew/DEDALOX64/data.zip",
+    "data_path": "ux0:data",
+    "size": 3152182,
+    "sha256": "b6d077c2845ce252ed6ca6f39356d0b6f85be6b2ecee1db305d7198f0a65f94c",
+    "icon": "homebrew/DEDALOX64/icon.png",
+    "shots": [
+     "homebrew/DEDALOX64/s1.jpg",
+     "homebrew/DEDALOX64/s2.jpg"
+    ],
+    "description": "Эта сборка обновляется каждую ночь в полночь по тихоокеанскому времени (PDT) до последнего ночного релиза. Daedalus X64 — эмулятор Nintendo 64, изначально для Linux и PSP, портированный на PSVITA благодаря использованию vitaGL.\\n\\nИсходники: github.com/Rinnegatamante/DaedalusX64-vitaGL\\nИсточник: VitaDB."
    }
   ],
   "translations": [
