@@ -1,5 +1,5 @@
 {
- "version": "af3d3d011f31",
+ "version": "4278a013749a",
  "categories": {
   "ports": [
    {
@@ -4294,6 +4294,100 @@
      "ports/CCLESTVIT/s3.jpg"
     ],
     "description": "Порт для PSVITA/PSTV переносимого порта на C оригинальной Celeste (Celeste Classic) для PICO-8.\\nCeleste — платформер, в котором игрок управляет девушкой по имени Мадлен, поднимающейся на гору и избегающей разных смертельных препятствий.\\n\\nИсходники: github.com/Decomius/ccleste-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CDOG00001",
+    "name": "C-Dogs SDL Vita",
+    "version": "Preview 1",
+    "author": "abduct",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CDOG00001/cdogs.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/CDOG00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 2023006,
+    "sha256": "b013d18b7ced5416aae7fb84c198e243a370700658b4f0a546943dcb64390c35",
+    "icon": "ports/CDOG00001/icon.png",
+    "shots": [
+     "ports/CDOG00001/s1.jpg",
+     "ports/CDOG00001/s2.jpg"
+    ],
+    "description": "C-Dogs SDL — классическая игра с видом сверху в жанре run-and-gun, поддерживает до 4 игроков в кооперативном режиме и в режиме deathmatch. Настраивайте своего персонажа, выбирайте из множества видов оружия и пробивайте себе путь через более чем 100 пользовательских кампаний. Приятной игры!\\n\\nИсходники: github.com/abduct/cdogs-sdl/tree/vita-port\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CFFVNPGAW",
+    "name": "Girls Are Weird",
+    "version": "1.0",
+    "author": "10TR!LL!ON Percent%",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CFFVNPGAW/GirlsAreWeird.vpk",
+    "size": 950453,
+    "sha256": "99dc275ed3794b78948e91d31e4f9a73d9427a2314514f2b9805f9ce9051c12b",
+    "icon": "ports/CFFVNPGAW/icon.png",
+    "shots": [
+     "ports/CFFVNPGAW/s1.jpg"
+    ],
+    "description": "Порт визуальной новеллы Girls are Weird для PSVITA/PSTV.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CGEN00001",
+    "name": "Commander Genius",
+    "version": "3.0.9-vita.2",
+    "author": "Northfear",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CGEN00001/CommanderGenius.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/CGEN00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 3865398,
+    "sha256": "f75d0de1c919f0f8a8da970c7882a4e3ddaf981678a1a15ff2ea5f53f459e628",
+    "icon": "ports/CGEN00001/icon.png",
+    "shots": [
+     "ports/CGEN00001/s1.jpg",
+     "ports/CGEN00001/s2.jpg",
+     "ports/CGEN00001/s3.jpg"
+    ],
+    "description": "Порт Commander Genius для PSVITA/PSTV. Commander Genius — клон Commander Keen (1-6, Dreams) с открытым исходным кодом, позволяющий играть в эти эпизоды и в некоторые моды для них.\\n\\nИсходники: github.com/Northfear/Commander-Genius\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CHEX00001",
+    "name": "Chex Quest Vita",
+    "version": "1.0",
+    "author": "DraxTube",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CHEX00001/ChexQuestVita.vpk",
+    "size": 277555,
+    "sha256": "802fe2f56d2c2b2988f890ff2085e08681b6c9338d5ad100eca1e63161676769",
+    "icon": "ports/CHEX00001/icon.png",
+    "shots": [
+     "ports/CHEX00001/s1.jpg",
+     "ports/CHEX00001/s2.jpg"
+    ],
+    "description": "Порт doomgeneric для PSVita.\\nЦель doomgeneric — упростить портирование Doom. Конечно, Doom и так хорошо переносится, но с doomgeneric для этого достаточно реализовать всего несколько функций.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CHEX00004",
+    "name": "Chex Quest Collection",
+    "version": "2.0",
+    "author": "SancioPanza88",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CHEX00004/ChexQuestCollection.vpk",
+    "size": 2289411,
+    "sha256": "e64158b0503b1fc14481f14326df78da03880eff02f63bc7bf8fe5d9dcfb9dc4",
+    "icon": "ports/CHEX00004/icon.png",
+    "shots": [
+     "ports/CHEX00004/s1.jpg"
+    ],
+    "description": "Одно приложение для Vita с Chex Quest 1, Chex Quest 2 и Chex Quest 3: Vanilla Edition. Игра выбирается крестовиной, подтверждение — Cross или START.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/SancioPanza88/chex-quest-collection\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CHROMONO2",
+    "name": "chro.mono 2",
+    "version": "1.0",
+    "author": "thp",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CHROMONO2/chromono2.vpk",
+    "size": 5595880,
+    "sha256": "4f62741872e63bffd44e7e92603bcaf5d2bbce90ca67a04a395b1ddf24571258",
+    "icon": "ports/CHROMONO2/icon.png",
+    "shots": [
+     "ports/CHROMONO2/s1.jpg",
+     "ports/CHROMONO2/s2.jpg",
+     "ports/CHROMONO2/s3.jpg"
+    ],
+    "description": "chro.mono 2 — головоломка для мобильных устройств. Решайте головоломки на время в 120 увлекательных уровнях, разбитых на 6 наборов. Улучшайте результат, проходя уровни быстрее целевого времени.\\n\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -5511,6 +5605,89 @@
      "homebrew/CCST00100/s1.jpg"
     ],
     "description": "CrossCraft-SurvivalTest — проект, цель которого реализовать Minecraft Java Edition: Classic Survival Test. Это не клон. CrossCraft не использует исходный код оригинальной игры, и разработчики не знакомы с этим кодом. CrossCraft не использует оригинальные защищённые авторским правом ресурсы. Всё выяснено по документации и наблюдению за игровой механикой.\\n\\nИсходники: github.com/CrossCraft/CrossCraft-SurvivalTest\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CFNE00001",
+    "name": "Caffeine for Vita",
+    "version": "1.0.0",
+    "author": "M-Essa11",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CFNE00001/CaffeineForVita.vpk",
+    "size": 80008,
+    "sha256": "af7f5f91e66962fba7ffbe0d371984759c8097919ea853443d4a267bcb4fe1b8",
+    "icon": "homebrew/CFNE00001/icon.png",
+    "shots": [
+     "homebrew/CFNE00001/s1.jpg",
+     "homebrew/CFNE00001/s2.jpg"
+    ],
+    "description": "Caffeine for Vita добавляет в Quick Menu PS Vita переключатель, предотвращающий уход в спящий режим. Когда он включён, экран остаётся активным, а автоматический переход в режим ожидания не срабатывает. Ручной переход в режим ожидания остаётся доступен.\\nПосле каждой перезагрузки переключатель выключен. Его состояние и синий индикатор-чашка остаются синхронизированными при закрытии и повторном открытии Quick Menu.\\n\\nИсходники: github.com/M-Essa11/Caffeine-for-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CHAI00001",
+    "name": "vita-chain",
+    "version": "0.2",
+    "author": "svennd",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CHAI00001/chain.vpk",
+    "size": 2300177,
+    "sha256": "231613204b48a1e4d9414ac738b4d75813f45183722c4db7478dc6288c13b95d",
+    "icon": "homebrew/CHAI00001/icon.png",
+    "shots": [
+     "homebrew/CHAI00001/s1.jpg"
+    ],
+    "description": "Игра с цепной реакцией для PSVITA/PSTV, написанная на Lua.\\n\\nИсходники: github.com/svennd/vita-chain\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CHIAKI001",
+    "name": "Vitaki",
+    "version": "0.06c",
+    "author": "ywnico & AAGaming",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CHIAKI001/Vitaki.vpk",
+    "size": 1715588,
+    "sha256": "0b53e0c10eb1694c552d79d79539560fac5f8df1634a2afa4d643577806cb339",
+    "icon": "homebrew/CHIAKI001/icon.png",
+    "description": "Порт Chiaki — приложения, позволяющего стримить PS5 на другие устройства.\\n\\nИсходники: github.com/ywnico/vitaki-fork\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CHICKENS2",
+    "name": "Chicken Launcher",
+    "version": "1.0",
+    "author": "crait",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CHICKENS2/chickenlauncher.vpk",
+    "size": 415129,
+    "sha256": "8275488b6501da6f2dec281e9cf12283465602f294a9c5ef75d4eb5a7bb35cbe",
+    "icon": "homebrew/CHICKENS2/icon.png",
+    "shots": [
+     "homebrew/CHICKENS2/s1.jpg"
+    ],
+    "description": "Chicken Launcher — затягивающая небольшая игра по мотивам Kitten Cannon, в которой нужно запустить курицу как можно дальше. Попадайте на трамплины и TNT, чтобы получить сильный ускоряющий толчок, но остерегайтесь шипов! Ваш рекорд записывается и сохраняется.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CHIMRSNES",
+    "name": "ChimeraSNES",
+    "version": "1.01",
+    "author": "jamsilva",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CHIMRSNES/ChimeraSNES.vpk",
+    "size": 3464525,
+    "sha256": "fd6869ffa29398dc0b3d58ca14311e83cc62caf4ae90d9ca2f4938dc78d66d56",
+    "icon": "homebrew/CHIMRSNES/icon.png",
+    "description": "Отдельный эмулятор Super Nintendo, использующий ChimeraSNES в качестве ядра эмуляции и Emu4Vita в качестве оболочки.\\n\\nИсходники: github.com/jamsilva/emu4vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CHIP00001",
+    "name": "MicroCHIP",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CHIP00001/MicroCHIP.vpk",
+    "data": "https://firsts3.ru/vpkgj/homebrew/CHIP00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 2432568,
+    "sha256": "cfa59ee96caf08f989f35305a8fb99d197e23124997e2530601f4936eab03bee",
+    "icon": "homebrew/CHIP00001/icon.png",
+    "shots": [
+     "homebrew/CHIP00001/s1.jpg",
+     "homebrew/CHIP00001/s2.jpg",
+     "homebrew/CHIP00001/s3.jpg"
+    ],
+    "description": "MicroCHIP — эмулятор CHIP-8/SCHIP-8 (SUPERCHIP-8) для PSVITA/PSTV, полностью написанный на Lua с использованием lpp-vita.\\nПоддерживает настройку тем, переназначение клавиш, сохранения состояния и имеет опциональный встроенный отладчик.\\n\\nИсходники: github.com/Rinnegatamante/MicroCHIP\\nИсточник: VitaDB."
    }
   ],
   "translations": [
