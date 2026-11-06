@@ -1,5 +1,5 @@
 {
- "version": "4f3930c89959",
+ "version": "60e60dbac1fe",
  "categories": {
   "ports": [
    {
@@ -6347,6 +6347,82 @@
      "ports/IPAV00001/s3.jpg"
     ],
     "description": "Italian Plumber Adventures — новое приключение с неизвестным героем, переосмысленное с точки зрения JDSoft.\\nОригинальная игра от JDSoft.\\n\\nИсходники: github.com/MEGAgameBoy/Italian-Plumber-Adventures-PS-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ISLD00002",
+    "name": "Slime-vBall",
+    "version": "1.0.0",
+    "author": "Island_Games",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ISLD00002/Slime-vBall.vpk",
+    "size": 429097,
+    "sha256": "65f482f9548eb793d2894da0416f21665aec0fc894124233ae68e7a039df052f",
+    "icon": "ports/ISLD00002/icon.png",
+    "shots": [
+     "ports/ISLD00002/s1.jpg",
+     "ports/ISLD00002/s2.jpg",
+     "ports/ISLD00002/s3.jpg"
+    ],
+    "description": "Порт slime-vball для PSVITA/PSTV.\\nslime-vball — клон игры про волейбол со слизнями http://oneslime.net/ на C и SDL.\\n\\nИсходники: github.com/island-games/slime-vball\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ISLD00004",
+    "name": "Defendguin",
+    "version": "1.0",
+    "author": "Island_Games",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ISLD00004/Defendguin.vpk",
+    "size": 2961100,
+    "sha256": "381b4547932cb62acdc6fdfa6f6f1e1f3f1e624986d6418778793d362f5022b3",
+    "icon": "ports/ISLD00004/icon.png",
+    "shots": [
+     "ports/ISLD00004/s1.jpg",
+     "ports/ISLD00004/s2.jpg",
+     "ports/ISLD00004/s3.jpg"
+    ],
+    "description": "Defendguin — клон аркадной игры «Defender» в стиле Linux. Ваша задача — защищать маленьких пингвиноидов от захвата и мутации.\\n\\nИсходники: github.com/island-games/Defendguin\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ISLD00005",
+    "name": "Tux Football Vita",
+    "version": "1.0",
+    "author": "Island_Games",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ISLD00005/TuxFootball.vpk",
+    "size": 8489084,
+    "sha256": "3700a36174b5a40b8c2965b7bd544d9ba2a1747cf6deb173566f9d470e648d84",
+    "icon": "ports/ISLD00005/icon.png",
+    "shots": [
+     "ports/ISLD00005/s1.jpg",
+     "ports/ISLD00005/s2.jpg",
+     "ports/ISLD00005/s3.jpg"
+    ],
+    "description": "Порт Tux Football на PS Vita. Игра поддерживает 2 игроков (PSTV), однако этот режим не проверялся.\\n\\nИсходники: github.com/island-games/Tux-Football-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ISOTPE244",
+    "name": "Isotope 244 Collection",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ISOTPE244/isotope.vpk",
+    "size": 5415624,
+    "sha256": "87fab587d32967b29798b756d20365b829fa7f04b4b6ff7631f7b52c3d15a534",
+    "requires": "libshacccg,kubridge,fdfix",
+    "icon": "ports/ISOTPE244/icon.png",
+    "shots": [
+     "ports/ISOTPE244/s1.jpg",
+     "ports/ISOTPE244/s2.jpg",
+     "ports/ISOTPE244/s3.jpg"
+    ],
+    "description": "Обёртка/порт Machines at War 3 и Land Air Sea Warfare для PS Vita.\\nПорт работает так: официальные исполняемые файлы Android ARMv7 загружаются в память, их импорты заменяются нативными функциями, а сами файлы патчатся для корректного запуска. Фактически это эмуляция минималистичной среды Android, в которой исполняемые файлы запускаются нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/Isotope-244-Collection\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ISSY00001",
+    "name": "The Curse of Issyos",
+    "version": "1.0",
+    "author": "ivanproff",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ISSY00001/Issyos.vpk",
+    "size": 3811255,
+    "sha256": "3a9d3ed71ecbcb2a8cc6361bebe90a1db4772110f957e27715f1ae5464b9be05",
+    "icon": "ports/ISSY00001/icon.png",
+    "description": "The Curse of Issyos — ретро-экшен-платформер, в котором есть всё, что обычно бывает в старых 8-битных играх: куча врагов и боссов, линейные уровни и уровни со свободной прокруткой, секреты и сюжет, вдохновлённый греческой мифологией. Он не пытается копировать какую-то конкретную ретро-систему, но последователен в собственных ограничениях по использованию цветов, спрайтов и чип-звуков.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -9505,6 +9581,69 @@
     "sha256": "8c3686083a30c957f5b11676f36d11d02e1cabae6c74f809ac82040f9f47f1b1",
     "icon": "homebrew/IMNG00001/icon.png",
     "description": "Медиаплеер в стиле Coverflow для PSVita.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ISITFAKE0",
+    "name": "Is It Fake?",
+    "version": "2b",
+    "author": "AntHJ",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ISITFAKE0/IsItFake.vpk",
+    "size": 5594486,
+    "sha256": "fdbbfe8fb8e4e98824f757bb42681ab893e1de02b275def64c4e07a84455e99f",
+    "icon": "homebrew/ISITFAKE0/icon.png",
+    "shots": [
+     "homebrew/ISITFAKE0/s1.jpg",
+     "homebrew/ISITFAKE0/s2.jpg",
+     "homebrew/ISITFAKE0/s3.jpg"
+    ],
+    "description": "Суть приложения в том, что оно смотрит ёмкость SD-карты и сравнивает её с таблицей значений SD, чтобы понять, укладывается ли она в параметры настоящей карты.\\n\\nИсходники: github.com/AntHJ/Is-It-Fake\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ISLD00000",
+    "name": "A Super Small SHMUP",
+    "version": "1.02",
+    "author": "Island_Games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ISLD00000/ASUPERSMALLSHMUP.vpk",
+    "size": 2687137,
+    "sha256": "6f09b660c1d7a38a2873b1ada60f0c285a6af7e1fdf5e1b17f4c463ff67aa85f",
+    "icon": "homebrew/ISLD00000/icon.png",
+    "shots": [
+     "homebrew/ISLD00000/s1.jpg",
+     "homebrew/ISLD00000/s2.jpg",
+     "homebrew/ISLD00000/s3.jpg"
+    ],
+    "description": "Небольшая игра в духе Galaga для PSVita. 10 волн и битва с боссом. Также это первая игра, использующая систему трофеев Bartender.\\n\\nИсходники: github.com/island-games/A-Super-Small-Shmup\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "IVOAH0001",
+    "name": "Portalban",
+    "version": "1.0.1",
+    "author": "Noah \"Ivoah\" Rosamilia",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/IVOAH0001/portalban.vpk",
+    "size": 1136564,
+    "sha256": "1f80f91ea37379f54251098063616edd4b09eb0a823a823a9ff8791dc869d141",
+    "icon": "homebrew/IVOAH0001/icon.png",
+    "shots": [
+     "homebrew/IVOAH0001/s1.jpg",
+     "homebrew/IVOAH0001/s2.jpg"
+    ],
+    "description": "Portalban — клон sokoban, в котором у вас есть портальная пушка.\\n\\nИсходники: github.com/Ivoah/portalban\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "IWBTDEMO1",
+    "name": "I WILL BE THERE",
+    "version": "Demo",
+    "author": "tayfuntuna",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/IWBTDEMO1/there_demo.vpk",
+    "size": 39536958,
+    "sha256": "a13207a57052f3124bec787ebadfdb77ab51a57da3f498cba683120af0dd2adc",
+    "icon": "homebrew/IWBTDEMO1/icon.png",
+    "shots": [
+     "homebrew/IWBTDEMO1/s1.jpg",
+     "homebrew/IWBTDEMO1/s2.jpg",
+     "homebrew/IWBTDEMO1/s3.jpg"
+    ],
+    "description": "I WILL BE THERE — процедурно генерируемая point & click игра в жанре выживания и приключения.\\nПользователи PlayStation Vita могут насладиться этой демо-версией эксклюзивно, если у них включены функции хомбрю.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
