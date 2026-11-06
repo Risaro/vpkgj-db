@@ -1,5 +1,5 @@
 {
- "version": "8200c930830d",
+ "version": "91d5ad12cdd3",
  "categories": {
   "ports": [
    {
@@ -6094,6 +6094,38 @@
      "homebrew/CXZV00001/s3.jpg"
     ],
     "description": "Приложение для установки плагина fontRedirect и выбора шрифтов через графический интерфейс.\\n\\nИсходники: github.com/cxziaho/fontInstaller\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "D33S00001",
+    "name": "Sakura Pass",
+    "version": "0.75",
+    "author": "Digital33",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/D33S00001/SakuraPass.vpk",
+    "size": 18770010,
+    "sha256": "615cc0f74901b5dd4edebac73e6e0c1b26909cda24ad580c9c6168f71367d020",
+    "icon": "homebrew/D33S00001/icon.png",
+    "shots": [
+     "homebrew/D33S00001/s1.jpg",
+     "homebrew/D33S00001/s2.jpg",
+     "homebrew/D33S00001/s3.jpg"
+    ],
+    "description": "Жестокая однопользовательская гоночная игра с упрощённой, дружелюбной моделью вождения, которая вознаграждает правильную траекторию и безжалостно наказывает за ошибки в технике.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "D33S00002",
+    "name": "Minotaur",
+    "version": "1.5",
+    "author": "Digital33",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/D33S00002/Minotaur.vpk",
+    "size": 13147507,
+    "sha256": "c3462e5bf95d403d797ca94a51a55a7fd9410a214ecf3a845c946f2016b200fe",
+    "icon": "homebrew/D33S00002/icon.png",
+    "shots": [
+     "homebrew/D33S00002/s1.jpg",
+     "homebrew/D33S00002/s2.jpg",
+     "homebrew/D33S00002/s3.jpg"
+    ],
+    "description": "Войдите в лабиринт и проверьте свою смелость и смекалку. Удастся ли вам добраться до выхода, или вы погибнете от могучего топора МИНОТАВРА?\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
