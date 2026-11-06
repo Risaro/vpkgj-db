@@ -1,5 +1,5 @@
 {
- "version": "6e2bec668eda",
+ "version": "f5ce750e5a20",
  "categories": {
   "ports": [
    {
@@ -5238,6 +5238,40 @@
      "ports/ENIGMA000/s3.jpg"
     ],
     "description": "Порт на Vita игры Enigma — головоломки на ловкость и логику, вдохновлённой Oxyd на Atari ST и Rock'n'Roll на Amiga.\\n\\nИсходники: github.com/rsn8887/Enigma\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "EVS000010",
+    "name": "Everlasting Summer Vita",
+    "version": "1.10",
+    "author": "avonder",
+    "vpk": "https://firsts3.ru/vpkgj/ports/EVS000010/everlasting_summer.vpk",
+    "size": 637289911,
+    "sha256": "7ca5e29a62a7714c0d31d04ec6ce41ba35f234e714f2c04564ba4f9d63200ba4",
+    "icon": "ports/EVS000010/icon.png",
+    "shots": [
+     "ports/EVS000010/s1.jpg",
+     "ports/EVS000010/s2.jpg",
+     "ports/EVS000010/s3.jpg"
+    ],
+    "description": "Порт Everlasting Summer для PSVITA.\\nEverlasting Summer — культовая полнометражная русская визуальная новелла 2013 года, изначально созданная Soviet Games.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "EXULT0042",
+    "name": "Exult Vita",
+    "version": "1.9.vita.2",
+    "author": "einmueller",
+    "vpk": "https://firsts3.ru/vpkgj/ports/EXULT0042/exult.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/EXULT0042/data.zip",
+    "data_path": "ux0:data",
+    "size": 3980825,
+    "sha256": "3d91a196fcab1fbdd6a53df7458b03477982754d76e8ab0df31f9c3da255b78c",
+    "icon": "ports/EXULT0042/icon.png",
+    "shots": [
+     "ports/EXULT0042/s1.jpg",
+     "ports/EXULT0042/s2.jpg",
+     "ports/EXULT0042/s3.jpg"
+    ],
+    "description": "Ultima 7, RPG начала 1990-х, до сих пор имеет огромную армию поклонников. Но поскольку это DOS-игра с очень нестандартным менеджером памяти, запустить её на современных компьютерах непросто. Exult — проект по созданию игрового движка Ultima 7, работающего на современных операционных системах и способного использовать файлы данных и графики из комплекта игры.\\n\\nИсходники: github.com/einmueller/exult-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -7334,6 +7368,21 @@
      "homebrew/EUCLIOD01/s2.jpg"
     ],
     "description": "EUCLIOD — стилизованная bullet hell игра с несколькими уровнями (также поддерживаются пользовательские уровни), разными типами врагов и боссов и разными игровыми кораблями. Есть также шкала сложности, чтобы новички в bullet hell могли начать тренироваться.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "EXTN00001",
+    "name": "Noisy Mansion",
+    "version": "1.0",
+    "author": "Extintor Incendiandose",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/EXTN00001/Noisy_Mansion.vpk",
+    "size": 36432550,
+    "sha256": "b8df991d4573ad836080bc260512ab8b9d09170ed152e57e6d2d4ded33cff7a1",
+    "icon": "homebrew/EXTN00001/icon.png",
+    "shots": [
+     "homebrew/EXTN00001/s1.jpg",
+     "homebrew/EXTN00001/s2.jpg"
+    ],
+    "description": "Хоррор для PSVita, действие которого происходит в заброшенном доме.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
