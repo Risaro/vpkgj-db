@@ -1,5 +1,5 @@
 {
- "version": "6045d78d5911",
+ "version": "af3d3d011f31",
  "categories": {
   "ports": [
    {
@@ -4278,6 +4278,22 @@
      "ports/CCDV33333/s3.jpg"
     ],
     "description": "Порт ремейка на Unity от Dimolade. Добро пожаловать в Crazy Cattle 3D — захватывающую королевскую битву, где вы управляете взрывными овцами в хаотичном состязании на выживание в трёх разных мировых локациях. Овладейте физическим управлением, перехитрите соперников и станьте последней овцой на ногах!\\n\\nИсходники: github.com/Lordchickenblaster/Crazy-Cattle-Vita/releases\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CCLESTVIT",
+    "name": "ccleste-vita",
+    "version": "1.0",
+    "author": "Decomius",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CCLESTVIT/ccleste-vita.vpk",
+    "size": 2408396,
+    "sha256": "74e1b1287c832ee1778bf347b8e55dbed071c7123c67d1877ebf39049635ea76",
+    "icon": "ports/CCLESTVIT/icon.png",
+    "shots": [
+     "ports/CCLESTVIT/s1.jpg",
+     "ports/CCLESTVIT/s2.jpg",
+     "ports/CCLESTVIT/s3.jpg"
+    ],
+    "description": "Порт для PSVITA/PSTV переносимого порта на C оригинальной Celeste (Celeste Classic) для PICO-8.\\nCeleste — платформер, в котором игрок управляет девушкой по имени Мадлен, поднимающейся на гору и избегающей разных смертельных препятствий.\\n\\nИсходники: github.com/Decomius/ccleste-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -5462,6 +5478,39 @@
      "homebrew/CCC000110/s1.jpg"
     ],
     "description": "CrossCraft-Classic — проект, цель которого — воссоздать Minecraft Java Edition: Classic, не заглядывая в исходный код оригинального приложения и не используя оригинальные защищённые авторским правом ресурсы. Всё основано на понимании игровых механик и приближено к оригиналу как можно точнее.\\n\\nИсходники: github.com/CrossCraft/CrossCraft-Classic\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CCFC12345",
+    "name": "Cartoon Combatt: Flying Circus",
+    "version": "0.45.5 Beta",
+    "author": "MRKane",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CCFC12345/CCFC.vpk",
+    "size": 63007285,
+    "sha256": "74c82b9da81ce0432d81344cb70ad056941523595ba8f5703918a95a2e33fea4",
+    "icon": "homebrew/CCFC12345/icon.png",
+    "shots": [
+     "homebrew/CCFC12345/s1.jpg",
+     "homebrew/CCFC12345/s2.jpg",
+     "homebrew/CCFC12345/s3.jpg"
+    ],
+    "description": "Cartoon Combatt: Flying Circus (CCFC) — стратегическая игра про воздушные бои с аркадным уклоном. Вы играете за пилота, которому нужно выполнять задания, чтобы расширять территорию, контролируемую вашей стороной конфликта. Игра находится в активной разработке.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CCST00100",
+    "name": "CrossCraft SurvivalTest",
+    "version": "ST4",
+    "author": "Iridescence & MotoLegacy",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CCST00100/CrossCraft-SurvivalTest.vpk",
+    "data": "https://firsts3.ru/vpkgj/homebrew/CCST00100/data.zip",
+    "data_path": "ux0:data",
+    "size": 10000187,
+    "sha256": "9bfe340cc776e6dafc95dbd27e6d3d8dfe5b80e5e79a2a99530622241d138131",
+    "requires": "libshacccg",
+    "icon": "homebrew/CCST00100/icon.png",
+    "shots": [
+     "homebrew/CCST00100/s1.jpg"
+    ],
+    "description": "CrossCraft-SurvivalTest — проект, цель которого реализовать Minecraft Java Edition: Classic Survival Test. Это не клон. CrossCraft не использует исходный код оригинальной игры, и разработчики не знакомы с этим кодом. CrossCraft не использует оригинальные защищённые авторским правом ресурсы. Всё выяснено по документации и наблюдению за игровой механикой.\\n\\nИсходники: github.com/CrossCraft/CrossCraft-SurvivalTest\\nИсточник: VitaDB."
    }
   ],
   "translations": [
