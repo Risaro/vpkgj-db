@@ -1,5 +1,5 @@
 {
- "version": "1685f3be40db",
+ "version": "4959ce35cdea",
  "categories": {
   "ports": [
    {
@@ -4942,6 +4942,127 @@
      "ports/DROP54000/s3.jpg"
     ],
     "description": "Dropsy — нетрадиционный взгляд на классический point-and-click квест. Главный герой, вечно беззаботный клоун, исследует богато детализированный мир, полный ярких персонажей и зловещих тайн, и раздаёт объятия по пути.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DRRE01002",
+    "name": "Toziuha Night Dracula's Revenge Vita",
+    "version": "1.0",
+    "author": "Rocroverss",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DRRE01002/tozuha.vpk",
+    "size": 15739918,
+    "sha256": "0e5545025527fbd8d44f7b139580544027d26e483ec2aee24247dac1a1536c0d",
+    "icon": "ports/DRRE01002/icon.png",
+    "shots": [
+     "ports/DRRE01002/s1.jpg",
+     "ports/DRRE01002/s2.jpg",
+     "ports/DRRE01002/s3.jpg"
+    ],
+    "description": "Toziuha Night Dracula's Revenge — 2D экшен-платформер с боковой прокруткой в стиле классических Castlevania. Путешествуйте по разным линейным картам в тёмном фэнтезийном мире, таким как мрачный лес и замок графа Дракулы.\\nВы играете за Ксандрию, красивую и умелую алхимика, которая с помощью железного кнута сражается с самыми страшными демонами и другими алхимиками.\\nДля лучшей производительности рекомендуется выставить качество графики 1 на вкладке настроек.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DRTCANADA",
+    "name": "Death Road to Canada Lite",
+    "version": "1.0",
+    "author": "Rinnegatamante & CatoTheYounger",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DRTCANADA/Canada.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/DRTCANADA/data.zip",
+    "data_path": "ux0:data",
+    "size": 2399930,
+    "sha256": "1bfeffb79b57e6cffc86da022bc4407a6dcfc2ceb5b31d1ef5f2c9073f3fa7a0",
+    "requires": "libshacccg,kubridge,fdfix",
+    "icon": "ports/DRTCANADA/icon.png",
+    "shots": [
+     "ports/DRTCANADA/s1.jpg",
+     "ports/DRTCANADA/s2.jpg",
+     "ports/DRTCANADA/s3.jpg"
+    ],
+    "description": "Это обёртка/порт Death Road to Canada для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, и он патчится для корректной работы.\\nПо сути, это эмуляция минималистичной среды Android, в которой исполняемые файлы запускаются нативно как есть.\\nВ этот релиз включён мод от CatoTheYounger, снижающий нагрузку от игровых карт, чтобы игра была играбельной на железе Vita (поэтому релиз называется Lite).\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/Death-Road-to-Canada-Lite\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DSCT00001",
+    "name": "Descent Vita",
+    "version": "1.0.2",
+    "author": "KiddRwxSsj",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DSCT00001/Descent.vpk",
+    "size": 1740420,
+    "sha256": "228b956d86735f5d9fe2d5e9a6acdaf5b5dd04a646add2fac6db925273e08044",
+    "icon": "ports/DSCT00001/icon.png",
+    "shots": [
+     "ports/DSCT00001/s1.jpg",
+     "ports/DSCT00001/s2.jpg"
+    ],
+    "description": "Descent — нативный порт на PS Vita игры Descent (1995) от Parallax Software, шутера с шестью степенями свободы, собранный из официального исходного кода версии 1.5. Сохранён оригинальный программный рендерер, по-прежнему рисующий игру в 320x200, а GPU Vita лишь масштабирует готовый кадр под экран. Ассемблер x86 для математики с фиксированной точкой, 3D-конвейера, наложения текстур и блиттинга переписан на переносимом C с идентичными результатами, а игровые таблицы загружаются по полям, чтобы файлы данных DOS работали на ARM. Звуковые эффекты идут через собственный микшер, а оригинальная музыка HMP воспроизводится SoundFont-синтезатором. В порте есть режимы отображения оригинальные 4:3 и растянутый, опциональное сглаживание, лимиты 30 или 60 FPS, управление двумя стиками с инверсией по каждой оси, переназначаемые кнопки, включая обе половины задней сенсорной панели, и ввод текста через системную клавиатуру. Shareware-версия полностью играбельна в 60 FPS; сетевой мультиплеер не поддерживается.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/KiddRwxSsj/descent-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DSTROYVIT",
+    "name": "Dstroy Vita",
+    "version": "1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DSTROYVIT/DstroyVita.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/DSTROYVIT/data.zip",
+    "data_path": "ux0:data",
+    "size": 1890786,
+    "sha256": "acc846078b968c7ec1a119012aec124e2a338bba373aab420f884ba58b1d6e4f",
+    "icon": "ports/DSTROYVIT/icon.png",
+    "shots": [
+     "ports/DSTROYVIT/s1.jpg",
+     "ports/DSTROYVIT/s2.jpg",
+     "ports/DSTROYVIT/s3.jpg"
+    ],
+    "description": "Dstroy — игра в стиле Bomberman. Изначально разработана FBS в 1995 году для DOS.\\nПоддерживает до 2 игроков на PSVITA и до 4 игроков на PSTV.\\n\\nИсходники: github.com/Rinnegatamante/DstroyVita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DUKENKEM2",
+    "name": "RigelEngine Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DUKENKEM2/duke2.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/DUKENKEM2/data.zip",
+    "data_path": "ux0:data",
+    "size": 3410768,
+    "sha256": "fc3e5b8cf3bb7be5a236c62a3c7d08df941060fd9ba51c6c9f8d811d6328b990",
+    "requires": "libshacccg",
+    "icon": "ports/DUKENKEM2/icon.png",
+    "shots": [
+     "ports/DUKENKEM2/s1.jpg",
+     "ports/DUKENKEM2/s2.jpg",
+     "ports/DUKENKEM2/s3.jpg"
+    ],
+    "description": "RigelEngine Vita — порт RigelEngine, реконструкции исходного кода Duke Nukem II с рядом улучшений (например, поддержка широкоэкранного режима, высокой частоты кадров и более плавной анимации) и поддержкой модов.\\n\\nИсходники: github.com/Rinnegatamante/RigelEngine\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DUNE00002",
+    "name": "Dune Legacy",
+    "version": "0.97.02-vita.1",
+    "author": "Northfear",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DUNE00002/dunelegacy.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/DUNE00002/data.zip",
+    "data_path": "ux0:data",
+    "size": 4531124,
+    "sha256": "b416e78f75b9f05b38acbee228a45571e67c81c38d59f8cc8c25e0634f9c5509",
+    "icon": "ports/DUNE00002/icon.png",
+    "shots": [
+     "ports/DUNE00002/s1.jpg",
+     "ports/DUNE00002/s2.jpg",
+     "ports/DUNE00002/s3.jpg"
+    ],
+    "description": "Dune Legacy — проект нескольких разработчиков, стремящихся возродить самую первую в истории стратегию в реальном времени.\\nОн старается быть максимально похожим на оригинальный геймплей, но при этом добавляет возможности интерфейса, привычные в современных RTS, например выделение нескольких юнитов.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Northfear/dunelegacy-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DUNGEON00",
+    "name": "DungeonRush",
+    "version": "01.00",
+    "author": "xfangfang",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DUNGEON00/dungeonrush.vpk",
+    "size": 3538174,
+    "sha256": "742917734a66918dc57eaa266e671de4ade6ea61dcce1065f924b16bbce41446",
+    "icon": "ports/DUNGEON00/icon.png",
+    "shots": [
+     "ports/DUNGEON00/s1.jpg",
+     "ports/DUNGEON00/s2.jpg",
+     "ports/DUNGEON00/s3.jpg"
+    ],
+    "description": "Порт Dungeon Rush для PSVita.\\nDungeon Rush — игра, вдохновлённая Snake.\\n\\nИсходники: github.com/xfangfang/DungeonRush-PSV/releases\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -6707,6 +6828,65 @@
      "homebrew/DRON57468/s3.jpg"
     ],
     "description": "Аркадная гонка в стиле synthwave.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DRSS00001",
+    "name": "DeathRun To Vita",
+    "version": "Build 531",
+    "author": "Vektast",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DRSS00001/DeathRun.vpk",
+    "size": 2023040,
+    "sha256": "4d58654d4bcb649c145ec2d10780fc3b12af32f8bd9a0d3031cc64cd24f23691",
+    "icon": "homebrew/DRSS00001/icon.png",
+    "shots": [
+     "homebrew/DRSS00001/s1.jpg"
+    ],
+    "description": "Простой 2D-платформер для PSVITA/PSTV.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DS8L00001",
+    "name": "DS8 Drumstream",
+    "version": "0.1",
+    "author": "Intermynd Instruments",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DS8L00001/psvita-ds8.vpk",
+    "size": 1647652,
+    "sha256": "8ccd1c8d7edf45d25c5e2f226a6762b5ce118c37a4f6e9d29c9da28a75d36f21",
+    "icon": "homebrew/DS8L00001/icon.png",
+    "shots": [
+     "homebrew/DS8L00001/s1.jpg"
+    ],
+    "description": "DS8 Drumstream — драм-синтезатор и groovebox для PlayStation Vita.\\nПревращает Vita в компактную драм-машину для набросков идей, создания грувов и выступлений где угодно. В основе приложения восемь барабанных дорожек, пошаговый секвенсор на до шестидесяти четырёх шагов и прямое управление физическими кнопками Vita.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DSEMU0000",
+    "name": "DeSmuME-Vita",
+    "version": "0.2",
+    "author": "MasterFeizz",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DSEMU0000/desmume.vpk",
+    "size": 1911737,
+    "sha256": "62638e61f6f08fcdcdfc1ee3ed6db5ddb73c231cd2af5a9d655dd5e8f313b46b",
+    "icon": "homebrew/DSEMU0000/icon.png",
+    "shots": [
+     "homebrew/DSEMU0000/s1.jpg",
+     "homebrew/DSEMU0000/s2.jpg"
+    ],
+    "description": "Порт эмулятора DS DeSmuME для PSVita.\\nНа данный момент это полностью интерпретируемый эмулятор DS, поэтому производительность не очень высокая.\\n\\nИсходники: github.com/masterfeizz/DeSmuME-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DSIM12345",
+    "name": "Drone Sim Vita",
+    "version": "1.0",
+    "author": "Haasman0",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DSIM12345/Drone-Sim-Vita.vpk",
+    "size": 49721402,
+    "sha256": "49f41a7c7fdf2d180a54368b62a086b40670e567d947becd319a36b2023147dc",
+    "icon": "homebrew/DSIM12345/icon.png",
+    "shots": [
+     "homebrew/DSIM12345/s1.jpg",
+     "homebrew/DSIM12345/s2.jpg",
+     "homebrew/DSIM12345/s3.jpg"
+    ],
+    "description": "Drone Sim Vita — симулятор дрона, сделанный на игровом движке Unity.\\nВозможны баги и просадки.\\nДля лучшего опыта используйте разгон!\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
