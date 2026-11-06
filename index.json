@@ -1,5 +1,5 @@
 {
- "version": "b3fee8702441",
+ "version": "c2366da5265b",
  "categories": {
   "ports": [
    {
@@ -2634,10 +2634,11 @@
    {
     "titleid": "VITAGRM01",
     "name": "VitaGram",
-    "version": "38.09",
+    "version": "0.39.05",
     "author": "@lolkekkekkekcheburek",
-    "vpk": "https://firsts3.ru/vpkgj/ports/VITAGRM01/vitagram-0.38.09.vpk",
-    "size": 35384511,
+    "vpk": "https://firsts3.ru/vpkgj/ports/VITAGRM01/vitadb/vitagram.vpk",
+    "size": 35722182,
+    "sha256": "b9bce3d37b0e38c885ccaf91b0b75ef6afb9d8fd6fe8eb16a76a376d50427736",
     "icon": "ports/VITAGRM01/c.jpg",
     "shots": [
      "ports/VITAGRM01/s1.jpg",
@@ -2665,10 +2666,11 @@
    {
     "titleid": "VTUB00001",
     "name": "ViTube",
-    "version": "01.10",
+    "version": "2.0",
     "author": "@psvitaport",
-    "vpk": "https://firsts3.ru/vpkgj/ports/VTUB00001/ViTube.vpk",
-    "size": 4206177,
+    "vpk": "https://firsts3.ru/vpkgj/ports/VTUB00001/vitadb/ViTube.vpk",
+    "size": 4212250,
+    "sha256": "c82f027fc7fb760ec8fc49983debbbf59126d65218cb65dd24b60c6b4b837b76",
     "description": "Установка"
    },
    {
@@ -3094,6 +3096,1069 @@
     "sha256": "5f87f80d68584e0d6bb85f4e7d87ba83ad644190a8c1e913bef56cad284e1839",
     "requires": "libshacccg",
     "description": "Порт GTA: Vice City с модом 10th Anniversary Edition и русским руководством.\\n\\nДанные игры (gtavc) ставятся в ux0:data автоматически."
+   },
+   {
+    "titleid": "2SHIP2HAR",
+    "name": "2ship2harkinian Vita",
+    "version": "1.2",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/2SHIP2HAR/2ship2harkinian.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/2SHIP2HAR/data.zip",
+    "data_path": "ux0:data",
+    "size": 9069083,
+    "sha256": "2aae9420e56e89f46dd266120f6b4c539032f13bc9b856fa704d57ca23cc337f",
+    "requires": "libshacccg",
+    "icon": "ports/2SHIP2HAR/icon.png",
+    "shots": [
+     "ports/2SHIP2HAR/s1.jpg",
+     "ports/2SHIP2HAR/s2.jpg",
+     "ports/2SHIP2HAR/s3.jpg"
+    ],
+    "description": "2ship2harkinian — сорспорт The Legend of Zelda: Majora's Mask, созданный на основе декомпиляции игры. Содержит несколько улучшений и поддерживает моды. Порт для Vita основан на версии 1.1.2 (Satoko Charlie).\\n\\nНужны файлы оригинальной игры (N64), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/2ship2harkinian\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "32SECS032",
+    "name": "32 Secs Vita",
+    "version": "0.8",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/32SECS032/32secs.vpk",
+    "size": 2740028,
+    "sha256": "d3471d77ba044a07992296fff62407abaa6cbf39356a0a8fd8087cfd393bab9e",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/32SECS032/icon.png",
+    "shots": [
+     "ports/32SECS032/s1.jpg",
+     "ports/32SECS032/s2.jpg",
+     "ports/32SECS032/s3.jpg"
+    ],
+    "description": "Это враппер/порт 32 Secs для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, а сам файл патчится для корректного запуска. По сути, получается эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/32secs_vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "7BILLION7",
+    "name": "7 Billion Humans Vita",
+    "version": "1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/7BILLION7/billion.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/7BILLION7/data.zip",
+    "data_path": "ux0:data",
+    "size": 2828595,
+    "sha256": "52b5b5730469ca72669724401a3ac4751e60e3f45f05c18d61fa0c75ffe613e0",
+    "requires": "libshacccg,kubridge,fdfix",
+    "icon": "ports/7BILLION7/icon.png",
+    "shots": [
+     "ports/7BILLION7/s1.jpg",
+     "ports/7BILLION7/s2.jpg",
+     "ports/7BILLION7/s3.jpg"
+    ],
+    "description": "Это враппер/порт 7 Billion Humans для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, а сам файл патчится для корректного запуска. По сути, получается эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/seven-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABBAYEDMO",
+    "name": "Abbaye Des Morts Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ABBAYEDMO/AbbayeDesMorts.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/ABBAYEDMO/data.zip",
+    "data_path": "ux0:data",
+    "size": 1136523,
+    "sha256": "7b33a2597fb0d1cdca1a95cc0e6a510ceb050bb51f4ea75f78b102cb280a015b",
+    "icon": "ports/ABBAYEDMO/icon.png",
+    "shots": [
+     "ports/ABBAYEDMO/s1.jpg",
+     "ports/ABBAYEDMO/s2.jpg",
+     "ports/ABBAYEDMO/s3.jpg"
+    ],
+    "description": "Вера — ваше единственное оружие в этом платформере в стиле игр для ZX Spectrum. Чёрные фоны, одноцветные спрайты и однобитные звуки хорошо подходят для суровой истории. Отсутствие деталей включает воображение игрока и дарит каждому уникальные впечатления.\\nL'Abbaye des Morts вдохновлена трагической историей катаров и платформерами для компьютеров ZX Spectrum, такими как Manic Miner, Jet Set Willy и Dynamite Dan.\\n\\nИсходники: github.com/Rinnegatamante/AbbayeDesMorts-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABBEY0001",
+    "name": "Abbey of Crime",
+    "version": "1.0",
+    "author": "Samuel85",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ABBEY0001/AbbeyOfCrime.vpk",
+    "size": 2378727,
+    "sha256": "896f1dcad19fa7054936e279a888f1500539e2f59f7d4e86aa0df511b60cb00a",
+    "icon": "ports/ABBEY0001/icon.png",
+    "shots": [
+     "ports/ABBEY0001/s1.jpg"
+    ],
+    "description": "Бесплатная игра по мотивам романа Умберто Эко и фильма Жан-Жака Анно «Имя розы», основанная на игре «La abadía del crimen» Пако Менендеса и Хуана Делькана.\\n\\nИсходники: github.com/Samuel85/Abbey\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABCD00999",
+    "name": "Let me Sleep",
+    "version": "1.0",
+    "author": "Paulo",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ABCD00999/Let%20Me%20Sleep.vpk",
+    "size": 49348665,
+    "sha256": "75a4f16f2ebfec139bf1a4e623e60937ff8491d6b2887b92a425fe075fb5e494",
+    "icon": "ports/ABCD00999/icon.png",
+    "shots": [
+     "ports/ABCD00999/s1.jpg",
+     "ports/ABCD00999/s2.jpg"
+    ],
+    "description": "Видеоигра по теме GGJ17: WAVES (волны). Клетус пытается уснуть, но его беспокоит непрекращающаяся дрожь. \\nВ конце концов однажды ночью он решает выяснить источник этой дрожи и остановить её. \\nЭто приключенческая видеоигра в духе 2D-аркад.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABCD12346",
+    "name": "Sunshine Cat",
+    "version": "2",
+    "author": "SpanishFreddy",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ABCD12346/sunshine.vpk",
+    "size": 55927557,
+    "sha256": "36d495a82bb4d76ac6962cd0f8903bda90dcb91773f4764cea6c58a8d054907a",
+    "icon": "ports/ABCD12346/icon.png",
+    "description": "Порт Sunshine-Cat-Platformer для PSVITA.\\nSunshine-Cat-Platformer — демо-платформер по мотивам секретных уровней Super Mario Sunshine, сделанный как университетская работа.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABCD12349",
+    "name": "SanicBall PSVita",
+    "version": "3",
+    "author": "SpanishFreddy",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ABCD12349/sanicball.vpk",
+    "size": 130049007,
+    "sha256": "b6465347f1432a100716bf11563dd15c761df0a3629f13aa19f94099f367a313",
+    "icon": "ports/ABCD12349/icon.png",
+    "shots": [
+     "ports/ABCD12349/s1.jpg",
+     "ports/ABCD12349/s2.jpg",
+     "ports/ABCD12349/s3.jpg"
+    ],
+    "description": "Порт Sanicball для PSVITA.\\nSanicball — глупая, дурашливая гоночная игра, в которой нет сложной игровой механики, прокачки персонажей и микротранзакций — только чистая скорость.\\nВ неё свалены в блендер все новейшие тупые интернет-мемы, и получился поистине эйфорический междусобойчик. Изначально так задумано не было, но получилось само собой.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABCD12354",
+    "name": "Destroy The Dot",
+    "version": "1.0.1",
+    "author": "OrbitalFlagStudio",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ABCD12354/destroy-dot.vpk",
+    "size": 27601264,
+    "sha256": "b9282eab38fb07a803b79cb6af22fe036657811c5b42b9258bb5d41ea2ba5d71",
+    "icon": "ports/ABCD12354/icon.png",
+    "shots": [
+     "ports/ABCD12354/s1.jpg",
+     "ports/ABCD12354/s2.jpg",
+     "ports/ABCD12354/s3.jpg"
+    ],
+    "description": "Порт Destroy The Dot для PSVita.\\nУничтожьте все ЧЁРНЫЕ ТОЧКИ, пока они не исчезли, но не касайтесь КРАСНЫХ.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABCD13370",
+    "name": "ERRE",
+    "version": "1.0",
+    "author": "Paulo",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ABCD13370/ERRE.vpk",
+    "size": 38583611,
+    "sha256": "ef5c0851af505f4658496fa5bbc3488e782cd43609b3f7218406822d6090bfb0",
+    "icon": "ports/ABCD13370/icon.png",
+    "shots": [
+     "ports/ABCD13370/s1.jpg"
+    ],
+    "description": "Порт ERRE для PSVITA/PSTV.\\nБегите, это для вашего же блага.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABCD96285",
+    "name": "Slither.io Vita",
+    "version": "1.0",
+    "author": "SpanishFreddy",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ABCD96285/slither.vpk",
+    "size": 40716230,
+    "sha256": "f28cd6681f6a3af3f3e7664d9f02b14fdaed05556a917fdd46323ed58d5f5580",
+    "icon": "ports/ABCD96285/icon.png",
+    "shots": [
+     "ports/ABCD96285/s1.jpg",
+     "ports/ABCD96285/s2.jpg",
+     "ports/ABCD96285/s3.jpg"
+    ],
+    "description": "Порт Slither Snake для PSVITA.\\nSlither Snake — клон Slither.io, сделанный на Unity.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABDD44345",
+    "name": "X-Racer Vita",
+    "version": "1.0",
+    "author": "roc6d",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ABDD44345/XRACER.vpk",
+    "size": 42764245,
+    "sha256": "af9dc69394ec1d7801264577911854be6d98bec59ea7315f65822e54937b3009",
+    "icon": "ports/ABDD44345/icon.png",
+    "description": "Порт X-Racer, футуристической 3D-гонки на Unity, для PSVITA.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABOD17375",
+    "name": "Contrast",
+    "version": "1.0",
+    "author": "roc6d",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ABOD17375/Contrast.vpk",
+    "size": 30505138,
+    "sha256": "07bdb9271652f6bd505b54a3817d1af022df4b58b024292041d2001ec77a7fe0",
+    "icon": "ports/ABOD17375/icon.png",
+    "description": "Contrast — игра про бесконечный тоннель, сделанная на Unity.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABUSEVITA",
+    "name": "Abuse Vita",
+    "version": "0.8",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ABUSEVITA/Abuse.vpk",
+    "size": 7588899,
+    "sha256": "f8e04ffbb3a570815899fbe33007a0db1851b41a3081b5168a5fed92ff71e949",
+    "icon": "ports/ABUSEVITA/icon.png",
+    "shots": [
+     "ports/ABUSEVITA/s1.jpg",
+     "ports/ABUSEVITA/s2.jpg",
+     "ports/ABUSEVITA/s3.jpg"
+    ],
+    "description": "Порт Abuse для PSVITA/PSTV на основе Abuse-SDL.\\nAbuse — видеоигра в жанре run and gun, разработанная Crack dot Com и изданная Electronic Arts в Северной Америке и Origin Systems в Европе.\\nГлавный герой игры, Ник Вренна, несправедливо заключён в тюрьму, где персонал проводит неэтичные медицинские эксперименты над заключёнными. Вспыхивает бунт, и один из экспериментов выходит из-под контроля. Все, кто находится в тюрьме, кроме Ника, который, судя по всему, невосприимчив, заражаются веществом под названием Abuse и превращаются в монстров. Водоснабжению грозит заражение, и Ник, вооружившись, пробивается через орду, чтобы этого не допустить, а затем бежит из тюремного комплекса.\\n\\nИсходники: github.com/Rinnegatamante/abuse-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ACLD00001",
+    "name": "Batman: Arkham City Lockdown Vita",
+    "version": "1.0",
+    "author": "KiddRwxSsj",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ACLD00001/aclockdownvita.vpk",
+    "size": 966360,
+    "sha256": "a43cc9356a6bc3c3ea361f8109b73bbfef454787fe71ab29a92e2cdc7fdd3b22",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/ACLD00001/icon.png",
+    "shots": [
+     "ports/ACLD00001/s1.jpg",
+     "ports/ACLD00001/s2.jpg",
+     "ports/ACLD00001/s3.jpg"
+    ],
+    "description": "Batman: Arkham City Lockdown — мобильный файтинг от NetherRealm Studios, изданный WB Games. Игрок управляет Бэтменом, который сражается в Аркхем-Сити с заключёнными и злодеями в дуэлях один на один, используя удары, контратаки и комбо свайпами; есть прокачиваемые способности и открываемые костюмы. Это порт Android-версии (1.0.2) на PS Vita, в котором оригинальный код игры выполняется нативно через so-loader. Добавлены управление на физические кнопки, наклон для управления бэтарангом, встроенный просмотрщик комикса из раздела Extras и костюмы, которые покупаются за внутриигровые очки WayneTech, а не за реальные деньги. Онлайн-функции недоступны.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/KiddRwxSsj/batman-acl-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ACRODEA00",
+    "name": "Devil May Cry 4 Refrain Vita",
+    "version": "1.0",
+    "author": "yizhigai & SpriteLisen & KAAAsS",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ACRODEA00/dmc4.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/ACRODEA00/data.zip",
+    "data_path": "ux0:data",
+    "size": 1227551,
+    "sha256": "596c7c6906910173b2aa2248282479150504b08d786345cdaf4deea9bcb8363c",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/ACRODEA00/icon.png",
+    "shots": [
+     "ports/ACRODEA00/s1.jpg",
+     "ports/ACRODEA00/s2.jpg",
+     "ports/ACRODEA00/s3.jpg"
+    ],
+    "description": "Порт Devil May Cry 4 Refrain для PSVita.\\nDevil May Cry 4 Refrain — мобильный спин-офф во вселенной серии Devil May Cry.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: gitee.com/Moqi01/acrodea_runtime\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "AEROFOIL1",
+    "name": "Aerofoil Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/AEROFOIL1/Aerofoil.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/AEROFOIL1/data.zip",
+    "data_path": "ux0:data",
+    "size": 2110560,
+    "sha256": "a338513a1aa0b83bb0485b70ef9bf327b9ecb893895082f177bd6bec5f79447c",
+    "requires": "libshacccg,kubridge,fdfix",
+    "icon": "ports/AEROFOIL1/icon.png",
+    "shots": [
+     "ports/AEROFOIL1/s1.jpg",
+     "ports/AEROFOIL1/s2.jpg",
+     "ports/AEROFOIL1/s3.jpg"
+    ],
+    "description": "Это враппер/порт Aerofoil, сорспорта Glider Pro, для PSVITA.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, а сам файл патчится для корректного запуска. По сути, получается эмуляция минималистичной среды Android, в которой исполняемые файлы запускаются нативно как есть.\\n\\nИсходники: github.com/Rinnegatamante/Aerofoil-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "AHHD00001",
+    "name": "Alien Hominid HD Vita",
+    "version": "2026-11-05",
+    "author": "unclejahjah",
+    "vpk": "https://firsts3.ru/vpkgj/ports/AHHD00001/ahhd_vita.vpk",
+    "size": 431286,
+    "sha256": "2e9b2f59e1603f10ede32d74e5d1ce3a8f66f0d834d86b5f2cbdf309158b1d86",
+    "icon": "ports/AHHD00001/icon.png",
+    "shots": [
+     "ports/AHHD00001/s1.jpg"
+    ],
+    "description": "Нативный порт Alien Hominid HD для PS Vita. Запускает Flash-контент и ActionScript из вашей копии игры на PS Vita в 60 fps.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/unclejahjah/ahhd-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "AIRPRESSR",
+    "name": "Air Pressure",
+    "version": "1.0.0",
+    "author": "majonessyltetoy",
+    "vpk": "https://firsts3.ru/vpkgj/ports/AIRPRESSR/airpressure.vpk",
+    "size": 26852528,
+    "sha256": "a596f2c01bf08fa73434476a1da453cbb2e9fd5b892462ba51da8ecbb847054b",
+    "icon": "ports/AIRPRESSR/icon.png",
+    "shots": [
+     "ports/AIRPRESSR/s1.jpg"
+    ],
+    "description": "Порт Air Pressure для PSVITA.\\nAir Pressure — визуальная новелла без романтики.\\n\\nИсходники: github.com/majonessyltetoy/airpressure\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ALLSTARS1",
+    "name": "Super Mario All-Stars Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ALLSTARS1/allstars.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/ALLSTARS1/data.zip",
+    "data_path": "ux0:data",
+    "size": 1918789,
+    "sha256": "28d8560d8ce7eff18c3915751f618de9399a69a945436449b856aa70b931631d",
+    "icon": "ports/ALLSTARS1/icon.png",
+    "shots": [
+     "ports/ALLSTARS1/s1.jpg",
+     "ports/ALLSTARS1/s2.jpg",
+     "ports/ALLSTARS1/s3.jpg"
+    ],
+    "description": "Super Mario All-Stars Vita — порт smw, реимплементации Super Mario World с рядом улучшений и экспериментальной поддержкой Super Mario All-Stars (Super Mario Bros 1 и Super Mario Bros: Lost Levels).\\nЭтот релиз улучшает мой предыдущий порт Super Mario World: исправлены ошибки (например, баг с тоннелями), добавлена поддержка SMB1 и SMB:LL, опция целочисленного масштабирования (IntegerScaling в ini-файле) и многое другое.\\n\\nНужны файлы оригинальной игры (SNES), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/smw\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ALPH00001",
+    "name": "Aleph One Vita",
+    "version": "2.1.1",
+    "author": "DrDecki",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ALPH00001/alephone.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/ALPH00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 6793744,
+    "sha256": "24e6ec6619db0b1f22015bfe7599405425dad21b7e453394ecd3bb376a18e969",
+    "icon": "ports/ALPH00001/icon.png",
+    "shots": [
+     "ports/ALPH00001/s1.jpg",
+     "ports/ALPH00001/s2.jpg",
+     "ports/ALPH00001/s3.jpg"
+    ],
+    "description": "Aleph One — открытое продолжение игрового движка Marathon 2 от Bungie. Aleph One нативно поддерживает Marathon, Marathon 2 и Marathon Infinity. Также доступно множество сторонних сценариев и сетевых карт.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/DrDecki/Aleph-One-PsVita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "AMBX00001",
+    "name": "Ambidextro Vita",
+    "version": "1.0",
+    "author": "Rocroverss",
+    "vpk": "https://firsts3.ru/vpkgj/ports/AMBX00001/ambidextro.vpk",
+    "size": 24454752,
+    "sha256": "821f5c991039188154fddeb5d12b17f27d0a6ecd97932ebc8f9c7bf268e6e8f5",
+    "icon": "ports/AMBX00001/icon.png",
+    "shots": [
+     "ports/AMBX00001/s1.jpg",
+     "ports/AMBX00001/s2.jpg",
+     "ports/AMBX00001/s3.jpg"
+    ],
+    "description": "Ambidextro — мультиплеерная игра для одного игрока. Научитесь управлять сразу двумя персонажами, каждым своей рукой. Развивайте амбидекстрию и спасите принца и принцессу одновременно!\\nДойдёте ли вы до 100-го уровня? :)\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "AMTR01693",
+    "name": "Another Metroid 2 Remake",
+    "version": "1.41",
+    "author": "Greaterchimera",
+    "vpk": "https://firsts3.ru/vpkgj/ports/AMTR01693/AMTR01693.vpk",
+    "size": 73768102,
+    "sha256": "a77e43f034ea13bbe0142a9f054d558222affcf3522421243ad714d766aed57f",
+    "icon": "ports/AMTR01693/icon.png",
+    "shots": [
+     "ports/AMTR01693/s1.jpg"
+    ],
+    "description": "AM2R (Another Metroid 2 Remake) — приключенческий экшен, разработанный Милтоном Гуасти под псевдонимом DoctorM64 и выпущенный в августе 2016 года для Microsoft Windows к 30-летию серии Metroid.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ANARCHPSV",
+    "name": "Anarch Vita",
+    "version": "1.1",
+    "author": "Sugardrenaline",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ANARCHPSV/anarch.vpk",
+    "size": 872405,
+    "sha256": "bfda5a90c8a476afb09cb30bb08804b632978bc6669ef0c54ee2bae547ea7837",
+    "icon": "ports/ANARCHPSV/icon.png",
+    "shots": [
+     "ports/ANARCHPSV/s1.jpg",
+     "ports/ANARCHPSV/s2.jpg",
+     "ports/ANARCHPSV/s3.jpg"
+    ],
+    "description": "Порт Anarch для PSVITA.\\nAnarch — предельно маленький, полностью общедоступный (public domain), не имеющий зависимостей и файлов, портируемый, suckless, анархо-пацифистский клон Doom в стиле 90-х, написанный с нуля. Работает везде и создан на благо всех живых существ.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ANGU00001",
+    "name": "OpenTTD",
+    "version": "0.3",
+    "author": "angguss",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ANGU00001/openttd.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/ANGU00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 3727798,
+    "sha256": "9b167b05d5978dd0b4ab8914e013ce81207d6652e2942bf868570506bb0df4ca",
+    "icon": "ports/ANGU00001/icon.png",
+    "shots": [
+     "ports/ANGU00001/s1.jpg",
+     "ports/ANGU00001/s2.jpg",
+     "ports/ANGU00001/s3.jpg"
+    ],
+    "description": "OpenTTD — симулятор с открытым исходным кодом на основе Transport Tycoon Deluxe. Обратите внимание: игра загружается около 60 секунд.\\n\\nИсходники: github.com/angguss/OpenTTD/\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ANICER001",
+    "name": "ANIMANCER",
+    "version": "1.0",
+    "author": "VSM GAMMER",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ANICER001/ANIMANCER.vpk",
+    "size": 40353191,
+    "sha256": "dc6a56e969fb5b662922e4b05c324a89c90282dc7b8dbeab97fd7265e15bd610",
+    "icon": "ports/ANICER001/icon.png",
+    "shots": [
+     "ports/ANICER001/s1.jpg",
+     "ports/ANICER001/s2.jpg",
+     "ports/ANICER001/s3.jpg"
+    ],
+    "description": "Порт Animancer для PSVITA.\\nКаким-то образом вы потеряли свою душу. Неплохо бы её найти.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ANOMALY01",
+    "name": "Anomaly WE Vita",
+    "version": "1.2",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ANOMALY01/anomaly.vpk",
+    "size": 3314006,
+    "sha256": "7b15a846565097a36d8c97608c4707ead9e368a213b269e4613a33d12656ed30",
+    "requires": "libshacccg,kubridge,fdfix",
+    "icon": "ports/ANOMALY01/icon.png",
+    "shots": [
+     "ports/ANOMALY01/s1.jpg",
+     "ports/ANOMALY01/s2.jpg",
+     "ports/ANOMALY01/s3.jpg"
+    ],
+    "description": "Это враппер/порт Anomaly: Warzone Earth HD для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv6 загружается в память, его импорты подменяются нативными функциями, а сам файл патчится для корректного запуска. По сути, получается эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/anomaly-we_vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ANOMALY02",
+    "name": "Anomaly Korea Vita",
+    "version": "1.2",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ANOMALY02/anomaly_korea.vpk",
+    "size": 7712528,
+    "sha256": "1e7ab517b0f59b46d0a0899efef1d87388c2409168440fcc33c2b35c1a87e734",
+    "requires": "libshacccg,kubridge,fdfix",
+    "icon": "ports/ANOMALY02/icon.png",
+    "shots": [
+     "ports/ANOMALY02/s1.jpg",
+     "ports/ANOMALY02/s2.jpg",
+     "ports/ANOMALY02/s3.jpg"
+    ],
+    "description": "Это враппер/порт Anomaly: Korea для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv6 загружается в память, его импорты подменяются нативными функциями, а сам файл патчится для корректного запуска. По сути, получается эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/anomaly-korea_vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ANOMALY03",
+    "name": "Anomaly 2 Vita",
+    "version": "1.2",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ANOMALY03/anomaly2.vpk",
+    "size": 14225527,
+    "sha256": "6a8c03fbf2b6c8257ca4b22fb8bb7880ecfd3e72558472d66a9787faaf611477",
+    "requires": "libshacccg,kubridge,fdfix",
+    "icon": "ports/ANOMALY03/icon.png",
+    "shots": [
+     "ports/ANOMALY03/s1.jpg",
+     "ports/ANOMALY03/s2.jpg",
+     "ports/ANOMALY03/s3.jpg"
+    ],
+    "description": "Это враппер/порт Anomaly 2 для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv6 загружается в память, его импорты подменяются нативными функциями, а сам файл патчится для корректного запуска. По сути, получается эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/anomaly2_vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ANOMALY04",
+    "name": "Anomaly Defenders Vita",
+    "version": "1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ANOMALY04/anomaly_defenders.vpk",
+    "size": 11636659,
+    "sha256": "eb4de44ad9912824c9fd8538fd00dd589b1d1e35743aa44808f80f8d8661dd8e",
+    "requires": "libshacccg,kubridge,fdfix",
+    "icon": "ports/ANOMALY04/icon.png",
+    "shots": [
+     "ports/ANOMALY04/s1.jpg",
+     "ports/ANOMALY04/s2.jpg",
+     "ports/ANOMALY04/s3.jpg"
+    ],
+    "description": "Это враппер/порт Anomaly Defenders для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv6 загружается в память, его импорты подменяются нативными функциями, а сам файл патчится для корректного запуска. По сути, получается эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/anomaly-defenders_vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "AODD00001",
+    "name": "Army of Darkness Defense Vita",
+    "version": "1.0",
+    "author": "PiSCES",
+    "vpk": "https://firsts3.ru/vpkgj/ports/AODD00001/aod_vita.vpk",
+    "size": 2896934,
+    "sha256": "4edc0d83ed16c39f95e71c04ffec13bd0e208f3c0ff58d06a2c116e574fcf58b",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/AODD00001/icon.png",
+    "description": "Порт Android-игры в жанре tower defense Army of Darkness Defense (Backflip Studios) версии 1.1.1 на PS Vita. Это порт через .so loader: оригинальная ARMv7-библиотека Android-игры выполняется нативно, с нативной для Vita графикой (vitaGL) и звуком (FMOD Ex через OpenSL ES). Реклама, аналитика и сервисы соцсетей удалены, а внутриигровой магазин монет работает офлайн без оплаты. Данные игры не включены: небольшой офлайн-набор для подготовки собирает папку data из вашей копии Android-игры.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/P1R4N351/army-of-darkness-defense-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "AOWV00001",
+    "name": "Age of War Vita",
+    "version": "1.1",
+    "author": "mrdivdiz",
+    "vpk": "https://firsts3.ru/vpkgj/ports/AOWV00001/aowv2.vpk",
+    "size": 49070621,
+    "sha256": "959fca47baa7be0bb5f600f107fc61a8fb2bc744a665e7217020d9256f69dea4",
+    "icon": "ports/AOWV00001/icon.png",
+    "shots": [
+     "ports/AOWV00001/s1.jpg",
+     "ports/AOWV00001/s2.jpg",
+     "ports/AOWV00001/s3.jpg"
+    ],
+    "description": "Порт Age of War для PSVITA.\\nУправляйте 16 разными юнитами и 15 разными турелями, защищайте свою базу и уничтожайте врага.\\nВ этой игре вы начинаете с каменного века, а затем развиваетесь! Всего есть 5 эпох, у каждой свои уникальные юниты и турели. Сможете ли вы развиваться быстрее врага?\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "APOT00001",
+    "name": "Apotris Vita",
+    "version": "1.0",
+    "author": "Rocroverss",
+    "vpk": "https://firsts3.ru/vpkgj/ports/APOT00001/Apotris.vpk",
+    "size": 7874243,
+    "sha256": "40ffa26d1e3103959d7e7b9ae70e3640dc59f50d5cbbf9fa8117a2dc67e11bc9",
+    "requires": "libshacccg",
+    "icon": "ports/APOT00001/icon.png",
+    "shots": [
+     "ports/APOT00001/s1.jpg",
+     "ports/APOT00001/s2.jpg",
+     "ports/APOT00001/s3.jpg"
+    ],
+    "description": "Apotris — бесплатная кроссплатформенная игра с открытым исходным кодом про укладку блоков! Главное отличие Apotris от других подобных игр — обширные настройки и сверхотзывчивое управление, позволяющее выполнять ходы с высокой точностью. Благодаря 14 уникальным режимам и множеству настроек можно подстроить игру под себя, и каждый раз она будет свежей и сложной. Неважно, казуальный вы игрок или хардкорный энтузиаст, в Apotris найдётся что-то для каждого. Хотя Apotris изначально создавалась для Gameboy Advance, теперь она поддерживает самые разные платформы, так что благодаря портам и эмуляции в неё можно играть почти на чём угодно.\\n\\nИсходники: github.com/Rocroverss/apotris-psvita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "APRL00001",
+    "name": "Super Mario BOOM",
+    "version": "1.0",
+    "author": "MEGAgameBoy",
+    "vpk": "https://firsts3.ru/vpkgj/ports/APRL00001/sboom.vpk",
+    "size": 18229085,
+    "sha256": "91b6b76c1a9e401d5cd1b31ff518abcb2d7de22b490da8d0f88887f6e1d120ff",
+    "icon": "ports/APRL00001/icon.png",
+    "shots": [
+     "ports/APRL00001/s1.jpg",
+     "ports/APRL00001/s2.jpg",
+     "ports/APRL00001/s3.jpg"
+    ],
+    "description": "Это порт Super Mario BOOM для PS Vita.\\nSuper Mario BOOM — несерьёзный фанатский проект по Mario, созданный как первоапрельская шутка в 2016 году, а теперь, в 2023-м, получивший этот порт.\\nШутка игры в том, что при любом событии всё яростно взрывается.\\nОригинальная игра — HypernovaTX.\\n\\nИсходники: github.com/MEGAgameBoy/Super-Mario-Boom-PS-Vita-Port\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "APRL11111",
+    "name": "supra mayro kratt",
+    "version": "1.1",
+    "author": "MEGAgameBoy",
+    "vpk": "https://firsts3.ru/vpkgj/ports/APRL11111/supra.vpk",
+    "size": 36298935,
+    "sha256": "13f60b6aaefe6cf380ba18f8e4e308838657aefe603184504091aed58c77f7a4",
+    "icon": "ports/APRL11111/icon.png",
+    "shots": [
+     "ports/APRL11111/s1.jpg",
+     "ports/APRL11111/s2.jpg",
+     "ports/APRL11111/s3.jpg"
+    ],
+    "description": "Это порт supra mayro kratt для PSVITA, игры-пародии на Mario Kart.\\nОригинальная игра — reallyhandsomepeople.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "APTR10007",
+    "name": "Aperture Reconstructed",
+    "version": "0.4.00",
+    "author": "MRKane",
+    "vpk": "https://firsts3.ru/vpkgj/ports/APTR10007/ApertureReconstructed.vpk",
+    "size": 75242313,
+    "sha256": "c3b856ae0edc30eb06e47551e7984b7ce79e906872f2c08234bada50b37a198c",
+    "icon": "ports/APTR10007/icon.png",
+    "shots": [
+     "ports/APTR10007/s1.jpg",
+     "ports/APTR10007/s2.jpg",
+     "ports/APTR10007/s3.jpg"
+    ],
+    "description": "Это откровенная реконструкция классической игры Valve Portal для Playstation Vita.\\nЭто удалось сделать, опираясь на труд предшественников, и я благодарен Коди Эндрюсу за его реализацию Portal для Unity (https://github.com/codand/Unity3DPortals), а также Valve за их изменившую жизнь игру!\\nПосле долгой упорной работы игра завершена и проходима до Chamber 14.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ASES30300",
+    "name": "Assessment Examination Vita",
+    "version": "1.0",
+    "author": "PatnosD",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ASES30300/AssessmentExamination.vpk",
+    "size": 107502048,
+    "sha256": "5a004d61ee109b36274a8005976fd7bb7cd9c403128ade704bc30eb5488cdca9",
+    "icon": "ports/ASES30300/icon.png",
+    "shots": [
+     "ports/ASES30300/s1.jpg",
+     "ports/ASES30300/s2.jpg"
+    ],
+    "description": "Порт Assessment Examination для Playstation Vita.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "AUGUSTUS1",
+    "name": "Augustus",
+    "version": "4.0.0",
+    "author": "devnoname120 & Julius Team & Keriew",
+    "vpk": "https://firsts3.ru/vpkgj/ports/AUGUSTUS1/augustus.vpk",
+    "size": 15627999,
+    "sha256": "cf8d328f52d45abbba7ba4c96f427d91c95055716373de8a06f17f664af6b93b",
+    "icon": "ports/AUGUSTUS1/icon.png",
+    "shots": [
+     "ports/AUGUSTUS1/s1.jpg"
+    ],
+    "description": "Augustus — форк проекта Julius, цель которого — внести изменения в геймплей. Проект призван дать расширенный, настраиваемый геймплей Caesar 3 на основе улучшений интерфейса проекта Julius.\\nAugustus может загружать сохранения Caesar 3 и Julius, однако сохранения, сделанные в Augustus, не будут работать вне его.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Keriew/augustus\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "AVPGOLD20",
+    "name": "AvP Gold",
+    "version": "0.8",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/AVPGOLD20/avp.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/AVPGOLD20/data.zip",
+    "data_path": "ux0:data",
+    "size": 3507347,
+    "sha256": "3a20619845441c98b522f447e153f1e2dd8a71e2da333caaaa7bd180640879ea",
+    "icon": "ports/AVPGOLD20/icon.png",
+    "shots": [
+     "ports/AVPGOLD20/s1.jpg",
+     "ports/AVPGOLD20/s2.jpg",
+     "ports/AVPGOLD20/s3.jpg"
+    ],
+    "description": "AvP Gold Vita — порт AvP Classic 2000, шутера от Rebellion Developments во вселенной Aliens vs Predator. Можно играть за морпеха, Чужого или Хищника; в игре три разные кампании и режим схватки с ботами в дезматчах.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/AvP-Gold-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BABAISYOU",
+    "name": "Baba Is You Vita",
+    "version": "1.4",
+    "author": "gl33ntwine",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BABAISYOU/BABAISYOU.vpk",
+    "size": 1576928,
+    "sha256": "b9488cca9a3316d75ab0d9b8877361d89f01b82ea8427f8979c6b8e3984051d0",
+    "requires": "kubridge,fdfix",
+    "icon": "ports/BABAISYOU/icon.png",
+    "shots": [
+     "ports/BABAISYOU/s1.jpg",
+     "ports/BABAISYOU/s2.jpg",
+     "ports/BABAISYOU/s3.jpg"
+    ],
+    "description": "Baba Is You — отмеченная наградами головоломка, в которой можно менять правила игры. На каждом уровне сами правила представлены блоками, с которыми можно взаимодействовать; манипулируя ими, вы меняете работу уровня и добиваетесь неожиданных эффектов!\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/v-atamanenko/baba-is-you-vita/\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BABEL003D",
+    "name": "Babel Rising 3D Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BABEL003D/babel.vpk",
+    "size": 1744758,
+    "sha256": "5400f07e93b45fa0168530993dee57403dddf089142554e7a711517554e5fe9e",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/BABEL003D/icon.png",
+    "shots": [
+     "ports/BABEL003D/s1.jpg",
+     "ports/BABEL003D/s2.jpg",
+     "ports/BABEL003D/s3.jpg"
+    ],
+    "description": "Это враппер/порт Babel Rising 3D для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, а сам файл патчится для корректного запуска. По сути, получается эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/babel-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BALA00001",
+    "name": "Balatro Vita",
+    "version": "0.13",
+    "author": "Daexxx & jafeth & Alyen91",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BALA00001/Balatro.vpk",
+    "size": 5856035,
+    "sha256": "474e2024335c91cbb9b4c139f94f9bb1c7be4946c78d1392bdb0372a9cbb2aa2",
+    "icon": "ports/BALA00001/icon.png",
+    "shots": [
+     "ports/BALA00001/s1.jpg",
+     "ports/BALA00001/s2.jpg",
+     "ports/BALA00001/s3.jpg"
+    ],
+    "description": "Порт Balatro для PSVITA. Balatro — рогалик-колодостроитель в духе покера, где всё строится на создании мощных синергий и крупных выигрышах.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BAOR00001",
+    "name": "Batman: Arkham Origins Vita",
+    "version": "1.1",
+    "author": "KiddRwxSsj",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BAOR00001/batmanarkhamorigins.vpk",
+    "size": 1241408,
+    "sha256": "d956e2d98b406c449a8ca2b45f650b66c0670b31fd2e338d5819827ad9d3d7d6",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/BAOR00001/icon.png",
+    "shots": [
+     "ports/BAOR00001/s1.jpg",
+     "ports/BAOR00001/s2.jpg",
+     "ports/BAOR00001/s3.jpg"
+    ],
+    "description": "Batman: Arkham Origins — мобильный файтинг от NetherRealm Studios, изданный WB Games. Игрок управляет Бэтменом в дуэлях один на один с врагами по всему Готэму, используя удары, контратаки и комбо свайпами, а по ходу прогресса открывает способности и костюмы. Это порт Android-версии (1.3.0) на PS Vita, в котором оригинальный код игры выполняется нативно через so-loader; есть управление на физические кнопки, нативный видеоплеер и только офлайн-игра.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/KiddRwxSsj/batman-aom-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BBBV04040",
+    "name": "BigBoyBoxing Vita",
+    "version": "1.3.0",
+    "author": "LordChickenBlaster & SoupMasters",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BBBV04040/bbbv.vpk",
+    "size": 46264686,
+    "sha256": "0bb69b6b1e43dc12241fccd208532e48d8f8043620e88a247a7599677647562f",
+    "icon": "ports/BBBV04040/icon.png",
+    "shots": [
+     "ports/BBBV04040/s1.jpg",
+     "ports/BBBV04040/s2.jpg",
+     "ports/BBBV04040/s3.jpg"
+    ],
+    "description": "Однопользовательский экшен в формате boss rush с пиксель-перфектной ретро-эстетикой, вдохновлённый классикой вроде «Punch-Out!!» и недавними инди-хитами вроде «Cuphead».\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BBRM12345",
+    "name": "BitBot Runners",
+    "version": "1.0",
+    "author": "LuckTheGamers",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BBRM12345/BitBot-Runners.vpk",
+    "size": 42867164,
+    "sha256": "78340f3a06d8a902bcf7f87c9f5bb6ca8baf1e80979f1b59714ce81296e464c9",
+    "icon": "ports/BBRM12345/icon.png",
+    "shots": [
+     "ports/BBRM12345/s1.jpg"
+    ],
+    "description": "Порт BitBot Runners, инди-игры-бегалки, в которой нужно набирать очки, проходя уровни, и на них покупать новых персонажей.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BEAT00002",
+    "name": "Beat2x Vita",
+    "version": "1.0.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BEAT00002/Beat2x.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/BEAT00002/data.zip",
+    "data_path": "ux0:data",
+    "size": 2000690,
+    "sha256": "01a3c04ec13bc25fd007ea380ac0b1460dbce183d92415fe78915ab20bf8e714",
+    "icon": "ports/BEAT00002/icon.png",
+    "shots": [
+     "ports/BEAT00002/s1.jpg",
+     "ports/BEAT00002/s2.jpg",
+     "ports/BEAT00002/s3.jpg"
+    ],
+    "description": "Порт Beat2x для PSVITA.\\nBeat2x — игра в духе Dance Dance Revolution, изначально созданная для открытой консоли GP2X.\\n\\nИсходники: github.com/Rinnegatamante/beat2x-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BEAT33322",
+    "name": "Beat Banger",
+    "version": "0.99",
+    "author": "masteroga",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BEAT33322/Beat.Banger.vpk",
+    "size": 17276241,
+    "sha256": "eb078b7efac840ecbda7a0b5bde996b009cbd343abb3e5d117c072dab1fc5aa1",
+    "icon": "ports/BEAT33322/icon.png",
+    "shots": [
+     "ports/BEAT33322/s1.jpg",
+     "ports/BEAT33322/s2.jpg",
+     "ports/BEAT33322/s3.jpg"
+    ],
+    "description": "Порт взрослой ритм-игры Beat Banger для PSVita.\\n\\nНужны файлы оригинальной игры (Steam), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BEGO00000",
+    "name": "Behind Every Great One",
+    "version": "1.0",
+    "author": "m1s3ry",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BEGO00000/Behind_Every_Great_One.vpk",
+    "size": 25901373,
+    "sha256": "e329a9e8b522e34b6923ceb197afef07ac2b0ee11e1ec718de696f9b4f9f0a1a",
+    "icon": "ports/BEGO00000/icon.png",
+    "shots": [
+     "ports/BEGO00000/s1.jpg",
+     "ports/BEGO00000/s2.jpg",
+     "ports/BEGO00000/s3.jpg"
+    ],
+    "description": "Behind Every Great One — игра от Deconstructeam, сделанная для Ludum Dare 42. Тема геймджема — «Running out of space» («Заканчивается место»). Габриэль — целеустремлённый успешный художник. У Викторины нет собственных увлечений, но она поддерживает Габриэля как домохозяйка. Они любят друг друга.\\nБлагодарность GrossleyMoo за помощь с портом и разработку UndertaleModTool. Без его помощи GMS 2 на Vita остался бы мечтой.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BERM00001",
+    "name": "Bermuda Vita",
+    "version": "1.4",
+    "author": "usineur",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BERM00001/bermuda-vita.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/BERM00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 1015517,
+    "sha256": "586be7738ebb599c85ca4df4d1891bac6b2fa911d606281b0e7d0927afdbbd31",
+    "icon": "ports/BERM00001/icon.png",
+    "shots": [
+     "ports/BERM00001/s1.jpg",
+     "ports/BERM00001/s2.jpg"
+    ],
+    "description": "Это порт игры Bermuda Syndrome для Vita, использующий движок реверс-инжиниринга от Gregory Montoir. Для игры понадобятся файлы оригинальной игры. Дополнительные инструкции можно найти по адресу https://github.com/usineur/bermuda/releases/latest\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/usineur/bermuda/\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BG2V00001",
+    "name": "BG2V",
+    "version": "0 Beta",
+    "author": "Calligula87",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BG2V00001/BG2.vpk",
+    "size": 3195276,
+    "sha256": "267dcbc32637351d867dd0596ed13985991e11897380864ebb98212b3456b7db",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/BG2V00001/icon.png",
+    "shots": [
+     "ports/BG2V00001/s1.jpg",
+     "ports/BG2V00001/s2.jpg",
+     "ports/BG2V00001/s3.jpg"
+    ],
+    "description": "BG2V — созданный сообществом порт Baldur's Gate II: Enhanced Edition на PlayStation Vita. Позволяет запускать игру на Vita с хомбрю, с управлением Vita, поддержкой сенсорного экрана и стартовыми видео, оптимизированными под Vita.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Calligula87/BG2V\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BGDM00099",
+    "name": "Bugdom",
+    "version": "1.3.4-vita.1",
+    "author": "ywnico",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BGDM00099/Bugdom.vpk",
+    "size": 50453337,
+    "sha256": "b650d845cbb41ee908b3bf9ae13ed1cc25a6a5b5760b793e15820834bce3ab1e",
+    "requires": "libshacccg",
+    "icon": "ports/BGDM00099/icon.png",
+    "shots": [
+     "ports/BGDM00099/s1.jpg"
+    ],
+    "description": "Это порт Bugdom от Pangea Software на PlayStation Vita, основанный на современной версии Bugdom, написанной Илиясом Жорио. Bugdom — платформер 1999 года, изначально созданный Pangea Software для Mac OS 9.\\n\\nИсходники: github.com/ywnico/bugdom-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BIKR00001",
+    "name": "Bike Race Vita",
+    "version": "1.1",
+    "author": "franciscoclou",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BIKR00001/BikeRace.vpk",
+    "size": 1161978,
+    "sha256": "d05474c9db1552f01519e15fdc9cef5919aff4ba59427c0cc964aa021ae89c6d",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/BIKR00001/icon.png",
+    "shots": [
+     "ports/BIKR00001/s1.jpg",
+     "ports/BIKR00001/s2.jpg"
+    ],
+    "description": "Порт Bike Race Pro 4.3 (Top Free Games, 2014) на PlayStation Vita и PlayStation TV, написанный с нуля.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/franciscoclou/bikerace-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BIO4AF000",
+    "name": "BIOHAZARD4 Vita",
+    "version": "1.5",
+    "author": "yizhigai & SpriteLisen & KAAAsS",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BIO4AF000/BIOHAZARD4.vpk",
+    "size": 3231885,
+    "sha256": "a8198003029143f4270a101b576a37c3abd698cd4881faece6d34856a1f56ccb",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/BIO4AF000/icon.png",
+    "shots": [
+     "ports/BIO4AF000/s1.jpg",
+     "ports/BIO4AF000/s2.jpg",
+     "ports/BIO4AF000/s3.jpg"
+    ],
+    "description": "Порт Resident Evil 4 Mobile для PSVita.\\nResident Evil 4 Mobile — сильно урезанный демейк Resident Evil 4 для устройств на Android.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: gitee.com/Moqi01/bio4\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BLLYFRNTR",
+    "name": "Billy Frontier Vita",
+    "version": "1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BLLYFRNTR/Billy.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/BLLYFRNTR/data.zip",
+    "data_path": "ux0:data",
+    "size": 1858496,
+    "sha256": "63d2433a5fe2559ba4dbd85fe096501b6af33a83c1cb09858d6f19102d8861e0",
+    "requires": "libshacccg",
+    "icon": "ports/BLLYFRNTR/icon.png",
+    "shots": [
+     "ports/BLLYFRNTR/s1.jpg",
+     "ports/BLLYFRNTR/s2.jpg",
+     "ports/BLLYFRNTR/s3.jpg"
+    ],
+    "description": "Billy Frontier Vita — порт Billy Frontier на основе недавно опубликованного исходного кода от jorio.\\nBilly Frontier — аркадный экшен на тему «ковбои в космосе». Вам предстоят дуэли, перестрелки, паническое бегство стад и многое другое. Это игра, за которую хочется взяться и поиграть, когда просто хочется во что-нибудь пострелять и всё взорвать!\\n\\nИсходники: github.com/Rinnegatamante/BillyFrontier\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BLOC52665",
+    "name": "Blockamok Remix",
+    "version": "1.2",
+    "author": "Mode8fx",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BLOC52665/BlockamokRemix.vpk",
+    "size": 2655081,
+    "sha256": "be02723fe7fe1b0a2303b9cbd4ed03782ee1edb5d550cf74ba544c3c980185a1",
+    "icon": "ports/BLOC52665/icon.png",
+    "shots": [
+     "ports/BLOC52665/s1.jpg"
+    ],
+    "description": "Летите сквозь 3D-мир бесконечных блоков и продержитесь как можно дольше! Есть настройки геймплея и графики, а также пять музыкальных треков.\\n\\nИсходники: github.com/Mode8fx/blockamok\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BLPM12345",
+    "name": "Blasphemous Vita",
+    "version": "beta.1",
+    "author": "gl00mm",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BLPM12345/BlasphemousVita.vpk",
+    "size": 12982648,
+    "sha256": "5133af0c35fcdae465f7cd0a94e0f77cb3505fdf5d9ae90f8fecfaa3759decab",
+    "icon": "ports/BLPM12345/icon.png",
+    "shots": [
+     "ports/BLPM12345/s1.jpg",
+     "ports/BLPM12345/s2.jpg",
+     "ports/BLPM12345/s3.jpg"
+    ],
+    "description": "Порт Blasphemous для PSVITA.\\nBlasphemous — суровый экшен-платформер, сочетающий динамичные, требующие мастерства бои в духе hack-n-slash с глубокой и пронзительной сюжетной основой, раскрывающейся через исследование огромной вселенной из нелинейных уровней.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BLUES0001",
+    "name": "The Blues Brothers",
+    "version": "1.0",
+    "author": "gl33ntwine",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BLUES0001/blues.vpk",
+    "size": 1205494,
+    "sha256": "ea24052da8ccbfaf5f957db8eeec2735267ceefc2e098caf55f7cb3259b1e1f4",
+    "icon": "ports/BLUES0001/icon.png",
+    "shots": [
+     "ports/BLUES0001/s1.jpg",
+     "ports/BLUES0001/s2.jpg"
+    ],
+    "description": "The Blues Brothers — платформер 1991 года по мотивам одноимённой группы. Вы управляете Джейком или Элвудом, который уходит от полиции на пути к блюзовому концерту. На протяжении 6 весёлых уровней вашим оружием будут только ловкость и бросаемые ящики.\\n\\nНужны файлы оригинальной игры (Amiga OR DOS), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/v-atamanenko/blues-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BLUES0002",
+    "name": "The Blues Brothers: Jukebox Adventure",
+    "version": "1.0",
+    "author": "gl33ntwine",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BLUES0002/bb-jukebox.vpk",
+    "size": 1308847,
+    "sha256": "cb5ddf361a7a360fec44dbe1847da17b6e9064b482068c43a48e80e7d479d6e7",
+    "icon": "ports/BLUES0002/icon.png",
+    "shots": [
+     "ports/BLUES0002/s1.jpg",
+     "ports/BLUES0002/s2.jpg"
+    ],
+    "description": "Jukebox Adventure — продолжение The Blues Brothers. Снова нужно выбрать любимого Брата Блюза и провести его через разные платформенные уровни с боковой прокруткой. Он собирает пластинки и использует их для защиты, бросая во врагов. Также есть бонусы, которые можно собирать, пока не найдёте музыкальный автомат для перехода на следующий уровень.\\n\\nНужны файлы оригинальной игры (DOS), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/v-atamanenko/blues-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BNCE00001",
+    "name": "reBounce Vita",
+    "version": "1.0.1",
+    "author": "myname24",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BNCE00001/BounceEvolution.vpk",
+    "size": 1850657,
+    "sha256": "a3779f55887acc84fc202af251c829ab608208bd268efd66fdecb008c31085e5",
+    "requires": "libshacccg",
+    "icon": "ports/BNCE00001/icon.png",
+    "description": "Нативный порт Bounce Evolution (Rovio, Nokia N900, 2009) на PS Vita. Оригинальный ARM32-бинарник для N900 перебазирован и статически слинкован в eboot для Vita; вызовы libc, GL, X11, EGL, PulseAudio и dbus заменены прослойками. 60 fps, звук, наклон как у акселерометра.\\n\\nНужны файлы оригинальной игры (Phone), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/myname24/rebounce-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BOMB00001",
+    "name": "Mad Bomber Vita",
+    "version": "1.0",
+    "author": "SonicMastr",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BOMB00001/Mad_Bomber_Vita.vpk",
+    "size": 3290005,
+    "sha256": "4c1b267a2bf4d8795f09a43ef28eeef0f07c06ec6d5aed3e41acd96c3e358f11",
+    "icon": "ports/BOMB00001/icon.png",
+    "shots": [
+     "ports/BOMB00001/s1.jpg"
+    ],
+    "description": "Mad Bomber — клон превосходной видеоигры 1981 года для Atari 2600 «Kaboom!» Ларри Каплана из Activision. (Изначально Kaboom! должна была стать портом их аркадной игры 1978 года «Avalanche» на Atari 2600, который производила сама Atari.)\\n\\nИсходники: github.com/SonicMastr/Mad-Bomber-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BOMBS1762",
+    "name": "BombSquad Vita",
+    "version": "0.7 alpha",
+    "author": "SpliffCurryBeats",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BOMBS1762/BombSquadVita.vpk",
+    "size": 2369746,
+    "sha256": "58fa779a37ae4e63569bc05013bcbb91333dcce97bfbbd741187965710e25513",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/BOMBS1762/icon.png",
+    "description": "BombSquad, работающая на PS Vita через слой совместимости с Android ARMv7.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: gitlab.com/sexcurrybeats/bombsquad-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BOUT00002",
+    "name": "BlockOut II",
+    "version": "2.5",
+    "author": "bomblik",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BOUT00002/BlockOutII.vpk",
+    "size": 6133397,
+    "sha256": "0c71f80bdb618ba65ec570aa4cfde4e6df61087e0a2e4423f368b19da85ca2cd",
+    "icon": "ports/BOUT00002/icon.png",
+    "shots": [
+     "ports/BOUT00002/s1.jpg",
+     "ports/BOUT00002/s2.jpg",
+     "ports/BOUT00002/s3.jpg"
+    ],
+    "description": "BlockOut II — увлекательная экшен-головоломка от Jean-Luc PONS. Это также первая хомбрю-игра на OpenGL для Playstation Vita.\\n\\nBlockOut II — реимплементация оригинальной головоломки 1989 года, разработанной в Польше Александром Усташевским и Мирославом Заблоцким и изданной California Dreams для нескольких платформ. Оригинальная BlockOut стала первой видеоигрой, перенёсшей тетрис из 2D в 3D.\\n\\nИсходники: github.com/bomblik/BlockOut_II_PSVITA\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BPREVIVAL",
+    "name": "Biplanes Revival",
+    "version": "1.2.1-fix1",
+    "author": "theSame",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BPREVIVAL/BiplanesRevival.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/BPREVIVAL/data.zip",
+    "data_path": "ux0:data",
+    "size": 2279182,
+    "sha256": "a9f9c8129f9e3e00ca8e09c3a6b55ef23317d9bb92c765fa1fafc79a7878dfbb",
+    "icon": "ports/BPREVIVAL/icon.png",
+    "shots": [
+     "ports/BPREVIVAL/s1.jpg",
+     "ports/BPREVIVAL/s2.jpg",
+     "ports/BPREVIVAL/s3.jpg"
+    ],
+    "description": "Старая мобильная аркада «BlueTooth BiPlanes», воссозданная для ПК и PS Vita (изначально разработана Morpheme Ltd. в 2004 году). Порт основан на огромной работе regular-dev. Мультиплеер совместим с версией для ПК.\\n\\nИсходники: github.com/DvaMishkiLapa/biplanes-revival-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BSTONE012",
+    "name": "bstone-vita",
+    "version": "0.3",
+    "author": "01y",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BSTONE012/bstone.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/BSTONE012/data.zip",
+    "data_path": "ux0:data",
+    "size": 1479735,
+    "sha256": "49df50835e3ecdb08732054399cb444188a9754951eb750b71cd88e9968d2a8b",
+    "icon": "ports/BSTONE012/icon.png",
+    "shots": [
+     "ports/BSTONE012/s1.jpg",
+     "ports/BSTONE012/s2.jpg",
+     "ports/BSTONE012/s3.jpg"
+    ],
+    "description": "Порт Blake Stone: Aliens of Gold и Blake Stone: Planet Strike для PSVITA/PSTV.\\n\\nИсходники: github.com/01y/bstone-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BTD500001",
+    "name": "Bloons TD 5 Vita",
+    "version": "1.0.1",
+    "author": "reallootfury",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BTD500001/btd5.vpk",
+    "size": 956984,
+    "sha256": "70203e0fe557d64c3294d69b4b867d3bec83d3177784f1f585f83cf2f7aee668",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/BTD500001/icon.png",
+    "shots": [
+     "ports/BTD500001/s1.jpg",
+     "ports/BTD500001/s2.jpg",
+     "ports/BTD500001/s3.jpg"
+    ],
+    "description": "Неофициальный загрузчик для PlayStation Vita Android-релиза Bloons TD 5 под ARMv7.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/reallootfury/bloons-td-5-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BTHAZARD2",
+    "name": "Beat Hazard 2 Vita",
+    "version": "1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BTHAZARD2/hazard.vpk",
+    "size": 2908182,
+    "sha256": "ed0f63e3673164768e8724e4a8ef4766b94afe87177bb14dbe4d967dc2b21b13",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/BTHAZARD2/icon.png",
+    "shots": [
+     "ports/BTHAZARD2/s1.jpg",
+     "ports/BTHAZARD2/s2.jpg",
+     "ports/BTHAZARD2/s3.jpg"
+    ],
+    "description": "Это враппер/порт Beat Hazard 2 для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, а сам файл патчится для корректного запуска. По сути, получается эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/hazard-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BUBB13579",
+    "name": "Everybody's Bubbles",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BUBB13579/EverybodyBubbles.vpk",
+    "size": 36411307,
+    "sha256": "8547945adc44ff3b656e198d8992eb77492a2b62b53ff547c3ba788bf2307937",
+    "icon": "ports/BUBB13579/icon.png",
+    "description": "Everybody's Bubbles — порт китайской игры с открытым исходным кодом, вдохновлённой Candy Crush, доступной на Android и iOS. Нужно набрать максимум очков за 60 секунд, нажимая на пузыри одного цвета группами по 3 и более.\\n\\nИсходники: github.com/Rinnegatamante/UnityBubbleGame/\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -3120,6 +4185,1073 @@
     "size": 212089,
     "icon": "SHARKF00D/icon.png",
     "description": "Извлекает libshacccg.suprx с твоей консоли в ur0:data. Нужен для портов, которые компилируют шейдеры. Установи, запусти один раз, дождись сообщения об успехе."
+   },
+   {
+    "titleid": "091900001",
+    "name": "Switch to PSTV",
+    "version": "1.0",
+    "author": "xCorra",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/091900001/Switch_to_PSTV.vpk",
+    "size": 2119638,
+    "sha256": "f1f06b71479b5a31ae8ab42e00890a12e915e4a5e3c9ae13c93a9efcbd325f74",
+    "icon": "homebrew/091900001/icon.png",
+    "description": "Приложение для PSVITA, которое отключает/включает плагин MiniVitaTV от TheFloW.\\nОткройте приложение: оно переименует плагины MiniVitaTV и DS3 и перезагрузит консоль, чтобы применить изменения (в процессе будет чёрный экран до перезагрузки). Если плагины были отключены этим приложением до его запуска, оно включит их обратно!\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "432100001",
+    "name": "Lua Game Of Life",
+    "version": "0.2",
+    "author": "domis4",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/432100001/lua-gameoflife.vpk",
+    "size": 1799538,
+    "sha256": "6bb05f7ce9a36e937041e772a5bd857998f00cbe8590226b02949a6505fbc189",
+    "icon": "homebrew/432100001/icon.png",
+    "shots": [
+     "homebrew/432100001/s1.jpg"
+    ],
+    "description": "Game of Life — простая реализация Game of Life Конвея для PS Vita, написанная на Lua с использованием Lua Player Plus.\\n\\nИсходники: github.com/domis4/lua-gameoflife\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABCD12345",
+    "name": "Flappy Bird Vita",
+    "version": "1.0",
+    "author": "Moe_Baker",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ABCD12345/birdunity.vpk",
+    "size": 19340121,
+    "sha256": "69fb91bcf3c25d92c3720a8f05e117092d8cddf1d6137e26f6b85ae35e748027",
+    "icon": "homebrew/ABCD12345/icon.png",
+    "description": "Клон Flappy Bird для PSVITA, сделанный на Unity.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABCD12347",
+    "name": "El Pollo",
+    "version": "2.0",
+    "author": "Lapy",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ABCD12347/El%20Pollo.vpk",
+    "size": 36278242,
+    "sha256": "7992de6c9c9622e12368f836f2774bdce2223883aef18143968ea9dc69f16b1a",
+    "icon": "homebrew/ABCD12347/icon.png",
+    "shots": [
+     "homebrew/ABCD12347/s1.jpg",
+     "homebrew/ABCD12347/s2.jpg"
+    ],
+    "description": "Клон Helicopter, сделанный на Unity.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABCD12953",
+    "name": "Cut the Rope Vita",
+    "version": "1.0",
+    "author": "SpanishFreddy",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ABCD12953/cut_the_rope.vpk",
+    "size": 23805944,
+    "sha256": "191cee392e223a9475adb45ccf5f23da6ed07cfbbb1412164e87e0caaf7ae193",
+    "icon": "homebrew/ABCD12953/icon.png",
+    "shots": [
+     "homebrew/ABCD12953/s1.jpg",
+     "homebrew/ABCD12953/s2.jpg",
+     "homebrew/ABCD12953/s3.jpg"
+    ],
+    "description": "Клон Cut the Rope для PSVITA, сделанный на Unity.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABCD52341",
+    "name": "Five Nights at Freddy's",
+    "version": "1.0",
+    "author": "Kolbie5874 & WeegeeDEVELOPER",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ABCD52341/FNaFVita.vpk",
+    "size": 73237056,
+    "sha256": "65cedfc6775d7e03dee74bc3a48900da9c5e4d7f1b4b24072a19670a89db76f9",
+    "icon": "homebrew/ABCD52341/icon.png",
+    "shots": [
+     "homebrew/ABCD52341/s1.jpg",
+     "homebrew/ABCD52341/s2.jpg",
+     "homebrew/ABCD52341/s3.jpg"
+    ],
+    "description": "Порт клона Five Nights at Freddy's для 3DS на PSVITA/PSTV.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABDD12344",
+    "name": "Clasherball",
+    "version": "Demo",
+    "author": "Sungrand Studios",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ABDD12344/clasherball.vpk",
+    "size": 81026913,
+    "sha256": "1c1a9e3084cdbdafd213d783040b47e807721dc7e39bf65a1fd1b23c19ffafb8",
+    "icon": "homebrew/ABDD12344/icon.png",
+    "shots": [
+     "homebrew/ABDD12344/s1.jpg",
+     "homebrew/ABDD12344/s2.jpg",
+     "homebrew/ABDD12344/s3.jpg"
+    ],
+    "description": "Проходите уникальные головоломки в режиме Arcade или проверьте, как долго вы продержитесь в режиме Infinite!\\nСводите шары одного цвета, чтобы они СТОЛКНУЛИСЬ! Но будьте осторожны: после столкновения шары отлетают назад и наносят вам урон. Уворачивайтесь, чтобы остаться в живых. \\nИспользуйте приёмы вроде кручёных ударов и рикошетов, чтобы решать головоломки на сообразительность!\\nДемо содержит один мир с 15 уровнями.\\nРежим Infinite позволяет играть сколько угодно.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABLK00001",
+    "name": "AntiBlacklist",
+    "version": "1.2",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ABLK00001/AntiBlacklist.vpk",
+    "size": 527574,
+    "sha256": "5fe78c675a905fb605a31a7a335d2b7ea8e13ea0410017e2fcf773c0a04c0cb3",
+    "icon": "homebrew/ABLK00001/icon.png",
+    "shots": [
+     "homebrew/ABLK00001/s1.jpg",
+     "homebrew/ABLK00001/s2.jpg",
+     "homebrew/ABLK00001/s3.jpg"
+    ],
+    "description": "AntiBlacklist — хомбрю-инструмент для PSTV, который убирает чёрный список игр и приложений, добавленный Sony, позволяя запускать на консоли любые игры.\\nВ отличие от других подобных инструментов, AntiBlacklist поддерживает патчи v1 и v2, а также умеет удалять патч v2 (если нужно обновить заблокированную им игру, а затем включить блокировку снова).\\n\\nИсходники: github.com/Rinnegatamante/AntiBlacklist\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABSV00001",
+    "name": "ABSvita",
+    "version": "0.1.1",
+    "author": "DarthTigerson",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ABSV00001/ABSvita.vpk",
+    "size": 1947392,
+    "sha256": "c161daaec085b646cc1df403d2fa6fab385dc24576fb059a82683a29c9817fea",
+    "icon": "homebrew/ABSV00001/icon.png",
+    "shots": [
+     "homebrew/ABSV00001/s1.jpg",
+     "homebrew/ABSV00001/s2.jpg",
+     "homebrew/ABSV00001/s3.jpg"
+    ],
+    "description": "Клиент Audiobookshelf для PlayStation Vita. Стримьте аудиокниги с собственного сервера, продолжайте с того места, где остановились, и синхронизируйте прогресс со всеми остальными приложениями Audiobookshelf.\\n\\nИсходники: github.com/DarthTigerson/ABSvita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ABYD12945",
+    "name": "Rubik's Cube Solver",
+    "version": "1.0",
+    "author": "Anchitpatra",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ABYD12945/Rubiks%20cube%20solver.vpk",
+    "size": 36807482,
+    "sha256": "9948fc5dce26192727e0a2101400209c840aa50730bc2bb9f185163ab85e8b3e",
+    "icon": "homebrew/ABYD12945/icon.png",
+    "description": "Приложение, которое автоматически решает любую схему кубика Рубика методом Фридрих.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ACTI00000",
+    "name": "Vita Activator",
+    "version": "1.1",
+    "author": "ZombieWizzard",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ACTI00000/vita-activator.vpk",
+    "size": 66233,
+    "sha256": "d2ad2efaa1097f050744f3d3d8742eb87efb918c2f380162d7bf661a6a85a4eb",
+    "icon": "homebrew/ACTI00000/icon.png",
+    "shots": [
+     "homebrew/ACTI00000/s1.jpg"
+    ],
+    "description": "Этот хомбрю позволяет получить данные активации на PlayStation Vita с HENkaku.\\n\\nИсходники: github.com/jitZpc/vita-activator\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ACTIVAMLT",
+    "name": "MLTactivator",
+    "version": "FIX2",
+    "author": "MiraLaTijera & Draqen",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ACTIVAMLT/MLTactivatorFIX2.vpk",
+    "size": 456420,
+    "sha256": "58901abf4dc07910189f848fe8a3e7f518ebf19a0eaf9f863549bcce9b8ca3a0",
+    "icon": "homebrew/ACTIVAMLT/icon.png",
+    "shots": [
+     "homebrew/ACTIVAMLT/s1.jpg"
+    ],
+    "description": "Утилита, которая активирует систему офлайн, используя файлы с другого аккаунта и устройства. Не используйте систему онлайн, иначе получите бан.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ACTM00003",
+    "name": "Vita Account Manager",
+    "version": "0.91",
+    "author": "windsurfer1122",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ACTM00003/vita-account-manager.vpk",
+    "size": 205639,
+    "sha256": "167c56c9944e27aa831bab19143980186e5cfacebeaf4340d97aa2be3de53f03",
+    "icon": "homebrew/ACTM00003/icon.png",
+    "description": "Переключение между несколькими аккаунтами PSN/SEN на PS Vita или PSTV, управление историей запусков, дамп ID консоли, сохранение и восстановление настроек WLAN.\\n\\nИсходники: github.com/windsurfer1122/Vita-Account-Manager\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ACTPSVITA",
+    "name": "SystemCheckEnabled",
+    "version": "1.0",
+    "author": "Draqen",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ACTPSVITA/SystemCheckEnabled.vpk",
+    "size": 1837913,
+    "sha256": "888eeef17393f3b34e43e86c1d0df56beb13156c229bb09d31f8eeac848136a5",
+    "icon": "homebrew/ACTPSVITA/icon.png",
+    "shots": [
+     "homebrew/ACTPSVITA/s1.jpg",
+     "homebrew/ACTPSVITA/s2.jpg",
+     "homebrew/ACTPSVITA/s3.jpg"
+    ],
+    "description": "Простой хомбрю, который проверяет, включена ли ваша система.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ADBT00001",
+    "name": "App DB Tool",
+    "version": "6.0",
+    "author": "luck & kylon",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ADBT00001/appdbtool.vpk",
+    "size": 336597,
+    "sha256": "f33d32afa485a6289abbdedf3c40d75b964a969d7b9fe381a6c496f7a0404b77",
+    "icon": "homebrew/ADBT00001/icon.png",
+    "shots": [
+     "homebrew/ADBT00001/s1.jpg"
+    ],
+    "description": "Appdb Tool может запустить обновление базы данных или полностью сбросить её БЕЗ потери раскладки иконок и папок!\\n\\nИсходники: bitbucket.org/kylon/appdbtool\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ADRBBLINS",
+    "name": "AdrBubbleBooterInstaller",
+    "version": "0.6",
+    "author": "Leecherman",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ADRBBLINS/AdrBubbleBooterInstaller.vpk",
+    "size": 433461,
+    "sha256": "41596b92c75c4db4e5e7862fbd0464087bfa10dadea081e75f32399bcdae5cdc",
+    "icon": "homebrew/ADRBBLINS/icon.png",
+    "description": "Этот хомбрю позволяет легко настроить AdrBubbleBooter в вашей установке Adrenaline. Устанавливает файлы, необходимые для работы бабблов, созданных в «Adrenaline Bubble Booter VPK edition», но сами баббл не создаёт!\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ADRINSTAL",
+    "name": "AdrenalineEasyInstaller",
+    "version": "1.15",
+    "author": "Freakler",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ADRINSTAL/AdrenalineEasyInstaller.vpk",
+    "size": 6646381,
+    "sha256": "a80dc6bfbb0f6cb4ee581a63481c993967c8cd344da2bd94ed413ad5b074a7e6",
+    "icon": "homebrew/ADRINSTAL/icon.png",
+    "shots": [
+     "homebrew/ADRINSTAL/s1.jpg",
+     "homebrew/ADRINSTAL/s2.jpg",
+     "homebrew/ADRINSTAL/s3.jpg"
+    ],
+    "description": "Простой в использовании установщик eCFW Adrenaline 6.61 от TheFloW.\\nПоддерживает Adrenaline от v.1.0 до v.5.1.\\n\\nИсходники: github.com/Freakler/vita-AdrenalineEasyInstaller\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ADVSLOP00",
+    "name": "AdvancedSlop",
+    "version": "0.1.0",
+    "author": "Grarak",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ADVSLOP00/advancedslop.vpk",
+    "size": 3333738,
+    "sha256": "6e461ae6f289ccdf5198d62cceae889c8c8d187c45daf83e0c6419f1457ff236",
+    "requires": "libshacccg,kubridge",
+    "icon": "homebrew/ADVSLOP00/icon.png",
+    "shots": [
+     "homebrew/ADVSLOP00/s1.jpg"
+    ],
+    "description": "Быстрый эмулятор GBA для PSVita на основе JIT-реализации из DSVita.\\n\\nИсходники: github.com/Grarak/AdvancedSlop\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "AF1A00001",
+    "name": "VitaGraphs",
+    "version": "0010",
+    "author": "Creckeryop",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/AF1A00001/VitaGraphs.vpk",
+    "size": 2143646,
+    "sha256": "669df859fe0ab287ce470bd63a5f90c38d1a64f767a9e77da49d1e59b4f22ba9",
+    "icon": "homebrew/AF1A00001/icon.png",
+    "shots": [
+     "homebrew/AF1A00001/s1.jpg",
+     "homebrew/AF1A00001/s2.jpg"
+    ],
+    "description": "Простой графический калькулятор, написанный на lpp-vita.\\n\\nИсходники: github.com/Creckeryop/VitaGraphs\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "AGWN00000",
+    "name": "AGWOAN",
+    "version": "Demo",
+    "author": "Borad Games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/AGWN00000/AGWOAN-PSV.vpk",
+    "size": 3247855,
+    "sha256": "b6dac43d5d33014b63b624d4ed6f3811aa03467ec491dd203ac5fea42afe980f",
+    "icon": "homebrew/AGWN00000/icon.png",
+    "shots": [
+     "homebrew/AGWN00000/s1.jpg",
+     "homebrew/AGWN00000/s2.jpg",
+     "homebrew/AGWN00000/s3.jpg"
+    ],
+    "description": "Платформер со встроенным редактором уровней.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ALEXRA001",
+    "name": "Crab Island",
+    "version": "1.0",
+    "author": "Aramallo",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ALEXRA001/crabisland.vpk",
+    "size": 6046423,
+    "sha256": "41756912340dff0de7c6221ad18b06f3fbcf40de7c8646daef4f8ca541bf2c24",
+    "icon": "homebrew/ALEXRA001/icon.png",
+    "shots": [
+     "homebrew/ALEXRA001/s1.jpg",
+     "homebrew/ALEXRA001/s2.jpg",
+     "homebrew/ALEXRA001/s3.jpg"
+    ],
+    "description": "Просто едва связный набор механик экшен-RPG и некрасивых (зато очень эффективно сжатых!) текстур.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "AMP000001",
+    "name": "A Maze Planet",
+    "version": "1.0",
+    "author": "Vulcore Team",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/AMP000001/maze_planet.vpk",
+    "size": 26115291,
+    "sha256": "96f5a055cdb1d6fc0f4ba842fe1eac4090a785ce290573db6ce1b3c9105abc25",
+    "icon": "homebrew/AMP000001/icon.png",
+    "shots": [
+     "homebrew/AMP000001/s1.jpg",
+     "homebrew/AMP000001/s2.jpg",
+     "homebrew/AMP000001/s3.jpg"
+    ],
+    "description": "A Maze Planet — процедурно генерируемый данжн-кроулер. Нужно исследовать странную планету и повышать уровень, пока не найдёте выход на поверхность.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ANIM41356",
+    "name": "Animal Vitas",
+    "version": "2.0",
+    "author": "Spartanfox",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ANIM41356/AnimalVitas.vpk",
+    "size": 56187739,
+    "sha256": "ffbe99eed2feda38b57164a0949a2de49a6fa212e776cd1fa64f3d3d24307eb0",
+    "icon": "homebrew/ANIM41356/icon.png",
+    "shots": [
+     "homebrew/ANIM41356/s1.jpg",
+     "homebrew/ANIM41356/s2.jpg",
+     "homebrew/ANIM41356/s3.jpg"
+    ],
+    "description": "Игра с открытым миром, где вы строите город и украшаете его\\nДружите или враждуйте с жителями\\nСобирайте ресурсы и обменивайтесь ими с другими или создавайте из них новые предметы\\nИсследуйте пещеры и постарайтесь не погибнуть\\nОбустройте свой дом и приглашайте гостей\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ANTSCT001",
+    "name": "UX0 to SD CloneTool",
+    "version": "2.3b",
+    "author": "AntHJ",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ANTSCT001/UX0toSD.vpk",
+    "size": 7431932,
+    "sha256": "1b873e6ccd1fe9cdd0d5e12ef041c5be26f83b3afadd2758529fdb6876f68802",
+    "icon": "homebrew/ANTSCT001/icon.png",
+    "shots": [
+     "homebrew/ANTSCT001/s1.jpg",
+     "homebrew/ANTSCT001/s2.jpg",
+     "homebrew/ANTSCT001/s3.jpg"
+    ],
+    "description": "Этот простой в использовании инструмент полуавтоматизирует перенос на SD-карту. Он распределит выделенную память и склонирует память Sony на SD. Работает с SD2Vita, PSVSD и USB на PSTV и Vita.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "AOTLMC001",
+    "name": "Attack of the Lettuce Munching Caterpillars",
+    "version": "1.0",
+    "author": "Gremlin Software",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/AOTLMC001/Caterpillars.vpk",
+    "size": 13781129,
+    "sha256": "171a36dc39cd1f66020a6139f3b35554b44a9789d7c5a6f3049f07610c4d9b88",
+    "icon": "homebrew/AOTLMC001/icon.png",
+    "shots": [
+     "homebrew/AOTLMC001/s1.jpg",
+     "homebrew/AOTLMC001/s2.jpg",
+     "homebrew/AOTLMC001/s3.jpg"
+    ],
+    "description": "Attack of the Lettuce Munching Caterpillars — игра в жанре shoot 'em up / beat 'em up, в которой нужно раздавить всех насекомых за отведённое время. Все персонажи слеплены из пластилина в технике «clay-mation», а музыка и звуковые эффекты выполнены в ретро-стиле 8 бит. Нужно победить несколько волн врагов, а в конце каждого уровня вас ждёт босс.\\n\\nИсходники: github.com/softwaregremlin/Attack-of-the-Lettuce-Munching-Caterpillars\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "APPLOCKER",
+    "name": "AppLocker",
+    "version": "1.2",
+    "author": "AntHJ",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/APPLOCKER/AppLocker.vpk",
+    "size": 3591941,
+    "sha256": "450c4e5fe9f9d13185afc1e7982f407c7e562aeadad5764689be650b5f367b6f",
+    "icon": "homebrew/APPLOCKER/icon.png",
+    "shots": [
+     "homebrew/APPLOCKER/s1.jpg",
+     "homebrew/APPLOCKER/s2.jpg"
+    ],
+    "description": "Теперь можно блокировать и разблокировать доступ к приложениям на Vita. Нажатие X на выбранном приложении создаст блокировку, которую можно обойти комбинацией, Квадрат ПОЛНОСТЬЮ заблокирует приложение без возможности обхода, а O снимет блокировку.\\nЧтобы обойти блокировку: удерживайте левый аналог влево, правый аналог вправо и одновременно нажмите оба триггера L + R.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "APPSRGMGR",
+    "name": "Application Storage Manager",
+    "version": "0.02",
+    "author": "Lupo511",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/APPSRGMGR/AppStorageManager.vpk",
+    "size": 731949,
+    "sha256": "71d4d738891cb103894cb9eca751d87ad5ac27dc905c25416b94902523644eee",
+    "icon": "homebrew/APPSRGMGR/icon.png",
+    "shots": [
+     "homebrew/APPSRGMGR/s1.jpg",
+     "homebrew/APPSRGMGR/s2.jpg"
+    ],
+    "description": "Небольшое приложение для переноса приложений с карты памяти (ux0:app/) во внутреннюю память (ur0:app/) и обратно.\\n\\nИсходники: bitbucket.org/Lupo511/appstoragemanager/src\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ARIEL0001",
+    "name": "RejuveSnake",
+    "version": "1.0",
+    "author": "Ruben_Wolfe",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ARIEL0001/rejuvesnake.vpk",
+    "size": 1350174,
+    "sha256": "ff2e158179b70626db3ac541a003a71c1df439e82ec3b40fdce23a6bbe849c7c",
+    "icon": "homebrew/ARIEL0001/icon.png",
+    "shots": [
+     "homebrew/ARIEL0001/s1.jpg",
+     "homebrew/ARIEL0001/s2.jpg",
+     "homebrew/ARIEL0001/s3.jpg"
+    ],
+    "description": "Первый клон Snake на PSVITA.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ARIEL0002",
+    "name": "Game of Life",
+    "version": "1.0",
+    "author": "Ruben_Wolfe",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ARIEL0002/gameoflife.vpk",
+    "size": 952006,
+    "sha256": "e8cc8e4a176d44fbb6892f8c735d93b672079a82a14870632392b533e5f6d3ca",
+    "icon": "homebrew/ARIEL0002/icon.png",
+    "shots": [
+     "homebrew/ARIEL0002/s1.jpg",
+     "homebrew/ARIEL0002/s2.jpg",
+     "homebrew/ARIEL0002/s3.jpg"
+    ],
+    "description": "Game of Life Конвея для PSVITA.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ARIEL0004",
+    "name": "VitaShell Theme Manager",
+    "version": "1.0",
+    "author": "Ruben_Wolfe",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ARIEL0004/vitashellthememanager.vpk",
+    "size": 3097213,
+    "sha256": "ab9b8939a27b37ddddcdc37eaf738d113ab6742ac595682e603524ba8cc117b6",
+    "icon": "homebrew/ARIEL0004/icon.png",
+    "shots": [
+     "homebrew/ARIEL0004/s1.jpg",
+     "homebrew/ARIEL0004/s2.jpg"
+    ],
+    "description": "VitaShell Theme Manager — простой и удобный GUI для применения тем в VitaShell от TheFloW (версии 0.85 и выше).\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ARIEL0005",
+    "name": "Battery Indicator",
+    "version": "1.0",
+    "author": "Ruben_Wolfe",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ARIEL0005/BatteryIndicator.vpk",
+    "size": 906275,
+    "sha256": "75c0b7cf578940ace7524cf4759a5d47df4fca31b6705f0f6610401d7ad86778",
+    "icon": "homebrew/ARIEL0005/icon.png",
+    "shots": [
+     "homebrew/ARIEL0005/s1.jpg",
+     "homebrew/ARIEL0005/s2.jpg"
+    ],
+    "description": "Этот хомбрю показывает реальный процент заряда батареи вашей PSVita и служит приятным экраном ожидания во время зарядки.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ARKSFLASH",
+    "name": "Flash Light",
+    "version": "1.0",
+    "author": "Arkanite",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ARKSFLASH/flashlight.vpk",
+    "size": 123098,
+    "sha256": "59b1c820daadf454e30e71a63b8aabf42eb107f68d07e81de6cac411d5016e85",
+    "icon": "homebrew/ARKSFLASH/icon.png",
+    "description": "Простое HENkaku-приложение-фонарик для Playstation Vita.\\nПоказывает белый экран на максимальной яркости. Ваши настройки яркости сохраняются и восстанавливаются при закрытии приложения.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ARKSMEDIA",
+    "name": "Vita Media Center",
+    "version": "0.01a",
+    "author": "Arkanite",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ARKSMEDIA/mediacenter.vpk",
+    "size": 2389079,
+    "sha256": "a52f2ca2c93712bb47d208f42846bc42185821f4ae8666c196f5c46aa3742de4",
+    "icon": "homebrew/ARKSMEDIA/icon.png",
+    "shots": [
+     "homebrew/ARKSMEDIA/s1.jpg",
+     "homebrew/ARKSMEDIA/s2.jpg"
+    ],
+    "description": "Видеоплеер для PSVITA для роликов MP4.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ARKSNPAD0",
+    "name": "Notepad++ (VE)",
+    "version": "0.31",
+    "author": "Arkanite",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ARKSNPAD0/Notepad.vpk",
+    "size": 1443790,
+    "sha256": "2053d947349d1b2fa5e5fe264c07173e9422959377d6921d1f9d2c1f527b7caa",
+    "icon": "homebrew/ARKSNPAD0/icon.png",
+    "shots": [
+     "homebrew/ARKSNPAD0/s1.jpg",
+     "homebrew/ARKSNPAD0/s2.jpg",
+     "homebrew/ARKSNPAD0/s3.jpg"
+    ],
+    "description": "Notepad++ (VE) — портативный блокнот и редактор исходного кода для Playstation Vita.\\nПроект начинался как простой текстовый редактор, но разросся и получил несколько функций, из-за чего стал довольно похож на популярную программу Notepad++ для ПК.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ARKSPCLNK",
+    "name": "PC Link",
+    "version": "0.8b",
+    "author": "Arkanite",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ARKSPCLNK/pclink.vpk",
+    "data": "https://firsts3.ru/vpkgj/homebrew/ARKSPCLNK/data.zip",
+    "data_path": "ux0:data",
+    "size": 2599085,
+    "sha256": "5085fcfcdf5daaa666b422ebc060a7961c32972c184101f81961b76c24ab619a",
+    "icon": "homebrew/ARKSPCLNK/icon.png",
+    "shots": [
+     "homebrew/ARKSPCLNK/s1.jpg",
+     "homebrew/ARKSPCLNK/s2.jpg",
+     "homebrew/ARKSPCLNK/s3.jpg"
+    ],
+    "description": "Позволяет стримить сессию с ПК на PSVITA/PSTV, подобно Vita Moonlight.\\nВ отличие от него, этот хомбрю поддерживает даже карты AMD и старые карты NVIDIA.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ARKSPSPHB",
+    "name": "PSP Homebrew Browser",
+    "version": "0.9b",
+    "author": "Arkanite",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ARKSPSPHB/PSPhbb.vpk",
+    "size": 7929431,
+    "sha256": "7acb2f15aef2a71be0009bc351c0b2212be495e2e6320abbec464bba471d7b6f",
+    "icon": "homebrew/ARKSPSPHB/icon.png",
+    "shots": [
+     "homebrew/ARKSPSPHB/s1.jpg",
+     "homebrew/ARKSPSPHB/s2.jpg",
+     "homebrew/ARKSPSPHB/s3.jpg"
+    ],
+    "description": "HENkaku-приложение, помогающее устанавливать PSP-хомбрю для запуска под Adrenaline.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ARSP03714",
+    "name": "Ars Poetica",
+    "version": "1.0",
+    "author": "Joao Eiras Antunes",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ARSP03714/ArsPoetica.vpk",
+    "size": 64308506,
+    "sha256": "c49f56ab6dfbcb82fabe7eab326a968c04c80180ef8decba787c9943d1254cc7",
+    "icon": "homebrew/ARSP03714/icon.png",
+    "shots": [
+     "homebrew/ARSP03714/s1.jpg",
+     "homebrew/ARSP03714/s2.jpg",
+     "homebrew/ARSP03714/s3.jpg"
+    ],
+    "description": "Ars Poetica — нарративная головоломка-квест с запиранием, посвящённая поэзии.\\nПредставьте «Zorg встречает Dear Esther»: упор на историю, авангардный дизайн головоломок, но с корнями в жанре текстовых приключений, сочетающий олдскульный и современный геймдизайн.\\nСолдат Второй мировой войны получает ранение в бою. На пути домой его убивает снаряд, и в эту долю секунды между жизнью и смертью он должен обрести покой и вспомнить, кто он.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ART3DIR01",
+    "name": "Art3m1sPSV",
+    "version": "1.3.13",
+    "author": "DeQxJ00",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ART3DIR01/Art3m1sPSV.vpk",
+    "size": 29264975,
+    "sha256": "b0b0f40202a8f956998d012b8b9546fc47cb22c31582b255b3bef92ee52536f9",
+    "requires": "libshacccg",
+    "icon": "homebrew/ART3DIR01/icon.png",
+    "shots": [
+     "homebrew/ART3DIR01/s1.jpg",
+     "homebrew/ART3DIR01/s2.jpg",
+     "homebrew/ART3DIR01/s3.jpg"
+    ],
+    "description": "Раннер игр на движке Artemis (кроссплатформенный движок визуальных новелл) для PlayStation Vita на основе стороннего решения Art3m1s. Разбор и поведение во время выполнения основаны на Alphaly2K/art3m1s-core, с адаптациями для PSV под некоторые новые особенности скриптов движка, рендеринг, шейдеры, кэширование ресурсов, аудио/видео и ввод.\\n\\nИсходники: github.com/DeQxJ00/Art3m1sPSV\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ASTR01234",
+    "name": "Astro Rush",
+    "version": "1.0",
+    "author": "arar7000",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ASTR01234/AstroRush.vpk",
+    "size": 34924073,
+    "sha256": "7bb7b28fc601c5e4abe88d30ea018f5a99b201044897a57815b0e803eeda3365",
+    "icon": "homebrew/ASTR01234/icon.png",
+    "description": "Мчитесь сквозь космос и уворачивайтесь от препятствий на бешеной скорости.\\nУправляйте двумя метеоритами в быстрой игре на рекорд, пока вы несётесь через психоделическую галактику. Вращайте метеориты, чтобы провести их между препятствиями. Если вы ошибётесь один раз, у вас останется один метеорит, и вместо вращения управление переключится на уклонение.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "AVPLAYER1",
+    "name": "Vita Sample Avplayer",
+    "version": "1.03",
+    "author": "yizhigai",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/AVPLAYER1/sample_avplayer.vpk",
+    "size": 2934998,
+    "sha256": "dce7a4dd9f413f2c9774de1502b9e00785ac56338a8f3ab335ecfc533d933aa7",
+    "icon": "homebrew/AVPLAYER1/icon.png",
+    "shots": [
+     "homebrew/AVPLAYER1/s1.jpg",
+     "homebrew/AVPLAYER1/s2.jpg"
+    ],
+    "description": "Простой видеоплеер для PSVITA на основе модуля SceAvPlayer.\\n\\nИсходники: gitee.com/yizhigai/vita-sample-avplayer\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "AZAHARPSV",
+    "name": "Azahar Vita",
+    "version": "0.1.0",
+    "author": "Grarak",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/AZAHARPSV/azahar_vita.vpk",
+    "size": 8454197,
+    "sha256": "72086c66d69b773937b1d93368c9a286854709babe6ef96916bedbc625c312b0",
+    "icon": "homebrew/AZAHARPSV/icon.png",
+    "shots": [
+     "homebrew/AZAHARPSV/s1.jpg"
+    ],
+    "description": "Ранний, почти целиком вайбкодовый порт Azahar для PSVita — популярного эмулятора 3DS.\\n\\nИсходники: github.com/Grarak/azahar\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "AZHR00001",
+    "name": "Tuiza Vita",
+    "version": "0.2.5",
+    "author": "TutuiFC",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/AZHR00001/TuizaVita.vpk",
+    "size": 5734058,
+    "sha256": "5ff274deb3f682b2b47161de45d84ed92761bec298cbd94e547845b55bb3c402",
+    "icon": "homebrew/AZHR00001/icon.png",
+    "shots": [
+     "homebrew/AZHR00001/s1.jpg"
+    ],
+    "description": "Порт Azahar, эмулятора 3DS, для PSVita.\\n\\nИсходники: github.com/TutuiFC/TuizaVita-3ds-emu\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BADA00001",
+    "name": "Bad Apple Vita",
+    "version": "1.0",
+    "author": "knight-ryu12 & Princess-Of-Sleeping",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BADA00001/badapple_VITA.vpk",
+    "size": 15437907,
+    "sha256": "db94465a6d4ceb4a92d7053ce882b7ccb851763da8a73ac6ffb73e6df3310303",
+    "icon": "homebrew/BADA00001/icon.png",
+    "shots": [
+     "homebrew/BADA00001/s1.jpg",
+     "homebrew/BADA00001/s2.jpg"
+    ],
+    "description": "Bad Apple, воссозданный на графическом движке monoRLE.\\nBad Apple — японская танцевальная поп-песня, впервые прозвучавшая в одной из аркадных игр серии Touhou.\\n\\nИсходники: github.com/knight-ryu12/badapplevita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BAKU88888",
+    "name": "My Bakku Pakku",
+    "version": "2.5",
+    "author": "LazyOx199",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BAKU88888/bakkupakku.vpk",
+    "size": 53564747,
+    "sha256": "04dcd8bdaa4617cc380def2e3fa159c11c5a2f61e7c4b56c493f652b00df9ca0",
+    "icon": "homebrew/BAKU88888/icon.png",
+    "shots": [
+     "homebrew/BAKU88888/s1.jpg",
+     "homebrew/BAKU88888/s2.jpg",
+     "homebrew/BAKU88888/s3.jpg"
+    ],
+    "description": "My Bakku Pakku — платформер/головоломка с экшеном и двумя типами управления.\\nОнко — главный герой: пока его рюкзак пуст, он управляется как в Super Mario 3D, а когда рюкзак полон, катается как в Katamari.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BALD00001",
+    "name": "Purified",
+    "version": "Breach",
+    "author": "Balder",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BALD00001/purified.vpk",
+    "size": 88310794,
+    "sha256": "1056b7ce462df0ef8648aeb4040b6a8231dee4fac88e8962247b279a02ec513b",
+    "icon": "homebrew/BALD00001/icon.png",
+    "shots": [
+     "homebrew/BALD00001/s1.jpg",
+     "homebrew/BALD00001/s2.jpg",
+     "homebrew/BALD00001/s3.jpg"
+    ],
+    "description": "Purified — шутер от третьего лица с волнами врагов, цель которого — стабильные 60 fps на железе Vita!\\nОфициальный саундтрек написан моим другом Брайаном Черниковски!\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BALM00001",
+    "name": "VitaBatteryAlarm",
+    "version": "1.0",
+    "author": "CallmeBK",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BALM00001/BatteryAlarm.vpk",
+    "size": 451697,
+    "sha256": "5c7bc35c43553869c8eaae0c42a6d569fd312a61fb9420d4251e4f7a366fc423",
+    "icon": "homebrew/BALM00001/icon.png",
+    "shots": [
+     "homebrew/BALM00001/s1.jpg"
+    ],
+    "description": "Приложение, которое выводит PSVita из спящего режима и воспроизводит WAV-файл, когда заряд батареи достигает заданного пользователем процента.\\n\\nИсходники: github.com/CallmeBK/VitaBatteryAlarm\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BARTENDER",
+    "name": "Bartender",
+    "version": "1.0",
+    "author": "Island_Games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BARTENDER/Bartender.vpk",
+    "size": 2041208,
+    "sha256": "739eae70549d28dc481b6304fb4f4ca358609b1838bdf45723080eb25c5fb67e",
+    "icon": "homebrew/BARTENDER/icon.png",
+    "shots": [
+     "homebrew/BARTENDER/s1.jpg",
+     "homebrew/BARTENDER/s2.jpg",
+     "homebrew/BARTENDER/s3.jpg"
+    ],
+    "description": "Хомбрю-реализация системы трофеев для PSVita. Трофеи, полученные в этой системе, не объединяются с официальными трофеями PSVita.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BASILISK0",
+    "name": "Basilisk II",
+    "version": "0.33h",
+    "author": "meetpatty & rsn8887",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BASILISK0/BasiliskII_Vita.vpk",
+    "data": "https://firsts3.ru/vpkgj/homebrew/BASILISK0/data.zip",
+    "data_path": "ux0:data",
+    "size": 1416438,
+    "sha256": "84ae6674dcf2c21d89d023330271e5583522b9e2722af32a797b20b28fe6b11e",
+    "icon": "homebrew/BASILISK0/icon.png",
+    "shots": [
+     "homebrew/BASILISK0/s1.jpg",
+     "homebrew/BASILISK0/s2.jpg",
+     "homebrew/BASILISK0/s3.jpg"
+    ],
+    "description": "Порт Basilisk II на PSVita. Основан на порте Chilly Willy для PSP.\\nBasilisk II — эмулятор 68k Macintosh с открытым исходным кодом. Он позволяет запускать ПО для 68k MacOS на вашем компьютере, даже если у вас другая операционная система. Однако для работы Basilisk II всё равно нужны копия MacOS и образ ПЗУ Macintosh.\\n\\nИсходники: github.com/rsn8887/basiliskii-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BATDS0000",
+    "name": "Boris and the Dark Survival",
+    "version": "0.1.11",
+    "author": "Siul Animation Studios",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BATDS0000/boris-and-the-dark-survival.vpk",
+    "size": 43069923,
+    "sha256": "0ec417445dc111ec6433b26197d99e92d62f8aee3ecd51c45132c857ceed41d3",
+    "icon": "homebrew/BATDS0000/icon.png",
+    "shots": [
+     "homebrew/BATDS0000/s1.jpg",
+     "homebrew/BATDS0000/s2.jpg",
+     "homebrew/BATDS0000/s3.jpg"
+    ],
+    "description": "Выживание прежде всего...\\nБорису нужно найти все инструменты, чтобы выжить в студии Джои Дрю.\\nНо будьте осторожны: вы не одни, Чернильный Демон всегда на охоте, и если он поймает вас, добром это не кончится!\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BCAA00777",
+    "name": "A Place Beyond",
+    "version": "0.12 - test build 1",
+    "author": "bcaa777",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BCAA00777/APlaceBeyond.vpk",
+    "size": 226795937,
+    "sha256": "3c82636f30323b3415bfaaa6e86941c341d3959497541c2a4c5527d1dc6293d3",
+    "icon": "homebrew/BCAA00777/icon.png",
+    "shots": [
+     "homebrew/BCAA00777/s1.jpg",
+     "homebrew/BCAA00777/s2.jpg",
+     "homebrew/BCAA00777/s3.jpg"
+    ],
+    "description": "Мрачный нарисованный вручную приключенческий экшен, нативно портированный на PS Vita с браузерной игры A Place Beyond.\\nПройдите по лесной дороге в приход Блэкуотер, переплывите на вёслах затопленное озеро, зажгите фонари Топи, выследите графа Веспера в городе, разбудите Бледный Колокол; затем отправляйтесь в пять путешествий за пределы: погружение в дуло пистолета, подъём, ночная поездка через перевал, сон дракона и Подприход.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BCLK00001",
+    "name": "Bit Clicker",
+    "version": "1.0",
+    "author": "Ccoolguy",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BCLK00001/BitCliker.vpk",
+    "size": 2651275,
+    "sha256": "6831ffca26c77e890caa4faa4eaea7315f29d1e562a0bba5247848a7c7a3e2b5",
+    "icon": "homebrew/BCLK00001/icon.png",
+    "shots": [
+     "homebrew/BCLK00001/s1.jpg"
+    ],
+    "description": "Кликер для PSVITA/PSTV, сделанный на GameMaker.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BEAR12340",
+    "name": "Have a Good One!",
+    "version": "1.0",
+    "author": "Eva Vital & Isaque Sanches",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BEAR12340/HaveAGoodOne.vpk",
+    "size": 59085720,
+    "sha256": "2afa8caf9e8494b7fe069b0561950e5e91aa28c1c37bdf8b3b172c20fcfe23ae",
+    "icon": "homebrew/BEAR12340/icon.png",
+    "shots": [
+     "homebrew/BEAR12340/s1.jpg",
+     "homebrew/BEAR12340/s2.jpg",
+     "homebrew/BEAR12340/s3.jpg"
+    ],
+    "description": "Have a Good One — нарративная головоломка о почтальоне (почто-медведе) в стране плюшевых мишек, который пытается воссоединить двух потерянных влюблённых с помощью письма.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BEBE12908",
+    "name": "MKMayhem",
+    "version": "0.2",
+    "author": "FantaHourglass",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BEBE12908/MKMayhem.vpk",
+    "size": 58460781,
+    "sha256": "a79e6349f01b09290d3d18ce8b1b6134064bc256e70162185a6be0de7b38c4fa",
+    "icon": "homebrew/BEBE12908/icon.png",
+    "shots": [
+     "homebrew/BEBE12908/s1.jpg",
+     "homebrew/BEBE12908/s2.jpg",
+     "homebrew/BEBE12908/s3.jpg"
+    ],
+    "description": "Клон Goat Simulator в мире Mario, где играбельный персонаж — Waluigi.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BETTERQRS",
+    "name": "Better QR Scanner",
+    "version": "24-07-2025",
+    "author": "Harommel Rabbid",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BETTERQRS/Better.QR.Scanner.vpk",
+    "size": 1501459,
+    "sha256": "8be5bcdf1e2f29406819df752f0765edb0d2b58fd5f6f53f2200ae4dfe21452a",
+    "icon": "homebrew/BETTERQRS/icon.png",
+    "shots": [
+     "homebrew/BETTERQRS/s1.jpg",
+     "homebrew/BETTERQRS/s2.jpg"
+    ],
+    "description": "Многофункциональный QR-инструмент для PSVita, который сканирует и генерирует QR-коды.\\n\\nИсходники: github.com/HarommelRabbid/BetterQRScanner\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BHBB00001",
+    "name": "Better Homebrew Browser",
+    "version": "1.44",
+    "author": "M Ibrahim",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BHBB00001/BetterHomebrewBrowser.vpk",
+    "size": 1127239,
+    "sha256": "c1b43d8036f64efeefe480b3e24149215bbfee051309f7f757bbf6b177d88060",
+    "icon": "homebrew/BHBB00001/icon.png",
+    "shots": [
+     "homebrew/BHBB00001/s1.jpg",
+     "homebrew/BHBB00001/s2.jpg",
+     "homebrew/BHBB00001/s3.jpg"
+    ],
+    "description": "Браузер и загрузчик хомбрю для PSVITA с поддержкой фоновых загрузок.\\n\\nИсходники: github.com/Ibrahim778/BetterHomebrewBrowser\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BIRD00000",
+    "name": "Vita Flappy Bird",
+    "version": "1.0",
+    "author": "yukkurisinai",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BIRD00000/flappybird.vpk",
+    "size": 52457,
+    "sha256": "66b21bdba4b729f46bd90efa721412898a29a83310109bd94a067db340d2c4f8",
+    "icon": "homebrew/BIRD00000/icon.png",
+    "shots": [
+     "homebrew/BIRD00000/s1.jpg"
+    ],
+    "description": "Клон смартфонной игры Flappy Bird для PSVITA/PSTV.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BKBT13371",
+    "name": "BonkBots!",
+    "version": "1.0",
+    "author": "Almidasa Studios",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BKBT13371/BonkBots.vpk",
+    "size": 73075945,
+    "sha256": "879738da5d0fd4ace89b77ded0a231f80e3e28736966fd0f1ae84c49df084912",
+    "icon": "homebrew/BKBT13371/icon.png",
+    "shots": [
+     "homebrew/BKBT13371/s1.jpg",
+     "homebrew/BKBT13371/s2.jpg",
+     "homebrew/BKBT13371/s3.jpg"
+    ],
+    "description": "BonkBots! — аркадный файтинг, в котором нужно побеждать волны ботов, круша их молотом или перерубая их провода мечом. Улучшайте снаряжение и готовьтесь к новым волнам, относя трофеи с врагов в печь.\\nУничтожайте волны ботов, смотрите, как долго продержитесь, и главное — получайте удовольствие от бонканья!\\nОверклок не обязателен, но рекомендуется.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BKOYSS000",
+    "name": "Blue Bayou",
+    "version": "1.0",
+    "author": "bokoyoss",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BKOYSS000/BlueBayouVita.vpk",
+    "size": 26100600,
+    "sha256": "211783e0ce3fec9f32f533e90f094327cec025bf35505973e7f80d9894fc3ef4",
+    "icon": "homebrew/BKOYSS000/icon.png",
+    "shots": [
+     "homebrew/BKOYSS000/s1.jpg",
+     "homebrew/BKOYSS000/s2.jpg",
+     "homebrew/BKOYSS000/s3.jpg"
+    ],
+    "description": "Blue Bayou изначально была сделана за одну неделю для GBJAM-8 и заняла 1-е место в категории «Fun». Отчасти boss rush, отчасти симулятор рака: игрок берёт на себя роль загнанного в угол рака, который противостоит целой череде безжалостных коллекторов в болотах Луизианы.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BKYS00001",
+    "name": "Dream Punk",
+    "version": "1.1",
+    "author": "bokoyoss",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BKYS00001/dream_punk.vpk",
+    "size": 80438565,
+    "sha256": "ec5ecf465dc7100dfdea64b3ba7642329813e25bae30cb46b1055ff0bb8505e8",
+    "icon": "homebrew/BKYS00001/icon.png",
+    "shots": [
+     "homebrew/BKYS00001/s1.jpg",
+     "homebrew/BKYS00001/s2.jpg",
+     "homebrew/BKYS00001/s3.jpg"
+    ],
+    "description": "В Dream Punk вы падаете и не можете проснуться. Прыгайте, цепляйтесь крюком, планируйте и скользите по рельсам в мире конфетных цветов, собирая видеокассеты для соседа. Если вам удастся найти и позвонить во все колокола и разбудить Мечтателя — что станет с вами?\\nОткрывайте способности и прокачивайте их. Вы падаете? Или летите?\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BLKY00001",
+    "name": "ViTanks",
+    "version": "0.4",
+    "author": "Spartanfox",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BLKY00001/RT.vpk",
+    "size": 2923137,
+    "sha256": "4c55f33f286fe29a201e559c435d7f55861d26b469e53144b5606f6f3ece438b",
+    "icon": "homebrew/BLKY00001/icon.png",
+    "shots": [
+     "homebrew/BLKY00001/s1.jpg",
+     "homebrew/BLKY00001/s2.jpg"
+    ],
+    "description": "Файтинг с видом сверху про танки.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BLPV00980",
+    "name": "BubblePunk",
+    "version": "0.2",
+    "author": "CyberTokyo",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BLPV00980/BubblePunk-Vita.vpk",
+    "size": 77201382,
+    "sha256": "6de6d5d2ed93231f47551c2bb32fe4a1dc85150acd8dedaabb2e2a7efbc4789f",
+    "icon": "homebrew/BLPV00980/icon.png",
+    "shots": [
+     "homebrew/BLPV00980/s1.jpg",
+     "homebrew/BLPV00980/s2.jpg",
+     "homebrew/BLPV00980/s3.jpg"
+    ],
+    "description": "Люмина-Сити, 2647 год.\\nВ этом киберметрополисе правят корпорации, их влияние нависает над каждой сферой общества. От непрерывного гула голографической рекламы до танца теней под неоновыми вывесками — город пульсирует неугомонной энергией, которая никогда не спит.\\nОднако среди хаоса и коррупции есть тихая гавань — убежище от уличного шума. Ваш собственный бар с авторскими напитками, уютный приют от антиутопичной реальности снаружи. \\nКак хозяин этого убежища, вы больше, чем просто бармен: вы слушатель, поверенный и ценитель историй.\\nС набором тщательно подобранных ингредиентов и талантом миксолога вы создаёте напитки, которые больше, чем простое освежение: это жидкие произведения искусства, радующие чувства и будоражащие воображение.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BLTG49694",
+    "name": "Vita Timer",
+    "version": "1.0",
+    "author": "Anchitpatra",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BLTG49694/Vita%20Timer.vpk",
+    "size": 30456797,
+    "sha256": "7395c5d27167b46c2d74cdba3883c66947e46d47524ec12038e171853e0f234f",
+    "icon": "homebrew/BLTG49694/icon.png",
+    "description": "Утилита-секундомер, сделанная на Unity для PSVITA/PSTV.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BOGGLESTG",
+    "name": "BoggleVita",
+    "version": "1.0",
+    "author": "SoulTieGames",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BOGGLESTG/boggle.vpk",
+    "size": 3058336,
+    "sha256": "cfef97882724e0f566022ee76fd238b05cb2a592b3fd0da02f639f3d14e40c9a",
+    "icon": "homebrew/BOGGLESTG/icon.png",
+    "shots": [
+     "homebrew/BOGGLESTG/s1.jpg",
+     "homebrew/BOGGLESTG/s2.jpg"
+    ],
+    "description": "Игра Boggle для PSVITA.\\nВозьмите ручку и бумагу и наслаждайтесь.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BOPIT0001",
+    "name": "BopIt",
+    "version": "1",
+    "author": "AntHJ",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BOPIT0001/BopIt.vpk",
+    "size": 5091557,
+    "sha256": "fe69499d11b82d28b8e2891ca86f0e0aabc78b40f7325db7e43e6bc94e5c4c8b",
+    "icon": "homebrew/BOPIT0001/icon.png",
+    "shots": [
+     "homebrew/BOPIT0001/s1.jpg",
+     "homebrew/BOPIT0001/s2.jpg",
+     "homebrew/BOPIT0001/s3.jpg"
+    ],
+    "description": "Это был просто быстрый проект от нечего делать. Он не очень хорош, и готовым продуктом я бы его не назвал, но больше я с ним ничего делать не буду, так что делайте с ним что хотите.\\n\\nИсходники: github.com/AntHJ/BopIt-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BOTE00001",
+    "name": "Beginning of the end",
+    "version": "Demo",
+    "author": "Markus95",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BOTE00001/Beginning_of_the_end.vpk",
+    "size": 16584847,
+    "sha256": "fb0afeb939594b6c3c8b9ebd9e4422b6f92fb91fb930e6f4f220544bcbf0df4e",
+    "icon": "homebrew/BOTE00001/icon.png",
+    "description": "Экшен/приключение для PSVITA по мотивам The Last of Us и Resurgent.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BREW00001",
+    "name": "ReversMe",
+    "version": "1.1",
+    "author": "TheFloW",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BREW00001/ReversMe.vpk",
+    "size": 1674628,
+    "sha256": "d7b0d62e3d522041f0f554f41b2687a08b5df907b72ee37eb480f501f8fd1142",
+    "icon": "homebrew/BREW00001/icon.png",
+    "shots": [
+     "homebrew/BREW00001/s1.jpg",
+     "homebrew/BREW00001/s2.jpg"
+    ],
+    "description": "Если вы никогда не играли в реверси/отелло, вы определённо что-то упустили в детстве.\\nНо никогда не поздно — запускайте этот хомбрю прямо сейчас!\\nВы быстро разберётесь в игре, а вскоре выработаете собственную тактику, чтобы победить ИИ или друга.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BREWW0001",
+    "name": "BreakVeetOut",
+    "version": "1.0",
+    "author": "dal3boy & Ruben_Wolfe",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BREWW0001/breakveetout.vpk",
+    "size": 1520655,
+    "sha256": "8d37f86b3a19e6b333011824d00ad8c41c58fb7c16d995afea9c75fd0453ad13",
+    "icon": "homebrew/BREWW0001/icon.png",
+    "shots": [
+     "homebrew/BREWW0001/s1.jpg"
+    ],
+    "description": "Клон BreakOut / Arkanoid для PSVITA/PSTV.\\n\\nИсходники: github.com/InvalidExcepti0n/BreakVeetOut\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BTLSHPARN",
+    "name": "BattleShip Arena",
+    "version": "1.2",
+    "author": "DesiRED",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BTLSHPARN/BattleShipArena.vpk",
+    "size": 365423,
+    "sha256": "907b68b293cb87878a473cba20adc44ce09e36462516ab458c9d20a527372e0b",
+    "icon": "homebrew/BTLSHPARN/icon.png",
+    "shots": [
+     "homebrew/BTLSHPARN/s1.jpg"
+    ],
+    "description": "Классический клон «Морского боя» для PSVITA/PSTV.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BTMR12345",
+    "name": "Beat Master",
+    "version": "1",
+    "author": "LuckTheGamers",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BTMR12345/Beat%20Master.vpk",
+    "size": 70547593,
+    "sha256": "ad5ad316561694c64b10ff2fbcb701a1f4a48b0fb9b1bbd6533f404377094780",
+    "icon": "homebrew/BTMR12345/icon.png",
+    "shots": [
+     "homebrew/BTMR12345/s1.jpg"
+    ],
+    "description": "Beat Master — тетрис, в котором нужно набрать как можно больше очков под действительно классные песни.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BTPA11451",
+    "name": "BreadToPIA",
+    "version": "1.1.0",
+    "author": "Kaon",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BTPA11451/BreadToPIA.vpk",
+    "size": 13769661,
+    "sha256": "bc3aadab558a70e95888308197e60e3459d8980cf7fdd7c976dd1a9c1f8009d5",
+    "icon": "homebrew/BTPA11451/icon.png",
+    "shots": [
+     "homebrew/BTPA11451/s1.jpg",
+     "homebrew/BTPA11451/s2.jpg",
+     "homebrew/BTPA11451/s3.jpg"
+    ],
+    "description": "Ремейк японской вирусной игры «Suika Game» для PS Vita. Объединяйте 2 (иногда 3) хлеба, превращая их в хлеб побольше. Выполняйте заказы и набирайте как можно больше очков. \\nИз-за неоптимизированного кода нужен оверклок. \\nГлобальные очки могут быть изменены без какого-либо предупреждения или уведомления.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BUBF00001",
+    "name": "FakeName Changer",
+    "version": "2.0",
+    "author": "Eywa186",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BUBF00001/FakeNameChanger.vpk",
+    "size": 4531597,
+    "sha256": "217e50e5a09be24a762dc17238f0576286c851e12d7099892033b4b92d9678f2",
+    "icon": "homebrew/BUBF00001/icon.png",
+    "description": "FakeName Changer — хомбрю-приложение для PS Vita, позволяющее переименовывать названия баблов LiveArea, не трогая PARAM.SFO. Оно читает установленные баблы из app.db, позволяет править названия, создаёт резервные копии и требует перезагрузки/применения обновления, чтобы новые названия безопасно появились на домашнем экране после перезапуска.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BUBRECALL",
+    "name": "Bubble Recall",
+    "version": "1.0",
+    "author": "AntHJ",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BUBRECALL/Bubble.Recall.vpk",
+    "size": 3775090,
+    "sha256": "ee864b61f6a5dbae57eb50f0b849804e5c661280554b5aed230a49afd20cd53b",
+    "icon": "homebrew/BUBRECALL/icon.png",
+    "shots": [
+     "homebrew/BUBRECALL/s1.jpg"
+    ],
+    "description": "Если у вас кастомная сборка Vita, которую вы часто переносите на другие системы, или вы меняете SD-карту между устройствами, то наверняка знаете, что каждый раз аккуратно раскладывать приложения утомительно и долго. Эта программа сохранит вашу раскладку, чтобы её можно было восстановить на других системах.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
