@@ -1,5 +1,5 @@
 {
- "version": "79fe75cde286",
+ "version": "e014adf10736",
  "categories": {
   "ports": [
    {
@@ -4455,6 +4455,115 @@
      "ports/CRFT00001/s3.jpg"
     ],
     "description": "Порт игры Minicraft, которую Notch сделал для Ludum Dare #22.\\n\\nMinicraft — 2D-песочница с видом сверху, конечная цель которой, по словам самого Notch при выходе игры, — «убить единственное другое разумное существо в мире и навсегда остаться в одиночестве».\\n\\nИсходники: github.com/Rinnegatamante/MinicraftVita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CROMAGRLY",
+    "name": "Cro-Mag Rally Vita",
+    "version": "1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CROMAGRLY/CroMag.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/CROMAGRLY/data.zip",
+    "data_path": "ux0:data",
+    "size": 1934958,
+    "sha256": "2c5d1cd390774198614915bd7118f73842d61938f03f470ae4a68a7cab87b3e5",
+    "requires": "libshacccg",
+    "icon": "ports/CROMAGRLY/icon.png",
+    "shots": [
+     "ports/CROMAGRLY/s1.jpg",
+     "ports/CROMAGRLY/s2.jpg",
+     "ports/CROMAGRLY/s3.jpg"
+    ],
+    "description": "Cro-Mag Rally — гонки на картах от Pangea Software, изданные Aspyr, действие которых происходит в эпоху пещерных людей.\\n\\nИсходники: github.com/Rinnegatamante/CroMagRally\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CSD2VITA0",
+    "name": "CSD2Vita",
+    "version": "1.0",
+    "author": "hatoving",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CSD2VITA0/CSD2VITA0.vpk",
+    "size": 5131431,
+    "sha256": "c04448eb695f887fbbbd7845f9e8d26d15df9595b11a6e4caeee7fb10f53d810",
+    "icon": "ports/CSD2VITA0/icon.png",
+    "shots": [
+     "ports/CSD2VITA0/s1.jpg",
+     "ports/CSD2VITA0/s2.jpg",
+     "ports/CSD2VITA0/s3.jpg"
+    ],
+    "description": "Cook, Serve, Delicious! 2 — масштабное продолжение неожиданно успешной оригинальной игры, одной из немногих, где игрок полностью контролирует то, как строить свой ресторан.\\n\\nНужны файлы оригинальной игры (PC Steam), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CSDLICIUS",
+    "name": "Cook, Serve, Delicious! Vita",
+    "version": "1.0.0",
+    "author": "MDashK",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CSDLICIUS/CSDLICIUS.vpk",
+    "size": 3189944,
+    "sha256": "1bbfc01163defec2202c3c50e1bb1fcdd5b4b2e64042922db74375546b848c65",
+    "icon": "ports/CSDLICIUS/icon.png",
+    "shots": [
+     "ports/CSDLICIUS/s1.jpg",
+     "ports/CSDLICIUS/s2.jpg",
+     "ports/CSDLICIUS/s3.jpg"
+    ],
+    "description": "Cook, Serve, Delicious — хардкорный симулятор ресторана, одна из немногих игр жанра, дающих игроку полный контроль над развитием своего заведения.\\nДействие разворачивается в старом обветшалом ресторане в башне SherriSoda: когда-то он был сердцем здания, но закрылся, когда дела (и арендаторы) пошли на спад. Теперь же местная экономика снова растёт, здание заполнено до предела, и руководство SherriSoda Tower решило вернуть старый ресторан Cook, Serve, Delicious и дало вам полную свободу действий, чтобы вернуть ему былой пятизвёздочный статус ресторана мирового уровня.\\nИнструкция по патчу и установке игры есть на странице релиза (Github).\\n\\nНужны файлы оригинальной игры (PC Steam), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CSPSP0001",
+    "name": "CSPSV",
+    "version": "1.0",
+    "author": "Cello0314",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CSPSP0001/CSPSP.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/CSPSP0001/data.zip",
+    "data_path": "ux0:data",
+    "size": 2379699,
+    "sha256": "137ea0929927e1c2f06f21a336a0b39a0d9cae043e6813b484c98d710e94b4aa",
+    "requires": "libshacccg",
+    "icon": "ports/CSPSP0001/icon.png",
+    "shots": [
+     "ports/CSPSP0001/s1.jpg",
+     "ports/CSPSP0001/s2.jpg"
+    ],
+    "description": "CSPSP — хоумбрю-игра для Sony PSP, созданная в 2006 году и обновлявшаяся до 2011 года. Это 2D-шутер с видом сверху, сильно основанный на Counter-Strike: командная игра по раундам и схожий выбор оружия. Поддерживает полноценный мультиплеер через серверы, поддерживаемые сообществом.\\n\\nИсходники: github.com/CelloPoly314/CSPSV\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CSTMQST01",
+    "name": "Costume Quest Vita",
+    "version": "1.0.1",
+    "author": "Galetote",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CSTMQST01/CostumeQuestVita.vpk",
+    "size": 1046122,
+    "sha256": "c4a2b84fb7f3c2c0d2d022bf93d13c7b50ca22b8d222408ab4a00a166903c19a",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/CSTMQST01/icon.png",
+    "description": "Порт Costume Quest для PS Vita на основе сборки 2015 года для Android/OUYA (PowerVR). Загружает оригинальные ARM-библиотеки из APK с помощью so_util, FalsoJNI и vitaGL, за основу взят soloader-boilerplate.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/ggdrn/CostumeQuestVita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CTCB00000",
+    "name": "Catacomb Vita",
+    "version": "1.0",
+    "author": "L0Wigh",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CTCB00000/Catacomb-Vita.vpk",
+    "size": 572647,
+    "sha256": "88777206723d21e86d08565507f1c9f0db9e3533f52ede19b8455ea3697c60ac",
+    "icon": "ports/CTCB00000/icon.png",
+    "shots": [
+     "ports/CTCB00000/s1.jpg"
+    ],
+    "description": "Порт Catacomb II (также известной как The Catacomb) на Vita.\\nПорт основан на исходном коде Catacomb SDL2.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/l0wigh/CatacombVita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CUBCCONUN",
+    "name": "Cubic Conundrum",
+    "version": "1.0",
+    "author": "forthw & JeffRuLz345",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CUBCCONUN/CubicConundrum.vpk",
+    "size": 19951038,
+    "sha256": "06dffd3d6cc882bb143f8693d32b412614b44ed888b6718320094939ec8c3dde",
+    "icon": "ports/CUBCCONUN/icon.png",
+    "shots": [
+     "ports/CUBCCONUN/s1.jpg"
+    ],
+    "description": "Катайте куб по 25 уровням, совмещая цветные плитки, чтобы активировать лифты и убирать барьеры.\\n\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -5883,6 +5992,65 @@
      "homebrew/CRASHDUMP/s1.jpg"
     ],
     "description": "Простое приложение, удаляющее все файлы crashdump, создаваемые при вылете приложения.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CSPOT0021",
+    "name": "Cspot_vita",
+    "version": "0.2.2",
+    "author": "michal4132",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CSPOT0021/cspot_vita.vpk",
+    "size": 1706175,
+    "sha256": "0b8cb5bf4dc644356a80033d68e57fe7561537b3a21134860143cae5a4dc596c",
+    "requires": "libshacccg",
+    "icon": "homebrew/CSPOT0021/icon.png",
+    "description": "Плеер Spotify для PS Vita.\\nРаботает только с премиум-аккаунтами Spotify!\\nТребуется iTLS-Enso или более новая прошивка.\\n\\nИсходники: github.com/michal4132/cspot_vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CSTMLIVEA",
+    "name": "Custom LiveArea",
+    "version": "1.0",
+    "author": "AntHJ",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CSTMLIVEA/Custom.LiveArea.vpk",
+    "size": 5017198,
+    "sha256": "0d6b63f51e7ebfb0a3196f6c3650104bb25aad3cd583bb6c40757bf88384acd9",
+    "icon": "homebrew/CSTMLIVEA/icon.png",
+    "shots": [
+     "homebrew/CSTMLIVEA/s1.jpg",
+     "homebrew/CSTMLIVEA/s2.jpg"
+    ],
+    "description": "Кастомные темы — это весело, но они позволяют менять только стандартные бабблы приложений. Теперь можно настроить гораздо больше.\\nМеняйте иконки, названия и изображения бабблов приложений и игр.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CTJ300001",
+    "name": "Crazy Traffic Jam 3D",
+    "version": "1.0",
+    "author": "VitaHEX games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CTJ300001/Crazy%20Traffic%20Jam%203D.vpk",
+    "size": 3118547,
+    "sha256": "8d8d8d1a2856781b3ae38bbe0d52ff2e005db824d45def72e2b2b658f103e234",
+    "icon": "homebrew/CTJ300001/icon.png",
+    "shots": [
+     "homebrew/CTJ300001/s1.jpg",
+     "homebrew/CTJ300001/s2.jpg",
+     "homebrew/CTJ300001/s3.jpg"
+    ],
+    "description": "Crazy Traffic Jam 3D — бесконечная аркадная гонка со стилизованной 3D-графикой. Ведите машину по загруженному шоссе, зарабатывайте монеты и собирайте молнии-ускорители, чтобы разогнаться и набрать как можно больше очков.\\nВ игре есть локальный рекорд. Чем быстрее едете, тем больше очков получаете.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CTMANAGER",
+    "name": "Custom Themes Manager",
+    "version": "4.02",
+    "author": "Red Squirrel",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CTMANAGER/CTManager.vpk",
+    "size": 3114645,
+    "sha256": "469fca4a12c7bef3d72f7b3a38b66318c271550d8bfaa9c5da3689409c013c91",
+    "icon": "homebrew/CTMANAGER/icon.png",
+    "shots": [
+     "homebrew/CTMANAGER/s1.jpg",
+     "homebrew/CTMANAGER/s2.jpg",
+     "homebrew/CTMANAGER/s3.jpg"
+    ],
+    "description": "Custom Themes Manager — простое приложение для PlayStation Vita, которое, как следует из названия, позволяет полностью управлять кастомными темами прямо с консоли. Можно просматривать, скачивать и устанавливать кастомные темы из онлайн-репозитория psv.altervista.org прямо на PSVita из этого же приложения, без браузера, сторонних приложений, правки базы данных и подключения консоли к ПК. В приложении также есть функция полного удаления любой кастомной темы, которая больше не нужна, чтобы освободить место для новых, опять же без ПК и без форматирования всей карты памяти. Также есть удобная функция создания и восстановления (при необходимости) резервной копии собственной базы данных (файл app.db). Наконец, в приложении есть удобная функция перезагрузки PSVita, избавляющая от ручного выключения и включения; она полезна для корректного применения изменений и во избежание багов после установки или удаления кастомных тем.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
