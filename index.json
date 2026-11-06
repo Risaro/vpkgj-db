@@ -1,5 +1,5 @@
 {
- "version": "60e60dbac1fe",
+ "version": "b1387461b781",
  "categories": {
   "ports": [
    {
@@ -6423,6 +6423,54 @@
     "sha256": "3a9d3ed71ecbcb2a8cc6361bebe90a1db4772110f957e27715f1ae5464b9be05",
     "icon": "ports/ISSY00001/icon.png",
     "description": "The Curse of Issyos — ретро-экшен-платформер, в котором есть всё, что обычно бывает в старых 8-битных играх: куча врагов и боссов, линейные уровни и уровни со свободной прокруткой, секреты и сюжет, вдохновлённый греческой мифологией. Он не пытается копировать какую-то конкретную ретро-систему, но последователен в собственных ограничениях по использованию цветов, спрайтов и чип-звуков.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "IWRU24223",
+    "name": "I Wanna Reach The Unity",
+    "version": "1.0",
+    "author": "MEGAgameBoy",
+    "vpk": "https://firsts3.ru/vpkgj/ports/IWRU24223/iwrtu.vpk",
+    "size": 117256859,
+    "sha256": "cf68097c1d5d8d0102b2ecdf6c0eeeade1375cd3703b69e1a140b5e4575e3ff4",
+    "icon": "ports/IWRU24223/icon.png",
+    "shots": [
+     "ports/IWRU24223/s1.jpg",
+     "ports/IWRU24223/s2.jpg",
+     "ports/IWRU24223/s3.jpg"
+    ],
+    "description": "Порт I Wanna Reach The Unity для PS Vita.\\nI Wanna Reach The Unity — фанатская игра по I Wanna Be The Guy, где нужно умирать и пробовать снова; она вдохновлена уровнями других фан-игр по I Wanna Be The Guy и содержит их.\\nОригинальная игра от HaselLoyance\\n\\nИсходники: github.com/MEGAgameBoy/I-Wanna-Reach-The-Unity-PS-Vita-Port\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "JAIBRE001",
+    "name": "Jailbreaker Vita",
+    "version": "1.0",
+    "author": "VSM GAMMER",
+    "vpk": "https://firsts3.ru/vpkgj/ports/JAIBRE001/Jailbreaker.vpk",
+    "size": 26950205,
+    "sha256": "6491b63b53c1a05786f694968e1fbd129fe8639d03337732990f79b5be303cf2",
+    "icon": "ports/JAIBRE001/icon.png",
+    "shots": [
+     "ports/JAIBRE001/s1.jpg",
+     "ports/JAIBRE001/s2.jpg",
+     "ports/JAIBRE001/s3.jpg"
+    ],
+    "description": "Порт демо-версии Jailbreaker для PSVITA.\\nJailbreaker — короткая игра о неортодоксальном научно-фантастическом мире пикселей и паркура. Найдите выход из заточения и пройдите через жутковатые миры, избегая опасных ловушек, мешающих вашему подъёму. Достигните вершины. Достигните.\\nОригинальная игра от Awfy.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "JAVITA001",
+    "name": "JAVITA",
+    "version": "1.1.0",
+    "author": "NDRW",
+    "vpk": "https://firsts3.ru/vpkgj/ports/JAVITA001/JAVITA.vpk",
+    "size": 3899088,
+    "sha256": "db02c3f4c4f875e8d759f9d43f7bf744e28b352920f953f372c728b1097b7c47",
+    "icon": "ports/JAVITA001/icon.png",
+    "shots": [
+     "ports/JAVITA001/s1.jpg",
+     "ports/JAVITA001/s2.jpg",
+     "ports/JAVITA001/s3.jpg"
+    ],
+    "description": "Порт Star Wars Jedi Knight: Jedi Academy для PSVita на основе OpenJK.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/NDRWhun/JAVITA\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -9644,6 +9692,22 @@
      "homebrew/IWBTDEMO1/s3.jpg"
     ],
     "description": "I WILL BE THERE — процедурно генерируемая point & click игра в жанре выживания и приключения.\\nПользователи PlayStation Vita могут насладиться этой демо-версией эксклюзивно, если у них включены функции хомбрю.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "IWRV00001",
+    "name": "I Was Rebuilt",
+    "version": "2.0.0.1",
+    "author": "Gurila Ware Games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/IWRV00001/rebuilt.vpk",
+    "size": 141645560,
+    "sha256": "6c89ec29b6adbe0ee36a965c85a05f9dd2df23a8fb382fb2bf37f8d0bd19d533",
+    "icon": "homebrew/IWRV00001/icon.png",
+    "shots": [
+     "homebrew/IWRV00001/s1.jpg",
+     "homebrew/IWRV00001/s2.jpg",
+     "homebrew/IWRV00001/s3.jpg"
+    ],
+    "description": "Играйте за R3B, продвинутого и ловкого робота, созданного доктором Zhang, в этом хардкорном платформере.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
