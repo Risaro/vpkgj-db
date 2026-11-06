@@ -1,5 +1,5 @@
 {
- "version": "625c3b587a65",
+ "version": "6de25beb73ff",
  "categories": {
   "ports": [
    {
@@ -4746,6 +4746,136 @@
      "ports/DIVDOW001/s3.jpg"
     ],
     "description": "Порт Diver Down для PSVITA.\\nDiver Down — стелс-платформер, сделанный для Godot Wild Jam #2 на тему «Hidden within». Избегайте света на 20 разных уровнях, используя таинственную способность Diver Down, позволяющую нырять в твёрдые поверхности!\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DLA000000",
+    "name": "Dark Lands Vita",
+    "version": "1.0",
+    "author": "Rocroverss",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DLA000000/dla.vpk",
+    "size": 1828459,
+    "sha256": "b33a0d087d50a0ec28a4d77a8cb27434c258f4773e212a3c17885303f2d865ec",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/DLA000000/icon.png",
+    "shots": [
+     "ports/DLA000000/s1.jpg",
+     "ports/DLA000000/s2.jpg",
+     "ports/DLA000000/s3.jpg"
+    ],
+    "description": "Dark Lands — 2D экшен-платформер, в котором игрок берёт на себя роль героя Древней Греции. Имея лишь рефлексы и верный меч, ему предстоит выжить в тёмном мире, полном теней, смертельных препятствий и неутомимых врагов.\\nЭто обёртка/порт Dark Lands для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, и он патчится для корректной работы. Необходимо предоставить собственный легально полученный Android APK.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rocroverss/Dark-Lands-psvita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DLPB00001",
+    "name": "Dolphin Blue Vita",
+    "version": "0.1",
+    "author": "Tobic-99",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DLPB00001/dolphinblue.vpk",
+    "size": 9604548,
+    "sha256": "315291b8a66a4339674ab953763a960a77608448f57c1986300648239a36fc04",
+    "icon": "ports/DLPB00001/icon.png",
+    "description": "Статическая рекомпиляция Dolphin Blue (Sammy, Atomiswave) в нативный ARM-код. Код SH-4 игры транслируется в C++ и линкуется с нативной средой выполнения, заменяющей железо: тайловый ускоритель PowerVR2 (рендеринг через GXM), звуковой чип AICA (его звуковой драйвер на ARM7 и DSP-программы тоже транслируются), GD-ROM и вызовы BIOS. Эмулятора, интерпретатора или JIT в критичных участках нет.\\n\\nНужны файлы оригинальной игры (Atomiswave), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Tobic-99/dolphinblue-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DMFR00001",
+    "name": "Demon Front Vita",
+    "version": "0.1",
+    "author": "Tobic-99",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DMFR00001/demonfront.vpk",
+    "size": 2727830,
+    "sha256": "2b46898de2c43ebac9b2a5c2c1cae5cf093e54095244a318f28e076860069973",
+    "icon": "ports/DMFR00001/icon.png",
+    "description": "Статическая рекомпиляция Demon Front (IGS, аркадная плата PGM) в нативный ARM-код. Две программы игры, основной процессор 68000 и сопроцессор IGS027A ARM7 (Thumb), транслируются в C++ и линкуются с нативной средой выполнения, заменяющей плату: карты памяти, общая RAM и защёлки между 68000 и ARM, видеочип IGS023 (программный рендерер), а также звук на Z80 + ICS2115. Эмулятора, интерпретатора или JIT в критичных участках нет.\\n\\nНужны файлы оригинальной игры (Arcade), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Tobic-99/demonfront-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DMPT00001",
+    "name": "Dark Meadow Vita",
+    "version": "r76",
+    "author": "DungEater66",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DMPT00001/DarkMeadow.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/DMPT00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 1568866,
+    "sha256": "2097010b45125f48f448a28a58213b88186815e099e622429a46fbbfd7b02507",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/DMPT00001/icon.png",
+    "shots": [
+     "ports/DMPT00001/s1.jpg",
+     "ports/DMPT00001/s2.jpg",
+     "ports/DMPT00001/s3.jpg"
+    ],
+    "description": "Загрузчик, запускающий Android-версию Dark Meadow: The Pact на PS Vita. Он загружает собственную библиотеку движка игры и предоставляет всё, что она ожидает от Android: графику через vitaGL, звук, музыку и видеоролики, сенсорный ввод и физические кнопки.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/DungEater66/darkmeadow-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DNAV00001",
+    "name": "Duke Nukem Advance Vita",
+    "version": "1.0",
+    "author": "ShayVD",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DNAV00001/dna-vita.vpk",
+    "size": 3189594,
+    "sha256": "93a8e23e169b7fdd0f87bc5594ab384dda74adfad3ffca005da04255b02a795c",
+    "icon": "ports/DNAV00001/icon.png",
+    "shots": [
+     "ports/DNAV00001/s1.jpg",
+     "ports/DNAV00001/s2.jpg",
+     "ports/DNAV00001/s3.jpg"
+    ],
+    "description": "Duke Nukem Advance — порт EDuke32, запускающий Duke Nukem Advance TC (DNA4PC) авторов branung и oasiz: тотальную конверсию, воссоздающую игру 2002 года Duke Nukem Advance для Game Boy Advance на движке Duke Nukem 3D. Включает полную кампанию из 19 уровней и опции TC: стиль PC Enhanced или GBA Original, скрипт USA или EU и опциональные озвученные катсцены.\\nВ порт добавлена схема управления для Vita, использующая заднюю сенсорную панель как L2/R2, с названиями кнопок Vita во всех экранных подсказках и опциональным прицеливанием гироскопом. Рендеринг идёт нативно через GXM в разрешении Half (480x272) или Full (960x544), есть опция VSync и счётчик FPS. Игра ставится на паузу при нажатии кнопки PS, а при запуске проверяет наличие необходимых файлов данных и сообщает о недостающих.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/ShayVD/duke-nukem-advance-tc-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DOKU41220",
+    "name": "Cave Story Vita",
+    "version": "1.0.4",
+    "author": "IRUZZ",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DOKU41220/CSE2.vpk",
+    "size": 2366335,
+    "sha256": "c3234f9900373b6d9add7e65d2fb25d27ad1cc5aaa8c8c03c9e3bb6a115df85c",
+    "icon": "ports/DOKU41220/icon.png",
+    "shots": [
+     "ports/DOKU41220/s1.jpg",
+     "ports/DOKU41220/s2.jpg"
+    ],
+    "description": "Порт Cave Story для PSVITA на основе исходного кода CSE2.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DOME00405",
+    "name": "Dome Romantik Vita",
+    "version": "1.0",
+    "author": "PatnosD",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DOME00405/Dome_Romantik.vpk",
+    "size": 39183689,
+    "sha256": "667d2a49612ae7cd2a651e6536926c60e7b92ff4da32d3defc889e3adfcce721",
+    "icon": "ports/DOME00405/icon.png",
+    "shots": [
+     "ports/DOME00405/s1.jpg",
+     "ports/DOME00405/s2.jpg"
+    ],
+    "description": "Порт Dome Romantik для PSVITA.\\nПробивайтесь к ядру планеты. Добывайте минералы, возвращайтесь с ними в купол и устанавливайте улучшения как раз вовремя, чтобы отбиться от враждебных форм жизни.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DOODLEJMP",
+    "name": "Doodle Jump Vita",
+    "version": "1.0",
+    "author": "1theronin",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DOODLEJMP/doodlejump.vpk",
+    "size": 1952943,
+    "sha256": "5c640eb7211d7f57757a8611183fbd3622fe80e93cfc592b35e9f04e16c6fd3a",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/DOODLEJMP/icon.png",
+    "description": "Doodle Jump — вертикальный платформер от Lima Sky, в котором игрок ведёт маленькое существо, Doodler, вверх по бесконечной череде платформ, избегая монстров, чёрных дыр и НЛО. По пути можно собирать бонусы, такие как пружины, шапки с пропеллером и джетпаки, а монстров можно расстреливать. В игре несколько тематических миров, миссии и внутриигровой магазин.\\nЭто порт Android-версии 3.10.0. Оригинальный бинарник Android нативно запускается на PS Vita через so_loader, а Java-часть игры заново реализована для Vita: сохранения, звук и музыка, диалоги и отрисовка текстовых текстур, таких как цены в магазине и отметки счёта, использующих рукописный шрифт игры.\\nПорт поддерживает вертикальный полноэкранный режим, где изображение повёрнуто, чтобы занять весь экран, а также горизонтальный режим по центру; режим можно переключить в любой момент. Управлять можно аналоговым стиком, задней сенсорной панелью или нижней областью сенсорного экрана, а стрельба назначена на физические кнопки. Онлайн-функции (реклама, встроенные покупки, онлайн-рекорды, Google Play Games и функции «поделиться») недоступны; соответствующие кнопки в меню скрыты.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/RONIN0095/doodlejump-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DOOM00666",
+    "name": "Vita Doom",
+    "version": "1.1",
+    "author": "MrNetrix & aagallag",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DOOM00666/Vita_Doom.vpk",
+    "size": 648251,
+    "sha256": "239fedb27bd4d9cd7622bfc34e1550f081e7c599869c22c47414026bee11fb87",
+    "icon": "ports/DOOM00666/icon.png",
+    "shots": [
+     "ports/DOOM00666/s1.jpg"
+    ],
+    "description": "Порт Doom 1/Doom 2 для PSVITA на основе DoomPSP.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/aagallag/Vita_Doom\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -6387,6 +6517,42 @@
      "homebrew/DETH43415/s3.jpg"
     ],
     "description": "Ремейк DethKarz. DethKarz — футуристическая гоночная игра, разработанная Melburne House в 1998 году: 4 окружения с 3 длинами трасс, 4 разные машины с 3 уровнями улучшений каждая, а также лазерные и плазменные пушки и бонусы.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DNEN00001",
+    "name": "Dancing Every Night",
+    "version": "1.1.0",
+    "author": "Docteurbob",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DNEN00001/DancingEveryNight.vpk",
+    "size": 23215572,
+    "sha256": "e20b2cbcab5703fe9b72e7c632bc8aa9e7f1b8420d7e67fd6422f93722da0c60",
+    "icon": "homebrew/DNEN00001/icon.png",
+    "description": "Ритм-игра в духе osu!. Ноты движутся к двум дугам целей, а игрок нажимает соответствующую кнопку в такт. Типы нот: тапы, холды, двойные ноты и скретчи, распределённые по шести дорожкам. В игре 3 официальные песни, у каждой по несколько уровней сложности, экран результатов с рангами и встроенная библиотека песен сообщества из онлайн-каталога. Песни можно создавать в бесплатном браузерном редакторе. Открытый исходный код (GPLv3).\\n\\nИсходники: github.com/m-a-fr/dancing-every-night\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DOGGYTEST",
+    "name": "DoggyTwiceVT",
+    "version": "0.2",
+    "author": "LeeStorm",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DOGGYTEST/doggytwicevt.vpk",
+    "size": 836369,
+    "sha256": "067fff52ede6f70a72c303c98d16945bf3d82abe399bdb53ef8aae484b0594b2",
+    "icon": "homebrew/DOGGYTEST/icon.png",
+    "shots": [
+     "homebrew/DOGGYTEST/s1.jpg"
+    ],
+    "description": "Логическая игра, в которой нужно сделать все «монеты» золотыми, переворачивая их в правильном порядке.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DOLM00001",
+    "name": "Dolmexica Infinite",
+    "version": "1.7",
+    "author": "Captain Dreamcast",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DOLM00001/dolmexica_infinite.vpk",
+    "size": 2461646,
+    "sha256": "01a6ea10a42da2b17263fac1d7991349114bf1c01f3f7958b1397614b5e07be6",
+    "icon": "homebrew/DOLM00001/icon.png",
+    "description": "Dolmexica Infinite — находящийся в разработке интерпретатор Mugen для Dreamcast, Web, Vita и Windows.\\n\\nИсходники: github.com/CaptainDreamcast/DolmexicaInfinite/\\nИсточник: VitaDB."
    }
   ],
   "translations": [
