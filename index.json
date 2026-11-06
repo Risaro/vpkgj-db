@@ -1,5 +1,5 @@
 {
- "version": "d7f20d0e9c7d",
+ "version": "b33c4d80d62a",
  "categories": {
   "ports": [
    {
@@ -5896,6 +5896,102 @@
      "ports/GOLFING01/s3.jpg"
     ],
     "description": "Обёртка/порт Desert Golfing для PS Vita. Порт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты заменяются нативными функциями, а сам файл патчится для корректного запуска. Фактически это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/desertgolfing_vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GRILOK001",
+    "name": "GRIDLOCKE",
+    "version": "1.0",
+    "author": "VSM GAMMER",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GRILOK001/GRIDLOCKE.vpk",
+    "size": 44312979,
+    "sha256": "243ec37a53651f2d13cf1fe3433ab2b889623ce0ac65bdfa700adb87b59a69fc",
+    "icon": "ports/GRILOK001/icon.png",
+    "shots": [
+     "ports/GRILOK001/s1.jpg",
+     "ports/GRILOK001/s2.jpg",
+     "ports/GRILOK001/s3.jpg"
+    ],
+    "description": "Порт Gridlocke для PSVITA.\\nGridlocke — тактическая игра в жанре roguelike-колодостроения. Вы берёте на себя роль нанятого тактика и встаёте на сторону одной из трёх фракций, у каждой из которых свои колоды, способности и варианты улучшений по ходу кампании. Чтобы привести выбранную фракцию к победе над армиями противника, потребуется сочетание продуманного построения колоды, тактического расположения и управления ресурсами.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GSWR69420",
+    "name": "Garfield's Wild Ride Vita",
+    "version": "1.0",
+    "author": "MemoryHunter",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GSWR69420/garfield.vpk",
+    "size": 2478546,
+    "sha256": "e41d93f32fd3dc24f49d48284b66a57cbe8728dd1d08f5b902268ac0ad19fb1b",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/GSWR69420/icon.png",
+    "shots": [
+     "ports/GSWR69420/s1.jpg",
+     "ports/GSWR69420/s2.jpg"
+    ],
+    "description": "Garfield's Wild Ride — экшен-казуальный бесконечный раннер 2013 года от Vetasoft. Действие целиком происходит в мечтах ленивого кота: простым управлением одним касанием игроки заставляют Гарфилда лететь по воздуху, уворачиваться от препятствий и собирать лазанью и монеты, чтобы открывать усиления и безумные костюмы.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/memory-hunter/garfield-wild-ride-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GUARDENER",
+    "name": "Guardener Vita",
+    "version": "1.2",
+    "author": "bren",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GUARDENER/GUARDENER.vpk",
+    "size": 3188441,
+    "sha256": "172d0d61ed268f0eb742c5284610a626c8f946cadd289cdf47befb123b9e4e15",
+    "icon": "ports/GUARDENER/icon.png",
+    "shots": [
+     "ports/GUARDENER/s1.jpg",
+     "ports/GUARDENER/s2.jpg",
+     "ports/GUARDENER/s3.jpg"
+    ],
+    "description": "Простой порт Guardener от Sokpop для Playstation Vita.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GUNGODZ00",
+    "name": "GUN GODZ",
+    "version": "1.0",
+    "author": "m1s3ry",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GUNGODZ00/gungodz.vpk",
+    "size": 2937475,
+    "sha256": "2801055cf8a96992019086b4189fa21e4e2c137d3d662a4f01aa63b3abfa059e",
+    "icon": "ports/GUNGODZ00/icon.png",
+    "shots": [
+     "ports/GUNGODZ00/s1.jpg",
+     "ports/GUNGODZ00/s2.jpg",
+     "ports/GUNGODZ00/s3.jpg"
+    ],
+    "description": "Оригинальная игра от Vlambeer. GUN GODZ — шутер от первого лица об оружии, гангстерском рэпе и богатой культуре Венеры. Игроки пытаются сбежать из тюрьмы в отеле, единственном здании на Венере, которым владеет владелец звукозаписывающего лейбла, по совместительству Бог Оружия.\\nИнструкции по патчу и установке — на странице релиза (Github).\\n\\nНужны файлы оригинальной игры (PC Steam), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HASSEYTWO",
+    "name": "Hassey Collection",
+    "version": "0.9",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HASSEYTWO/hassey.vpk",
+    "size": 4914316,
+    "sha256": "566f810f4d67c1757d9663c5086cd78b2c6b438bcdb90c4d16d0df69d2ee417c",
+    "requires": "libshacccg,kubridge,fdfix",
+    "icon": "ports/HASSEYTWO/icon.png",
+    "shots": [
+     "ports/HASSEYTWO/s1.jpg",
+     "ports/HASSEYTWO/s2.jpg",
+     "ports/HASSEYTWO/s3.jpg"
+    ],
+    "description": "Обёртка/порт Galcon 2: Galactic Conquest и BREAKFINITY для PS Vita.\\nПорт работает так: официальные исполняемые файлы Android ARMv7 загружаются в память, их импорты заменяются нативными функциями, а сами файлы патчатся для корректного запуска. Фактически это эмуляция минималистичной среды Android, в которой исполняемые файлы запускаются нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/hassey-collection\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HBGMSGRV1",
+    "name": "Grave",
+    "version": "1.0",
+    "author": "xanderten50",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HBGMSGRV1/Grave.vpk",
+    "size": 4390507,
+    "sha256": "172a4b66735127fef53bfe4a3feaf3ee22d8a3117b802d211f5f3334cb63ee50",
+    "icon": "ports/HBGMSGRV1/icon.png",
+    "shots": [
+     "ports/HBGMSGRV1/s1.jpg",
+     "ports/HBGMSGRV1/s2.jpg"
+    ],
+    "description": "Порт Grave, работы для игрового джема Ludum Dare 33 от uheartbeast.\\n\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -8697,6 +8793,159 @@
      "homebrew/GREENVITA/s1.jpg"
     ],
     "description": "Играйте в любимые игры Xbox на PS Vita с помощью GreenVita.\\nGreenVita подключается к Xbox Cloud Gaming, устанавливая WebRTC-соединение и воспроизводя веб-запросы, которые делает официальный веб-клиент Xbox Cloud Gaming.\\n\\nИсходники: github.com/Day-OS/green-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GROOVE001",
+    "name": "GrooveSpeedVita",
+    "version": "1.0",
+    "author": "smart-pickle",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GROOVE001/GrooveSpeedVita.vpk",
+    "size": 2427118,
+    "sha256": "dc6df4b5a0c0b624626b6cfff31c6987444a855d2f7c1c9c3e263cab67663ee4",
+    "icon": "homebrew/GROOVE001/icon.png",
+    "shots": [
+     "homebrew/GROOVE001/s1.jpg"
+    ],
+    "description": "GrooveSpeed Vita — автономный инструмент для точной диагностики скорости и детонации вращения проигрывателя для любителей винила и аудиофилов, созданный нативно для PlayStation Vita (PCH-1000 OLED, PCH-2000 Slim) и PlayStation TV (не используйте его на Playstation TV).\\n\\nИсходники: github.com/smart-pickle/GrooveSpeed-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GRZB00002",
+    "name": "vitaSnake",
+    "version": "1.5",
+    "author": "Grzybojad",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GRZB00002/vitaSnake.vpk",
+    "size": 1856878,
+    "sha256": "fa2d5d0443ea6d6cddd72e539c4ed0dbeb5120b39eea6ca48bbe3a34b06191a7",
+    "icon": "homebrew/GRZB00002/icon.png",
+    "shots": [
+     "homebrew/GRZB00002/s1.jpg",
+     "homebrew/GRZB00002/s2.jpg",
+     "homebrew/GRZB00002/s3.jpg"
+    ],
+    "description": "Игра «Змейка» с плавным поворотом для PS Vita.\\n5 режимов игры, у каждого по 2 уровня сложности — всего 10 уникальных способов играть! Настройте игру под себя с помощью пользовательских тем в меню опций.\\n\\nИсходники: github.com/Grzybojad/vitaSnake\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GRZB00003",
+    "name": "Pingo",
+    "version": "2.1",
+    "author": "Grzybojad",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GRZB00003/Pingo.vpk",
+    "size": 8404175,
+    "sha256": "6f86071cc52636d9814f47b3be34e902d364b8630af965d446d9f1b382cd11fc",
+    "icon": "homebrew/GRZB00003/icon.png",
+    "shots": [
+     "homebrew/GRZB00003/s1.jpg",
+     "homebrew/GRZB00003/s2.jpg",
+     "homebrew/GRZB00003/s3.jpg"
+    ],
+    "description": "Pingo — головоломка, в которой нужно закрасить весь уровень за как можно меньшее число шагов. Попробуйте получить 3 звезды в 60 уровнях, сделанных вручную!\\n\\nИсходники: github.com/Grzybojad/Pingo\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GS0100001",
+    "name": "Moon Whitelister",
+    "version": "1.0c",
+    "author": "gnmmarechal",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GS0100001/MoonWhitelister.vpk",
+    "size": 1628464,
+    "sha256": "5db9932a4b86f0877404cf5eca74597cba8be81ea882d9505cd5fe526329a716",
+    "icon": "homebrew/GS0100001/icon.png",
+    "shots": [
+     "homebrew/GS0100001/s1.jpg"
+    ],
+    "description": "Whitelister для PSTV, использующий патч v1. Написан на Lua, работает на Lua Player Plus R4.\\n\\nИсходники: github.com/gnmmarechal/moon-whitelister\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HACKINFOR",
+    "name": "HackInformer App",
+    "version": "1.0",
+    "author": "HackInformer Staff",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/HACKINFOR/HackInformer.vpk",
+    "size": 150516,
+    "sha256": "50757ea83ea51d28e332e4452c6af23b7db508f8b7777b7e0239956d4d426185",
+    "icon": "homebrew/HACKINFOR/icon.png",
+    "shots": [
+     "homebrew/HACKINFOR/s1.jpg",
+     "homebrew/HACKINFOR/s2.jpg"
+    ],
+    "description": "Простое приложение, которое автоматически открывает в веб-браузере портал HackInformer.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HALO01172",
+    "name": "Halo 2D",
+    "version": "1.76",
+    "author": "VegettoSan",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/HALO01172/Halo2D.vpk",
+    "size": 52679023,
+    "sha256": "d617c16c86d09d01c8d93fe745227923ec22857d382c20f83a00c7d802a24b33",
+    "icon": "homebrew/HALO01172/icon.png",
+    "shots": [
+     "homebrew/HALO01172/s1.jpg",
+     "homebrew/HALO01172/s2.jpg",
+     "homebrew/HALO01172/s3.jpg"
+    ],
+    "description": "Фанатская 2D-платформенная игра по мотивам Halo.\\n\\nИсходники: github.com/VegettoSan/Halo2D_PsVita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HANG00001",
+    "name": "VitaHangman",
+    "version": "1.1",
+    "author": "Jackiepooh & Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/HANG00001/VitaHangman.vpk",
+    "size": 2237731,
+    "sha256": "48ecd085a784760eb4587c0c6a37e7206a96285966e2e50fc7c06a9324f9fae3",
+    "icon": "homebrew/HANG00001/icon.png",
+    "shots": [
+     "homebrew/HANG00001/s1.jpg",
+     "homebrew/HANG00001/s2.jpg"
+    ],
+    "description": "Игра «Виселица», в которой нужно угадать слово. Поддерживается добавление дополнительных слов в базу.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HAPPYBLOK",
+    "name": "Happy Blocks",
+    "version": "1.0",
+    "author": "HisArmMan",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/HAPPYBLOK/happyblocks.vpk",
+    "size": 10637093,
+    "sha256": "82c3cc8a733e4fa04ee4d3415145f736e6c0c6418169ca514abc8705a6a67211",
+    "icon": "homebrew/HAPPYBLOK/icon.png",
+    "shots": [
+     "homebrew/HAPPYBLOK/s1.jpg",
+     "homebrew/HAPPYBLOK/s2.jpg",
+     "homebrew/HAPPYBLOK/s3.jpg"
+    ],
+    "description": "Happy Blocks — экшен-головоломка с блоками. Есть несколько режимов игры, например гонка на 4 цвета, гонка для низкого IQ и даже режим смерти. И да, есть ещё режим Final Boss.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HARDRPG01",
+    "name": "HardRPG",
+    "version": "0.4.5 alpha",
+    "author": "Asukate",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/HARDRPG01/HardRPG.vpk",
+    "size": 22997199,
+    "sha256": "4dc9cd0eaf21ecf470e82d9184a4953c828a095fc40f4594b660182f7c1db680",
+    "requires": "libshacccg",
+    "icon": "homebrew/HARDRPG01/icon.png",
+    "shots": [
+     "homebrew/HARDRPG01/s1.jpg",
+     "homebrew/HARDRPG01/s2.jpg",
+     "homebrew/HARDRPG01/s3.jpg"
+    ],
+    "description": "HardRPG — лаунчер игр на RPG Maker для PS Vita. Скопируйте игры на Vita и играйте. Игры на XP, VX и VX Ace запускаются нативно (порт mkxp-z для Vita), а игры RPG Maker 2000/2003 — через встроенный EasyRPG Player.\\n\\nИсходники: github.com/Asukate/mkxp-z-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HBINJECT0",
+    "name": "HBInjector",
+    "version": "1.2.6",
+    "author": "emiyl",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/HBINJECT0/HBInjectorv.1.2.6.vpk",
+    "size": 2010352,
+    "sha256": "8d554c39dd7134f22f230fa176f0e7585fe22487ee9d9097bd01f0a08d7c3abe",
+    "icon": "homebrew/HBINJECT0/icon.png",
+    "shots": [
+     "homebrew/HBINJECT0/s1.jpg"
+    ],
+    "description": "HBInjector позволяет поместить VitaShell внутрь значков системных приложений.\\n\\nИсходники: github.com/emiyl/HBInjector\\nИсточник: VitaDB."
    }
   ],
   "translations": [
