@@ -1,5 +1,5 @@
 {
- "version": "23563bea729d",
+ "version": "79fe75cde286",
  "categories": {
   "ports": [
    {
@@ -4421,6 +4421,40 @@
      "ports/CRASHLAND/s3.jpg"
     ],
     "description": "Создавайте предметы, сражайтесь и выполняйте задания в Crashlands — сюжетной ARPG с крафтом и изрядной долей сарказма. Оригинальная игра от Butterscotch Shenanigans.\\nИнструкция по установке есть на странице релиза (Github).\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CRDLSV098",
+    "name": "Cradle Song Vita",
+    "version": "0.98",
+    "author": "grimiku",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CRDLSV098/cradle_song.vpk",
+    "size": 127068435,
+    "sha256": "912a069fc79478b080b48bc56e1f372edea0501d9c236edcb4a34c4a119fb2f6",
+    "icon": "ports/CRDLSV098/icon.png",
+    "shots": [
+     "ports/CRDLSV098/s1.jpg",
+     "ports/CRDLSV098/s2.jpg",
+     "ports/CRDLSV098/s3.jpg"
+    ],
+    "description": "Порт Cradle Song для PSVITA. Сама игра — короткая визуальная новелла, созданная в 2011 году Dischan.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CRFT00001",
+    "name": "Minicraft Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CRFT00001/Minicraft.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/CRFT00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 737346,
+    "sha256": "178b1be1ea4f2805792f55c158942cbf1c4beb6011204472dcaa7d49c1a472f7",
+    "icon": "ports/CRFT00001/icon.png",
+    "shots": [
+     "ports/CRFT00001/s1.jpg",
+     "ports/CRFT00001/s2.jpg",
+     "ports/CRFT00001/s3.jpg"
+    ],
+    "description": "Порт игры Minicraft, которую Notch сделал для Ludum Dare #22.\\n\\nMinicraft — 2D-песочница с видом сверху, конечная цель которой, по словам самого Notch при выходе игры, — «убить единственное другое разумное существо в мире и навсегда остаться в одиночестве».\\n\\nИсходники: github.com/Rinnegatamante/MinicraftVita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
