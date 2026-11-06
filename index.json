@@ -1,5 +1,5 @@
 {
- "version": "ec88d2cc4c25",
+ "version": "20fd768b868a",
  "categories": {
   "ports": [
    {
@@ -6736,6 +6736,22 @@
      "ports/KOFM00000/s3.jpg"
     ],
     "description": "Меха-битемап с боковой прокруткой в мире, где боевые экзокостюмы — обычное дело, а также оружие в жестоком восстании.\\nОригинальная игра от hwilson.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "KPMN12352",
+    "name": "Keep In Mind Remastered",
+    "version": "1.0",
+    "author": "PatnosD",
+    "vpk": "https://firsts3.ru/vpkgj/ports/KPMN12352/KeepInMindRemastered.vpk",
+    "size": 14671688,
+    "sha256": "200400efee7dca676a24b9229a2405962a13979aae8ca273f1ff2dfbdfd27e7f",
+    "icon": "ports/KPMN12352/icon.png",
+    "shots": [
+     "ports/KPMN12352/s1.jpg",
+     "ports/KPMN12352/s2.jpg",
+     "ports/KPMN12352/s3.jpg"
+    ],
+    "description": "Keep in Mind — психологическая инди-игра о Йонасе, человеке, страдающем психическим расстройством, и его пути самоанализа и эмоционального исцеления. Игра создана для тех, кто борется с психическими расстройствами или чувствует себя потерянным во тьме. Задумывалась как терапевтический опыт, но из-за чувствительного и спорного содержания некоторым зрителям стоит отнестись к ней с осторожностью.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -10111,6 +10127,20 @@
      "homebrew/KHYI00001/s3.jpg"
     ],
     "description": "Оригинальный одиночный хоумбрю-шутер в жанре run-and-gun для PlayStation Vita. Пройдите шесть индустриальных прибрежных миссий, спасайте рабочих, захватите Scrap Walker и уничтожьте Iron Grid.\\n\\nИсходники: github.com/onurkuru/ironcoast\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "KOGREMOUN",
+    "name": "Kogre's Mountain",
+    "version": "1.0",
+    "author": "crait",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/KOGREMOUN/KogresMountain.vpk",
+    "size": 48613219,
+    "sha256": "953b3b5dadd6f5f4082039dd490c493241f9ef6dee331f45254078ffaedad21a",
+    "icon": "homebrew/KOGREMOUN/icon.png",
+    "shots": [
+     "homebrew/KOGREMOUN/s1.jpg"
+    ],
+    "description": "Kogre's Mountain — добрая семейная цифровая настольная игра. Побеждает первый игрок, который доведёт всех четырёх своих рыцарей до вершины горы!\\nНо берегитесь падающих камней! Если стрелка остановится на значке ворот, все камни покатятся вниз по горе. Попавший под камень рыцарь возвращается к подножию, поэтому планируйте ходы и прячьте рыцарей за препятствиями и другими игроками.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
