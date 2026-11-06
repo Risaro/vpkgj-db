@@ -1,5 +1,5 @@
 {
- "version": "9ff98301d4b1",
+ "version": "cec33b323730",
  "categories": {
   "ports": [
    {
@@ -5533,6 +5533,41 @@
      "ports/FHOMM0002/s3.jpg"
     ],
     "description": "Heroes of Might and Magic II: The Succession Wars — пошаговая стратегия, разработанная Джоном Ван Канегемом в New World Computing и изданная в 1996 году компанией 3DO. Это вторая часть серии Heroes of Might and Magic, которую обычно считают игрой, прославившей серию. В мае 1997 года журнал PC Gamer назвал Heroes II шестой лучшей PC-игрой всех времён.\\nВ 1997 году вышло дополнение The Price of Loyalty. Позже 3DO выпустила Heroes II и дополнение в одной коробке под названием Heroes of Might and Magic II Gold в 1998 году.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/ihhub/fheroes2\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FLARERPG1",
+    "name": "Flare RPG",
+    "version": "0.8",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FLARERPG1/flare.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/FLARERPG1/data.zip",
+    "data_path": "ux0:data",
+    "size": 3515158,
+    "sha256": "2bf30cafbd0667e109dc7c10988fa6b08a78f8647f3e17917336a8086fac7df1",
+    "requires": "libshacccg",
+    "icon": "ports/FLARERPG1/icon.png",
+    "shots": [
+     "ports/FLARERPG1/s1.jpg",
+     "ports/FLARERPG1/s2.jpg",
+     "ports/FLARERPG1/s3.jpg"
+    ],
+    "description": "Порт движка Flare для PSVita.\\nFlare — 2D экшен-RPG с открытым исходным кодом под лицензией GPL3. По геймплею её можно сравнить с играми серии Diablo.\\nВ этот релиз входит кампания Empyrean Campaign.\\nEmpyrean Campaign — игра, сделанная командой Flare. История начинается с того, что игрока изгоняют из родной страны Empyrean, и он отправляется в путь, чтобы вернуться туда. Путешествие проходит через множество регионов, по дороге встречается много побочных заданий.\\n\\nИсходники: github.com/Rinnegatamante/flare-engine\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FLPR12345",
+    "name": "Flipper Volcano Vita",
+    "version": "1.1",
+    "author": "bren",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FLPR12345/FlipperVolcano.vpk",
+    "size": 16459353,
+    "sha256": "342f21f181df3188b4ac9b75c286e779f6f01f306dc6706213d3aeb30ad969bc",
+    "icon": "ports/FLPR12345/icon.png",
+    "shots": [
+     "ports/FLPR12345/s1.jpg",
+     "ports/FLPR12345/s2.jpg",
+     "ports/FLPR12345/s3.jpg"
+    ],
+    "description": "Простой порт Flipper Volcano от Sokpop для Playstation Vita.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -7729,6 +7764,96 @@
      "homebrew/FLAPPY001/s3.jpg"
     ],
     "description": "Клон Flappy Bird для PSVITA/PSTV.\\n\\nИсходники: github.com/Creckeryop/Flappy-Bird-Classic-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FLASHVITA",
+    "name": "FlashVita",
+    "version": "0.15.3.1 alpha 1",
+    "author": "robin994",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FLASHVITA/FlashVita2.vpk",
+    "size": 4410636,
+    "sha256": "44bb9cf5f9983494b6e7e8e187c072fb56b45b6fce8864dfc754cfe708c098c0",
+    "requires": "libshacccg",
+    "icon": "homebrew/FLASHVITA/icon.png",
+    "description": "FlashVita — экспериментальный нативный Flash/SWF-плеер для PlayStation Vita.\\n\\nИсходники: github.com/robin994/FlashVita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FLDT00001",
+    "name": "Flood It!",
+    "version": "1.3",
+    "author": "notnotme",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FLDT00001/floodit.vpk",
+    "size": 3167160,
+    "sha256": "ec00f27e566514f1ec15ea093cff916d1deec130bd90a9bd919dcce80992132b",
+    "icon": "homebrew/FLDT00001/icon.png",
+    "shots": [
+     "homebrew/FLDT00001/s1.jpg",
+     "homebrew/FLDT00001/s2.jpg"
+    ],
+    "description": "Небольшая игра на движке NotEngine. Клон Flood It!\\n\\nИсходники: github.com/notnotme/NotEngine_PSV\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FLPP00001",
+    "name": "Flppy Bird",
+    "version": "1.3",
+    "author": "gambikules",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FLPP00001/flppy_bird.vpk",
+    "size": 1755689,
+    "sha256": "409ec169ead8ba8a3691561cb942a6fd14f11b1546184be393de6bf088496a7f",
+    "icon": "homebrew/FLPP00001/icon.png",
+    "shots": [
+     "homebrew/FLPP00001/s1.jpg"
+    ],
+    "description": "Клон Flappy Bird для PS Vita, написанный на Lua с использованием Lua Player Plus.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FLRP12345",
+    "name": "Florpix",
+    "version": "1.0.3",
+    "author": "Novi",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FLRP12345/Florpix.vpk",
+    "size": 51016387,
+    "sha256": "b9002ec8ae77501ca8ab3fc789067c1eead5b946b1e40c59c3b39d915f74d573",
+    "icon": "homebrew/FLRP12345/icon.png",
+    "shots": [
+     "homebrew/FLRP12345/s1.jpg",
+     "homebrew/FLRP12345/s2.jpg",
+     "homebrew/FLRP12345/s3.jpg"
+    ],
+    "description": "Florpix — динамичный шутер с видом сверху, в котором вы управляете шаром в красочном окружении в стиле 80-х. Цель — набрать как можно больше очков, уворачиваясь от врагов и используя турель. По мере усложнения игры понадобятся быстрая реакция и меткость. Играйте, совершенствуйтесь и смотрите, сколько очков сможете набрать в этом увлекательном ретро-приключении.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FLWT02021",
+    "name": "Flowit",
+    "version": "1.0.5",
+    "author": "ywnico",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FLWT02021/Flowit.vpk",
+    "size": 22938763,
+    "sha256": "8e6b7a3520c49f83b2328db752f02691d3abf128d3aa7a1212a2418d3f7126ca",
+    "icon": "homebrew/FLWT02021/icon.png",
+    "shots": [
+     "homebrew/FLWT02021/s1.jpg",
+     "homebrew/FLWT02021/s2.jpg",
+     "homebrew/FLWT02021/s3.jpg"
+    ],
+    "description": "Легко освоить, трудно довести до мастерства. Играйте в затягивающую головоломку Flowit и мыслите нестандартно. Уже доступно 75 уровней, и будут новые. Игра отличается чистым и элегантным дизайном: вас удивит сочетание простоты и сложности. Нужно заполнить все клетки цветом их рамки с помощью специальных клеток. Например, они заливают соседние клетки своим цветом только в одном направлении. В наборах уровней вы найдёте разные типы специальных клеток.\\n\\nИсходники: github.com/ywnico/flowit-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FLYCASTDC",
+    "name": "Flycast Vita",
+    "version": "1.1",
+    "author": "Rinnegatamante & Bythos",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FLYCASTDC/flycast.vpk",
+    "size": 4873249,
+    "sha256": "d23f9e3a7746cfff1d62853a246a38cbe019c2c2b35d90155cb2ac49b61dd57a",
+    "requires": "libshacccg,kubridge",
+    "icon": "homebrew/FLYCASTDC/icon.png",
+    "shots": [
+     "homebrew/FLYCASTDC/s1.jpg",
+     "homebrew/FLYCASTDC/s2.jpg",
+     "homebrew/FLYCASTDC/s3.jpg"
+    ],
+    "description": "Flycast Vita — порт flycast, популярного мультиплатформенного эмулятора Dreamcast, который поддерживает flyinghead. Он основан на автономной версии эмулятора и доработан: добавлены функции, ускоряющие эмуляцию по сравнению с обычным ванильным портом.\\n\\nИсходники: github.com/Rinnegatamante/flycast-vita\\nИсточник: VitaDB."
    }
   ],
   "translations": [
