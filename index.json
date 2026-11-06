@@ -1,5 +1,5 @@
 {
- "version": "07cbb46c69b5",
+ "version": "57e645bbd842",
  "categories": {
   "ports": [
    {
@@ -241,7 +241,10 @@
     "size": 2789326,
     "requires": "libshacccg",
     "icon": "ports/BSHT00016/c.jpg",
-    "description": "Buckshot Roulette\\n\\nСостоялся релиз реимплементации (повторная реализация) инди-хоррора в жанре симулятора настольной игры. Игра представляет собой мрачное и напряженное переосмысление классической русской рулетки, где вместо традиционного револьвера используется помповое ружье 12-го калибра.\\n\\nИгрок садится за стол против загадочного искусственного интеллекта — Дилера (The Dealer). В ружье случайным образом заряжается комбинация из боевых и холостых патронов. Игрок может стрелять либо в Дилера, либо в себя (если патрон холостой, ход сохраняется). Русский язык в комплекте.\\n\\nA native C++ port(able) of Buckshot Roulette. General Release of Liability on the Vita\\nПорт с PC. Стадия: Release.\\nИсходники: github.com/voidchecksam/BuckshotRoulettePortable-BSHT"
+    "description": "Buckshot Roulette\\n\\nСостоялся релиз реимплементации (повторная реализация) инди-хоррора в жанре симулятора настольной игры. Игра представляет собой мрачное и напряженное переосмысление классической русской рулетки, где вместо традиционного револьвера используется помповое ружье 12-го калибра.\\n\\nИгрок садится за стол против загадочного искусственного интеллекта — Дилера (The Dealer). В ружье случайным образом заряжается комбинация из боевых и холостых патронов. Игрок может стрелять либо в Дилера, либо в себя (если патрон холостой, ход сохраняется). Русский язык в комплекте.\\n\\nA native C++ port(able) of Buckshot Roulette. General Release of Liability on the Vita\\nПорт с PC. Стадия: Release.\\nИсходники: github.com/voidchecksam/BuckshotRoulettePortable-BSHT",
+    "alt_vpk": "https://firsts3.ru/vpkgj/ports/BSHT00016/vitadb/BuckshotRoulettePortable-BSHT.vpk",
+    "alt_version": "1.0.2",
+    "alt_source": "VitaDB"
    },
    {
     "titleid": "BULLY0000",
@@ -1979,7 +1982,10 @@
     "data": "https://firsts3.ru/vpkgj/ports/BOZ000001/CoD_1.03.zip",
     "data_path": "ux0:data",
     "size": 2224004,
-    "description": "Оригинальный дизайн пузырька, пу сути никакой, для эстетики мы его подредактировали (смотреть 4й скрин)."
+    "description": "Оригинальный дизайн пузырька, пу сути никакой, для эстетики мы его подредактировали (смотреть 4й скрин).",
+    "alt_vpk": "https://firsts3.ru/vpkgj/ports/BOZ000001/vitadb/boz_vita.vpk",
+    "alt_version": "2.03",
+    "alt_source": "VitaDB"
    },
    {
     "titleid": "CDRR00000",
