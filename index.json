@@ -1,5 +1,5 @@
 {
- "version": "cebf622de81a",
+ "version": "52ff4c6e1317",
  "categories": {
   "ports": [
    {
@@ -5669,6 +5669,71 @@
      "ports/FRGB12345/s3.jpg"
     ],
     "description": "Простой порт Froggy's Battle от Doot Tiny Games для Playstation Vita.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FTPK07004",
+    "name": "Feather Park Vita",
+    "version": "0.9",
+    "author": "AnasHalideen",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FTPK07004/FeatherPark.vpk",
+    "size": 34181808,
+    "sha256": "8708a6404041b01a7d960e668a7a74934caec4de7041c4b5dc58214fe79b5bb4",
+    "icon": "ports/FTPK07004/icon.png",
+    "shots": [
+     "ports/FTPK07004/s1.jpg",
+     "ports/FTPK07004/s2.jpg",
+     "ports/FTPK07004/s3.jpg"
+    ],
+    "description": "Порт Feather Park для PSVITA.\\nИсследуйте осенний парк и играйте в мини-игры. Заводите друзей и зайдите в амбар.\\nОригинальная игра создана jon topielski & mellorine\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FURY00003",
+    "name": "Fury 3 Vita",
+    "version": "1.01",
+    "author": "StaticLift",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FURY00003/fury3.vpk",
+    "size": 3180922,
+    "sha256": "e97d4818e166e6fff993af5e143b3a3844f07505bb9e4cf9696430a95d8d2e1f",
+    "requires": "libshacccg",
+    "icon": "ports/FURY00003/icon.png",
+    "shots": [
+     "ports/FURY00003/s1.jpg",
+     "ports/FURY00003/s2.jpg",
+     "ports/FURY00003/s3.jpg"
+    ],
+    "description": "Статическая рекомпиляция Microsoft Fury3 (1995), авиационного шутера, которая запускается на PS Vita нативно, без эмулятора. Включает все восемь планет, кампанию из 24 миссий, GPU-рендеринг, музыку, заставки, один слот сохранения и выбор планеты на титульном экране. Моды загружаются через собственный файл игры pod.ini.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/StaticLift/fury3\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GALAXYOF2",
+    "name": "Galaxy on Fire 2 Vita",
+    "version": "1.0",
+    "author": "gl33ntwine & PG Team",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GALAXYOF2/gof2.vpk",
+    "size": 57418076,
+    "sha256": "de5a5b8097ffeefedf854c87010e1da616c4b24642e4803c65b0d99847252b51",
+    "requires": "libshacccg,kubridge,fdfix",
+    "icon": "ports/GALAXYOF2/icon.png",
+    "shots": [
+     "ports/GALAXYOF2/s1.jpg",
+     "ports/GALAXYOF2/s2.jpg",
+     "ports/GALAXYOF2/s3.jpg"
+    ],
+    "description": "Загрузчик для версии популярного космического симулятора, выпущенной для Xperia Play. Прочитайте инструкцию по установке на GitHub.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/v-atamanenko/gof2-vita/\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GATOROBOT",
+    "name": "Gato Roboto",
+    "version": "1.0.0",
+    "author": "m1s3ry",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GATOROBOT/Gato_Roboto.vpk",
+    "size": 2859705,
+    "sha256": "d5573f24745d9beaa01791f74cebd0c1b86f732fd975c5f1b2d35ae456b9ede9",
+    "icon": "ports/GATOROBOT/icon.png",
+    "shots": [
+     "ports/GATOROBOT/s1.jpg",
+     "ports/GATOROBOT/s2.jpg"
+    ],
+    "description": "Инструкции по патчу и установке — на странице релиза (Github). Оригинальная игра от DoinkSoft. Запрыгните в свой уютный бронированный мех и отправляйтесь в опасное путешествие по инопланетному подземному миру, полному раздражительных существ и коварных препятствий, чтобы отважно спасти своего капитана и его разбитый космический корабль.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -8147,6 +8212,48 @@
      "homebrew/FTPCLI001/s1.jpg"
     ],
     "description": "Простой FTP-клиент для PSVITA.\\n\\nИсходники: github.com/cy33hc/vita-ftp-client\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FTPV00001",
+    "name": "FTP for Vita",
+    "version": "1.0.0",
+    "author": "M-Essa11",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FTPV00001/FTPForVita.vpk",
+    "size": 91764,
+    "sha256": "fcecc11b29e4c40b65393c0fa8aaea4256bb545b910b4d548f79470476d8043d",
+    "icon": "homebrew/FTPV00001/icon.png",
+    "description": "FTP for Vita добавляет в быстрое меню PS Vita FTP-сервер, совместимый с VitaShell. После каждой перезагрузки он выключен, а во время работы рядом с переключателем показываются текущий IP-адрес и порт.\\n\\nИсходники: github.com/M-Essa11/FTP-for-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FUCK42069",
+    "name": "Pinkshake",
+    "version": "1",
+    "author": "cojam",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FUCK42069/pinkshake.vpk",
+    "size": 98293326,
+    "sha256": "c07fe601276d9f94bc31e29561dc7bc8901067c9c1996d379dccba12c39c18e6",
+    "icon": "homebrew/FUCK42069/icon.png",
+    "shots": [
+     "homebrew/FUCK42069/s1.jpg",
+     "homebrew/FUCK42069/s2.jpg",
+     "homebrew/FUCK42069/s3.jpg"
+    ],
+    "description": "Собаку Pinkshake снова украл Evil Sceleton Demon. Да как он посмел? Теперь Pinkshake должна использовать все свои навыки, чтобы вернуть своего пёсика и остановить планы Evil Sceleton Demon. Всё в старом добром стиле классического 3D-платформера: прыжки с одного парящего острова на другой, мощный рывок и крюк-кошка, чтобы добраться до дальних мест. И не забывайте про её главное оружие — зонтик!\\n\\nПримечание: сохранения не работают, постарайтесь пройти игру за один присест.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GAUT16912",
+    "name": "qrdecoder",
+    "version": "0.2.1",
+    "author": "linhtinh11",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GAUT16912/qrdecoder.vpk",
+    "size": 62067,
+    "sha256": "c9ae10c322bdb74fc5fe35d1ee2b6c0374871c5aa8de1aa774c01d3de0f5ed41",
+    "icon": "homebrew/GAUT16912/icon.png",
+    "shots": [
+     "homebrew/GAUT16912/s1.jpg",
+     "homebrew/GAUT16912/s2.jpg"
+    ],
+    "description": "Небольшое приложение, которое декодирует QR-код, а затем открывает браузер с отсканированным содержимым.\\n\\nИсходники: github.com/linhtinh11/vita_qrdecoder\\nИсточник: VitaDB."
    }
   ],
   "translations": [
