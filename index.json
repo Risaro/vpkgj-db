@@ -1,5 +1,5 @@
 {
- "version": "c02d3e241649",
+ "version": "23563bea729d",
  "categories": {
   "ports": [
    {
@@ -4405,6 +4405,22 @@
      "ports/CLIVE1001/s3.jpg"
     ],
     "description": "Обёртка/порт Gunman Clive для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, и он патчится для корректной работы. По сути, это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/usineur/clive-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CRASHLAND",
+    "name": "Crashlands",
+    "version": "1.0.0",
+    "author": "m1s3ry",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CRASHLAND/Crashlands.vpk",
+    "size": 3002252,
+    "sha256": "62615b40f5508e39ccdf42d50f95b745a787b84af7cf4c40836445b5cf0296e4",
+    "icon": "ports/CRASHLAND/icon.png",
+    "shots": [
+     "ports/CRASHLAND/s1.jpg",
+     "ports/CRASHLAND/s2.jpg",
+     "ports/CRASHLAND/s3.jpg"
+    ],
+    "description": "Создавайте предметы, сражайтесь и выполняйте задания в Crashlands — сюжетной ARPG с крафтом и изрядной долей сарказма. Оригинальная игра от Butterscotch Shenanigans.\\nИнструкция по установке есть на странице релиза (Github).\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -5804,6 +5820,35 @@
     "sha256": "c779ae1aff83dec9d812f14a977cc6530f600b6243adf0fd4f365f0cb2f27e13",
     "icon": "homebrew/CPIC00001/icon.png",
     "description": "Приложение для массового копирования icon0.png/pic0.png из ux0:app/GAME_ID/sce_sys в папку ur0:appmeta/GAME_ID. Используется вместе с Vita Launcher.\\n\\nИсходники: github.com/cy33hc/copyicons\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CPVT45668",
+    "name": "Consolepedia 3D",
+    "version": "0.3",
+    "author": "VitaHEX games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CPVT45668/Consolepedia.vpk",
+    "size": 121788887,
+    "sha256": "2f11636733fde6756293054612f4f7e0d7c5b4fde202bcfaf7733ebf2b4ad0e6",
+    "icon": "homebrew/CPVT45668/icon.png",
+    "shots": [
+     "homebrew/CPVT45668/s1.jpg",
+     "homebrew/CPVT45668/s2.jpg"
+    ],
+    "description": "Consolepedia 3D — виртуальная энциклопедия игровых систем. От Atari до Nintendo и PlayStation: подробные 3D-модели каждой системы с информацией об истории, характеристиках и самых продаваемых играх.\\nВ Consolepedia 3D есть детализированные 3D-модели, которые можно рассмотреть вблизи, а также узнать историю консоли по годам. Кроме того, для каждой системы показаны 5 самых продаваемых игр с оригинальными обложками.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CRASHDUMP",
+    "name": "Crash Dump Delete",
+    "version": "1.1",
+    "author": "Princess-Of-Sleeping",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CRASHDUMP/Crash-Dump-Delete.vpk",
+    "size": 37256,
+    "sha256": "651e6fcd1302d35fe1dd724e9d86ab6c9093ceac1bac0438b13fc107311f7f02",
+    "icon": "homebrew/CRASHDUMP/icon.png",
+    "shots": [
+     "homebrew/CRASHDUMP/s1.jpg"
+    ],
+    "description": "Простое приложение, удаляющее все файлы crashdump, создаваемые при вылете приложения.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
