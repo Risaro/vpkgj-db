@@ -1,5 +1,5 @@
 {
- "version": "518a23b57fbf",
+ "version": "ea1badecbf8f",
  "categories": {
   "ports": [
    {
@@ -6525,6 +6525,102 @@
      "ports/JFTEKWAR1/s3.jpg"
     ],
     "description": "jftekwar-vita — порт jftekwar (Tekwar от JonoF), недоработанного мультиплатформенного сорспорта Tekwar.\\nПрограмма поставляется как есть: возможны баги, так как оригинальный сорспорт так и не довели до уровня jfsw/jfduke3d.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/jftekwar\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "JNPRSK099",
+    "name": "Juniper's Knot Vita",
+    "version": "0.99",
+    "author": "grimiku",
+    "vpk": "https://firsts3.ru/vpkgj/ports/JNPRSK099/junipers_knot.vpk",
+    "size": 165025013,
+    "sha256": "ad515816118bba89f658d0ad10b97a3dfc432fab045960dce060442710fb0e21",
+    "icon": "ports/JNPRSK099/icon.png",
+    "shots": [
+     "ports/JNPRSK099/s1.jpg",
+     "ports/JNPRSK099/s2.jpg",
+     "ports/JNPRSK099/s3.jpg"
+    ],
+    "description": "Порт Juniper's Knot для PSVITA. Сама игра — короткая визуальная новелла, созданная Dischan ещё в 2012 году.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "JONOFDUKE",
+    "name": "jfduke3d-vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/JONOFDUKE/jfduke3d.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/JONOFDUKE/data.zip",
+    "data_path": "ux0:data",
+    "size": 2790022,
+    "sha256": "0f804118a8c6be9836cf106524ffd6fcba95a6ff35d8e4d1055ae12ef5789448",
+    "icon": "ports/JONOFDUKE/icon.png",
+    "shots": [
+     "ports/JONOFDUKE/s1.jpg",
+     "ports/JONOFDUKE/s2.jpg",
+     "ports/JONOFDUKE/s3.jpg"
+    ],
+    "description": "jfduke3d-vita — порт JFDuke3D, популярного мультиплатформенного сорспорта Duke Nukem 3D.\\nПоддерживает файлы данных как shareware, так и полной версии игры, а также полной версии NAM.\\nВ порте есть как классический 8-битный рендерер, так и новый 32-битный рендерер Polymost с аппаратным ускорением через vitaGL.\\n\\nИсходники: github.com/Rinnegatamante/jfduke3d-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "JUKI00088",
+    "name": "Jump King Vita",
+    "version": "1.01",
+    "author": "Kalekki & Rocroverss",
+    "vpk": "https://firsts3.ru/vpkgj/ports/JUKI00088/JumpKing.vpk",
+    "size": 25421547,
+    "sha256": "d7f4e62e989b23d10b50d9474ae5388e7a498da8c378f834c83efc1100ac2567",
+    "icon": "ports/JUKI00088/icon.png",
+    "shots": [
+     "ports/JUKI00088/s1.jpg",
+     "ports/JUKI00088/s2.jpg",
+     "ports/JUKI00088/s3.jpg"
+    ],
+    "description": "Клон Jump King на Godot, геймплей которого близок к оригиналу.\\nОтсутствует большинство объектов и часть растительности, а также музыка и девушка в конце.\\n\\nИсходники: github.com/Rocroverss/JumpKingGodot\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "JULIUS001",
+    "name": "Julius Vita",
+    "version": "1.8.0",
+    "author": "devnoname120 & Julius Team",
+    "vpk": "https://firsts3.ru/vpkgj/ports/JULIUS001/julius.vpk",
+    "size": 2838611,
+    "sha256": "f78d166dd06b0bf8af869ce11bcc78c7534603d7a2b17156fb12104165ea83e1",
+    "icon": "ports/JULIUS001/icon.png",
+    "shots": [
+     "ports/JULIUS001/s1.jpg",
+     "ports/JULIUS001/s2.jpg",
+     "ports/JULIUS001/s3.jpg"
+    ],
+    "description": "Caesar III — игра, вышедшая 30 сентября 1998 года, разработанная Impressions Games и изданная Sierra On-Line. Это третья часть серии Caesar и часть серии градостроительных игр Sierra (City Building Series). Игрок становится римским губернатором и должен построить великий римский город: обеспечить потребности горожан, сделать город безопасным и прибыльным, выполнять поставленные цели и справляться с разными бедствиями, гневом богов и враждебными врагами.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/bvschaik/julius\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "JUMP55345",
+    "name": "Jump Jump",
+    "version": "1.0",
+    "author": "LuckTheGamers",
+    "vpk": "https://firsts3.ru/vpkgj/ports/JUMP55345/Jump%20Jump.vpk",
+    "size": 34515681,
+    "sha256": "8963183c442129d25c952eb493230e3e9c99e3402d36777d129892d0b53ebbb2",
+    "icon": "ports/JUMP55345/icon.png",
+    "shots": [
+     "ports/JUMP55345/s1.jpg"
+    ],
+    "description": "Порт Jump Jump, минималистичного платформера, для PSVITA.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "JUMPNBUMP",
+    "name": "JumpNBump",
+    "version": "1.00",
+    "author": "rsn8887",
+    "vpk": "https://firsts3.ru/vpkgj/ports/JUMPNBUMP/jumpnbump.vpk",
+    "size": 1286536,
+    "sha256": "e58de95513d797f3d8c7a9cf27b2d0efa4c416506fca1d3b1b7a31f74f2112d7",
+    "icon": "ports/JUMPNBUMP/icon.png",
+    "shots": [
+     "ports/JUMPNBUMP/s1.jpg",
+     "ports/JUMPNBUMP/s2.jpg",
+     "ports/JUMPNBUMP/s3.jpg"
+    ],
+    "description": "Jump'n'Bump — простая, но затягивающая мультиплеерная игра. Чтобы победить, нужно растоптать как можно больше других кроликов.\\n\\nИсходники: github.com/rsn8887/jumpnbump\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -9823,6 +9919,23 @@
      "homebrew/JJJS1222A/s2.jpg"
     ],
     "description": "Жестокая игра из Японии, страны, где родилась Vita! Она довольно раздражающая, потому что хитбоксы сделаны очень точно. Стремитесь к финишу, различая блоки с хитбоксами и без них!\\n(Подтверждено, что игру можно пройти.)\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "JTVA00001",
+    "name": "J2Vita",
+    "version": "0.9.2",
+    "author": "KiddRwxSsj",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/JTVA00001/j2vita.vpk",
+    "size": 38416280,
+    "sha256": "03d23ae37d90fedb4eef7c9d3722462cdffabf4dfa30363f48122ce23caa7c2a",
+    "requires": "libshacccg",
+    "icon": "homebrew/JTVA00001/icon.png",
+    "shots": [
+     "homebrew/JTVA00001/s1.jpg",
+     "homebrew/JTVA00001/s2.jpg",
+     "homebrew/JTVA00001/s3.jpg"
+    ],
+    "description": "J2Vita позволяет играть на PS Vita в старые игры для Java ME (J2ME) телефонов. Запускает игры MIDP 2.0 / CLDC 1.1 — те самые .jar игры, которые были на каждом телефоне до эры смартфонов. Основан на PSPKVM, виртуальной машине Java ME для PSP, которая в свою очередь базируется на открытой Java-машине Sun phoneME Feature. Java-часть почти не менялась, а часть для Vita (видео, ввод, звук и меню) переписана специально под Vita.\\nСписок игр и меню выполнены в стиле классического телефона, есть четыре темы (по умолчанию White). Для каждой игры можно задать свои настройки экрана, фильтра, поворота, разрешения и управления поверх глобальных. Сенсорный экран работает как сенсорный экран телефона, а экранная клавиатура (удерживайте SELECT) позволяет вводить чит-коды и кнопки, которых нет на Vita. Также есть оверлей производительности, чтобы проверять, работает ли игра на полной скорости.\\n\\nИсходники: github.com/KiddRwxSsj/j2vita\\nИсточник: VitaDB."
    }
   ],
   "translations": [
