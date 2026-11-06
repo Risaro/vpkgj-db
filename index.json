@@ -1,5 +1,5 @@
 {
- "version": "f5ce750e5a20",
+ "version": "f939fdde6350",
  "categories": {
   "ports": [
    {
@@ -5272,6 +5272,84 @@
      "ports/EXULT0042/s3.jpg"
     ],
     "description": "Ultima 7, RPG начала 1990-х, до сих пор имеет огромную армию поклонников. Но поскольку это DOS-игра с очень нестандартным менеджером памяти, запустить её на современных компьютерах непросто. Exult — проект по созданию игрового движка Ultima 7, работающего на современных операционных системах и способного использовать файлы данных и графики из комплекта игры.\\n\\nИсходники: github.com/einmueller/exult-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "F2BGLVITA",
+    "name": "FadeToBlack",
+    "version": "1.0",
+    "author": "usineur",
+    "vpk": "https://firsts3.ru/vpkgj/ports/F2BGLVITA/FadeToBlack.vpk",
+    "size": 731870,
+    "sha256": "8ccc17dbb5f7aa5bcec14ba7dabefa696ab7a11d299fb01d07c35eca07737866",
+    "icon": "ports/F2BGLVITA/icon.png",
+    "shots": [
+     "ports/F2BGLVITA/s1.jpg",
+     "ports/F2BGLVITA/s2.jpg",
+     "ports/F2BGLVITA/s3.jpg"
+    ],
+    "description": "Fade to Black — экшен-приключение, разработанное Delphine Software International и изданное Electronic Arts Studios. Это продолжение игры 1992 года Flashback.\\n\\nИсходники: github.com/usineur/f2bgl\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FARAWAY01",
+    "name": "Faraway Space",
+    "version": "0.1 BETA",
+    "author": "Parallel Productions",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FARAWAY01/Faraway.Space.vpk",
+    "size": 61553099,
+    "sha256": "28a24e42d785020b210e994748536f842eca6958763e774ca2ad101f568d85f6",
+    "icon": "ports/FARAWAY01/icon.png",
+    "shots": [
+     "ports/FARAWAY01/s1.jpg",
+     "ports/FARAWAY01/s2.jpg",
+     "ports/FARAWAY01/s3.jpg"
+    ],
+    "description": "3D аркадный шутер, сделанный на Godot 3.4 и портированный на PSVita.\\nВ текущем состоянии возможны просадки частоты кадров и периодические вылеты.\\n\\nИсходники: github.com/ParallelProductions/FarawaySpace\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FATE00001",
+    "name": "Fate/Stay Night [Realta Nua] - Ultimate Edition",
+    "version": "1.0.1",
+    "author": "Alyinghood",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FATE00001/fsnrnue.vpk",
+    "size": 3121871,
+    "sha256": "89e13c1fdff0802cbd8560c18b9bf7fc6e8cab6e122cff39784ed6f95f688353",
+    "icon": "ports/FATE00001/icon.png",
+    "shots": [
+     "ports/FATE00001/s1.jpg"
+    ],
+    "description": "Порт Fate: Stay Night [Realta Nua], популярной японской визуальной новеллы, для PSVITA.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FBCH10408",
+    "name": "Fran Bow - Chapter One",
+    "version": "2.07",
+    "author": "hatoving",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FBCH10408/FranBowChapter1.vpk",
+    "size": 2949071,
+    "sha256": "7b0d4e353700c198394a459aa346374e105f2772be8928cf047b26f15cf0cd00",
+    "icon": "ports/FBCH10408/icon.png",
+    "shots": [
+     "ports/FBCH10408/s1.jpg",
+     "ports/FBCH10408/s2.jpg",
+     "ports/FBCH10408/s3.jpg"
+    ],
+    "description": "Став свидетельницей жуткой и загадочной гибели родителей, найденных расчленёнными у себя дома, Фран бежит в лес вместе со своим единственным другом, мистером Миднайтом, чёрным котом, которого родители подарили ей раньше.\\nВ лесу Фран впадает в шок от потери родителей, а когда приходит в себя, оказывается в Oswald Asylum, гнетущей психиатрической лечебнице для детей, а мистера Миднайта нигде нет.\\nУвидев во сне любимого кота, Фран решает сбежать из лечебницы, найти его и вернуться домой к тёте Грейс, своей единственной живой родственнице. Авторы: m1s3ry, Grossleymoo и Killmonday Games.\\n\\nНужны файлы оригинальной игры (Android OR PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FBCH20409",
+    "name": "Fran Bow - Chapter Two",
+    "version": "2.02",
+    "author": "hatoving",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FBCH20409/FranBowChapter2.vpk",
+    "size": 2921361,
+    "sha256": "8df5e3332d3d2cc6da37be8095204fda6a8b039bd166f68af01dc88a92bb8180",
+    "icon": "ports/FBCH20409/icon.png",
+    "shots": [
+     "ports/FBCH20409/s1.jpg",
+     "ports/FBCH20409/s2.jpg",
+     "ports/FBCH20409/s3.jpg"
+    ],
+    "description": "Fran Bow - Chapter 2 — продолжение Fran Bow - Chapter 1.\\nАвторы: m1s3ry, Grossleymoo и Killmonday\\n\\nНужны файлы оригинальной игры (Android OR PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -7383,6 +7461,47 @@
      "homebrew/EXTN00001/s2.jpg"
     ],
     "description": "Хоррор для PSVita, действие которого происходит в заброшенном доме.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "EZSV00001",
+    "name": "EasySwitchVita",
+    "version": "1.0",
+    "author": "Kirezar",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/EZSV00001/EasySwitchVita.vpk",
+    "size": 2264647,
+    "sha256": "64b4decf15ce20b2c6579c3a12049e6b86ea2cd0bfaf368b52b718aa08a1e34e",
+    "icon": "homebrew/EZSV00001/icon.png",
+    "shots": [
+     "homebrew/EZSV00001/s1.jpg"
+    ],
+    "description": "EasySwitchVita упрощает переход между игрой на PS Vita как на портативной консоли и игрой на большом экране: нужные плагины включаются и выключаются, а консоль перезагружается всего одним нажатием, без возни с конфигурационными файлами.\\n\\nИсходники: github.com/Kirezar/EasySwitchVita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FAKE00008",
+    "name": "FAKE-08",
+    "version": "0.0.2.20",
+    "author": "jtothebell",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FAKE00008/fake_08.vpk",
+    "size": 1531484,
+    "sha256": "74589d9456bbc45c34e47889eb2005197f67959b8b01599dfa2a1c5e04e4c1b1",
+    "icon": "homebrew/FAKE00008/icon.png",
+    "description": "Плеер Pico 8 для хоумбрю-консолей. Не связан с Lexaloffle Software и не поддерживается ею.\\n\\nИсходники: github.com/jtothebell/fake-08\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FBAF00001",
+    "name": "Five Beats at Freddy's",
+    "version": "1.0",
+    "author": "5PORT5Y",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FBAF00001/five_beats.vpk",
+    "size": 49722199,
+    "sha256": "2d1ca3d9b2cc336c439375c466ccf87f0b4bc304a8a835a9cdbfb08d376a132d",
+    "icon": "homebrew/FBAF00001/icon.png",
+    "shots": [
+     "homebrew/FBAF00001/s1.jpg",
+     "homebrew/FBAF00001/s2.jpg",
+     "homebrew/FBAF00001/s3.jpg"
+    ],
+    "description": "Простая ритм-игра, сделанная для конкурса хоумбрю на PS Vita и вдохновлённая Friday Night Funkin'.\\nКак следует из названия, в ней пять играбельных песен, у каждой свой уровень сложности.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
