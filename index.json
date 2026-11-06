@@ -1,5 +1,5 @@
 {
- "version": "b1387461b781",
+ "version": "5ad9cd8c4d43",
  "categories": {
   "ports": [
    {
@@ -6471,6 +6471,60 @@
      "ports/JAVITA001/s3.jpg"
     ],
     "description": "Порт Star Wars Jedi Knight: Jedi Academy для PSVita на основе OpenJK.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/NDRWhun/JAVITA\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "JAZZ20000",
+    "name": "Jazz2 Resurrection",
+    "version": "3.9.0",
+    "author": "deathkiller",
+    "vpk": "https://firsts3.ru/vpkgj/ports/JAZZ20000/Jazz2.vpk",
+    "size": 5093124,
+    "sha256": "fba53215b36d2d5af7d008f14a8f118635eac12640d6cf4cdb38e0fc89c25aa5",
+    "requires": "libshacccg",
+    "icon": "ports/JAZZ20000/icon.png",
+    "shots": [
+     "ports/JAZZ20000/s1.jpg",
+     "ports/JAZZ20000/s2.jpg",
+     "ports/JAZZ20000/s3.jpg"
+    ],
+    "description": "Jazz2 Resurrection — реимплементация игры Jazz Jackrabbit 2, вышедшей в 1998 году. Поддерживает разные версии игры (Shareware Demo, Holiday Hare '98, The Secret Files и Christmas Chronicles). Также частично поддерживает некоторые возможности расширения JJ2+ и MLLE.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/deathkiller/jazz2-native\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "JFBLOOD01",
+    "name": "jfblood-vita",
+    "version": "1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/JFBLOOD01/jfblood.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/JFBLOOD01/data.zip",
+    "data_path": "ux0:data",
+    "size": 1612084,
+    "sha256": "8b75c5e4c93d9cada92867755b51bcb2ea9095db03106b4c5f97ed271ce993c5",
+    "icon": "ports/JFBLOOD01/icon.png",
+    "shots": [
+     "ports/JFBLOOD01/s1.jpg",
+     "ports/JFBLOOD01/s2.jpg",
+     "ports/JFBLOOD01/s3.jpg"
+    ],
+    "description": "jfblood-vita — порт NBlood (сорспорта Blood от nukeykt) на основе бэкпорта от BSzili на JFBuild.\\nBlood — 3D-игра, разработанная Monolith Productions и изданная GT Interactive на движке Build Кена Сильвермана.\\nСюжет рассказывает о Калебе, немёртвом стрелке начала XX века, который жаждет мести тёмному богу Чернобогу.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/jfblood\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "JFTEKWAR1",
+    "name": "jftekwar-vita",
+    "version": "0.8",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/JFTEKWAR1/jftekwar.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/JFTEKWAR1/data.zip",
+    "data_path": "ux0:data",
+    "size": 1611484,
+    "sha256": "0ffa0061406fbca2f0539ed8af544956415e25174aca6ea28b6a0b352fa19475",
+    "requires": "libshacccg",
+    "icon": "ports/JFTEKWAR1/icon.png",
+    "shots": [
+     "ports/JFTEKWAR1/s1.jpg",
+     "ports/JFTEKWAR1/s2.jpg",
+     "ports/JFTEKWAR1/s3.jpg"
+    ],
+    "description": "jftekwar-vita — порт jftekwar (Tekwar от JonoF), недоработанного мультиплатформенного сорспорта Tekwar.\\nПрограмма поставляется как есть: возможны баги, так как оригинальный сорспорт так и не довели до уровня jfsw/jfduke3d.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/jftekwar\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -9708,6 +9762,52 @@
      "homebrew/IWRV00001/s3.jpg"
     ],
     "description": "Играйте за R3B, продвинутого и ловкого робота, созданного доктором Zhang, в этом хардкорном платформере.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "JELY00001",
+    "name": "JellyCar",
+    "version": "1.1",
+    "author": "Drakon",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/JELY00001/JellyCarVita.vpk",
+    "size": 34519153,
+    "sha256": "7af3f665986803165fdc52d50b4fbb73019afaaac9e740216d67fd9b2ea0a785",
+    "icon": "homebrew/JELY00001/icon.png",
+    "shots": [
+     "homebrew/JELY00001/s1.jpg",
+     "homebrew/JELY00001/s2.jpg",
+     "homebrew/JELY00001/s3.jpg"
+    ],
+    "description": "JellyCar — отличная 2D-игра с физикой мягких тел от Walaber. Это переписанная версия для Playstation Vita.\\n\\nИсходники: github.com/DrakonPL/JellyCar\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "JFKD22551",
+    "name": "Hexagon Jumper",
+    "version": "1.4.1",
+    "author": "cubic games official",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/JFKD22551/hexagon.jumper.vpk",
+    "size": 80076273,
+    "sha256": "e158c78076508d30d17018dcdb5970e7e57e9eee6878922406379d30c9dbe79b",
+    "icon": "homebrew/JFKD22551/icon.png",
+    "shots": [
+     "homebrew/JFKD22551/s1.jpg"
+    ],
+    "description": "Платформер для PSVITA, вдохновлённый Geometry Dash.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "JJH000001",
+    "name": "MemoryGame",
+    "version": "1.0",
+    "author": "JJH",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/JJH000001/MemoryGame.vpk",
+    "size": 685212,
+    "sha256": "27829ab7e30f0e869e6ec404d45b3d0857bb76c6945af5ce590dda3ef6c2deaa",
+    "icon": "homebrew/JJH000001/icon.png",
+    "shots": [
+     "homebrew/JJH000001/s1.jpg",
+     "homebrew/JJH000001/s2.jpg",
+     "homebrew/JJH000001/s3.jpg"
+    ],
+    "description": "MemoryGame — простая игра для тренировки мозга на PS Vita, вдохновлённая популярной игрой Simon Says.\\n\\nИсходники: github.com/JJH47E/MemoryGame\\nИсточник: VitaDB."
    }
   ],
   "translations": [
