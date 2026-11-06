@@ -1,5 +1,5 @@
 {
- "version": "e014adf10736",
+ "version": "8200c930830d",
  "categories": {
   "ports": [
    {
@@ -6051,6 +6051,49 @@
      "homebrew/CTMANAGER/s3.jpg"
     ],
     "description": "Custom Themes Manager — простое приложение для PlayStation Vita, которое, как следует из названия, позволяет полностью управлять кастомными темами прямо с консоли. Можно просматривать, скачивать и устанавливать кастомные темы из онлайн-репозитория psv.altervista.org прямо на PSVita из этого же приложения, без браузера, сторонних приложений, правки базы данных и подключения консоли к ПК. В приложении также есть функция полного удаления любой кастомной темы, которая больше не нужна, чтобы освободить место для новых, опять же без ПК и без форматирования всей карты памяти. Также есть удобная функция создания и восстановления (при необходимости) резервной копии собственной базы данных (файл app.db). Наконец, в приложении есть удобная функция перезагрузки PSVita, избавляющая от ручного выключения и включения; она полезна для корректного применения изменений и во избежание багов после установки или удаления кастомных тем.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CUID18745",
+    "name": "Cup Critters",
+    "version": "1.0",
+    "author": "FantaHourglass",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CUID18745/Cup%20Critters.vpk",
+    "size": 36068997,
+    "sha256": "85f5baa79db5e1bc61a31b3b288cfc799bf9ab6238395d4624fdbc778795f4bc",
+    "icon": "homebrew/CUID18745/icon.png",
+    "shots": [
+     "homebrew/CUID18745/s1.jpg",
+     "homebrew/CUID18745/s2.jpg",
+     "homebrew/CUID18745/s3.jpg"
+    ],
+    "description": "Клон Cup Critters для PSVITA/PSTV.\\nВ Cup Critters нужно управлять гравитацией, чтобы удержать безумные шарики в чашках. По мере продвижения счёт растёт, а трюки усложняются. Отлично подойдёт и казуальным, и хардкорным игрокам!\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CWEBVIEWX",
+    "name": "CWebView",
+    "version": "0.0.1 beta",
+    "author": "That-One-Bit",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CWEBVIEWX/CWebView.vpk",
+    "size": 110699103,
+    "sha256": "ff9e43fe19d40840dfb112d4c0b2cc46d504c783becfd0ae163c43e225dc0552",
+    "icon": "homebrew/CWEBVIEWX/icon.png",
+    "description": "Нативная оболочка для веб-страниц на консолях (PS Vita, Wii U, Wii). Нативное приложение не привязано к конкретному веб-приложению: достаточно указать любой каталог с index.html, и при сборке он упаковывается в app0:/web/ на Vita.\\n\\nИсходники: github.com/That-One-Bit/CWebView\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CXZV00001",
+    "name": "fontInstaller",
+    "version": "1.0",
+    "author": "cxziaho",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CXZV00001/fontInstaller.vpk",
+    "size": 483197,
+    "sha256": "d4a3a39d701352cf3e9cc4f4a54712a11a0d4852842731485f0b49e51734b5c1",
+    "icon": "homebrew/CXZV00001/icon.png",
+    "shots": [
+     "homebrew/CXZV00001/s1.jpg",
+     "homebrew/CXZV00001/s2.jpg",
+     "homebrew/CXZV00001/s3.jpg"
+    ],
+    "description": "Приложение для установки плагина fontRedirect и выбора шрифтов через графический интерфейс.\\n\\nИсходники: github.com/cxziaho/fontInstaller\\nИсточник: VitaDB."
    }
   ],
   "translations": [
