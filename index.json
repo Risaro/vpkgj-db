@@ -1,5 +1,5 @@
 {
- "version": "68b3ba6cc8fc",
+ "version": "432b0e147a2b",
  "categories": {
   "ports": [
    {
@@ -6034,6 +6034,83 @@
      "ports/HIGURASHI/s2.jpg"
     ],
     "description": "Совершенно неофициальный порт Higurashi для PS Vita.\\nНачиная с версии 2.5 движок также поддерживает игры VNDS.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HLTK00001",
+    "name": "Helltaker",
+    "version": "1.1.0",
+    "author": "D3fau4",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HLTK00001/Helltaker.vpk",
+    "size": 113301632,
+    "sha256": "068b8c39c3d36be9b3009a91d132ea8a225902d66652a4d071766ee9a36d8b60",
+    "icon": "ports/HLTK00001/icon.png",
+    "shots": [
+     "ports/HLTK00001/s1.jpg",
+     "ports/HLTK00001/s2.jpg"
+    ],
+    "description": "Helltaker — короткая игра про элегантно одетых девушек-демониц.\\nОднажды вы проснулись с мечтой: гарем из демониц. Вы открыли портал в надежде исполнить самые смелые желания. Адское пламя обжигает лёгкие, смерть ждёт за каждым углом, а всё выглядит как в мультяшной мобильной игре. Вы в аду.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HMNRSCMCN",
+    "name": "Human Resource Machine Vita",
+    "version": "1.3.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HMNRSCMCN/HRM.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/HMNRSCMCN/data.zip",
+    "data_path": "ux0:data",
+    "size": 3112383,
+    "sha256": "f24392961d27a0a7b8de08917d3d04d36e835852a079399367bdc46ae8abebe5",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/HMNRSCMCN/icon.png",
+    "shots": [
+     "ports/HMNRSCMCN/s1.jpg",
+     "ports/HMNRSCMCN/s2.jpg",
+     "ports/HMNRSCMCN/s3.jpg"
+    ],
+    "description": "Обёртка/порт Human Resource Machine для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты заменяются нативными функциями, а сам файл патчится для корректного запуска. Фактически это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/hrm-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HMRL00002",
+    "name": "uMario Vita",
+    "version": "1.00",
+    "author": "Hammerill",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HMRL00002/umario_vita.vpk",
+    "size": 25615159,
+    "sha256": "63e5da676c9d25c25a47b056c78dfc7ae993bcae37c2a8df13a98e2f4cc2e011",
+    "icon": "ports/HMRL00002/icon.png",
+    "description": "Порт uMario для PSVITA. uMario — воссоздание Super Mario Bros с патчем для широкого экрана и несколькими добавленными опциями.\\n\\nИсходники: github.com/Hammerill/uMario_Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HODEVITA1",
+    "name": "hode",
+    "version": "0.2.9",
+    "author": "usineur",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HODEVITA1/hode.vpk",
+    "size": 690248,
+    "sha256": "f9f2e4c5ac5c02c236e0e145647d43fac5b693b880d2848ad7a366f3eff7552a",
+    "icon": "ports/HODEVITA1/icon.png",
+    "shots": [
+     "ports/HODEVITA1/s1.jpg",
+     "ports/HODEVITA1/s2.jpg"
+    ],
+    "description": "hode — повторная реализация движка игры Heart of Darkness, разработанной Amazing Studio.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/usineur/hode\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HOMM00003",
+    "name": "homm3hd-vita",
+    "version": "1.2.3",
+    "author": "Northfear",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HOMM00003/HOMM3.vpk",
+    "size": 4270900,
+    "sha256": "bc2eeaee2ed9d14e3f75f7a0300166927d269ef506f663afedda6051ab1ba8a6",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/HOMM00003/icon.png",
+    "shots": [
+     "ports/HOMM00003/s1.jpg",
+     "ports/HOMM00003/s2.jpg",
+     "ports/HOMM00003/s3.jpg"
+    ],
+    "description": "Обёртка/порт HoMM III: HD для Android на PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты заменяются нативными функциями, а сам файл патчится для корректного запуска.\\nФактически это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Northfear/homm3hd-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -9029,6 +9106,38 @@
     "size": 1407707,
     "sha256": "554e5e22760d7fbb4a736454f0325ed0217803833ea043992f520fc3d473c338",
     "description": "Hermes — необычный платформер с изрядной долей юмора дурного тона. Если грубый и пошлый юмор вас оскорбляет, лучше уходите прямо сейчас. В игре также есть пиксельное насилие, и она пропагандирует употребление мяса. Если вы убеждённый вегетарианец, игра может вам сильно не понравиться, а может, просто посмеётесь.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HITM42069",
+    "name": "Hit'em balls",
+    "version": "0.92",
+    "author": "cojam",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/HITM42069/hitem.vpk",
+    "size": 80783866,
+    "sha256": "5a5092c51d45b4c9ce6f011dd3237efebaaf03ebbcaff0e79ce84444ecf41a25",
+    "icon": "homebrew/HITM42069/icon.png",
+    "shots": [
+     "homebrew/HITM42069/s1.jpg",
+     "homebrew/HITM42069/s2.jpg",
+     "homebrew/HITM42069/s3.jpg"
+    ],
+    "description": "Попробуйте загнать шары в лунки за минимальное число ударов. На некоторых лунках можно заморозить время, чтобы изменить траекторию шара.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HLYD00001",
+    "name": "Halyard",
+    "version": "0.1.0",
+    "author": "Wasabules",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/HLYD00001/halyard.vpk",
+    "size": 5427967,
+    "sha256": "d600517bb87f833757632b7e08142d88225b5580c342625c8002f79b77511539",
+    "icon": "homebrew/HLYD00001/icon.png",
+    "shots": [
+     "homebrew/HLYD00001/s1.jpg",
+     "homebrew/HLYD00001/s2.jpg",
+     "homebrew/HLYD00001/s3.jpg"
+    ],
+    "description": "Halyard — неофициальный клиент облачного ПК-сервиса Shadow. Он подключается к принадлежащей пользователю машине Shadow и передаёт её изображение и звук на PS Vita и PS TV, отправляя ввод с консоли обратно на машину.\\nОн заново реализует протокол официального десктопного клиента Shadow. Видео декодируется аппаратно (H.264 через SceAvcdec); звук — Opus или FLAC, с пятиполосным эквалайзером. Ввод передаётся на машину как геймпад Xbox 360, мышь, управляемая передним сенсорным экраном, и экранная клавиатура; задняя сенсорная панель может выступать как ZL, ZR, L3, R3 или аналоговые триггеры. Панель производительности во время сессии показывает частоту кадров, битрейт, потерю пакетов и время отклика.\\nНужна подписка на Shadow. Halyard не связан с Shadow или Sony, не одобрен и не спонсируется ими. Использование неофициального клиента может нарушать условия использования Shadow.\\n\\nИсходники: github.com/Wasabules/Halyard\\nИсточник: VitaDB."
    }
   ],
   "translations": [
