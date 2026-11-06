@@ -1,5 +1,5 @@
 {
- "version": "d039173a321e",
+ "version": "9ff98301d4b1",
  "categories": {
   "ports": [
    {
@@ -7685,6 +7685,50 @@
      "homebrew/FBAF00001/s3.jpg"
     ],
     "description": "Простая ритм-игра, сделанная для конкурса хоумбрю на PS Vita и вдохновлённая Friday Night Funkin'.\\nКак следует из названия, в ней пять играбельных песен, у каждой свой уровень сложности.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FIGH12345",
+    "name": "UFE",
+    "version": "Demo",
+    "author": "RetroGamer74",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FIGH12345/UFE_Demo.vpk",
+    "size": 57123701,
+    "sha256": "aca804a5670161024affd4ca09070de782022a7b19784689f7a27c794402fc22",
+    "icon": "homebrew/FIGH12345/icon.png",
+    "shots": [
+     "homebrew/FIGH12345/s1.jpg"
+    ],
+    "description": "3D-файтинг для PSVITA/PSTV, сделанный на Unity.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FISHPOD01",
+    "name": "Fishpod",
+    "version": "1.0.0",
+    "author": "Team789er",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FISHPOD01/fishpod.vpk",
+    "size": 9388768,
+    "sha256": "fff61f04bf708ce7a920924c6efec369c93fc7b98784f182f99a32cf1f4b5c59",
+    "icon": "homebrew/FISHPOD01/icon.png",
+    "shots": [
+     "homebrew/FISHPOD01/s1.jpg"
+    ],
+    "description": "Платформер для PSVITA, сделанный на GameMaker.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FLAPPY001",
+    "name": "FlappyBird Classic",
+    "version": "1.2",
+    "author": "Creckeryop",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FLAPPY001/FBClassic.vpk",
+    "size": 398722,
+    "sha256": "8b7b6625f0ee621f7fefcc78d2cb798ecd076a1137b22392231919e30185a412",
+    "icon": "homebrew/FLAPPY001/icon.png",
+    "shots": [
+     "homebrew/FLAPPY001/s1.jpg",
+     "homebrew/FLAPPY001/s2.jpg",
+     "homebrew/FLAPPY001/s3.jpg"
+    ],
+    "description": "Клон Flappy Bird для PSVITA/PSTV.\\n\\nИсходники: github.com/Creckeryop/Flappy-Bird-Classic-vita\\nИсточник: VitaDB."
    }
   ],
   "translations": [
