@@ -1,5 +1,5 @@
 {
- "version": "7fa597dbb316",
+ "version": "625497bc8fd5",
  "categories": {
   "ports": [
    {
@@ -5793,6 +5793,48 @@
      "ports/GEMRB0001/s1.jpg"
     ],
     "description": "GemRB — портируемая реализация с открытым исходным кодом 8 версий движка Infinity Engine от Bioware, позволяющая запускать игры Baldur's Gate, Icewind Dale и Planescape: Torment, их дополнения и моды.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Northfear/gemrb-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GEOR20066",
+    "name": "Pako Forever",
+    "version": "1.0.8",
+    "author": "PatnosD",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GEOR20066/pako.vpk",
+    "size": 38191562,
+    "sha256": "967f0c4de341360cf815500ff20e7cd3d8bbe726effde76afa21f0717be166f7",
+    "icon": "ports/GEOR20066/icon.png",
+    "description": "Порт Pako Forever для PSVITA.\\nУбегайте как можно дольше на бесконечных уровнях! Секреты, усиления, открываемые эпические машины и множество других сюрпризов ждут вас в обновлённой версии классической игры с автопогоней PAKO - Car Chase Simulator!\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GHOS70000",
+    "name": "Going Nowhere",
+    "version": "b27",
+    "author": "koleq",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GHOS70000/GoingNowhere.vpk",
+    "size": 68289722,
+    "sha256": "8c11e57618a9310815b1e01d8dff5858d0e35212b02bb83bde28df1fb41cb8b4",
+    "icon": "ports/GHOS70000/icon.png",
+    "shots": [
+     "ports/GHOS70000/s1.jpg",
+     "ports/GHOS70000/s2.jpg"
+    ],
+    "description": "Going Nowhere — 3D-платформер с элементами приключения, сделанный за 3 месяца командой из 4 человек. Игроки используют разные паркур-приёмы, чтобы перемещаться по похожему на сон городскому окружению и раскрыть тайну города, в котором они оказались.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GMSGH0ATL",
+    "name": "Atlantis",
+    "version": "0.8",
+    "author": "xanderten50",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GMSGH0ATL/Atlantis.vpk",
+    "size": 3594347,
+    "sha256": "2b638ed00b29ec132df87ab07a2259f8f2c395d96a1a7a931faa3ec6aa3cd0ea",
+    "icon": "ports/GMSGH0ATL/icon.png",
+    "shots": [
+     "ports/GMSGH0ATL/s1.jpg",
+     "ports/GMSGH0ATL/s2.jpg",
+     "ports/GMSGH0ATL/s3.jpg"
+    ],
+    "description": "Порт версии игры для Atari 2600 от Glitchedheart. Включает сохранение рекордов.\\n\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -8465,6 +8507,47 @@
      "homebrew/GEOM00001/s3.jpg"
     ],
     "description": "Эмулятор аркадной платы Sega Model 1 для PlayStation Vita.\\nGeometrizer — прежде всего площадка для разработки с помощью ИИ.\\n\\nИсходники: github.com/frangarcj/geometrizer\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GFPGM00AC",
+    "name": "Angel Collide",
+    "version": "1",
+    "author": "xanderten50",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GFPGM00AC/AngelCollide.vpk",
+    "size": 66228307,
+    "sha256": "9a654f21d2a6f25d6f5b9db010f477a85ebe5a3202618277387f8f9dba98cea2",
+    "icon": "homebrew/GFPGM00AC/icon.png",
+    "shots": [
+     "homebrew/GFPGM00AC/s1.jpg",
+     "homebrew/GFPGM00AC/s2.jpg",
+     "homebrew/GFPGM00AC/s3.jpg"
+    ],
+    "description": "Angel Collide — простой скроллинговый шмап, сделанный в Gamemaker Studio.\\nОбладая силой Halo, Ангел должен преследовать Голема и его приспешников на протяжении 5 уровней и наконец победить его в его твердыне.\\nСтреляйте во всё, что движется, и стремитесь к высокому счёту.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GMCA00001",
+    "name": "GMCA",
+    "version": "1.0.5",
+    "author": "thcolin",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GMCA00001/GMCA.vpk",
+    "size": 14517490,
+    "sha256": "e422901a6b43a9e98137ac8b86e4d8bf00613b300d99b520f3b12d16bbdc3740",
+    "icon": "homebrew/GMCA00001/icon.png",
+    "description": "GMCA — единый нативный клиент, ориентированный на управление с геймпада. Подключите его к любому медиацентру — Plex, Jellyfin, Emby или Stremio — и запускайте на любом устройстве, которое пылилось в ящике: Nintendo Switch, PS Vita или Raspberry Pi, подключённом к телевизору. Интерфейс никогда не меняется; под ваш сервер подстраиваются только акцентный цвет и вкладки.\\n\\nИсходники: github.com/thcolin/gamepad-media-center-aggregator\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GMSV00001",
+    "name": "Asteroids",
+    "version": "0.1 Beta",
+    "author": "KimsoftStudio",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GMSV00001/asteroidsvh.VPK",
+    "size": 3067212,
+    "sha256": "b16e3c166ea36c6910f2c8db809034b0ba9fc5c0d8718f681fb46b035aff25e6",
+    "icon": "homebrew/GMSV00001/icon.png",
+    "shots": [
+     "homebrew/GMSV00001/s1.jpg"
+    ],
+    "description": "Клон Asteroids для PSVITA/PSTV, сделанный в Game Maker: Studio.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
