@@ -1,5 +1,5 @@
 {
- "version": "ea1badecbf8f",
+ "version": "ec88d2cc4c25",
  "categories": {
   "ports": [
    {
@@ -6621,6 +6621,121 @@
      "ports/JUMPNBUMP/s3.jpg"
     ],
     "description": "Jump'n'Bump — простая, но затягивающая мультиплеерная игра. Чтобы победить, нужно растоптать как можно больше других кроликов.\\n\\nИсходники: github.com/rsn8887/jumpnbump\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "JYSDLLUA1",
+    "name": "Jinyong Legend",
+    "version": "1.02",
+    "author": "yizhigai",
+    "vpk": "https://firsts3.ru/vpkgj/ports/JYSDLLUA1/jinyong-legend.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/JYSDLLUA1/data.zip",
+    "data_path": "ux0:data",
+    "size": 16100574,
+    "sha256": "18a8681de8778f0aa42737025c613990040a34c5519b36186e2d88d6834da8c5",
+    "icon": "ports/JYSDLLUA1/icon.png",
+    "shots": [
+     "ports/JYSDLLUA1/s1.jpg"
+    ],
+    "description": "Порт Jinyong Legend (ремейка Heroes of Jin Yong, китайской тактической RPG для ПК) для PSVITA.\\n\\nИсходники: gitee.com/yizhigai/jinyong-legend-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "KEROBLAST",
+    "name": "Kero Blaster Vita",
+    "version": "1.2",
+    "author": "KAAAsS",
+    "vpk": "https://firsts3.ru/vpkgj/ports/KEROBLAST/Kero-Blaster.vpk",
+    "size": 2087673,
+    "sha256": "9628a60b7d322383ac01b5db86d13fa43eac8723eb6d0077e8dfdf26d79696d6",
+    "requires": "kubridge,fdfix",
+    "icon": "ports/KEROBLAST/icon.png",
+    "shots": [
+     "ports/KEROBLAST/s1.jpg"
+    ],
+    "description": "Порт Kero Blaster для PSVITA на основе мобильной (Android) версии игры.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/kaaass/Kero-Blaster-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "KETM00001",
+    "name": "K.E.T.M. Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/KETM00001/KETM.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/KETM00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 996832,
+    "sha256": "eab55f3b4622801e0352c20885cf61996f9e93765b5d654fff657f2b2adcf13e",
+    "icon": "ports/KETM00001/icon.png",
+    "shots": [
+     "ports/KETM00001/s1.jpg",
+     "ports/KETM00001/s2.jpg",
+     "ports/KETM00001/s3.jpg"
+    ],
+    "description": "Порт K.E.T.M. (Kill Everything That Moves) для PSVITA — быстрого 2D-шутера.\\nИгра доступна в оригинальном стиле и с 4 модами (1941, Star Wars, Iron man, Mario Kart). Режим игры выбирается при запуске.\\n\\nИсходники: github.com/Rinnegatamante/K.E.T.M.-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "KFXV00001",
+    "name": "UO KeeperFX Vita",
+    "version": "1.03",
+    "author": "DannyDLux90",
+    "vpk": "https://firsts3.ru/vpkgj/ports/KFXV00001/KeeperFX.vpk",
+    "size": 5076789,
+    "sha256": "28b97ad35ce355c2ffd0a8186d6b55320223aa83bed3bdd0de8cf8d62e941238",
+    "requires": "libshacccg",
+    "icon": "ports/KFXV00001/icon.png",
+    "shots": [
+     "ports/KFXV00001/s1.jpg",
+     "ports/KFXV00001/s2.jpg",
+     "ports/KFXV00001/s3.jpg"
+    ],
+    "description": "UO KeeperFX Vita — порт для PlayStation Vita проекта KeeperFX, открытого проекта по воссозданию и улучшению движка Dungeon Keeper от Bullfrog.\\nПорт адаптирует KeeperFX для нативного запуска на PlayStation Vita и включает специфичные для Vita отрисовку, ввод, звук, воспроизведение видео, работу с хранилищем и интеграцию с платформой.\\nЭтот порт не связан с командой KeeperFX.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/DannyDLux90/KeeperFX-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "KKRBROCRO",
+    "name": "KatzenKlein Redux Vita",
+    "version": "1.0",
+    "author": "Rocroverss",
+    "vpk": "https://firsts3.ru/vpkgj/ports/KKRBROCRO/kkr.vpk",
+    "size": 2484731,
+    "sha256": "c54ebc9abb710b60484863dbd3351ab5576a49052c7c0ab78129a09c8fb29e76",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/KKRBROCRO/icon.png",
+    "shots": [
+     "ports/KKRBROCRO/s1.jpg",
+     "ports/KKRBROCRO/s2.jpg",
+     "ports/KKRBROCRO/s3.jpg"
+    ],
+    "description": "Это враппер/порт KatzenKlein Redux для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, и он патчится для корректного запуска. По сути, это как если бы мы эмулировали минималистичную среду Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rocroverss/katzenklein-redux-psvita-port\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "KOF950001",
+    "name": "kof95sr",
+    "version": "1.0.0",
+    "author": "seba371375",
+    "vpk": "https://firsts3.ru/vpkgj/ports/KOF950001/kof95.vpk",
+    "size": 14308756,
+    "sha256": "f16401de98ebd42f54be1c46faf78e82ef3c2f4a18972c1c918f79bee526503d",
+    "icon": "ports/KOF950001/icon.png",
+    "shots": [
+     "ports/KOF950001/s1.jpg",
+     "ports/KOF950001/s2.jpg",
+     "ports/KOF950001/s3.jpg"
+    ],
+    "description": "The King of Fighters '95 Static Recompilation (kof95sr) — нативный порт на уровне исходного кода легендарной аркадной файтинг-классики SNK для PlayStation Vita (Title ID: KOF950001).\\nВместо традиционной полной эмуляции системы kof95sr заранее статически перекомпилирует более 28 000 точек входа ассемблерного кода аркадного Motorola 68000 в оптимизированные C-функции и выполняет их напрямую на ARM Cortex-A9 процессоре Vita при зафиксированных 60 FPS и без накладных расходов на интерпретатор.\\n\\nНужны файлы оригинальной игры (MAME), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/seba371375/kof95sr\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "KOFM00000",
+    "name": "King of Machines",
+    "version": "1.0",
+    "author": "m1s3ry",
+    "vpk": "https://firsts3.ru/vpkgj/ports/KOFM00000/King-of-Machines.vpk",
+    "size": 6263290,
+    "sha256": "d2118d7f459b5d776e716b64fcef94a4bc03bc0a301c4dfd254d638ec3546e7c",
+    "icon": "ports/KOFM00000/icon.png",
+    "shots": [
+     "ports/KOFM00000/s1.jpg",
+     "ports/KOFM00000/s2.jpg",
+     "ports/KOFM00000/s3.jpg"
+    ],
+    "description": "Меха-битемап с боковой прокруткой в мире, где боевые экзокостюмы — обычное дело, а также оружие в жестоком восстании.\\nОригинальная игра от hwilson.\\n\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -9936,6 +10051,66 @@
      "homebrew/JTVA00001/s3.jpg"
     ],
     "description": "J2Vita позволяет играть на PS Vita в старые игры для Java ME (J2ME) телефонов. Запускает игры MIDP 2.0 / CLDC 1.1 — те самые .jar игры, которые были на каждом телефоне до эры смартфонов. Основан на PSPKVM, виртуальной машине Java ME для PSP, которая в свою очередь базируется на открытой Java-машине Sun phoneME Feature. Java-часть почти не менялась, а часть для Vita (видео, ввод, звук и меню) переписана специально под Vita.\\nСписок игр и меню выполнены в стиле классического телефона, есть четыре темы (по умолчанию White). Для каждой игры можно задать свои настройки экрана, фильтра, поворота, разрешения и управления поверх глобальных. Сенсорный экран работает как сенсорный экран телефона, а экранная клавиатура (удерживайте SELECT) позволяет вводить чит-коды и кнопки, которых нет на Vita. Также есть оверлей производительности, чтобы проверять, работает ли игра на полной скорости.\\n\\nИсходники: github.com/KiddRwxSsj/j2vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "KANA00001",
+    "name": "History Deleter",
+    "version": "2.0",
+    "author": "KanadeEngel",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/KANA00001/History_Deleter.vpk",
+    "size": 131633,
+    "sha256": "f0fc74e0fa3ffba3d5de8387c724d0cffbd603676da26df798606ef38306bf55",
+    "icon": "homebrew/KANA00001/icon.png",
+    "shots": [
+     "homebrew/KANA00001/s1.jpg"
+    ],
+    "description": "Небольшое приложение, которое удаляет логи игр и коредампы.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "KANA99999",
+    "name": "Database Updater",
+    "version": "2.0",
+    "author": "KanadeEngel",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/KANA99999/database_update_reboot.vpk",
+    "size": 60902,
+    "sha256": "ca425204af636a64928976a443384f8db2b1e5cb278776ba09ca6d9b6ca2d304",
+    "icon": "homebrew/KANA99999/icon.png",
+    "shots": [
+     "homebrew/KANA99999/s1.jpg"
+    ],
+    "description": "Запускает перестройку/обновление базы данных app.db.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "KGHG89678",
+    "name": "VITA Surviving",
+    "version": "1.1",
+    "author": "pelayodc",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/KGHG89678/vitaSurviving.vpk",
+    "size": 50327636,
+    "sha256": "2c32bfbde84ba90e3631c600f3be75575bba753372c68a0052a14314b434b58d",
+    "icon": "homebrew/KGHG89678/icon.png",
+    "shots": [
+     "homebrew/KGHG89678/s1.jpg",
+     "homebrew/KGHG89678/s2.jpg",
+     "homebrew/KGHG89678/s3.jpg"
+    ],
+    "description": "2D-игра на выживание для PS Vita. Сражайтесь с разными врагами и улучшайте оружие, пытаясь выжить. Это первый релиз, в будущем он будет дополняться новым контентом.\\n\\nИсходники: github.com/pelayodc/VITASurviving\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "KHYI00001",
+    "name": "Iron Coast: Scrap Tide",
+    "version": "0.3.0",
+    "author": "Onur Kuru",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/KHYI00001/iron_coast.vpk",
+    "size": 33230388,
+    "sha256": "0b7dd95e99b3b039a11169ade3467481b314b34a2aae5f71022549951d9d321f",
+    "icon": "homebrew/KHYI00001/icon.png",
+    "shots": [
+     "homebrew/KHYI00001/s1.jpg",
+     "homebrew/KHYI00001/s2.jpg",
+     "homebrew/KHYI00001/s3.jpg"
+    ],
+    "description": "Оригинальный одиночный хоумбрю-шутер в жанре run-and-gun для PlayStation Vita. Пройдите шесть индустриальных прибрежных миссий, спасайте рабочих, захватите Scrap Walker и уничтожьте Iron Grid.\\n\\nИсходники: github.com/onurkuru/ironcoast\\nИсточник: VitaDB."
    }
   ],
   "translations": [
