@@ -1,5 +1,5 @@
 {
- "version": "cec33b323730",
+ "version": "448bcbde35b5",
  "categories": {
   "ports": [
    {
@@ -7854,6 +7854,38 @@
      "homebrew/FLYCASTDC/s3.jpg"
     ],
     "description": "Flycast Vita — порт flycast, популярного мультиплатформенного эмулятора Dreamcast, который поддерживает flyinghead. Он основан на автономной версии эмулятора и доработан: добавлены функции, ускоряющие эмуляцию по сравнению с обычным ванильным портом.\\n\\nИсходники: github.com/Rinnegatamante/flycast-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FNAF2VITA",
+    "name": "Five Night at Freddy's 2 Lite",
+    "version": "0.3.5",
+    "author": "AlexDev2",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FNAF2VITA/fnaf-2-vita.vpk",
+    "size": 85766384,
+    "sha256": "26e907bb0120d3a8c14771bd76794c1c546a6c935b9c00768c40a945e9d08916",
+    "icon": "homebrew/FNAF2VITA/icon.png",
+    "shots": [
+     "homebrew/FNAF2VITA/s1.jpg",
+     "homebrew/FNAF2VITA/s2.jpg",
+     "homebrew/FNAF2VITA/s3.jpg"
+    ],
+    "description": "Воссоздание Five Night at Freddy's 2 для PSVITA, сделанное в Game Maker Studio.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FNAF40001",
+    "name": "Five Night at Freddy's 4 Lite",
+    "version": "0.1.0",
+    "author": "AlexDev2",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FNAF40001/fnaf4.vpk",
+    "size": 71660453,
+    "sha256": "42cdebf62a69e03b38ca9ede128afd402b4f265eb05cfefa86c0a958efad36b3",
+    "icon": "homebrew/FNAF40001/icon.png",
+    "shots": [
+     "homebrew/FNAF40001/s1.jpg",
+     "homebrew/FNAF40001/s2.jpg",
+     "homebrew/FNAF40001/s3.jpg"
+    ],
+    "description": "Воссоздание Five Night at Freddy's 4 для PSVITA, сделанное в Game Maker Studio.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
