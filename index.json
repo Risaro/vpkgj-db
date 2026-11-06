@@ -1,5 +1,5 @@
 {
- "version": "52ff4c6e1317",
+ "version": "52b72e5b8ef5",
  "categories": {
   "ports": [
    {
@@ -5734,6 +5734,20 @@
      "ports/GATOROBOT/s2.jpg"
     ],
     "description": "Инструкции по патчу и установке — на странице релиза (Github). Оригинальная игра от DoinkSoft. Запрыгните в свой уютный бронированный мех и отправляйтесь в опасное путешествие по инопланетному подземному миру, полному раздражительных существ и коварных препятствий, чтобы отважно спасти своего капитана и его разбитый космический корабль.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GDOT00001",
+    "name": "Parkour Labs",
+    "version": "2.0",
+    "author": "SoyKhaler",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GDOT00001/ParkourLabs4Vita.vpk",
+    "size": 86834768,
+    "sha256": "62e5486e52b3187ad1a0b2b46012ffe28844ec5f536a32028382429a98a78392",
+    "icon": "ports/GDOT00001/icon.png",
+    "shots": [
+     "ports/GDOT00001/s1.jpg"
+    ],
+    "description": "Порт Steam-игры Parkour Labs — сложного паркур-симулятора, похожего на CSGO: Surf.\\n\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -8254,6 +8268,79 @@
      "homebrew/GAUT16912/s2.jpg"
     ],
     "description": "Небольшое приложение, которое декодирует QR-код, а затем открывает браузер с отсканированным содержимым.\\n\\nИсходники: github.com/linhtinh11/vita_qrdecoder\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GBAD00001",
+    "name": "VitAdhoc",
+    "version": "1.2",
+    "author": "CBOC-Vita",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GBAD00001/VitAdhoc.vpk",
+    "size": 3345842,
+    "sha256": "b844da404b1ed36ca776818d6870a19c3effc23a4c39ed6503854eeb16c940de",
+    "icon": "homebrew/GBAD00001/icon.png",
+    "shots": [
+     "homebrew/GBAD00001/s1.jpg",
+     "homebrew/GBAD00001/s2.jpg",
+     "homebrew/GBAD00001/s3.jpg"
+    ],
+    "description": "Помните обмен покемонами с другом по линк-кабелю? Или тот самый картридж, в который играли, пока не сел аккумулятор? VitAdhoc переносит всё это на Vita и делает лучше, чем вы помните. Вся ваша библиотека на домашнем экране, который сам заполняется обложками. Чёткая или красиво сглаженная картинка, достаточно широкая, чтобы заполнить экран Vita. Полная скорость, перемотка и кнопка Continue, которая возвращает вас в тот самый момент, где вы остановились. Игра по линку с другом, достижения, игры с наклоном и ROM-хаки.\\n\\nИсходники: github.com/CBOC-Vita-Lab/vitadhoc\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GBOT00001",
+    "name": "milieTetris",
+    "version": "1.0",
+    "author": "GUIDOBOT",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GBOT00001/milieTetris.vpk",
+    "size": 244004,
+    "sha256": "2dd1628dd879abb7121947af4273fecdecf24d2f18acd96fb241e86aeb2bede3",
+    "icon": "homebrew/GBOT00001/icon.png",
+    "shots": [
+     "homebrew/GBOT00001/s1.jpg",
+     "homebrew/GBOT00001/s2.jpg",
+     "homebrew/GBOT00001/s3.jpg"
+    ],
+    "description": "Клон классического Tetris для PSVITA/PSTV.\\n\\nИсходники: github.com/GUIDOBOT/milieTetris\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GBST00001",
+    "name": "GBS",
+    "version": "1.2.0",
+    "author": "Camzer",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GBST00001/GBS.vpk",
+    "size": 11631311,
+    "sha256": "8101cb37e72e2ebe1b4cc29a80c98ba5a4f3988d159fd2c71ede036536892995",
+    "icon": "homebrew/GBST00001/icon.png",
+    "shots": [
+     "homebrew/GBST00001/s1.jpg",
+     "homebrew/GBST00001/s2.jpg",
+     "homebrew/GBST00001/s3.jpg"
+    ],
+    "description": "Эмулятор Game Boy, Game Boy Color и Game Boy Advance с открытым исходным кодом для PS Vita и PS TV, с локальным мультиплеером и настоящей перемоткой вперёд!\\n\\nИсходники: gitlab.com/camzer/gbs\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GBVX00001",
+    "name": "MGBAVitaEX",
+    "version": "2.1.6",
+    "author": "Zushikina-kun & endrift",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GBVX00001/MGBAVitaEX.vpk",
+    "size": 793158,
+    "sha256": "fd13b6d34f721a343b5d23b96d44ec1d8072e3661a8e0e8124541c4417c1757e",
+    "icon": "homebrew/GBVX00001/icon.png",
+    "description": "Аккуратная доработка официального порта mGBA для PSVita: тот же проверенный движок, но с исправлением всех известных ошибок и добавлением самых востребованных функций. RetroArch не нужен.\\n\\nИсходники: github.com/Zushikina-kun/MGBAVitaEX\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GDOT00002",
+    "name": "NextBot For PSVita",
+    "version": "0.1",
+    "author": "SoyKhaler",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GDOT00002/Nextbot4Vita.vpk",
+    "size": 25002965,
+    "sha256": "601e1a6574159a9b267b5bc369f7ac4cc2886369d3258debfa3c65937dc99fb2",
+    "icon": "homebrew/GDOT00002/icon.png",
+    "shots": [
+     "homebrew/GDOT00002/s1.jpg"
+    ],
+    "description": "Клон Nextbot из Garry's Mod для PSVITA.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
