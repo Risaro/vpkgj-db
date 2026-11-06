@@ -1,5 +1,5 @@
 {
- "version": "625497bc8fd5",
+ "version": "ec5f4be44fae",
  "categories": {
   "ports": [
    {
@@ -5835,6 +5835,18 @@
      "ports/GMSGH0ATL/s3.jpg"
     ],
     "description": "Порт версии игры для Atari 2600 от Glitchedheart. Включает сохранение рекордов.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GNFC00002",
+    "name": "Gunforce 2 Vita",
+    "version": "0.1",
+    "author": "Tobic-99",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GNFC00002/gunforce2.vpk",
+    "size": 1620370,
+    "sha256": "9ca24674a91bf2314d4aae5edfdf6872de7611678dbbb4ab0c118fa3ad9a257f",
+    "requires": "libshacccg",
+    "icon": "ports/GNFC00002/icon.png",
+    "description": "Статическая рекомпиляция Gunforce 2 (Irem, 1994, аркадная плата M92) в нативный ARM-код. Основная программа игры для V33 транслируется в C++ и линкуется с нативной средой выполнения, заменяющей плату: карту памяти, контроллер прерываний, DMA, программный видеорендерер и звуковую плату (V35 с шифрованием опкодов Irem, YM2151 и GA20). Звуковой процессор работает в интерпретаторе.\\n\\nНужны файлы оригинальной игры (MAME), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Tobic-99/gunforce2-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -8548,6 +8560,52 @@
      "homebrew/GMSV00001/s1.jpg"
     ],
     "description": "Клон Asteroids для PSVITA/PSTV, сделанный в Game Maker: Studio.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GMSV00009",
+    "name": "Temporary Space",
+    "version": "1.5.1",
+    "author": "xanderten50",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GMSV00009/TemporarySpace.vpk",
+    "size": 4733886,
+    "sha256": "845ba70195afb12c6a66a36ca7ada21a0f52793425609d2022a563d0cffb8d18",
+    "icon": "homebrew/GMSV00009/icon.png",
+    "shots": [
+     "homebrew/GMSV00009/s1.jpg",
+     "homebrew/GMSV00009/s2.jpg",
+     "homebrew/GMSV00009/s3.jpg"
+    ],
+    "description": "Клон Asteroids с красивой графикой, сделанный на GameMaker.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GMSV00013",
+    "name": "Car Crossing",
+    "version": "1.0.0",
+    "author": "Team789er",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GMSV00013/CarCrossing.vpk",
+    "size": 7655427,
+    "sha256": "ac19bd04d4135ca304f6b8bd5374efa1be8ffd0316dfb549df7e7c5b7c21e3ad",
+    "icon": "homebrew/GMSV00013/icon.png",
+    "shots": [
+     "homebrew/GMSV00013/s1.jpg"
+    ],
+    "description": "Клон Frogger, где вы управляете машиной. Сделан на GameMaker для PSVITA/PSTV.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GMSV00099",
+    "name": "Temporary Space: Expanse",
+    "version": "0.52",
+    "author": "xanderten50",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GMSV00099/tspace2.vpk",
+    "size": 27248386,
+    "sha256": "f8b29b53fa9e88c2beb0e8645c616f0e584a15613725e8d5372219ad839e03e8",
+    "icon": "homebrew/GMSV00099/icon.png",
+    "shots": [
+     "homebrew/GMSV00099/s1.jpg",
+     "homebrew/GMSV00099/s2.jpg",
+     "homebrew/GMSV00099/s3.jpg"
+    ],
+    "description": "Temporary Space — по сути простая стрелялка на основе Asteroids. Temporary Space: Expanse — продолжение оригинальной Temporary Space.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
