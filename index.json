@@ -1,5 +1,5 @@
 {
- "version": "06828bb67b5b",
+ "version": "38235988db6a",
  "categories": {
   "ports": [
    {
@@ -4637,6 +4637,38 @@
      "ports/DEFD20485/s1.jpg"
     ],
     "description": "Простой порт 2048 для PSVITA/PSTV.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DERA00002",
+    "name": "dRally Vita",
+    "version": "1.2",
+    "author": "Enrique Somolinos Perez & martin26765",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DERA00002/Death_rally.vpk",
+    "size": 2497551,
+    "sha256": "e1ca6829ff88976ef25a2cf178a9fa8c3b360fc6a176b98412dd3481fbca26ee",
+    "icon": "ports/DERA00002/icon.png",
+    "shots": [
+     "ports/DERA00002/s1.jpg",
+     "ports/DERA00002/s2.jpg"
+    ],
+    "description": "Порт Death Rally — аркадного автосимулятора, вышедшего в 1996 году, — для PSVITA.\\n\\nИсходники: github.com/martin26765/dRally-vita/tree/psvita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DEST00001",
+    "name": "Destinia Vita",
+    "version": "0.1.1",
+    "author": "withLogic",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DEST00001/DestiniaW.vpk",
+    "size": 2396403,
+    "sha256": "88000b599becfbb6b59e85fcc2940b2d8de2b8e76e77c4d24d377404b68091b7",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/DEST00001/icon.png",
+    "shots": [
+     "ports/DEST00001/s1.jpg",
+     "ports/DEST00001/s2.jpg",
+     "ports/DEST00001/s3.jpg"
+    ],
+    "description": "Destinia рассказывает о путешествии Дюка, бывшего члена Имперской гвардии, заключённого в тюрьму за отказ убивать невинных мирных жителей. Он объединяется с принцессой-повстанкой по имени Кристал, чтобы бороться с тиранической Империей и найти пропавшую возлюбленную детства Лену.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/withLogic/destinia-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
