@@ -1,5 +1,5 @@
 {
- "version": "57e645bbd842",
+ "version": "0683fbd5c5c9",
  "categories": {
   "ports": [
    {
@@ -398,7 +398,10 @@
     "data_path": "ux0:data",
     "size": 3575693,
     "icon": "ports/CTR000004/c.jpg",
-    "description": "Advanced sourceport of Crash Team Racing for PSVita, PC and Web Browser.\\nПорт с Console. Стадия: Release.\\nИсходники: github.com/Rinnegatamante/Crash-Team-Racing-High-Octane"
+    "description": "Advanced sourceport of Crash Team Racing for PSVita, PC and Web Browser.\\nПорт с Console. Стадия: Release.\\nИсходники: github.com/Rinnegatamante/Crash-Team-Racing-High-Octane",
+    "alt_vpk": "https://firsts3.ru/vpkgj/ports/CTR000004/vitadb/ctr.vpk",
+    "alt_version": "1.5",
+    "alt_source": "VitaDB"
    },
    {
     "titleid": "CRAZYTAXI",
@@ -546,7 +549,10 @@
     "size": 1956859,
     "requires": "kubridge,fdfix,libshacccg",
     "icon": "ports/DKAS00000/c.jpg",
-    "description": "Порт с PC / Console. Стадия: Release.\\nИсходники: github.com/elliencode/actionsquad-psv"
+    "description": "Порт с PC / Console. Стадия: Release.\\nИсходники: github.com/elliencode/actionsquad-psv",
+    "alt_vpk": "https://firsts3.ru/vpkgj/ports/DKAS00000/vitadb/actionsquad.vpk",
+    "alt_version": "1.01",
+    "alt_source": "VitaDB"
    },
    {
     "titleid": "DBTB01178",
@@ -774,7 +780,10 @@
     "size": 2701454,
     "requires": "kubridge,fdfix,libshacccg",
     "icon": "ports/HCR000000/c.jpg",
-    "description": "PS Vita .so loader port of Hill Climb Racing\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nИсходники: github.com/memory-hunter/hill-climb-racing-vita"
+    "description": "PS Vita .so loader port of Hill Climb Racing\\nПорт с Mobile (Android/iOS). Стадия: Release.\\nИсходники: github.com/memory-hunter/hill-climb-racing-vita",
+    "alt_vpk": "https://firsts3.ru/vpkgj/ports/HCR000000/vitadb/hcr.vpk",
+    "alt_version": "beta2",
+    "alt_source": "VitaDB"
    },
    {
     "titleid": "ILLUSIA01",
@@ -2010,7 +2019,10 @@
      "ports/MMCOH0001/s2.jpg",
      "ports/MMCOH0001/s3.jpg"
     ],
-    "description": "Might & Magic: Clash of Heroes\\n\\nСостоялся релиз порта культовой смеси пошаговой стратегии, ролевой игры и тактической головоломки «три в ряд» от Ubisoft.\\n\\nСюжет разворачивается во вселенной Асхан за 40 лет до событий Heroes of Might & Magic V. Вам предстоит управлять пятью юными героями (Анвэн, Годрик, Фиона, Айдан и Надия), каждый из которых возглавляет свою уникальную фракцию, чтобы раскрыть заговор демонов и спасти мир.\\n\\n Автор порта рекомендует разгон в тяжелых сценах. Порт в целом работает великолепно.\\n\\nПодготовили русскую и английскую версию."
+    "description": "Might & Magic: Clash of Heroes\\n\\nСостоялся релиз порта культовой смеси пошаговой стратегии, ролевой игры и тактической головоломки «три в ряд» от Ubisoft.\\n\\nСюжет разворачивается во вселенной Асхан за 40 лет до событий Heroes of Might & Magic V. Вам предстоит управлять пятью юными героями (Анвэн, Годрик, Фиона, Айдан и Надия), каждый из которых возглавляет свою уникальную фракцию, чтобы раскрыть заговор демонов и спасти мир.\\n\\n Автор порта рекомендует разгон в тяжелых сценах. Порт в целом работает великолепно.\\n\\nПодготовили русскую и английскую версию.",
+    "alt_vpk": "https://firsts3.ru/vpkgj/ports/MMCOH0001/vitadb/mmcoh.vpk",
+    "alt_version": "1.1.0",
+    "alt_source": "VitaDB"
    },
    {
     "titleid": "A3A400001",
@@ -2105,15 +2117,19 @@
     "data": "https://firsts3.ru/vpkgj/ports/ECST00001/data.zip",
     "data_path": "ux0:data",
     "size": 576534,
-    "description": "Ecstatica"
+    "description": "Ecstatica",
+    "alt_vpk": "https://firsts3.ru/vpkgj/ports/ECST00001/vitadb/ecstatica-vita-e1.vpk",
+    "alt_version": "Nightly",
+    "alt_source": "VitaDB"
    },
    {
     "titleid": "FLOPROCKE",
     "name": "Flop Rocket",
-    "version": "00.00",
+    "version": "1.0.0",
     "author": "@psvitaport",
-    "vpk": "https://firsts3.ru/vpkgj/ports/FLOPROCKE/FLOP_ROCKET_1_.VPK",
-    "size": 23400442,
+    "vpk": "https://firsts3.ru/vpkgj/ports/FLOPROCKE/vitadb/FLOP_ROCKET.vpk",
+    "size": 4568043,
+    "sha256": "5111bab4c16295474656d15eff81270dd8b71ca8578fa4cd94b53f69589f37dc",
     "description": "Установка"
    },
    {
@@ -2128,10 +2144,11 @@
    {
     "titleid": "GAMIDEF00",
     "name": "Galactic M",
-    "version": "00.00",
+    "version": "1.0.0",
     "author": "@psvitaport",
-    "vpk": "https://firsts3.ru/vpkgj/ports/GAMIDEF00/GAMIDEF00.vpk",
-    "size": 72945080,
+    "vpk": "https://firsts3.ru/vpkgj/ports/GAMIDEF00/vitadb/GAMIDEF00.vpk",
+    "size": 5061294,
+    "sha256": "78554b5760d51ac3aad2b7bd49a0094f42cf3b9421c4d49259d5d3a644cff51f",
     "description": "Установка"
    },
    {
@@ -2194,7 +2211,10 @@
     "data": "https://firsts3.ru/vpkgj/ports/JK2VITA01/JK2.zip",
     "data_path": "ux0:data",
     "size": 3422087,
-    "description": "Установка"
+    "description": "Установка",
+    "alt_vpk": "https://firsts3.ru/vpkgj/ports/JK2VITA01/vitadb/JK2VITA.vpk",
+    "alt_version": "1.0.1",
+    "alt_source": "VitaDB"
    },
    {
     "titleid": "KOTR00001",
@@ -2234,7 +2254,10 @@
     "data": "https://firsts3.ru/vpkgj/ports/MKWV00001/mkwVita.zip",
     "data_path": "ux0:data",
     "size": 2263503,
-    "description": "Mario Kart Wii\\n\\nПост"
+    "description": "Mario Kart Wii\\n\\nПост",
+    "alt_vpk": "https://firsts3.ru/vpkgj/ports/MKWV00001/vitadb/mkw.vpk",
+    "alt_version": "1.4.0",
+    "alt_source": "VitaDB"
    },
    {
     "titleid": "MSCN00003",
@@ -2251,16 +2274,20 @@
      "ports/MSCN00003/s2.jpg",
      "ports/MSCN00003/s3.jpg"
     ],
-    "description": "Mario Strikers Charged\\n\\nСостоялся релиз третьего порта с Wii, Mario Strikers Charged (известная в Европе как Mario Strikers Charged Football).\\n\\nЗабудьте о фолах и карточках. Здесь можно (и нужно) жестко толкать соперников на электрическое ограждение поля, швырять в них панцири черепах и использовать культовые предметы (бананы, бомбы, грибы ускорения) для получения преимущества.\\n\\nПорт работает хорошо, скриншоты правда с порта выглядят почему-то не очень, в целом очень даже играбельно, для любителей футбола и вселенной Марио - Must Have!"
+    "description": "Mario Strikers Charged\\n\\nСостоялся релиз третьего порта с Wii, Mario Strikers Charged (известная в Европе как Mario Strikers Charged Football).\\n\\nЗабудьте о фолах и карточках. Здесь можно (и нужно) жестко толкать соперников на электрическое ограждение поля, швырять в них панцири черепах и использовать культовые предметы (бананы, бомбы, грибы ускорения) для получения преимущества.\\n\\nПорт работает хорошо, скриншоты правда с порта выглядят почему-то не очень, в целом очень даже играбельно, для любителей футбола и вселенной Марио - Must Have!",
+    "alt_vpk": "https://firsts3.ru/vpkgj/ports/MSCN00003/vitadb/Strikers-Charged-Vita.vpk",
+    "alt_version": "1.1",
+    "alt_source": "VitaDB"
    },
    {
     "titleid": "MIKU00039",
     "name": "MikuVU",
-    "version": "00.00",
+    "version": "1.6.1",
     "author": "@psvitaport",
-    "vpk": "https://firsts3.ru/vpkgj/ports/MIKU00039/MikuVU_2.0_.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/MIKU00039/vitadb/SpicedMikuVU.vpk",
     "data_path": "ux0:data/MikuVU/SAVED/",
-    "size": 3973671,
+    "size": 4450007,
+    "sha256": "ae90c252b079d63a97da6c9b1fa62ad5ef766b4e3e89c9cd9cc6766dd440ce53",
     "description": "PS: гайд на управление, а то нигде в приложении не говориться нормально\\n\\nL / R (Левый и правый курки) - Сохранить текущую картинку в галерею консоли.\\nКрестик (X) - Загрузить новую случайную картинку.\\nВверх / Треугольник (△) - Включить или выключить автоматический таймер (слайд-шоу).\\nВправо / Кружок (◯) - Увеличить время задержки таймера.\\nВлево / Квадрат (▢) - Уменьшить время задержки таймера.\\nВниз - Сбросить настройки таймера на стандартные"
    },
    {
@@ -2674,11 +2701,11 @@
    {
     "titleid": "CWRS00001",
     "name": "AT: Card Wars",
-    "version": "01.00",
+    "version": "5",
     "author": "@psvitaport",
-    "vpk": "https://firsts3.ru/vpkgj/ports/CWRS00001/CardWarsVitaV5.vpk",
-    "size": 193213005,
-    "sha256": "5bacc2fa0e3e0a5ffaa84621dc29c2e77ebcd8d35093264681589835feef8313",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CWRS00001/vitadb/CardWars_Stub.vpk",
+    "size": 16974253,
+    "sha256": "817f0ec77838c89b9808fce0670700a5bcb54a722496675d9f25bf38916b206b",
     "description": "Установка"
    },
    {
@@ -2995,7 +3022,10 @@
     "size": 1353983,
     "sha256": "8bdc2126f2fad3acd9f03a831735b80f0487287fc8f92f46db6d4c8bb77a80f3",
     "requires": "kubridge,fdfix,libshacccg",
-    "description": "Порт Android-версии GTA: San Andreas.\\n\\nОсобенности:\\n- Порт на русском.\\n- L1 + Select вызывает консоль для ввода читов, используется с ПК версии.\\n\\nДанные игры (gtasa) ставятся в ux0:data автоматически."
+    "description": "Порт Android-версии GTA: San Andreas.\\n\\nОсобенности:\\n- Порт на русском.\\n- L1 + Select вызывает консоль для ввода читов, используется с ПК версии.\\n\\nДанные игры (gtasa) ставятся в ux0:data автоматически.",
+    "alt_vpk": "https://firsts3.ru/vpkgj/ports/GTASA0000/vitadb/GTASA.vpk",
+    "alt_version": "2.1",
+    "alt_source": "VitaDB"
    },
    {
     "titleid": "GTACTW000",
@@ -3009,7 +3039,10 @@
     "size": 978942,
     "sha256": "ac66d0e65394bb9a6dfaf17158b2b74d2b82243244bd68a27ea797ee39a06ea5",
     "requires": "kubridge,fdfix,libshacccg",
-    "description": "Порт Android-версии GTA: Chinatown Wars, русская версия.\\n\\nДанные игры (gtactw, русский архив) ставятся в ux0:data автоматически."
+    "description": "Порт Android-версии GTA: Chinatown Wars, русская версия.\\n\\nДанные игры (gtactw, русский архив) ставятся в ux0:data автоматически.",
+    "alt_vpk": "https://firsts3.ru/vpkgj/ports/GTACTW000/vitadb/GTACTW.vpk",
+    "alt_version": "1.2",
+    "alt_source": "VitaDB"
    },
    {
     "titleid": "GTAFR0000",
