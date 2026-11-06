@@ -1,5 +1,5 @@
 {
- "version": "264763368d2d",
+ "version": "6045d78d5911",
  "categories": {
   "ports": [
    {
@@ -4246,6 +4246,38 @@
      "ports/CARS00001/s3.jpg"
     ],
     "description": "Порт Cars, игры от CST1229 на GameMaker Studio, для PSVITA.\\nЭто игра по мотивам игры про Формулу-1 для старых раскладушек.\\n\\nИсходники: github.com/SiulPop/Cars-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CAST00011",
+    "name": "Castlevania Attack Vita",
+    "version": "1.0",
+    "author": "Rocroverss",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CAST00011/Castlevania.Attack.vpk",
+    "size": 15202313,
+    "sha256": "2e052790b207490aea773de22ef185e8e045cf63aa97bbe7c2bd62aa8e4fb4f4",
+    "icon": "ports/CAST00011/icon.png",
+    "shots": [
+     "ports/CAST00011/s1.jpg",
+     "ports/CAST00011/s2.jpg",
+     "ports/CAST00011/s3.jpg"
+    ],
+    "description": "Castlevania Attack — сочетание Castlevania и Tetris Attack. Это демо на Godot содержит три полностью играбельных уровня.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rocroverss/Castlevania-Attack-Demo\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CCDV33333",
+    "name": "Crazy Cattle Vita",
+    "version": "1.4",
+    "author": "LordChickenBlaster & Dimolade & Anna3d",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CCDV33333/CC3D.vpk",
+    "size": 44323467,
+    "sha256": "3af1fcab28eaa6bdad48524fa42470bc8c4c222b55f0e9bb5816b17a222f05c7",
+    "icon": "ports/CCDV33333/icon.png",
+    "shots": [
+     "ports/CCDV33333/s1.jpg",
+     "ports/CCDV33333/s2.jpg",
+     "ports/CCDV33333/s3.jpg"
+    ],
+    "description": "Порт ремейка на Unity от Dimolade. Добро пожаловать в Crazy Cattle 3D — захватывающую королевскую битву, где вы управляете взрывными овцами в хаотичном состязании на выживание в трёх разных мировых локациях. Овладейте физическим управлением, перехитрите соперников и станьте последней овцой на ногах!\\n\\nИсходники: github.com/Lordchickenblaster/Crazy-Cattle-Vita/releases\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -5400,6 +5432,36 @@
      "homebrew/CARDUNLOK/s1.jpg"
     ],
     "description": "Этот хомбрю монтирует карту так, что файл id.dat не проверяется, удаляет его и снова размонтирует. После перезагрузки Vita считает карту новой, и проверка проходит. Вероятно, работает только на Slim/TV, так как HENkaku нужно запускать без вставленной карты.\\n\\nИсходники: github.com/cnsldv/CardUnlock\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CBSH01599",
+    "name": "Cybershot",
+    "version": "0.1",
+    "author": "SemvdH",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CBSH01599/cybershot.vpk",
+    "size": 83563,
+    "sha256": "4f1946a4e57b56221ea8d077de0bba6d0775f74a7cca3a0c7b7a682604ccf55e",
+    "icon": "homebrew/CBSH01599/icon.png",
+    "shots": [
+     "homebrew/CBSH01599/s1.jpg",
+     "homebrew/CBSH01599/s2.jpg",
+     "homebrew/CBSH01599/s3.jpg"
+    ],
+    "description": "Хомбрю-игра для Playstation Vita по мотивам игр Atari вроде Spider Fighter.\\n\\nИсходники: github.com/SemvdH/cybershot-PSVita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CCC000110",
+    "name": "CrossCraft Classic",
+    "version": "1.3",
+    "author": "Iridescence & MotoLegacy",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CCC000110/CrossCraft-Classic.vpk",
+    "size": 10018605,
+    "sha256": "1cbecebff557c490e1b04100a8abd1093a1791b239ea907bf5c48a1dc742ed3b",
+    "icon": "homebrew/CCC000110/icon.png",
+    "shots": [
+     "homebrew/CCC000110/s1.jpg"
+    ],
+    "description": "CrossCraft-Classic — проект, цель которого — воссоздать Minecraft Java Edition: Classic, не заглядывая в исходный код оригинального приложения и не используя оригинальные защищённые авторским правом ресурсы. Всё основано на понимании игровых механик и приближено к оригиналу как можно точнее.\\n\\nИсходники: github.com/CrossCraft/CrossCraft-Classic\\nИсточник: VitaDB."
    }
   ],
   "translations": [
