@@ -1,5 +1,5 @@
 {
- "version": "0683fbd5c5c9",
+ "version": "8e0180b96fe6",
  "categories": {
   "ports": [
    {
@@ -925,7 +925,10 @@
     "size": 10614887,
     "requires": "libshacccg",
     "icon": "ports/OMHA00001/c.jpg",
-    "description": "Open re-implementation of Medal of Honor: Allied Assault including Spearhead and Breakthrough expansions with modern features and bugfixes from ioquake3 with cross-platform support\\nПорт с PC. Стадия: Release.\\nИсходники: github.com/HenryKun55/openmohaa"
+    "description": "Open re-implementation of Medal of Honor: Allied Assault including Spearhead and Breakthrough expansions with modern features and bugfixes from ioquake3 with cross-platform support\\nПорт с PC. Стадия: Release.\\nИсходники: github.com/HenryKun55/openmohaa",
+    "alt_vpk": "https://firsts3.ru/vpkgj/ports/OMHA00001/vitadb/OpenMoHAA.vpk",
+    "alt_version": "0.4",
+    "alt_source": "VitaDB"
    },
    {
     "titleid": "MCPE00000",
@@ -1030,11 +1033,12 @@
    {
     "titleid": "NAOH00001",
     "name": "NAOH: Arcade Collection (Capcom)",
-    "version": "00.00",
+    "version": "2.0.1",
     "author": "KiddRwxSsj",
-    "vpk": "https://firsts3.ru/vpkgj/ports/NAOH00001/naoh_arcade_collection1.2.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NAOH00001/vitadb/naoharcadecollection.vpk",
     "data_path": "ux0:data/NaohAC",
-    "size": 11989270,
+    "size": 34805622,
+    "sha256": "6c0de6562fbd1b468715402d050eda58426a4d599c85f03c860f036af702e758",
     "icon": "ports/NAOH00001/c.jpg",
     "description": "Native PS Vita arcade launcher written in C. Drives statically linked libretro cores (CPS2/MAME) directly without RetroArch.\\nПорт с Arcade / Sega. Стадия: Release.\\nИсходники: github.com/KiddRwxSsj/naoh-ac"
    },
@@ -1202,11 +1206,12 @@
    {
     "titleid": "POPC00001",
     "name": "Prince of Persia Classic",
-    "version": "01.50",
+    "version": "01.55",
     "author": "MetalSyntax",
-    "vpk": "https://github.com/MetalSyntax/prince-of-persia-classic-psvita-port/releases/download/v01.50/popclassic-v01.50.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/POPC00001/vitadb/popclassic.vpk",
     "data_path": "ux0:data/popclassic",
-    "size": 3325244,
+    "size": 1971148,
+    "sha256": "5693f335c6a278b169ad0e8fb3a2c3b5ce838566bc4d7acdc109a163b6f1454d",
     "requires": "kubridge,fdfix,libshacccg",
     "icon": "ports/POPC00001/c.jpg",
     "description": "PS Vita homebrew port/wrapper for Prince of Persia Classic (Android), originally published by Ubisoft for Android,built on soloader-boilerplate.\\nПорт с Console. Стадия: Release.\\nИсходники: github.com/MetalSyntax/prince-of-persia-classic-psvita-port"
@@ -1903,10 +1908,11 @@
    {
     "titleid": "PSPEMUCFW",
     "name": "Adrenaline",
-    "version": "00.00",
+    "version": "7",
     "author": "@psvitaport",
-    "vpk": "https://firsts3.ru/vpkgj/ports/PSPEMUCFW/Adrenaline_8.0.2.vpk",
-    "size": 33034970,
+    "vpk": "https://firsts3.ru/vpkgj/ports/PSPEMUCFW/vitadb/Adrenaline.vpk",
+    "size": 417931,
+    "sha256": "dd21bc3d1ba9fc4b348f1eeca486d912658a8dd063ad5a97cb7c75a425ee2d95",
     "description": "Мы подготовили Standalone VPK, с уже встроенной прошивкой, достаточно просто установить VPK, прошивку PSP искать не нужно.\\n\\nМини FAQ:\\n\\nВопрос:\\n\\nСтарый Адреналин не нужно удалять?\\nИгры не слетят после установки нового?\\n\\nОтвет:\\n\\nВ общем и целом, да удалять.\\nЧто будет не работать: Всякие лаунчеры и менеджеры пузырьков, если это важно не стоит обновляться. (Поддержка нового адреналина в этих прогах еще ожидается)\\nИгры и сохранения не потрутся.\\n\\nСтарая версия"
    },
    {
@@ -2333,7 +2339,10 @@
      "ports/PPMR00001/s2.jpg",
      "ports/PPMR00001/s3.jpg"
     ],
-    "description": "Paper Mario (в Японии известная как Mario Story)\\n\\nСостоялся релиз культовой ролевой игры, разработанная студией Intelligent Systems и выпущенная компанией Nintendo для консоли Nintendo 64.  Игра положила начало одноименной серии и запомнилась уникальным визуальным стилем, где плоские двухмерные персонажи, будто вырезанные из бумаги, перемещаются по трехмерному миру.\\n\\nPaper Mario - это гармоничное сочетание классического платформера про Марио и глубокой пошаговой ролевой игры (RPG)."
+    "description": "Paper Mario (в Японии известная как Mario Story)\\n\\nСостоялся релиз культовой ролевой игры, разработанная студией Intelligent Systems и выпущенная компанией Nintendo для консоли Nintendo 64.  Игра положила начало одноименной серии и запомнилась уникальным визуальным стилем, где плоские двухмерные персонажи, будто вырезанные из бумаги, перемещаются по трехмерному миру.\\n\\nPaper Mario - это гармоничное сочетание классического платформера про Марио и глубокой пошаговой ролевой игры (RPG).",
+    "alt_vpk": "https://firsts3.ru/vpkgj/ports/PPMR00001/vitadb/PaperMarioVita.vpk",
+    "alt_version": "0.6.1",
+    "alt_source": "VitaDB"
    },
    {
     "titleid": "POMO00137",
@@ -2363,10 +2372,11 @@
    {
     "titleid": "PIGI00001",
     "name": "Project I.G.I.: I’m Going In",
-    "version": "00.20",
+    "version": "0.5.0",
     "author": "@lolkekkekkekcheburek",
-    "vpk": "https://firsts3.ru/vpkgj/ports/PIGI00001/igi.vpk",
-    "size": 6703390,
+    "vpk": "https://firsts3.ru/vpkgj/ports/PIGI00001/vitadb/igi.vpk",
+    "size": 6776165,
+    "sha256": "e4a47d6625cfeaee93df5820cf2fac78197e6b8bd73098e64bc8a0bce84ba972",
     "icon": "ports/PIGI00001/c.jpg",
     "shots": [
      "ports/PIGI00001/s1.jpg",
