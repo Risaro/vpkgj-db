@@ -1,5 +1,5 @@
 {
- "version": "a9f6ad833718",
+ "version": "264763368d2d",
  "categories": {
   "ports": [
    {
@@ -4194,6 +4194,58 @@
      "ports/BZERO0001/s3.jpg"
     ],
     "description": "Bounce Vita — нативный порт классической игры Nokia Bounce на PlayStation Vita. Основан на открытой реимплементации на C от amdray/bounce_zero, адаптированной под VitaSDK с рендерингом на Vita2D, управлением Vita, звуком, сохранением прогресса и обновлёнными материалами оформления.\\n\\nИсходники: github.com/M-Essa11/Bounce-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CANDYCRIS",
+    "name": "Candy Crisis Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CANDYCRIS/candy.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/CANDYCRIS/data.zip",
+    "data_path": "ux0:data",
+    "size": 717046,
+    "sha256": "f856199b220c73b25a3201a371736c36a217108a5f61d62bee6b9eed985db58a",
+    "icon": "ports/CANDYCRIS/icon.png",
+    "shots": [
+     "ports/CANDYCRIS/s1.jpg",
+     "ports/CANDYCRIS/s2.jpg",
+     "ports/CANDYCRIS/s3.jpg"
+    ],
+    "description": "Порт Candy Crisis для PSVITA.\\nCandy Crisis — захватывающее сочетание чистого экшена и головоломки! В игре двенадцать уникальных уровней, у каждого свой персонаж и своя техника. Также можно сразиться с другом и даже задать гандикап, чтобы силы игроков были равны. А если не хочется играть против соперника, режим Solitaire Crisis позволяет тренироваться без соперничества. В игру включено обучение, так что даже новички в головоломках быстро станут чемпионами Candy Crisis.\\n\\nИсходники: github.com/Rinnegatamante/CandyCrisis\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CANNONBAL",
+    "name": "Cannonball",
+    "version": "1.05",
+    "author": "rsn8887",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CANNONBAL/Cannonball.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/CANNONBAL/data.zip",
+    "data_path": "ux0:data",
+    "size": 1123006,
+    "sha256": "16f413192fa01ce46cad57683b57e563e86352af2a171d2145bab7f471eb83d2",
+    "icon": "ports/CANNONBAL/icon.png",
+    "shots": [
+     "ports/CANNONBAL/s1.jpg",
+     "ports/CANNONBAL/s2.jpg",
+     "ports/CANNONBAL/s3.jpg"
+    ],
+    "description": "Порт Cannonball для PSVita — улучшенного движка Outrun от djyt.\\n\\nИсходники: github.com/rsn8887/cannonball\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CARS00001",
+    "name": "Cars Vita",
+    "version": "1.2",
+    "author": "SiulPop",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CARS00001/cars.vpk",
+    "size": 6437586,
+    "sha256": "da36e436c30036369b430cdc14c86921637f15081ee38358246cf866b69ea171",
+    "icon": "ports/CARS00001/icon.png",
+    "shots": [
+     "ports/CARS00001/s1.jpg",
+     "ports/CARS00001/s2.jpg",
+     "ports/CARS00001/s3.jpg"
+    ],
+    "description": "Порт Cars, игры от CST1229 на GameMaker Studio, для PSVITA.\\nЭто игра по мотивам игры про Формулу-1 для старых раскладушек.\\n\\nИсходники: github.com/SiulPop/Cars-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -5318,6 +5370,36 @@
      "homebrew/BUNKAI015/s2.jpg"
     ],
     "description": "Аркадная игра-стакер, сделанная на Godot 3.5.\\n\\nИсходники: github.com/Bunkai9448/StackerVitaGodot\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CADD54321",
+    "name": "Call of Vita: Hackzone",
+    "version": "0.1.30a",
+    "author": "VitaDev Games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CADD54321/call_of_vita.vpk",
+    "size": 149904935,
+    "sha256": "bfb17d35eab2d0d88f0c6e2f566c2fb60792c3856174ca57949213901be829db",
+    "icon": "homebrew/CADD54321/icon.png",
+    "shots": [
+     "homebrew/CADD54321/s1.jpg",
+     "homebrew/CADD54321/s2.jpg",
+     "homebrew/CADD54321/s3.jpg"
+    ],
+    "description": "Онлайн-мультиплеерный шутер от первого лица на Unity, вдохновлённый Call of Duty: Warzone.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CARDUNLOK",
+    "name": "CardUnlock",
+    "version": "1.0",
+    "author": "cnsldv",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CARDUNLOK/CardUnlock.vpk",
+    "size": 120861,
+    "sha256": "7469e0ddfeff4741477600f9a83dde382b01c2cca34c73d9fa65882dcbed6afe",
+    "icon": "homebrew/CARDUNLOK/icon.png",
+    "shots": [
+     "homebrew/CARDUNLOK/s1.jpg"
+    ],
+    "description": "Этот хомбрю монтирует карту так, что файл id.dat не проверяется, удаляет его и снова размонтирует. После перезагрузки Vita считает карту новой, и проверка проходит. Вероятно, работает только на Slim/TV, так как HENkaku нужно запускать без вставленной карты.\\n\\nИсходники: github.com/cnsldv/CardUnlock\\nИсточник: VitaDB."
    }
   ],
   "translations": [
