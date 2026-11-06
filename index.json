@@ -1,5 +1,5 @@
 {
- "version": "f8d030c90980",
+ "version": "d039173a321e",
  "categories": {
   "ports": [
    {
@@ -5416,6 +5416,123 @@
      "ports/FF4000000/s3.jpg"
     ],
     "description": "Обёртка/порт Android-версии Final Fantasy IV (3D Remake) для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты заменяются нативными функциями, а сам файл патчится для корректного запуска.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/ff4_vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FF4AY0000",
+    "name": "FF4AY-Vita",
+    "version": "1.0.1",
+    "author": "Rinnegatamante & frangarcj",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FF4AY0000/FF4AY.vpk",
+    "size": 21409360,
+    "sha256": "cf8a929b1a791b4593ec80498baeb77d53b8dcba8fc1a63c714b359d80b501cf",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/FF4AY0000/icon.png",
+    "shots": [
+     "ports/FF4AY0000/s1.jpg",
+     "ports/FF4AY0000/s2.jpg",
+     "ports/FF4AY0000/s3.jpg"
+    ],
+    "description": "Обёртка/порт Android-версии Final Fantasy IV: The After Years для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты заменяются нативными функциями, а сам файл патчится для корректного запуска. Фактически это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/ff4a_vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FF5000000",
+    "name": "FF5-Vita",
+    "version": "1.0",
+    "author": "frangarcj & Rinnegatamante & TheFloW",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FF5000000/FF5.vpk",
+    "size": 16548837,
+    "sha256": "29c9f57b417153ccdce2467da146095bf718da55a1f4cb1bc0dc2ac7bee9944f",
+    "requires": "libshacccg,kubridge,fdfix",
+    "icon": "ports/FF5000000/icon.png",
+    "shots": [
+     "ports/FF5000000/s1.jpg",
+     "ports/FF5000000/s2.jpg",
+     "ports/FF5000000/s3.jpg"
+    ],
+    "description": "Обёртка/порт Android-версии Final Fantasy V для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты заменяются нативными функциями, а сам файл патчится для корректного запуска.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/frangarcj/ff5_vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FF6000000",
+    "name": "Final Fantasy VI Vita",
+    "version": "1.0.0",
+    "author": "frangarcj",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FF6000000/FF6.vpk",
+    "size": 17767895,
+    "sha256": "c09eaf5e88e092b576e2108561d4bb030c87c64f592761f5afca473d7c447aed",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/FF6000000/icon.png",
+    "shots": [
+     "ports/FF6000000/s1.jpg",
+     "ports/FF6000000/s2.jpg",
+     "ports/FF6000000/s3.jpg"
+    ],
+    "description": "Обёртка/порт Android-версии Final Fantasy VI для PS Vita. Порт загружает официальный исполняемый файл Android ARMv7 в память, заменяет его импорты нативными функциями и патчит его для нативного запуска. Поддерживаются версии Android 2.1.6 и 2.1.7.\\nВ комплекте есть приложение Configurator, доступное из LiveArea, для настройки внутреннего разрешения, языка, звука, раскладки кнопок, размера шрифта и дополнительных фильтров, таких как sharp-bilinear, FXAA и CRT.\\nВ распространяемый пакет входят загрузчик, Configurator, лицензионные уведомления и оригинальные материалы для Vita. Исполняемый файл Android и данные игры не включены. Онлайн-новости, достижения и вход через Google недоступны.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/frangarcj/ff6_vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FFDIMEN01",
+    "name": "FFD-Vita",
+    "version": "1.2",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FFDIMEN01/ffd.vpk",
+    "size": 16532520,
+    "sha256": "89f799b762f9aefc3442b7f3174488367af6abc62f01f1d15b1639c44dfd1e7d",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/FFDIMEN01/icon.png",
+    "shots": [
+     "ports/FFDIMEN01/s1.jpg",
+     "ports/FFDIMEN01/s2.jpg",
+     "ports/FFDIMEN01/s3.jpg"
+    ],
+    "description": "Обёртка/порт Final Fantasy Dimensions для PS Vita.\\nПорт работает так: официальные исполняемые файлы Android ARMv6 загружаются в память, их импорты заменяются нативными функциями, а сами файлы патчатся для корректного запуска. Фактически это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/ffd-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FGEM00001",
+    "name": "Freegemas",
+    "version": "22.02",
+    "author": "sharkwouter",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FGEM00001/freegemas.vpk",
+    "size": 5516346,
+    "sha256": "314adf77defc03cb39d638bddc45396203a75dbefa3a513fc69143113bcfede2",
+    "icon": "ports/FGEM00001/icon.png",
+    "shots": [
+     "ports/FGEM00001/s1.jpg",
+     "ports/FGEM00001/s2.jpg"
+    ],
+    "description": "Порт Freegemas для PSVITA/PSTV. Freegemas — клон хорошо известной игры Bejeweled с открытым исходным кодом.\\n\\nИсходники: github.com/JoseTomasTocino/freegemas\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FGS000667",
+    "name": "PrBoom Plus",
+    "version": "1.2",
+    "author": "fgsfds",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FGS000667/prboom-plus.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/FGS000667/data.zip",
+    "data_path": "ux0:data",
+    "size": 2311271,
+    "sha256": "3f5fa610bd9ac9b15674fe127100c72db285301846e99501f9727b2a3f62239f",
+    "icon": "ports/FGS000667/icon.png",
+    "shots": [
+     "ports/FGS000667/s1.jpg"
+    ],
+    "description": "PrBoom Plus — порт движка Doom, разработанный на основе оригинального проекта PrBoom.\\nУ него полностью аппаратно ускоренный рендерер, а также поддерживается ряд продвинутых функций.\\n\\nИсходники: github.com/fgsfdsfgs/prboom-plus\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FHOMM0002",
+    "name": "fheroes2",
+    "version": "1.1.15",
+    "author": "Northfear & fheroes2 Team",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FHOMM0002/fheroes2.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/FHOMM0002/data.zip",
+    "data_path": "ux0:data",
+    "size": 14218740,
+    "sha256": "6e0442f3fecfe0200e4662e734e1fc1e74c513770833d1661285094c7c2afda6",
+    "icon": "ports/FHOMM0002/icon.png",
+    "shots": [
+     "ports/FHOMM0002/s1.jpg",
+     "ports/FHOMM0002/s2.jpg",
+     "ports/FHOMM0002/s3.jpg"
+    ],
+    "description": "Heroes of Might and Magic II: The Succession Wars — пошаговая стратегия, разработанная Джоном Ван Канегемом в New World Computing и изданная в 1996 году компанией 3DO. Это вторая часть серии Heroes of Might and Magic, которую обычно считают игрой, прославившей серию. В мае 1997 года журнал PC Gamer назвал Heroes II шестой лучшей PC-игрой всех времён.\\nВ 1997 году вышло дополнение The Price of Loyalty. Позже 3DO выпустила Heroes II и дополнение в одной коробке под названием Heroes of Might and Magic II Gold в 1998 году.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/ihhub/fheroes2\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
