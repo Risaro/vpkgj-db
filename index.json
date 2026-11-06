@@ -1,5 +1,5 @@
 {
- "version": "91d5ad12cdd3",
+ "version": "948e27dfb4ed",
  "categories": {
   "ports": [
    {
@@ -4564,6 +4564,40 @@
      "ports/CUBCCONUN/s1.jpg"
     ],
     "description": "Катайте куб по 25 уровням, совмещая цветные плитки, чтобы активировать лифты и убирать барьеры.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DARIUS0SP",
+    "name": "DARIUSBURST SP Vita",
+    "version": "1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DARIUS0SP/dariusburst.vpk",
+    "size": 2469806,
+    "sha256": "c81d6299c32569b0157a53473815331915233ce406a7b9a138f3e8e536730f85",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/DARIUS0SP/icon.png",
+    "shots": [
+     "ports/DARIUS0SP/s1.jpg",
+     "ports/DARIUS0SP/s2.jpg",
+     "ports/DARIUS0SP/s3.jpg"
+    ],
+    "description": "Обёртка/порт DARIUSBURST SP для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, и он патчится для корректной работы. По сути, это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/dariusburst-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DDEF00001",
+    "name": "Defender II Vita",
+    "version": "1.01",
+    "author": "Rocroverss",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DDEF00001/defender2_vita.vpk",
+    "size": 2377115,
+    "sha256": "c013bbea8a7b0c324acf230c5bfc828d3ae2d5c7c883751c88ee89b2ef7b5700",
+    "requires": "libshacccg",
+    "icon": "ports/DDEF00001/icon.png",
+    "shots": [
+     "ports/DDEF00001/s1.jpg",
+     "ports/DDEF00001/s2.jpg",
+     "ports/DDEF00001/s3.jpg"
+    ],
+    "description": "Defender II — довольно классическая игра в жанре tower defense / защита замка, в которой нужно отбивать бесконечные волны врагов с помощью лука и мощной магии.\\nВы играете за последнего защитника: вручную стреляете из лука и прокачиваете силу, скорость и способности. По ходу игры враги становятся сильнее и опаснее, поэтому нужно совершенствовать навыки и открывать новые средства защиты, такие как магические башни и особые силы.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rocroverss/Defender-II-PS-Vita-Port\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -6126,6 +6160,52 @@
      "homebrew/D33S00002/s3.jpg"
     ],
     "description": "Войдите в лабиринт и проверьте свою смелость и смекалку. Удастся ли вам добраться до выхода, или вы погибнете от могучего топора МИНОТАВРА?\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DACC22232",
+    "name": "Lost on Island",
+    "version": "1.0.0a",
+    "author": "VitaDev Games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DACC22232/LostOnIsland.vpk",
+    "size": 113170179,
+    "sha256": "77dad477dc06cc5bfc6dd3142334f2b6ce3e26bbf9dab6e22f8f824d7fb06469",
+    "icon": "homebrew/DACC22232/icon.png",
+    "shots": [
+     "homebrew/DACC22232/s1.jpg",
+     "homebrew/DACC22232/s2.jpg",
+     "homebrew/DACC22232/s3.jpg"
+    ],
+    "description": "Игра, в которой нужно выжить на острове.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DAKR00001",
+    "name": "Game Shrinker",
+    "version": "1.1",
+    "author": "Dakor",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DAKR00001/game_shrinker.vpk",
+    "size": 380747,
+    "sha256": "6a4ac00051a5df706c60b02e8dff1f89cf74806e10045d50acd9ba9a78ce1d01",
+    "icon": "homebrew/DAKR00001/icon.png",
+    "shots": [
+     "homebrew/DAKR00001/s1.jpg",
+     "homebrew/DAKR00001/s2.jpg",
+     "homebrew/DAKR00001/s3.jpg"
+    ],
+    "description": "Экономьте ценное место на карте памяти, сжимая ненужные руководства, языковые и видеофайлы до файлов размером 0 байт.\\nGame Shrinker автоматически ищет руководства, языковые файлы (текст, аудио, изображения) и видеофайлы в папках игр и предлагает сжать их до 0 байт.\\n\\nСжатие файлов до 0 байт обычно поддерживается лучше, чем полное удаление, и снижает вероятность вылетов и зависаний, когда игра обращается к такому файлу. Но в зависимости от игры и файла сжать можно не каждый файл.\\n\\nВ Game Shrinker есть функция «Try-A-Dummy», которая позволяет временно заменить файл файлом-пустышкой. После проверки игры можно сделать это изменение постоянным или отменить его. (Это избавляет от необходимости переустанавливать игру, если вы сжали файл, обязательный для её работы.)\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DBMA00001",
+    "name": "Database Manager",
+    "version": "1.10",
+    "author": "Deltaclock",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DBMA00001/Database.Manager.vpk",
+    "size": 2302266,
+    "sha256": "784fc50155b456a022568639c3b496fffadd629b74b90a959857c6595668fc3f",
+    "icon": "homebrew/DBMA00001/icon.png",
+    "shots": [
+     "homebrew/DBMA00001/s1.jpg"
+    ],
+    "description": "Инструмент для управления расположением иконок на VITA и базой данных приложений.\\n\\nИсходники: github.com/deltaclock/Database-Manager\\nИсточник: VitaDB."
    }
   ],
   "translations": [
