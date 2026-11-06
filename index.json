@@ -1,5 +1,5 @@
 {
- "version": "52b72e5b8ef5",
+ "version": "7fa597dbb316",
  "categories": {
   "ports": [
    {
@@ -5748,6 +5748,51 @@
      "ports/GDOT00001/s1.jpg"
     ],
     "description": "Порт Steam-игры Parkour Labs — сложного паркур-симулятора, похожего на CSGO: Surf.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GDOT00011",
+    "name": "Harvester Vita",
+    "version": "0.10",
+    "author": "Parallel Productions",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GDOT00011/Harvester.vpk",
+    "size": 21986257,
+    "sha256": "7627edfb96dd747b4a0d6e3d7f210a6e48a6dbd88fd687e0b671189977fd42e7",
+    "icon": "ports/GDOT00011/icon.png",
+    "shots": [
+     "ports/GDOT00011/s1.jpg",
+     "ports/GDOT00011/s2.jpg"
+    ],
+    "description": "Harvester — бесплатная космическая игра про добычу ресурсов с видом сверху и открытым исходным кодом, сделанная на движке Godot. Управляйте своим кораблём во время вылазок в пояс астероидов, добывайте железо и возвращайте его на базу. Тратьте его на улучшение скорости, маневренности и грузового отсека корабля.\\nНо будьте осторожны: вы здесь не одни. Пираты-шахтёры тоже здесь и хотят монополизировать этот бизнес.\\n\\nИсходники: github.com/ParallelProductions/godot-2d-space-game-PSVita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GDOT29102",
+    "name": "Family Fisticuffs Vita",
+    "version": "1.00",
+    "author": "alim395",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GDOT29102/FamilyFeud.vpk",
+    "size": 24806566,
+    "sha256": "21c75525a3e785ebfae4712cdcbe4423b295ccb258fc575c2272909f541e9907",
+    "icon": "ports/GDOT29102/icon.png",
+    "shots": [
+     "ports/GDOT29102/s1.jpg"
+    ],
+    "description": "Игра о том, как разбить людей, которые пытаются снова сойтись. Сделана на Godot для LoJam 2022.\\n\\nИсходники: github.com/alim395/FamilyFisticuffsVita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GEMRB0001",
+    "name": "GemRB",
+    "version": "0.8.8-vita.7",
+    "author": "Northfear",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GEMRB0001/gemrb.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/GEMRB0001/data.zip",
+    "data_path": "ux0:data",
+    "size": 4949129,
+    "sha256": "54a2c4f26525de5181988f18c9951246b404b2adfe24c6748f57c9bc38c32c29",
+    "icon": "ports/GEMRB0001/icon.png",
+    "shots": [
+     "ports/GEMRB0001/s1.jpg"
+    ],
+    "description": "GemRB — портируемая реализация с открытым исходным кодом 8 версий движка Infinity Engine от Bioware, позволяющая запускать игры Baldur's Gate, Icewind Dale и Planescape: Torment, их дополнения и моды.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Northfear/gemrb-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -8341,6 +8386,85 @@
      "homebrew/GDOT00002/s1.jpg"
     ],
     "description": "Клон Nextbot из Garry's Mod для PSVITA.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GDOT00039",
+    "name": "Vita Pong",
+    "version": "0.1",
+    "author": "No-Storage7413",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GDOT00039/Vita_Pong.vpk",
+    "size": 26285287,
+    "sha256": "df7efcbd88e4f248c9e9ac5f93b8be9da48af3cd9f5c065482a570e759fbee30",
+    "icon": "homebrew/GDOT00039/icon.png",
+    "shots": [
+     "homebrew/GDOT00039/s1.jpg",
+     "homebrew/GDOT00039/s2.jpg",
+     "homebrew/GDOT00039/s3.jpg"
+    ],
+    "description": "Клон Pong для PSVita, сделанный на Godot.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GDOT00083",
+    "name": "FNaF World PSVita Demake",
+    "version": "1.0",
+    "author": "oldsport099",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GDOT00083/psvita-fworld.vpk",
+    "size": 40753318,
+    "sha256": "9b9c142e6d35eee3bc90d8e0241a443d89d1a2896dc8f4f812028fa6bc57fbfc",
+    "icon": "homebrew/GDOT00083/icon.png",
+    "shots": [
+     "homebrew/GDOT00083/s1.jpg",
+     "homebrew/GDOT00083/s2.jpg",
+     "homebrew/GDOT00083/s3.jpg"
+    ],
+    "description": "FNaF World PSVita Demake — демейк оригинальной FNaF World, из которого вырезано более 80% функций, например: разблокировка персонажей, области с глитчами, диалоги персонажей, несколько концовок и т. д. Игра должна быть стабильной, но, если только нет крайне критичных глюков, ошибки исправляться не будут.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GDOT03051",
+    "name": "La Deuda",
+    "version": "1.0",
+    "author": "SoyKhaler",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GDOT03051/LaDeuda.vpk",
+    "size": 40490913,
+    "sha256": "2f2582554f8c2f2fb34384c570b9f1d51ab3ec66036867b1a4e748cf4920cf89",
+    "icon": "homebrew/GDOT03051/icon.png",
+    "shots": [
+     "homebrew/GDOT03051/s1.jpg"
+    ],
+    "description": "Интерактивное кино о долгах, выборе и хороших концовках!\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GENK00001",
+    "name": "Genki Vocab",
+    "version": "1.0",
+    "author": "BK",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GENK00001/genki.vpk",
+    "size": 7550198,
+    "sha256": "79c4fe51c97a75a10d006cb94347567ba92666facc2fcb684df28b916242b588",
+    "icon": "homebrew/GENK00001/icon.png",
+    "shots": [
+     "homebrew/GENK00001/s1.jpg",
+     "homebrew/GENK00001/s2.jpg",
+     "homebrew/GENK00001/s3.jpg"
+    ],
+    "description": "Изучайте японскую лексику из учебника Genki I. Для каждого урока есть режимы изучения и проверки. Статистика ведётся на странице Career. Насколько хорошо вы знаете каждое слово, показывает уровень этого слова (он может расти или падать в режиме проверки). Ваш общий уровень владения отображается как Profile Level.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GEOM00001",
+    "name": "Geometrizer",
+    "version": "ita-20260711",
+    "author": "frangarcj",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GEOM00001/geometrizer.vpk",
+    "size": 1376471,
+    "sha256": "9e2ea0d68cb50c65f0c46a495caa23aa6c0203b1f53f616213f60e7c33cbb330",
+    "requires": "libshacccg",
+    "icon": "homebrew/GEOM00001/icon.png",
+    "shots": [
+     "homebrew/GEOM00001/s1.jpg",
+     "homebrew/GEOM00001/s2.jpg",
+     "homebrew/GEOM00001/s3.jpg"
+    ],
+    "description": "Эмулятор аркадной платы Sega Model 1 для PlayStation Vita.\\nGeometrizer — прежде всего площадка для разработки с помощью ИИ.\\n\\nИсходники: github.com/frangarcj/geometrizer\\nИсточник: VitaDB."
    }
   ],
   "translations": [
