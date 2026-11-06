@@ -1,5 +1,5 @@
 {
- "version": "448bcbde35b5",
+ "version": "cebf622de81a",
  "categories": {
   "ports": [
    {
@@ -5568,6 +5568,107 @@
      "ports/FLPR12345/s3.jpg"
     ],
     "description": "Простой порт Flipper Volcano от Sokpop для Playstation Vita.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FNKSMGLRS",
+    "name": "Funky Smugglers Vita",
+    "version": "1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FNKSMGLRS/funky.vpk",
+    "size": 1055367,
+    "sha256": "b3b5ec0ced8a418ca7ab3a7a52333264f0d0b6bcda0726a746e9661131f6f5ec",
+    "requires": "libshacccg,kubridge,fdfix",
+    "icon": "ports/FNKSMGLRS/icon.png",
+    "shots": [
+     "ports/FNKSMGLRS/s1.jpg",
+     "ports/FNKSMGLRS/s2.jpg",
+     "ports/FNKSMGLRS/s3.jpg"
+    ],
+    "description": "Обёртка/порт Funky Smugglers для PSVITA.\\nПорт работает так: официальный исполняемый файл Android ARMv6 загружается в память, его импорты заменяются нативными функциями, а сам файл патчится для корректного запуска. Фактически это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/funky_vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FOUT00001",
+    "name": "Fallout CE",
+    "version": "1.1.0-vita.4",
+    "author": "Northfear",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FOUT00001/fallout-ce.vpk",
+    "size": 1527116,
+    "sha256": "2a925dd5321942f3574d289adc9c57f4c632eaad3e02ae5846486d04af8ff0cf",
+    "icon": "ports/FOUT00001/icon.png",
+    "shots": [
+     "ports/FOUT00001/s1.jpg",
+     "ports/FOUT00001/s2.jpg",
+     "ports/FOUT00001/s3.jpg"
+    ],
+    "description": "Порт Fallout для PSVITA на основе реверс-инжиниринга игры под названием Fallout: Community Edition.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Northfear/fallout1-ce-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FOUT00002",
+    "name": "Fallout 2 CE",
+    "version": "1.3.0-vita.8",
+    "author": "Northfear",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FOUT00002/fallout2-ce.vpk",
+    "size": 1843349,
+    "sha256": "2e90010a6389b17b9934fa03b5dd456a554158de6a792aab53b4926718e0cbcb",
+    "icon": "ports/FOUT00002/icon.png",
+    "shots": [
+     "ports/FOUT00002/s1.jpg",
+     "ports/FOUT00002/s2.jpg",
+     "ports/FOUT00002/s3.jpg"
+    ],
+    "description": "Порт Fallout 2 для PSVITA на основе реверс-инжиниринга игры под названием Fallout 2: Community Edition.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Northfear/fallout2-ce-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FREESPACE",
+    "name": "Freespace Collection",
+    "version": "1.0.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FREESPACE/freespace.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/FREESPACE/data.zip",
+    "data_path": "ux0:data",
+    "size": 9526065,
+    "sha256": "e0739186168e5947029105677d1f71656b5fdf9cd979c631ce1318a249c29175",
+    "requires": "libshacccg",
+    "icon": "ports/FREESPACE/icon.png",
+    "shots": [
+     "ports/FREESPACE/s1.jpg",
+     "ports/FREESPACE/s2.jpg",
+     "ports/FREESPACE/s3.jpg"
+    ],
+    "description": "Порт Descent: FreeSpace – The Great War и Freespace 2 для PSVITA.\\nОбе игры — популярные космические симуляторы, ответвившиеся от серии Descent. У них очень активное моддинг-сообщество, создавшее за 20 лет множество дополнительных кампаний, в которые можно играть с этим портом.\\n\\nПримечание: схему раскладки управления смотрите по ссылке: https://gist.github.com/CatoTheYounger97/612ec59aa5dab4aefe1e09e34b5b1ddf\\n\\nИсходники: github.com/Rinnegatamante/freespace-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FREEWAYS1",
+    "name": "Freeways Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FREEWAYS1/freeways.vpk",
+    "size": 837200,
+    "sha256": "e0101f70aaaaca7e18b5fae87a3d261229460f39cce1d01deb0903addd97ff46",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/FREEWAYS1/icon.png",
+    "shots": [
+     "ports/FREEWAYS1/s1.jpg",
+     "ports/FREEWAYS1/s2.jpg",
+     "ports/FREEWAYS1/s3.jpg"
+    ],
+    "description": "Обёртка/порт Freeways для PS Vita.\\nПорт работает так: официальные исполняемые файлы Android ARMv6 загружаются в память, их импорты заменяются нативными функциями, а сами файлы патчатся для корректного запуска. Фактически это эмуляция минималистичной среды Android, в которой исполняемые файлы запускаются нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/freeways-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FRGB12345",
+    "name": "Froggy's Battle Vita",
+    "version": "1.2",
+    "author": "bren",
+    "vpk": "https://firsts3.ru/vpkgj/ports/FRGB12345/FroggysBattle.vpk",
+    "size": 17246766,
+    "sha256": "6df11c093e4adf8295ca5877bd123dc03a4bb5e79e3648948433c57c72adcd09",
+    "icon": "ports/FRGB12345/icon.png",
+    "shots": [
+     "ports/FRGB12345/s1.jpg",
+     "ports/FRGB12345/s2.jpg",
+     "ports/FRGB12345/s3.jpg"
+    ],
+    "description": "Простой порт Froggy's Battle от Doot Tiny Games для Playstation Vita.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -7886,6 +7987,166 @@
      "homebrew/FNAF40001/s3.jpg"
     ],
     "description": "Воссоздание Five Night at Freddy's 4 для PSVITA, сделанное в Game Maker Studio.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FNAFW0RLD",
+    "name": "FNaF World Vita",
+    "version": "0.1.1",
+    "author": "5PORT5Y",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FNAFW0RLD/fnaf-world.vpk",
+    "size": 55543575,
+    "sha256": "997f1eb0bfbb70e597ecd686a1f8c378f21b79fbc2401270ebc55d3b3e5fb6f0",
+    "icon": "homebrew/FNAFW0RLD/icon.png",
+    "shots": [
+     "homebrew/FNAFW0RLD/s1.jpg",
+     "homebrew/FNAFW0RLD/s2.jpg",
+     "homebrew/FNAFW0RLD/s3.jpg"
+    ],
+    "description": "Полный ремейк FNaF World, пересобранный с нуля на движке Godot 3.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FNPT00001",
+    "name": "Fingerprint",
+    "version": "0.02",
+    "author": "Freakler",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FNPT00001/fingerprint.vpk",
+    "size": 1094839,
+    "sha256": "4cecc4c89361df0233b2c0d2625d923cb88ca2f8ee847da55a220bf88fa99ce3",
+    "icon": "homebrew/FNPT00001/icon.png",
+    "shots": [
+     "homebrew/FNPT00001/s1.jpg",
+     "homebrew/FNPT00001/s2.jpg"
+    ],
+    "description": "Приложение, которое показывает различную информацию о вашей консоли.\\n\\nИсходники: github.com/Freakler/vita-Fingerprint\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FRAN00001",
+    "name": "SMSPlusVITA",
+    "version": "1.3.1",
+    "author": "frangarcj",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FRAN00001/smsplusvita.vpk",
+    "size": 1413294,
+    "sha256": "b8dd7bc70feffbb7482c2822cc682b39b87aaaa9d9981e450ee60580e602c7a1",
+    "icon": "homebrew/FRAN00001/icon.png",
+    "shots": [
+     "homebrew/FRAN00001/s1.jpg",
+     "homebrew/FRAN00001/s2.jpg",
+     "homebrew/FRAN00001/s3.jpg"
+    ],
+    "description": "Эмулятор Sega Master System для PSVITA/PSTV.\\n\\nИсходники: github.com/frangarcj/SMSplusVITA\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FRAN00002",
+    "name": "HandyVITA",
+    "version": "1.4",
+    "author": "frangarcj",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FRAN00002/HandyVITA.vpk",
+    "size": 233504,
+    "sha256": "fb3cb5133a8fbb6adc7936659c16713568298b4b7ff4d65284ad81ed98f142ad",
+    "icon": "homebrew/FRAN00002/icon.png",
+    "shots": [
+     "homebrew/FRAN00002/s1.jpg",
+     "homebrew/FRAN00002/s2.jpg",
+     "homebrew/FRAN00002/s3.jpg"
+    ],
+    "description": "Первый эмулятор Atari Lynx для PSVita.\\nОснован на ядре Libretro Handy.\\n\\nИсходники: github.com/frangarcj/HandyVITA\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FRAN00003",
+    "name": "GenesisPlusGX",
+    "version": "1.7.5-RC",
+    "author": "frangarcj",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FRAN00003/GenesisPlusGXVITA.vpk",
+    "size": 2011467,
+    "sha256": "7240880eafc45274e54d75dabcd166896e259093678da17ed8197f0f4c34f532",
+    "icon": "homebrew/FRAN00003/icon.png",
+    "shots": [
+     "homebrew/FRAN00003/s1.jpg",
+     "homebrew/FRAN00003/s2.jpg",
+     "homebrew/FRAN00003/s3.jpg"
+    ],
+    "description": "Genesis Plus GX — эмулятор 8- и 16-битных консолей Sega с открытым исходным кодом, ориентированный на точность и портируемость.\\n\\nИсходники: github.com/frangarcj/Genesis-Plus-GX\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FRAN00004",
+    "name": "NeopopVITA",
+    "version": "0.71.15",
+    "author": "frangarcj",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FRAN00004/NeopopVITA.vpk",
+    "size": 1557875,
+    "sha256": "292d8d05bbff408e527d86ed14d142590e1c50c2e84a1c025d8151179185e416",
+    "icon": "homebrew/FRAN00004/icon.png",
+    "shots": [
+     "homebrew/FRAN00004/s1.jpg",
+     "homebrew/FRAN00004/s2.jpg",
+     "homebrew/FRAN00004/s3.jpg"
+    ],
+    "description": "Эмулятор Neo Geo Pocket Color для PSVita.\\n\\nИсходники: github.com/frangarcj/NeopopVITA\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FRBRDESHI",
+    "name": "De, shinde",
+    "version": "1.00",
+    "author": "firstbober",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FRBRDESHI/deshinde.vpk",
+    "size": 16634623,
+    "sha256": "b439c837999b08768f73749789ea59ba124ccdaa761f0c8a9d7c15c05a96e13b",
+    "icon": "homebrew/FRBRDESHI/icon.png",
+    "shots": [
+     "homebrew/FRBRDESHI/s1.jpg",
+     "homebrew/FRBRDESHI/s2.jpg"
+    ],
+    "description": "Порт десктопной версии De, shinde, сделанной для Wowie Jam 4.0 на движке Godot.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FROV00001",
+    "name": "FrozenEngine",
+    "version": "0.2",
+    "author": "FrozenNoober",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FROV00001/FrozenEngine%20Vita.vpk",
+    "size": 2851799,
+    "sha256": "2adc25030fdf89b5ae1d5522d89d2556472b53968080eff16d9356778516289b",
+    "icon": "homebrew/FROV00001/icon.png",
+    "shots": [
+     "homebrew/FROV00001/s1.jpg",
+     "homebrew/FROV00001/s2.jpg"
+    ],
+    "description": "Песочница-платформер, в которой вы создаёте собственные уровни и затем проходите их. Сделана на GameMaker.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FRUITY001",
+    "name": "FruitY",
+    "version": "1.0",
+    "author": "Retroguru Team",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FRUITY001/FRUITY001.vpk",
+    "size": 1075064,
+    "sha256": "a7e9e3e6a287c70e1766e9f44791a72e0f9312129550ee7521720f8ba28eb99a",
+    "description": "Fruit'Y - Playing with edibles во многом вдохновлена классикой Kaiko Gem'X, которую можно было встретить на компьютерах Commodore Amiga 500, Commodore 64 и Atari ST.\\nМама-тигрица запрещает маленькому Sheran играть с едой, но остановить его от игр с фруктами, найденными в глубине джунглей, просто невозможно. Они блестят, чудесно пахнут и ещё лучше на вкус, так что удержать его не получится. Поэтому сделаем всё, что можем: поддержим его!\\nИгра состоит из двух полей с фруктами. Левое поле принадлежит Sheran, и ему нужно воспроизвести правое поле один в один, чтобы перейти на следующий уровень. Звучит просто?!\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FTP200001",
+    "name": "FTPlaystation",
+    "version": "0.1",
+    "author": "Red7s",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FTP200001/FTPlaystation.vpk",
+    "size": 1966117,
+    "sha256": "4025de52014b5826fda5539ed12de0df831b7a0e2fb8cd35783da25ae09daaee",
+    "icon": "homebrew/FTP200001/icon.png",
+    "description": "Автономная утилита FTP-сервера для PSVITA/PSTV.\\n\\nИсходники: github.com/ItsDeidara/FTPlaystation\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "FTPCLI001",
+    "name": "vita-ftp-client",
+    "version": "1.52",
+    "author": "cy33hc",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/FTPCLI001/ftpclient.vpk",
+    "size": 2545981,
+    "sha256": "7b7911550615b18d74a1782c2ddd0ca01f17260ebd1c4f13c100bb14f4c3066f",
+    "icon": "homebrew/FTPCLI001/icon.png",
+    "shots": [
+     "homebrew/FTPCLI001/s1.jpg"
+    ],
+    "description": "Простой FTP-клиент для PSVITA.\\n\\nИсходники: github.com/cy33hc/vita-ftp-client\\nИсточник: VitaDB."
    }
   ],
   "translations": [
