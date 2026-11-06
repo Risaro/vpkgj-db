@@ -1,5 +1,5 @@
 {
- "version": "fb26ed392e87",
+ "version": "a53ffccfe18d",
  "categories": {
   "ports": [
    {
@@ -5188,6 +5188,38 @@
      "ports/EMOJI0001/s3.jpg"
     ],
     "description": "Это обёртка/порт Rolling Down: Emoji Adventure для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, и он патчится для корректной работы. По сути, это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/rolling-down-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ENBORNX01",
+    "name": "EnbornX Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ENBORNX01/enbornx.vpk",
+    "size": 1243011,
+    "sha256": "439e75c55f4a9892c118c6a6ec0f1ddb5f86467a0b1decd587336cf2c0e45107",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/ENBORNX01/icon.png",
+    "shots": [
+     "ports/ENBORNX01/s1.jpg",
+     "ports/ENBORNX01/s2.jpg",
+     "ports/ENBORNX01/s3.jpg"
+    ],
+    "description": "Это обёртка/порт EnbornX для PS Vita.\\nПорт работает так: официальные исполняемые файлы Android ARMv7 загружаются в память, их импорты подменяются нативными функциями, и они патчатся для корректной работы. По сути, это эмуляция минималистичной среды Android, в которой исполняемые файлы запускаются нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/enbornx_vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ENDR00000",
+    "name": "Slendrina Free",
+    "version": "1.0",
+    "author": "MaloneCZSD",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ENDR00000/SlendrinaFree.vpk",
+    "size": 35394644,
+    "sha256": "521abf000ff5f16b6e389d4630bca07915c69624f384cf97b601b4c4955f9592",
+    "icon": "ports/ENDR00000/icon.png",
+    "shots": [
+     "ports/ENDR00000/s1.jpg",
+     "ports/ENDR00000/s2.jpg"
+    ],
+    "description": "Slendrina — новая хоррор-игра. Попробуйте найти 6 предметов, не попавшись Slendrina; если увидите её, как можно скорее развернитесь. Есть три карты (1.0): дом, двор и отель. Немного похоже на Slender Man, но Slendrina злее. Будьте осторожны. Убран флаг «Full Version». Версия будет со временем обновляться.\\n\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -7141,6 +7173,38 @@
      "homebrew/ELICRY002/s2.jpg"
     ],
     "description": "CrystalArchiver — массовый архиватор лицензий PSM в один клик, не требующий запуска каждой PSM-игры. Проект создан для PSM Yaroze, цель которого — сохранить не только историю PSM, но и историю Sony и независимых разработчиков.\\nКаждая лицензия резервируется вызовом оригинальных DRM-функций, использовавшихся оригинальным PSM-приложением, после чего создаётся обезличенный ключ в формате FAKE.RIF, используемом NoPSMDRM. Обезличенный ключ позволяет расшифровать бэкап и играть без активации PSM при наличии оригинальных файлов PSM. Поскольку он не привязан к конкретному пользователю, в нём нет персональной информации. Это позволяет играть в ваши PSM-игры на другой вашей Vita, даже если вы не активировали или не скачали их до закрытия PSM. Можно даже играть на ПК с Windows. Обратите внимание: инструмент предназначен для создания бэкапов, и мы просим не использовать его ни для чего, что может навредить разработчикам. Многие PSM-игры были портированы на другие системы, где их можно продолжать поддерживать.\\nПосле запуска CrystalArchiver бэкапы лицензий будут лежать в ux0:/data/psm.\\n\\nИсходники: github.com/EliCrystal2001/CrystalArchiver\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "EMU4VPLUS",
+    "name": "Emu4Vita++",
+    "version": "0.81",
+    "author": "noword",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/EMU4VPLUS/Emu4VitaPlus.vpk",
+    "size": 200486427,
+    "sha256": "dc9ea636b598f1093cb29bfd08164a848639fdb5793426ac7a3c6b3c32d8201e",
+    "icon": "homebrew/EMU4VPLUS/icon.png",
+    "shots": [
+     "homebrew/EMU4VPLUS/s1.jpg",
+     "homebrew/EMU4VPLUS/s2.jpg",
+     "homebrew/EMU4VPLUS/s3.jpg"
+    ],
+    "description": "Оболочка для ядер libretro для PSVITA.\\n\\nИсходники: github.com/noword/Emu4VitaPlus\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "EMUARCH01",
+    "name": "Emu4Vita Arch",
+    "version": "1.10",
+    "author": "yizhigai",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/EMUARCH01/Emu4VitaArch.vpk",
+    "size": 19532728,
+    "sha256": "1b824d58db8b710f07fe4f1c645bb5cfbca01fdd1fc0802b06e97e5bcd63b01c",
+    "icon": "homebrew/EMUARCH01/icon.png",
+    "shots": [
+     "homebrew/EMUARCH01/s1.jpg",
+     "homebrew/EMUARCH01/s2.jpg",
+     "homebrew/EMUARCH01/s3.jpg"
+    ],
+    "description": "Оболочка для ядер libretro, включающая несколько ядер.\\n\\nИсходники: gitee.com/yizhigai/Emu4Vita\\nИсточник: VitaDB."
    }
   ],
   "translations": [
