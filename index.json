@@ -1,5 +1,5 @@
 {
- "version": "c2366da5265b",
+ "version": "a9f6ad833718",
  "categories": {
   "ports": [
    {
@@ -4159,6 +4159,41 @@
     "sha256": "8547945adc44ff3b656e198d8992eb77492a2b62b53ff547c3ba788bf2307937",
     "icon": "ports/BUBB13579/icon.png",
     "description": "Everybody's Bubbles — порт китайской игры с открытым исходным кодом, вдохновлённой Candy Crush, доступной на Android и iOS. Нужно набрать максимум очков за 60 секунд, нажимая на пузыри одного цвета группами по 3 и более.\\n\\nИсходники: github.com/Rinnegatamante/UnityBubbleGame/\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BUGDOM002",
+    "name": "Bugdom 2 Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BUGDOM002/Bugdom2.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/BUGDOM002/data.zip",
+    "data_path": "ux0:data",
+    "size": 1754000,
+    "sha256": "573c849d88251215e9840f220eceff56a0c4b4b325b040d967d03a74013ec6bd",
+    "requires": "libshacccg",
+    "icon": "ports/BUGDOM002/icon.png",
+    "shots": [
+     "ports/BUGDOM002/s1.jpg",
+     "ports/BUGDOM002/s2.jpg",
+     "ports/BUGDOM002/s3.jpg"
+    ],
+    "description": "Порт Bugdom 2 для PSVita.\\nBugdom 2 рассказывает о приключении кузнечика по имени Скип, который на протяжении игры пытается вернуть свой украденный рюкзак у Хулигана-Пчелы. Ему помогают соратники — улитка Сэм и бурундук Салли.\\n\\nИсходники: github.com/Rinnegatamante/Bugdom2\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BZERO0001",
+    "name": "Bounce Vita",
+    "version": "0.1.0",
+    "author": "M-Essa11",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BZERO0001/Bounce-Vita.vpk",
+    "size": 525303,
+    "sha256": "a5ff83e38c72dabe5959d4c570a5f8b3b390f70ca35c710d9d0a8f26b1b6dae3",
+    "icon": "ports/BZERO0001/icon.png",
+    "shots": [
+     "ports/BZERO0001/s1.jpg",
+     "ports/BZERO0001/s2.jpg",
+     "ports/BZERO0001/s3.jpg"
+    ],
+    "description": "Bounce Vita — нативный порт классической игры Nokia Bounce на PlayStation Vita. Основан на открытой реимплементации на C от amdray/bounce_zero, адаптированной под VitaSDK с рендерингом на Vita2D, управлением Vita, звуком, сохранением прогресса и обновлёнными материалами оформления.\\n\\nИсходники: github.com/M-Essa11/Bounce-Vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -5252,6 +5287,37 @@
      "homebrew/BUBRECALL/s1.jpg"
     ],
     "description": "Если у вас кастомная сборка Vita, которую вы часто переносите на другие системы, или вы меняете SD-карту между устройствами, то наверняка знаете, что каждый раз аккуратно раскладывать приложения утомительно и долго. Эта программа сохранит вашу раскладку, чтобы её можно было восстановить на других системах.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BUNKAI007",
+    "name": "MarmaladeBoy_LCD",
+    "version": "1.0",
+    "author": "Bunkai",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BUNKAI007/marmalade_bunkai.vpk",
+    "size": 4519532,
+    "sha256": "cf546e7ef08371d037918609cb0cfe810b6ab3e8f65485290e823dd5d13399d0",
+    "icon": "homebrew/BUNKAI007/icon.png",
+    "shots": [
+     "homebrew/BUNKAI007/s1.jpg",
+     "homebrew/BUNKAI007/s2.jpg",
+     "homebrew/BUNKAI007/s3.jpg"
+    ],
+    "description": "Основная игра — порт LCD-игры, в которой нужно добраться из одной точки в другую, не погибнув, чтобы увеличить счёт. Идея основана на LCD-игре MarmaladeBoy от Bandai Namco.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "BUNKAI015",
+    "name": "Stacker for Vita",
+    "version": "1.00",
+    "author": "Bunkai",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/BUNKAI015/stacker.vpk",
+    "size": 19596302,
+    "sha256": "cd0aa8e168fbebfcbf23ece857e28b4ff5917413c8296a418b99c43ebed5d0af",
+    "icon": "homebrew/BUNKAI015/icon.png",
+    "shots": [
+     "homebrew/BUNKAI015/s1.jpg",
+     "homebrew/BUNKAI015/s2.jpg"
+    ],
+    "description": "Аркадная игра-стакер, сделанная на Godot 3.5.\\n\\nИсходники: github.com/Bunkai9448/StackerVitaGodot\\nИсточник: VitaDB."
    }
   ],
   "translations": [
