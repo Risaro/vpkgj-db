@@ -1,5 +1,5 @@
 {
- "version": "4959ce35cdea",
+ "version": "70514ff4ae5f",
  "categories": {
   "ports": [
    {
@@ -5063,6 +5063,34 @@
      "ports/DUNGEON00/s3.jpg"
     ],
     "description": "Порт Dungeon Rush для PSVita.\\nDungeon Rush — игра, вдохновлённая Snake.\\n\\nИсходники: github.com/xfangfang/DungeonRush-PSV/releases\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DUNGEON01",
+    "name": "Super Dungeon Delta",
+    "version": "1.0.2-vita",
+    "author": "Parallel Productions",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DUNGEON01/Dungeon.UI.Update.vpk",
+    "size": 26937762,
+    "sha256": "4076d21e70ee89ad892f7c2e20fe16ebf2fd3e3141c506dcd58407cf104ac374",
+    "icon": "ports/DUNGEON01/icon.png",
+    "description": "Super Dungeon Delve — ретро-игра в жанре 2D dungeon crawl. Создана как учебный проект, чтобы изучить и освоить движок Godot. Игра вдохновлена рогаликами и аркадной игрой 80-х Gauntlet.\\nМасштаб намеренно сделан небольшим, чтобы получить хоть какое-то подобие законченной и играбельной игры.\\n\\nИсходники: github.com/ParallelProductions/super-dungeon-delve-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "E2DV00001",
+    "name": "Earn to Die Vita",
+    "version": "1.0",
+    "author": "No-Storage7413",
+    "vpk": "https://firsts3.ru/vpkgj/ports/E2DV00001/earn_to_die.vpk",
+    "size": 3125070,
+    "sha256": "c296773b14ae1ca89f27c27b283981fa6f91e2525028f906bb6e8c98737723b9",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/E2DV00001/icon.png",
+    "shots": [
+     "ports/E2DV00001/s1.jpg",
+     "ports/E2DV00001/s2.jpg",
+     "ports/E2DV00001/s3.jpg"
+    ],
+    "description": "Порт Android-игры Earn to Die для PSVita.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: drive.google.com/file/d/1B93krry5gZwq_uVA-E6ZB1MsrOdWTAnT/view?usp=sharing\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -6887,6 +6915,64 @@
      "homebrew/DSIM12345/s3.jpg"
     ],
     "description": "Drone Sim Vita — симулятор дрона, сделанный на игровом движке Unity.\\nВозможны баги и просадки.\\nДля лучшего опыта используйте разгон!\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DVDS42069",
+    "name": "DVD Screensaver",
+    "version": "1.0",
+    "author": "Electric",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DVDS42069/dvd_screensaver.vpk",
+    "size": 308470,
+    "sha256": "d19e012dabc3d3e45e10d5f0cd3efdbe4c88c3736f62275439fb363310705acd",
+    "icon": "homebrew/DVDS42069/icon.png",
+    "shots": [
+     "homebrew/DVDS42069/s1.jpg"
+    ],
+    "description": "Приложение, показывающее отскакивающий логотип DVD, как в старых DVD-плеерах.\\n\\nИсходники: github.com/Electric1447/Vita-DVD-Screensaver\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DXGA00001",
+    "name": "DX Garden",
+    "version": "0.9.0 beta",
+    "author": "hiraethclub",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DXGA00001/dxgarden.vpk",
+    "size": 10689357,
+    "sha256": "1844dbe86c0b5d695b61cb8ee53799af4a7b7b2a0105131941f86d1c4a955c21",
+    "icon": "homebrew/DXGA00001/icon.png",
+    "shots": [
+     "homebrew/DXGA00001/s1.jpg"
+    ],
+    "description": "Радиоплеер и обозреватель для PS Vita (хоумбрю, HENkaku/enso) в духе того, чтобы вращать глобус и слушать, что сейчас звучит в эфире где-то в другом месте.\\n\\nИсходники: github.com/hiraethclub/DX-Garden\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DZZEETHP0",
+    "name": "Dzzee",
+    "version": "1.2.0",
+    "author": "thp",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DZZEETHP0/dzzee.vpk",
+    "size": 94239,
+    "sha256": "9975f101873a1187a2c391dd505cdbe4856289841aaf9eb47acddbaaddba2503",
+    "icon": "homebrew/DZZEETHP0/icon.png",
+    "shots": [
+     "homebrew/DZZEETHP0/s1.jpg"
+    ],
+    "description": "Мультиплатформенная аркадная игра. Управляйте белым прямоугольником кнопками UP и DOWN. Держитесь на дорожках, избегайте провалов. Продержитесь как можно дольше и сохраните очки здоровья для высокого результата.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "EART00001",
+    "name": "Protect the Earth",
+    "version": "1.0",
+    "author": "GlitcherOG",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/EART00001/EarthProtect.vpk",
+    "size": 26070989,
+    "sha256": "ca3658611956946aef752d54369b047961af5b3954024e797ad25fe8a667308b",
+    "icon": "homebrew/EART00001/icon.png",
+    "shots": [
+     "homebrew/EART00001/s1.jpg",
+     "homebrew/EART00001/s2.jpg",
+     "homebrew/EART00001/s3.jpg"
+    ],
+    "description": "Пришельцы напали! У нас мало времени: возьмите управление кораблём и защитите планету. По данным разведки, их технологии позволяют им проходить сквозь наши корабли, но не сквозь наши лазеры; только будьте осторожны и не попадите лазерами по планете. Скорее, защищайте планету как можно дольше!\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
