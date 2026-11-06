@@ -1,5 +1,5 @@
 {
- "version": "70514ff4ae5f",
+ "version": "09fce33a3e93",
  "categories": {
   "ports": [
    {
@@ -5091,6 +5091,70 @@
      "ports/E2DV00001/s3.jpg"
     ],
     "description": "Порт Android-игры Earn to Die для PSVita.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: drive.google.com/file/d/1B93krry5gZwq_uVA-E6ZB1MsrOdWTAnT/view?usp=sharing\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ECST00002",
+    "name": "Ecstatica 2 Vita",
+    "version": "Nightly",
+    "author": "xesf",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ECST00002/ecstatica-vita-e2.vpk",
+    "size": 626153,
+    "sha256": "8879fce46ab8f114a5929c4adf4854c945ceb4117b6e21d8eb96a28b05d8c8b1",
+    "icon": "ports/ECST00002/icon.png",
+    "description": "Декомпиляция и переносимая реимплементация на C99 игр Ecstatica 1 и 2 — приключенческих игр 1994/1997 годов от Andrew Spencer Studios с эллипсоидным рендерингом.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/ecstatica-game/ecstatica\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "EDGAR0134",
+    "name": "The Legend of Edgar",
+    "version": "1.34",
+    "author": "Riviera71",
+    "vpk": "https://firsts3.ru/vpkgj/ports/EDGAR0134/edgar.vpk",
+    "size": 95830168,
+    "sha256": "2017fa646d5cc7bf27627f9d7ba0696b5f38d3d34237e306a889e8d5abc42d60",
+    "icon": "ports/EDGAR0134/icon.png",
+    "shots": [
+     "ports/EDGAR0134/s1.jpg",
+     "ports/EDGAR0134/s2.jpg",
+     "ports/EDGAR0134/s3.jpg"
+    ],
+    "description": "The Legend of Edgar — платформер, похожий на игры для Amiga и SNES. Эдгару предстоит пробиваться через мир, решая головоломки и побеждая сильных врагов, чтобы выполнить свою миссию.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "EDUKE0032",
+    "name": "EDuke32 Vita",
+    "version": "1.6",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/EDUKE0032/EDuke32.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/EDUKE0032/data.zip",
+    "data_path": "ux0:data",
+    "size": 2007891,
+    "sha256": "88555f8c661cc0c2f6690ab5acac194887cb808b2bc8271ebe36659ff13837b9",
+    "icon": "ports/EDUKE0032/icon.png",
+    "shots": [
+     "ports/EDUKE0032/s1.jpg",
+     "ports/EDUKE0032/s2.jpg",
+     "ports/EDUKE0032/s3.jpg"
+    ],
+    "description": "Порт EDuke32, сорс-порта Duke Nukem 3D, для PSVITA. Поддерживает также дополнительные паки, моды и все остальные штатные возможности EDuke32.\\n\\nИсходники: github.com/Rinnegatamante/EDuke32-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ELDRITCH1",
+    "name": "Eldritch Vita",
+    "version": "1.2",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ELDRITCH1/Eldritch.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/ELDRITCH1/data.zip",
+    "data_path": "ux0:data",
+    "size": 4428029,
+    "sha256": "aaed9507a6921023f7f8358c3d2eb8433ca7ac2b65aea0f2e62a294f54bd9d2a",
+    "requires": "libshacccg",
+    "icon": "ports/ELDRITCH1/icon.png",
+    "shots": [
+     "ports/ELDRITCH1/s1.jpg",
+     "ports/ELDRITCH1/s2.jpg",
+     "ports/ELDRITCH1/s3.jpg"
+    ],
+    "description": "Порт Eldritch для PSVita на основе ремастера Reanimated.\\nEldritch — экшен от первого лица, вдохновлённый рогаликами, immersive sim и Г. Ф. Лавкрафтом.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/eldritch-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -6973,6 +7037,34 @@
      "homebrew/EART00001/s3.jpg"
     ],
     "description": "Пришельцы напали! У нас мало времени: возьмите управление кораблём и защитите планету. По данным разведки, их технологии позволяют им проходить сквозь наши корабли, но не сквозь наши лазеры; только будьте осторожны и не попадите лазерами по планете. Скорее, защищайте планету как можно дольше!\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "EASYRPG01",
+    "name": "EasyRPG Player",
+    "version": "0.8.1.1",
+    "author": "EasyRPG Team & Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/EASYRPG01/EasyRPG_Player.vpk",
+    "data": "https://firsts3.ru/vpkgj/homebrew/EASYRPG01/data.zip",
+    "data_path": "ux0:data",
+    "size": 5297501,
+    "sha256": "8951fa492cbb80dca51204e3bda44799ce799e9d5e5f20148ceca515cc14319d",
+    "icon": "homebrew/EASYRPG01/icon.png",
+    "shots": [
+     "homebrew/EASYRPG01/s1.jpg"
+    ],
+    "description": "EasyRPG Player — программа для запуска игр, созданных в RPG Maker 2000 и 2003.\\n\\nЭто свободный (как в «свободе») кроссплатформенный интерпретатор RPG Maker 2000/2003. Главная цель — воспроизводить все созданные в них игры так же, как оригинальный интерпретатор (RPG_RT).\\n\\nИсходники: github.com/EasyRPG/Player\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ELEB00002",
+    "name": "ElectroBench",
+    "version": "0.5",
+    "author": "Ayoub Lakrad",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ELEB00002/ElectroBench-vita.vpk",
+    "size": 901538,
+    "sha256": "afc4677ff7fae768c75d72c13d2516fbeb77ff1b411196fa83956921608a1c89",
+    "requires": "libshacccg",
+    "icon": "homebrew/ELEB00002/icon.png",
+    "description": "GPU-бенчмарк, портированный с ПК-версии ElectroBench того же разработчика. Содержит 2 сцены, очень ресурсоёмкий, поэтому запускается медленно. Использует vitaGL. Многопоточный.\\n\\nИсходники: github.com/deadbeef7/ElectroBench\\nИсточник: VitaDB."
    }
   ],
   "translations": [
