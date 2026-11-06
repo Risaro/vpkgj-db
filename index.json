@@ -1,5 +1,5 @@
 {
- "version": "ec5f4be44fae",
+ "version": "d7f20d0e9c7d",
  "categories": {
   "ports": [
    {
@@ -5847,6 +5847,55 @@
     "requires": "libshacccg",
     "icon": "ports/GNFC00002/icon.png",
     "description": "Статическая рекомпиляция Gunforce 2 (Irem, 1994, аркадная плата M92) в нативный ARM-код. Основная программа игры для V33 транслируется в C++ и линкуется с нативной средой выполнения, заменяющей плату: карту памяти, контроллер прерываний, DMA, программный видеорендерер и звуковую плату (V35 с шифрованием опкодов Irem, YM2151 и GA20). Звуковой процессор работает в интерпретаторе.\\n\\nНужны файлы оригинальной игры (MAME), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Tobic-99/gunforce2-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GNHM00451",
+    "name": "Gone Home",
+    "version": "1.0.1",
+    "author": "Soup'um",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GNHM00451/GoneHome_Base.vpk",
+    "size": 532864284,
+    "sha256": "23896162c6acc86b07e4b5ebabdafa542f91e70ee100c9234198dce161743495",
+    "icon": "ports/GNHM00451/icon.png",
+    "shots": [
+     "ports/GNHM00451/s1.jpg",
+     "ports/GNHM00451/s2.jpg",
+     "ports/GNHM00451/s3.jpg"
+    ],
+    "description": "Порт Gone Home для PSVITA.\\nВы возвращаетесь домой после года за границей. Вы ждёте, что семья встретит вас, но дом пуст. Что-то не так. Где все? И что здесь произошло? Раскройте тайну сами в Gone Home — сюжетной игре-исследовании от The Fullbright Company.\\nGone Home — интерактивный симулятор исследования. Изучайте каждую деталь внешне обычного дома, чтобы узнать историю живущих в нём людей. Открывайте любые ящики и двери. Берите предметы и рассматривайте их, чтобы найти улики. Узнайте о событиях в жизни одной семьи, исследуя то, что она оставила после себя.\\nВозвращайтесь домой снова.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GOLF55533",
+    "name": "Golfing Over It with Alva Majo",
+    "version": "1.0",
+    "author": "PatnosD",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GOLF55533/GolfingOverIt.vpk",
+    "size": 13200187,
+    "sha256": "fc0a5d8e93161d94da2307cbc12a42232c4d7fd30b728b874908d6c0e904f857",
+    "icon": "ports/GOLF55533/icon.png",
+    "shots": [
+     "ports/GOLF55533/s1.jpg",
+     "ports/GOLF55533/s2.jpg",
+     "ports/GOLF55533/s3.jpg"
+    ],
+    "description": "Golfing Over It with Alva Majo — обескураживающая игра о восхождении на сюрреалистическую гору с мячом для гольфа, другой взгляд на хит 2017 года Getting Over It with Bennett Foddy. Почувствуйте, каково взбираться на неприступную гору, когда сложность не создаётся бесящим управлением.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GOLFING01",
+    "name": "Desert Golfing Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/GOLFING01/desertgolfing.vpk",
+    "size": 556257,
+    "sha256": "74566b7951cb50d5a8905e21e8f9a4f60fb0ad7bc74f88aabf99e87b4b95a9ef",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/GOLFING01/icon.png",
+    "shots": [
+     "ports/GOLFING01/s1.jpg",
+     "ports/GOLFING01/s2.jpg",
+     "ports/GOLFING01/s3.jpg"
+    ],
+    "description": "Обёртка/порт Desert Golfing для PS Vita. Порт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты заменяются нативными функциями, а сам файл патчится для корректного запуска. Фактически это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/desertgolfing_vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -8606,6 +8655,48 @@
      "homebrew/GMSV00099/s3.jpg"
     ],
     "description": "Temporary Space — по сути простая стрелялка на основе Asteroids. Temporary Space: Expanse — продолжение оригинальной Temporary Space.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GNS111111",
+    "name": "T-Rex",
+    "version": "1.0",
+    "author": "Toni Dumancic",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GNS111111/trex.vpk",
+    "size": 3082595,
+    "sha256": "c4ef6f4a7213a3760bdcbc940d1e3240dbbd5d99d133369a20508ea8adba7a88",
+    "icon": "homebrew/GNS111111/icon.png",
+    "shots": [
+     "homebrew/GNS111111/s1.jpg"
+    ],
+    "description": "Ремейк мини-игры T-Rex от Google.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GRAVHUNT1",
+    "name": "Gravity Hunters",
+    "version": "1.0",
+    "author": "NandXor96",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GRAVHUNT1/gravity_hunters.vpk",
+    "size": 4303132,
+    "sha256": "23c0593e21195f5906ca69241dd4682b68339280a8e4e8ac1614f973be86d3f9",
+    "icon": "homebrew/GRAVHUNT1/icon.png",
+    "shots": [
+     "homebrew/GRAVHUNT1/s1.jpg"
+    ],
+    "description": "Пилотируйте юркий космический корабль, искривляйте траекторию выстрелов гравитацией планет и проходите миссии, сделанные вручную.\\n\\nИсходники: github.com/NandXor96/gravity_hunters_vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "GREENVITA",
+    "name": "GreenVita",
+    "version": "0.1.8",
+    "author": "DayOS",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/GREENVITA/green-vita.vpk",
+    "size": 14185797,
+    "sha256": "f68d8a1caf52237c2f0880686bd2999b171915e5d6e98b39988e39935e11943d",
+    "icon": "homebrew/GREENVITA/icon.png",
+    "shots": [
+     "homebrew/GREENVITA/s1.jpg"
+    ],
+    "description": "Играйте в любимые игры Xbox на PS Vita с помощью GreenVita.\\nGreenVita подключается к Xbox Cloud Gaming, устанавливая WebRTC-соединение и воспроизводя веб-запросы, которые делает официальный веб-клиент Xbox Cloud Gaming.\\n\\nИсходники: github.com/Day-OS/green-vita\\nИсточник: VitaDB."
    }
   ],
   "translations": [
