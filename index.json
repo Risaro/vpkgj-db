@@ -1,5 +1,5 @@
 {
- "version": "6de25beb73ff",
+ "version": "9a94723fdcd8",
  "categories": {
   "ports": [
    {
@@ -4876,6 +4876,39 @@
      "ports/DOOM00666/s1.jpg"
     ],
     "description": "Порт Doom 1/Doom 2 для PSVITA на основе DoomPSP.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/aagallag/Vita_Doom\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DOOMIIRPG",
+    "name": "Doom II RPG Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DOOMIIRPG/DOOMIIRPG.vpk",
+    "size": 2040195,
+    "sha256": "baa2f4f14628096e8b2a269d60976e9e3716e27cd8cf323d9a0fc78178764f7c",
+    "requires": "libshacccg",
+    "icon": "ports/DOOMIIRPG/icon.png",
+    "shots": [
+     "ports/DOOMIIRPG/s1.jpg",
+     "ports/DOOMIIRPG/s2.jpg",
+     "ports/DOOMIIRPG/s3.jpg"
+    ],
+    "description": "Порт Doom II RPG на PS Vita, основанный на реверс-инжиниринге от [GEC]. Все заслуги принадлежат команде GEC, без их огромной работы этого проекта не существовало бы.\\n\\nНужны файлы оригинальной игры (Mobile), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/DoomIIRPG-RE\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DOOMRPG00",
+    "name": "Doom RPG Vita",
+    "version": "1.1.0",
+    "author": "jakubito",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DOOMRPG00/DoomRPG_vita.vpk",
+    "size": 3954027,
+    "sha256": "b23496f95279814b346dd69542f09919e29e769a38b8d90f687b749941a796d3",
+    "icon": "ports/DOOMRPG00/icon.png",
+    "shots": [
+     "ports/DOOMRPG00/s1.jpg",
+     "ports/DOOMRPG00/s2.jpg",
+     "ports/DOOMRPG00/s3.jpg"
+    ],
+    "description": "Порт Doom RPG на PS Vita, основанный на реверс-инжиниринге от [GEC]. Все заслуги принадлежат команде GEC, без их огромной работы этого проекта не существовало бы.\\n\\nНужны файлы оригинальной игры (Mobile), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/jakubito/DoomRPG-RE-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -6553,6 +6586,48 @@
     "sha256": "01a6ea10a42da2b17263fac1d7991349114bf1c01f3f7958b1397614b5e07be6",
     "icon": "homebrew/DOLM00001/icon.png",
     "description": "Dolmexica Infinite — находящийся в разработке интерпретатор Mugen для Dreamcast, Web, Vita и Windows.\\n\\nИсходники: github.com/CaptainDreamcast/DolmexicaInfinite/\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DOOM12345",
+    "name": "DooM Vita",
+    "version": "1.0.1",
+    "author": "gambikules",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DOOM12345/DooM_Vita.vpk",
+    "size": 127433776,
+    "sha256": "e0ba823d42f4f11455a7e5da1dd512b584e2459eab15c8817e8bc2230b1b419e",
+    "icon": "homebrew/DOOM12345/icon.png",
+    "shots": [
+     "homebrew/DOOM12345/s1.jpg",
+     "homebrew/DOOM12345/s2.jpg",
+     "homebrew/DOOM12345/s3.jpg"
+    ],
+    "description": "Шутер от первого лица, сильно вдохновлённый вселенной DooM, сделанный на Unity.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DOS1BCORN",
+    "name": "Boiled Corn",
+    "version": "1.0",
+    "author": "dos",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DOS1BCORN/boiledcorn-vita.vpk",
+    "size": 5222174,
+    "sha256": "b70d41c480e4e8e3563b21d47a372a25f633a02d6d963f95a34e0e950ce95f79",
+    "icon": "homebrew/DOS1BCORN/icon.png",
+    "description": "Короткая игра для PSVita, сделанная для Nomad Game Jam.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DOS1ESCHE",
+    "name": "DJ Escher",
+    "version": "1.0",
+    "author": "dos",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DOS1ESCHE/djescher-vita.vpk",
+    "size": 18680010,
+    "sha256": "6646742ec00806436452425365eaf55edd4c7370834076ffc08f82707b66a774",
+    "icon": "homebrew/DOS1ESCHE/icon.png",
+    "shots": [
+     "homebrew/DOS1ESCHE/s1.jpg",
+     "homebrew/DOS1ESCHE/s2.jpg"
+    ],
+    "description": "М. К. Эшер устал быть MC и решил попробовать себя в роли DJ!\\nОн бросает шестиугольные виниловые пластинки с записями своей любимой группы поющих картофелин, а вам нужно поймать как можно больше своими вертушками.\\n\\nИсходники: gitlab.com/dosowisko.net/djescher/\\nИсточник: VitaDB."
    }
   ],
   "translations": [
