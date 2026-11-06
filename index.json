@@ -1,5 +1,5 @@
 {
- "version": "b33c4d80d62a",
+ "version": "68b3ba6cc8fc",
  "categories": {
   "ports": [
    {
@@ -5992,6 +5992,48 @@
      "ports/HBGMSGRV1/s2.jpg"
     ],
     "description": "Порт Grave, работы для игрового джема Ludum Dare 33 от uheartbeast.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HBRS00000",
+    "name": "Heboris-Vita",
+    "version": "1.0.0-Vita",
+    "author": "L0Wigh",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HBRS00000/Heboris-Vita.vpk",
+    "size": 13369282,
+    "sha256": "3057a879753b3ce2763d49b1cface0cc6449fdf6c1297e22517b5e4caa240956",
+    "icon": "ports/HBRS00000/icon.png",
+    "description": "Порт Heboris, клона Tetris, на Vita.\\nПорт основан на исходном коде Heboris SDL2.\\n\\nИсходники: github.com/l0wigh/Heboris-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HIDEKO000",
+    "name": "Hideko Vita",
+    "version": "1.0",
+    "author": "bren",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HIDEKO000/HIDEKO000.vpk",
+    "size": 5262482,
+    "sha256": "b815436c9d97784ef5ad675879adb2b6f30640121299014230cef5e946029136",
+    "icon": "ports/HIDEKO000/icon.png",
+    "shots": [
+     "ports/HIDEKO000/s1.jpg",
+     "ports/HIDEKO000/s2.jpg",
+     "ports/HIDEKO000/s3.jpg"
+    ],
+    "description": "Простой порт Hideko от Sokpop для Playstation Vita.\\nИз-за аппаратных ограничений некоторые графические возможности пришлось убрать или упростить.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HIGURASHI",
+    "name": "Higurashi Vita",
+    "version": "3.0.2",
+    "author": "MyLegGuy",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HIGURASHI/Higurashi-Vita.vpk",
+    "size": 5145119,
+    "sha256": "d97717e2889365d3459041167782f4ebc9a4241cf6dc6e1604b387d2eaf25ba5",
+    "icon": "ports/HIGURASHI/icon.png",
+    "shots": [
+     "ports/HIGURASHI/s1.jpg",
+     "ports/HIGURASHI/s2.jpg"
+    ],
+    "description": "Совершенно неофициальный порт Higurashi для PS Vita.\\nНачиная с версии 2.5 движок также поддерживает игры VNDS.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -8946,6 +8988,47 @@
      "homebrew/HBINJECT0/s1.jpg"
     ],
     "description": "HBInjector позволяет поместить VitaShell внутрь значков системных приложений.\\n\\nИсходники: github.com/emiyl/HBInjector\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HDSH00001",
+    "name": "StratagemHeroVita",
+    "version": "1.0",
+    "author": "MEGAgameBoy",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/HDSH00001/StratagemHeroVita.vpk",
+    "size": 48613218,
+    "sha256": "a455c4804c6c2688eac918ac3080359489225efb442a0fbf0bb263609e970919",
+    "icon": "homebrew/HDSH00001/icon.png",
+    "shots": [
+     "homebrew/HDSH00001/s1.jpg",
+     "homebrew/HDSH00001/s2.jpg"
+    ],
+    "description": "Докажите себе, что у вас хватит сил и смелости быть свободным, вступайте в Helldivers и станьте лучшим в выполнении стратагем, чтобы победить терминидов и автоматонов. Stratagem Hero Vita — фанатская версия мини-игры из Helldivers 2 с бесконечными стратагемами для тренировки и борьбы за лучший счёт! Некоторые файлы взяты из Stratagem Hero Online.\\nПо мотивам игры от Arrowhead Game Studio.\\nМузыку написал Wilbert Roget II.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HELL66645",
+    "name": "To Pieces",
+    "version": "0.62",
+    "author": "lkclip",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/HELL66645/ToPieces.vpk",
+    "size": 70925822,
+    "sha256": "37f15aa14243d93ab306164529b8cfd59290f9f56e8aa5ac313c82aa9d090e4b",
+    "icon": "homebrew/HELL66645/icon.png",
+    "shots": [
+     "homebrew/HELL66645/s1.jpg",
+     "homebrew/HELL66645/s2.jpg",
+     "homebrew/HELL66645/s3.jpg"
+    ],
+    "description": "To Pieces — 2D аренный шутер с большим количеством оружия, интересными способностями и эксклюзивным саундтреком в стиле дэт-метал.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HERMES001",
+    "name": "Hermes",
+    "version": "1.10",
+    "author": "Retroguru Team",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/HERMES001/HERMES001.vpk",
+    "size": 1407707,
+    "sha256": "554e5e22760d7fbb4a736454f0325ed0217803833ea043992f520fc3d473c338",
+    "description": "Hermes — необычный платформер с изрядной долей юмора дурного тона. Если грубый и пошлый юмор вас оскорбляет, лучше уходите прямо сейчас. В игре также есть пиксельное насилие, и она пропагандирует употребление мяса. Если вы убеждённый вегетарианец, игра может вам сильно не понравиться, а может, просто посмеётесь.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
