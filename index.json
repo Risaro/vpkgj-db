@@ -1,5 +1,5 @@
 {
- "version": "4278a013749a",
+ "version": "c02d3e241649",
  "categories": {
   "ports": [
    {
@@ -4388,6 +4388,23 @@
      "ports/CHROMONO2/s3.jpg"
     ],
     "description": "chro.mono 2 — головоломка для мобильных устройств. Решайте головоломки на время в 120 увлекательных уровнях, разбитых на 6 наборов. Улучшайте результат, проходя уровни быстрее целевого времени.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CLIVE1001",
+    "name": "Gunman Clive",
+    "version": "1.0",
+    "author": "usineur",
+    "vpk": "https://firsts3.ru/vpkgj/ports/CLIVE1001/clive.vpk",
+    "size": 1839822,
+    "sha256": "9c9b1e029422d4a27bbbee9019a860865e38f7cd0c9fc71fe7a82824d7bf9f63",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/CLIVE1001/icon.png",
+    "shots": [
+     "ports/CLIVE1001/s1.jpg",
+     "ports/CLIVE1001/s2.jpg",
+     "ports/CLIVE1001/s3.jpg"
+    ],
+    "description": "Обёртка/порт Gunman Clive для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, и он патчится для корректной работы. По сути, это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/usineur/clive-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -5688,6 +5705,105 @@
      "homebrew/CHIP00001/s3.jpg"
     ],
     "description": "MicroCHIP — эмулятор CHIP-8/SCHIP-8 (SUPERCHIP-8) для PSVITA/PSTV, полностью написанный на Lua с использованием lpp-vita.\\nПоддерживает настройку тем, переназначение клавиш, сохранения состояния и имеет опциональный встроенный отладчик.\\n\\nИсходники: github.com/Rinnegatamante/MicroCHIP\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CIRCDUDE1",
+    "name": "Circuit Dude",
+    "version": "2.6.6",
+    "author": "crait",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CIRCDUDE1/CircuitDude.vpk",
+    "size": 15533399,
+    "sha256": "a2f9cef8d5c43d518bcc2d9937b19472ad8708530dcbe85deab3be0842eda3dc",
+    "icon": "homebrew/CIRCDUDE1/icon.png",
+    "shots": [
+     "homebrew/CIRCDUDE1/s1.jpg",
+     "homebrew/CIRCDUDE1/s2.jpg",
+     "homebrew/CIRCDUDE1/s3.jpg"
+    ],
+    "description": "Помогите Circuit Dude построить его главное секретное изобретение: вставляйте чипы, двигайте блоки, нажимайте на переключатели, вращайте стены и многое другое. В игре более 15 часов геймплея и 120 уровней. Что он задумал? Что строит Circuit Dude? Пройдите первые 100 уровней, чтобы узнать!\\n\\nЕсли этого мало, можно создавать собственные хитроумные конструкции во встроенном редакторе уровней! (Кроссплатформенный онлайн-обмен уровнями скоро появится!)\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CLEM00001",
+    "name": "luaVitaSeccy",
+    "version": "0.3",
+    "author": "Clem",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CLEM00001/luaVitaSeccy.vpk",
+    "size": 2619404,
+    "sha256": "e287bfe4bad914305c28f635fc542e98d03cf982211ff70e665e33c54bdc8832",
+    "icon": "homebrew/CLEM00001/icon.png",
+    "shots": [
+     "homebrew/CLEM00001/s1.jpg",
+     "homebrew/CLEM00001/s2.jpg",
+     "homebrew/CLEM00001/s3.jpg"
+    ],
+    "description": "luaVitaSeccy — калькулятор Section ID для «устаревших» игр Phantasy Star Online, а именно вышедших до «Blue Burst». Section ID определяет таблицу выпадения предметов с врагов и некоторые другие второстепенные аспекты этих игр.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CLON00001",
+    "name": "Clonage Bulle ePSP",
+    "version": "1.1",
+    "author": "Markus95",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CLON00001/Clonage_Bulle_ePSP.vpk",
+    "size": 5309860,
+    "sha256": "e10a7f77c2e35b1d594405e1fe69fdeb9f44ec04b5dbaa587f90d2478d991324",
+    "icon": "homebrew/CLON00001/icon.png",
+    "description": "Небольшой хоумбрю для создания нескольких ePSP-бабблов (x5).\\nСначала нужно установить первый ePSP Bubble с помощью ePSP Bubble Installer, затем использовать Clonage Bulle ePSP для его размножения.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CONNECT04",
+    "name": "Connect Four",
+    "version": "1.0",
+    "author": "Dane64",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CONNECT04/C4.vpk",
+    "size": 675033,
+    "sha256": "a8b026857498031797039be2acd7fd6ab44380611dd8cbeadf3d9686b3bdb930",
+    "icon": "homebrew/CONNECT04/icon.png",
+    "shots": [
+     "homebrew/CONNECT04/s1.jpg",
+     "homebrew/CONNECT04/s2.jpg"
+    ],
+    "description": "Простая игра «Четыре в ряд» для PSVITA/PSTV с реализованным алгоритмом Minimax.\\n\\nИсходники: github.com/Dane64/ConnectFour\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CONSOLEID",
+    "name": "ConsoleID",
+    "version": "1.01",
+    "author": "Freakler",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CONSOLEID/ConsoleID.vpk",
+    "size": 193265,
+    "sha256": "11e46de31601c5a67951fb3b65da496092ddf4cc207be92e71e846ff9fbccbb8",
+    "icon": "homebrew/CONSOLEID/icon.png",
+    "shots": [
+     "homebrew/CONSOLEID/s1.jpg"
+    ],
+    "description": "Приложение, показывающее уникальную строку идентификации консоли PlayStation (Console Identification String).\\n\\nИсходники: github.com/Freakler/vita-ConsoleID\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "COVID19AP",
+    "name": "Covid 19 Apocalypse",
+    "version": "1.0",
+    "author": "Gremlin Software",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/COVID19AP/covid19Apocalypse.vpk",
+    "size": 1764631,
+    "sha256": "c23c06538b0e18787416b19449c635dc36199b7c26bb14ddb69f41132dce54b2",
+    "icon": "homebrew/COVID19AP/icon.png",
+    "shots": [
+     "homebrew/COVID19AP/s1.jpg",
+     "homebrew/COVID19AP/s2.jpg",
+     "homebrew/COVID19AP/s3.jpg"
+    ],
+    "description": "На дворе 2521 год, Covid 19 превратился в демоническую форму, похожую на розового огра из Doom, только хуже. Вы — последняя надежда человечества.\\nИгра выполнена «в стиле» Commodore 64: похожие звуки, цветовая палитра и разрешение.\\nЭто 8-битный point-and-shoot шутер на тему апокалипсиса Covid-19.\\n\\nИсходники: github.com/softwaregremlin/Covid-19-Apocalypse\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "CPIC00001",
+    "name": "CopyIcons",
+    "version": "1.01",
+    "author": "cy33hc",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/CPIC00001/CopyIcons.vpk",
+    "size": 68132,
+    "sha256": "c779ae1aff83dec9d812f14a977cc6530f600b6243adf0fd4f365f0cb2f27e13",
+    "icon": "homebrew/CPIC00001/icon.png",
+    "description": "Приложение для массового копирования icon0.png/pic0.png из ux0:app/GAME_ID/sce_sys в папку ur0:appmeta/GAME_ID. Используется вместе с Vita Launcher.\\n\\nИсходники: github.com/cy33hc/copyicons\\nИсточник: VitaDB."
    }
   ],
   "translations": [
