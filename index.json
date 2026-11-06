@@ -1,5 +1,5 @@
 {
- "version": "20fd768b868a",
+ "version": "a991412b62d6",
  "categories": {
   "ports": [
    {
@@ -6752,6 +6752,34 @@
      "ports/KPMN12352/s3.jpg"
     ],
     "description": "Keep in Mind — психологическая инди-игра о Йонасе, человеке, страдающем психическим расстройством, и его пути самоанализа и эмоционального исцеления. Игра создана для тех, кто борется с психическими расстройствами или чувствует себя потерянным во тьме. Задумывалась как терапевтический опыт, но из-за чувствительного и спорного содержания некоторым зрителям стоит отнестись к ней с осторожностью.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "KSVN00001",
+    "name": "Katawa Shoujo",
+    "version": "0.11",
+    "author": "sudovim",
+    "vpk": "https://firsts3.ru/vpkgj/ports/KSVN00001/KatawaShoujo.vpk",
+    "size": 227303932,
+    "sha256": "7345ec2adc50014eea6729efbbb18798e9345a5d144c0d98dcd72ff4cf285b79",
+    "icon": "ports/KSVN00001/icon.png",
+    "shots": [
+     "ports/KSVN00001/s1.jpg"
+    ],
+    "description": "Порт Katawa Shoujo для PSVITA на движке March33.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LANGO0002",
+    "name": "Lango Vita",
+    "version": "0.1.0",
+    "author": "Parallel Productions",
+    "vpk": "https://firsts3.ru/vpkgj/ports/LANGO0002/Lango.vpk",
+    "size": 27567790,
+    "sha256": "569abe552a2188a6dc04ed812d2d001d491ca06bae59122d7c6faa955ec9be4b",
+    "icon": "ports/LANGO0002/icon.png",
+    "shots": [
+     "ports/LANGO0002/s1.jpg"
+    ],
+    "description": "Lango — простой проект RPG с открытым исходным кодом в стиле легендарных игр серии Zelda, сделанный на движке Godot. Задуман как основа, на которой можно создать собственную игру.\\n\\nИсходники: github.com/ParallelProductions/Lango_GodotRPG-Vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -10141,6 +10169,64 @@
      "homebrew/KOGREMOUN/s1.jpg"
     ],
     "description": "Kogre's Mountain — добрая семейная цифровая настольная игра. Побеждает первый игрок, который доведёт всех четырёх своих рыцарей до вершины горы!\\nНо берегитесь падающих камней! Если стрелка остановится на значке ворот, все камни покатятся вниз по горе. Попавший под камень рыцарь возвращается к подножию, поэтому планируйте ходы и прячьте рыцарей за препятствиями и другими игроками.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "KUNI00002",
+    "name": "Hendoku",
+    "version": "0.1",
+    "author": "Kuni59",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/KUNI00002/sudokucpp.vpk",
+    "size": 2010692,
+    "sha256": "df3d6fb691c154e8a9de986b86462939728e73494bd9f272bb01b6e99a9950ab",
+    "icon": "homebrew/KUNI00002/icon.png",
+    "shots": [
+     "homebrew/KUNI00002/s1.jpg",
+     "homebrew/KUNI00002/s2.jpg"
+    ],
+    "description": "Игра судоку для PSVITA/PSTV.\\n\\nИсходники: www.mediafire.com/file/wu7ptl6t57wo5tl/SudokuCPP.rar\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "L4D200001",
+    "name": "Left 4 Dead 2D",
+    "version": "0.1.1",
+    "author": "AlexDev2",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/L4D200001/l4d.vpk",
+    "size": 40013315,
+    "sha256": "3e1160af0bd619cd78f67878178d8183f9bfa290ad7bd233d34c2762448b3814",
+    "icon": "homebrew/L4D200001/icon.png",
+    "shots": [
+     "homebrew/L4D200001/s1.jpg",
+     "homebrew/L4D200001/s2.jpg"
+    ],
+    "description": "2D-демейк Left 4 Dead с видом сверху, похожим на Hotline Miami, сделанный в GameMaker Studio.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LAPY00001",
+    "name": "Save The Scene",
+    "version": "1.03",
+    "author": "Lapy",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LAPY00001/Save%20the%20Scene.vpk",
+    "size": 51416047,
+    "sha256": "db8a048ac849f8d3880e9731102d1351c47c4f617457a25f7e858b4846bd7db7",
+    "icon": "homebrew/LAPY00001/icon.png",
+    "shots": [
+     "homebrew/LAPY00001/s1.jpg"
+    ],
+    "description": "Спасайте разработчиков PS4-сцены от бомбовых атак, чтобы они продолжали приносить нам хак.\\n\\nИсходники: github.com/Lapy055/Save_the_Scene\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LAPY00009",
+    "name": "Wild Gunman Remake",
+    "version": "1.02",
+    "author": "Lapy",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LAPY00009/Wild%20Gunman.vpk",
+    "size": 39995146,
+    "sha256": "1ce5501ed6ca92f7861ff613da31c8b5a5d24faf391186c9008ccfe98de68260",
+    "icon": "homebrew/LAPY00009/icon.png",
+    "shots": [
+     "homebrew/LAPY00009/s1.jpg"
+    ],
+    "description": "Клон Wild Gunman, классической игры для NES, для PSVITA/PSTV.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
