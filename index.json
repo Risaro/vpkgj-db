@@ -1,5 +1,5 @@
 {
- "version": "4741c19125ab",
+ "version": "4f3930c89959",
  "categories": {
   "ports": [
    {
@@ -6174,6 +6174,179 @@
      "ports/HXEN00001/s3.jpg"
     ],
     "description": "vitaHexenII — порт для PSVITA игры Hexen II, популярного dark-fantasy шутера от первого лица, созданного Raven Software на модифицированной версии движка Quake.\\nОн основан на ядре vitaQuake и имеет с ним много общих функций.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/vitaHexenII\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HYDCASLAB",
+    "name": "HCL-Vita",
+    "version": "1.1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HYDCASLAB/HCL.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/HYDCASLAB/data.zip",
+    "data_path": "ux0:data",
+    "size": 1152400,
+    "sha256": "d614d8a2cfc32d5c0a5a2f041eef7cf19fc519ab1914a8d663e25cc9145d2015",
+    "icon": "ports/HYDCASLAB/icon.png",
+    "shots": [
+     "ports/HYDCASLAB/s1.jpg",
+     "ports/HYDCASLAB/s2.jpg",
+     "ports/HYDCASLAB/s3.jpg"
+    ],
+    "description": "HCL-Vita — порт Hydra Castle Labyrinth для PSVITA.\\nHydra Castle Labyrinth (изначально Meikyuujou Hydra) — бесплатная инди-платформер-игра, разработанная E. Hashimoto, он же Buster, и выпущенная на его сайте. Оригинал был полностью на японском, но спустя месяцы после создания появился патч-перевод.\\nИгра напоминает ранние «метроидвании», такие как Knightmare II: The Maze of Galious и Legacy of the Wizard: игрок исследует огромное подземелье-лабиринт, собирая предметы и ключи, которые позволяют идти дальше. Некоторые области отделены от основной части подземелья, и каждая из них — более линейная зона с боссом в конце. Также можно находить новое снаряжение, чтобы стать сильнее.\\n\\nИсходники: github.com/Rinnegatamante/HCL-Vita/\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HYFT01234",
+    "name": "HYPERFIGHT Vita",
+    "version": "1.0",
+    "author": "AnasHalideen",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HYFT01234/HYPERFIGHT.vpk",
+    "size": 27141519,
+    "sha256": "ded79c7fa657ef1d13361a96827e30fc220360ceb64276fdcb59c95321c84036",
+    "icon": "ports/HYFT01234/icon.png",
+    "shots": [
+     "ports/HYFT01234/s1.jpg",
+     "ports/HYFT01234/s2.jpg",
+     "ports/HYFT01234/s3.jpg"
+    ],
+    "description": "Порт HYPERFIGHT для PSVITA.\\nHYPERFIGHT — 2D-файтинг, где достаточно одного удара, сделанный на Godot 3.2 и GodotSteam.\\n\\nИсходники: github.com/anas-halid/HYPERFIGHT-VITA\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HYPRPITCH",
+    "name": "Hyper Princess Pitch Vita",
+    "version": "1.0",
+    "author": "JeffRulz345",
+    "vpk": "https://firsts3.ru/vpkgj/ports/HYPRPITCH/HyperPrincessPitch-Vita.vpk",
+    "size": 26000212,
+    "sha256": "75b10deee6432d787b5fe119e9b9eefa5ab5a73a166c9495720d48cb70fdcd11",
+    "icon": "ports/HYPRPITCH/icon.png",
+    "shots": [
+     "ports/HYPRPITCH/s1.jpg"
+    ],
+    "description": "Порт Hyper Princess Pitch от Daniel Remar. Это рождественский шутер с видом сверху. Игра короткая, но обладает высокой реиграбельностью благодаря нескольким путям прохождения уровней и широкому выбору уровней сложности.\\n\\nИсходники: drive.google.com/open?id=1gvEHq100kXuMjFLvhMC5MylRO7wiRY6S\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ICYT00131",
+    "name": "Icy Tower Vita",
+    "version": "1.0.1",
+    "author": "Ibrahim Dogan",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ICYT00131/icytower.vpk",
+    "size": 1289811,
+    "sha256": "e8ce75e4fd9b3960ac0ccefd8d10aad2377f610f0aadf27c0fc9117459958abd",
+    "icon": "ports/ICYT00131/icon.png",
+    "shots": [
+     "ports/ICYT00131/s1.jpg",
+     "ports/ICYT00131/s2.jpg",
+     "ports/ICYT00131/s3.jpg"
+    ],
+    "description": "Оригинальная Icy Tower 1.3.1, кадр в кадр, на вашей PS Vita.\\nПорт движка, написанный с нуля, использует графику, звуки и музыку самой игры, считываемые с вашей копии бесплатной PC-игры.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/ibrahim-dogan/vita-icy-tower\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "IGNT00001",
+    "name": "Ignition Vita",
+    "version": "0.3.0",
+    "author": "xesf",
+    "vpk": "https://firsts3.ru/vpkgj/ports/IGNT00001/ignition-vita.vpk",
+    "size": 419275,
+    "sha256": "b2cc2a7a80f46aa4380eaf7f649b05495ab273fd01575d2ea1f72de23aa7c3d3",
+    "icon": "ports/IGNT00001/icon.png",
+    "shots": [
+     "ports/IGNT00001/s1.jpg",
+     "ports/IGNT00001/s2.jpg",
+     "ports/IGNT00001/s3.jpg"
+    ],
+    "description": "Повторная реализация Ignition — гоночной игры 1997 года с видом сверху от Unique Development Studios, изданной Virgin Interactive. Исполняемый файл игры для Windows 95, IGN_WIN.EXE, был подвергнут реверс-инжинирингу и переписан на переносимом C99. Порт запускает оригинальные данные игры, которые вы предоставляете из собственной копии игры.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/xesf/ignition\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ILLU00001",
+    "name": "Illusia Vita",
+    "version": "1.0.0",
+    "author": "withLogic",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ILLU00001/Illusia.vpk",
+    "size": 2772785,
+    "sha256": "e3b454631d042d5842d3cbcb9250c8eecd50ef62881ade6037fdadcef5ce437e",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/ILLU00001/icon.png",
+    "shots": [
+     "ports/ILLU00001/s1.jpg",
+     "ports/ILLU00001/s2.jpg",
+     "ports/ILLU00001/s3.jpg"
+    ],
+    "description": "В стране Aztaran с неба ударила молния, оставив после себя загадочную башню. Вход в башню неизвестен. Вскоре из неё начинают выходить враждебные существа и сеять хаос среди жителей Aztaran. В прологе игры предсказано, что двое искателей приключений, маг и воин, смогут войти в башню, чтобы победить существ и спасти страну.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/withLogic/illusia-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "IMSCARED0",
+    "name": "IMSCARED",
+    "version": "1.1",
+    "author": "hatoving",
+    "vpk": "https://firsts3.ru/vpkgj/ports/IMSCARED0/IMSCARED0.vpk",
+    "size": 5924042,
+    "sha256": "302741bff4efd059b7255a2a3f9dc2c66024bbc8a56b77f225c350125f0a3b72",
+    "icon": "ports/IMSCARED0/icon.png",
+    "shots": [
+     "ports/IMSCARED0/s1.jpg",
+     "ports/IMSCARED0/s2.jpg",
+     "ports/IMSCARED0/s3.jpg"
+    ],
+    "description": "IMSCARED — метахоррор, который делает героем самого игрока, погружая его в сюрреалистичный опыт от первого лица. Находите ключи, открывайте двери и ищите выход из этого кошмара. Но предупреждаю: игра будет обманывать вас столько раз, сколько сможет. О том, как заставить игру работать, читайте на странице github.\\n\\nНужны файлы оригинальной игры (PC Steam), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "INKV00000",
+    "name": "INK",
+    "version": "1.0.0",
+    "author": "m1s3ry",
+    "vpk": "https://firsts3.ru/vpkgj/ports/INKV00000/INK.vpk",
+    "size": 2947781,
+    "sha256": "aa8730f035578aa16df3fd0860268656774052fb6e6aa9f16e2b9a98091020e2",
+    "icon": "ports/INKV00000/icon.png",
+    "shots": [
+     "ports/INKV00000/s1.jpg",
+     "ports/INKV00000/s2.jpg",
+     "ports/INKV00000/s3.jpg"
+    ],
+    "description": "INK — динамичный платформер о том, как с помощью цветной краски раскрывать окружение. Победите всех врагов в комнате и доберитесь до цели! Но местность невидима, поэтому её нужно обнаруживать, физически врезаясь в неё, делая двойной прыжок или, ну, погибая.\\nИнструкции по патчу и установке — на странице релиза (Github).\\n\\nНужны файлы оригинальной игры (PC Steam), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "INSC12345",
+    "name": "Inscryption Vita",
+    "version": "alpha.1",
+    "author": "gl00mm",
+    "vpk": "https://firsts3.ru/vpkgj/ports/INSC12345/inscryption.vpk",
+    "size": 15108770,
+    "sha256": "46a7e7ed31ccec47f0ca2589bc53a6c038d2f5d6c06fbdfd7344f29d647aa87e",
+    "icon": "ports/INSC12345/icon.png",
+    "shots": [
+     "ports/INSC12345/s1.jpg",
+     "ports/INSC12345/s2.jpg",
+     "ports/INSC12345/s3.jpg"
+    ],
+    "description": "Inscryption — чернильно-чёрная карточная одиссея, которая смешивает колодостроительный roguelike, головоломки в стиле побега из комнаты и психологический хоррор в кровавый коктейль. Ещё темнее секреты, начертанные на картах...\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "INSNQ4R13",
+    "name": "Insaniquarium Vita",
+    "version": "1.00a",
+    "author": "KartingSackboy06",
+    "vpk": "https://firsts3.ru/vpkgj/ports/INSNQ4R13/InsaniquariumVita.vpk",
+    "size": 7444310,
+    "sha256": "30012ed3a89db1b4b1b67070528ab89212309903cf08e3d049766d9e7ace9a17",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/INSNQ4R13/icon.png",
+    "description": "Порт Insaniquarium! Deluxe для PlayStation Vita. Не связан с PopCap, EA или Sony.\\nБлагодарность kyle-sylvestre за Android-версию игры, которая является форком оригинальной декомпиляции WinFin от Vindirect. Эта сборка работает как загрузчик библиотеки libmain.so из релиза Android v0.1 и добавляет собственную раскладку кнопок. Дальнейшая разработка исправлений ошибок для версии на PlayStation Vita будет вестись отдельно, чтобы код и ресурсы оставались максимально эффективными.\\n\\nНужны файлы оригинальной игры (Steam), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/KartingSackboy06/insaniquarium-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "IPAV00001",
+    "name": "Italian Plumber Adventures",
+    "version": "1.1",
+    "author": "MEGAgameBoy",
+    "vpk": "https://firsts3.ru/vpkgj/ports/IPAV00001/ipa.vpk",
+    "size": 10458605,
+    "sha256": "f0c41df714a043999cb505f75165eb92a6bb543f81c743934f8977b3016c413c",
+    "icon": "ports/IPAV00001/icon.png",
+    "shots": [
+     "ports/IPAV00001/s1.jpg",
+     "ports/IPAV00001/s2.jpg",
+     "ports/IPAV00001/s3.jpg"
+    ],
+    "description": "Italian Plumber Adventures — новое приключение с неизвестным героем, переосмысленное с точки зрения JDSoft.\\nОригинальная игра от JDSoft.\\n\\nИсходники: github.com/MEGAgameBoy/Italian-Plumber-Adventures-PS-Vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -9278,6 +9451,60 @@
      "homebrew/HWCG00003/s3.jpg"
     ],
     "description": "Эта игра целиком про ожидание. Если вы продержитесь 10 минут, вы победили! Нужно всё время следить за экраном и ждать появления сообщения «Quickly! Press X!», потому что именно так игра понимает, что вы ждёте по-настоящему. Самый реалистичный симулятор из всех. Вам покажется, что 10 минут ожидания длятся вечность...\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "HXLC00001",
+    "name": "HEXFlow Launcher Custom",
+    "version": "2.9.1",
+    "author": "BlackSheepBoy69 & VitaHEX games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/HXLC00001/HEXFlow.Launcher.vpk",
+    "size": 16681382,
+    "sha256": "3bd08fda799e0874a061b2974d02f200daed818cac189d71a8c04026d5cc6d32",
+    "icon": "homebrew/HXLC00001/icon.png",
+    "shots": [
+     "homebrew/HXLC00001/s1.jpg",
+     "homebrew/HXLC00001/s2.jpg",
+     "homebrew/HXLC00001/s3.jpg"
+    ],
+    "description": "Стильно отображайте и запускайте свои игры и хомбрю.\\nHexFlow Launcher имеет 3D-интерфейс, показывающий игры с их обложками, и поддерживает множество настроек, например собственные обложки и фоны.\\n\\nЗапуск игры/приложения из HexFlow Launcher автоматически закрывает лаунчер без подтверждения.\\n\\nИсходники: github.com/BlackSheepBoy69/HexFlow-Launcher-Unofficial-Custom\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "IDLEMINER",
+    "name": "IdleMiner",
+    "version": "1.00",
+    "author": "c0rtax",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/IDLEMINER/IdleMiner.vpk",
+    "size": 17403699,
+    "sha256": "dcd282cb073dd987faf7183d0814b971ea04cc47bfb1e63cd649caecd0b78faf",
+    "icon": "homebrew/IDLEMINER/icon.png",
+    "shots": [
+     "homebrew/IDLEMINER/s1.jpg",
+     "homebrew/IDLEMINER/s2.jpg",
+     "homebrew/IDLEMINER/s3.jpg"
+    ],
+    "description": "IdleMiner — игра, созданная в 2016 году и переписанная в 2024 году для PS Vita. Это аркадный idle-симулятор добычи: вы нанимаете рабочих, покупаете шахты, добываете и продаёте руду, есть различные улучшения, а также несколько мини-игр, помогающих продвигаться в игре. Версия для PS Vita дополнена удобной функцией: нажмите на экран в месте, где нужно многократно кликать, а для автодобычи, продажи руды или покупки улучшений рабочих удерживайте кнопку X на консоли. Если пройти игру, можно сыграть снова в бонусном режиме — коротком, но весёлом. Игра создана в Game Maker Studio.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "IMAG00001",
+    "name": "Imago",
+    "version": "1.0.0",
+    "author": "Sevy",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/IMAG00001/imago.vpk",
+    "size": 3635706,
+    "sha256": "8591813c0999e7b83e1c1052f67faabfb609890bb2f056f062a0d338139f3f37",
+    "icon": "homebrew/IMAG00001/icon.png",
+    "description": "Просматривайте тысячи пользовательских тем для PS Vita с psvt.ovh, нажмите на одну, и она установится в фоне, пока вы продолжаете листать. Imago — быстрая современная версия Custom Themes Manager от Red Squirrel: обновлённый вид, гораздо меньшая нагрузка на сеть и бережная работа с базой данных системных тем.\\n\\nИсходники: github.com/SevyW/imago\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "IMNG00001",
+    "name": "iMango",
+    "version": "2026-08-06",
+    "author": "CapitanBarbaCoa",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/IMNG00001/imango.vpk",
+    "size": 3795012,
+    "sha256": "8c3686083a30c957f5b11676f36d11d02e1cabae6c74f809ac82040f9f47f1b1",
+    "icon": "homebrew/IMNG00001/icon.png",
+    "description": "Медиаплеер в стиле Coverflow для PSVita.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
