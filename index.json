@@ -1,5 +1,5 @@
 {
- "version": "9a94723fdcd8",
+ "version": "1685f3be40db",
  "categories": {
   "ports": [
    {
@@ -4909,6 +4909,39 @@
      "ports/DOOMRPG00/s3.jpg"
     ],
     "description": "Порт Doom RPG на PS Vita, основанный на реверс-инжиниринге от [GEC]. Все заслуги принадлежат команде GEC, без их огромной работы этого проекта не существовало бы.\\n\\nНужны файлы оригинальной игры (Mobile), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/jakubito/DoomRPG-RE-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DRFINKLAB",
+    "name": "Dr Fink's Robot Lab Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DRFINKLAB/fink.vpk",
+    "size": 2309698,
+    "sha256": "acddb8d010e0db6b705e033ace874562c7805ef2ff52434d1ce501422b6a5a0b",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/DRFINKLAB/icon.png",
+    "shots": [
+     "ports/DRFINKLAB/s1.jpg",
+     "ports/DRFINKLAB/s2.jpg",
+     "ports/DRFINKLAB/s3.jpg"
+    ],
+    "description": "Это обёртка/порт Dr Fink's Robot Lab для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, и он патчится для корректной работы. По сути, это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/fink_vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DROP54000",
+    "name": "Dropsy Vita",
+    "version": "1.02",
+    "author": "LordChickenBlaster",
+    "vpk": "https://firsts3.ru/vpkgj/ports/DROP54000/DropsyVITA.vpk",
+    "size": 15101246,
+    "sha256": "4be880808c9e4c0336fc8b83d7daf0cfdf865e0e86659d9b37c8f34eb4821d70",
+    "icon": "ports/DROP54000/icon.png",
+    "shots": [
+     "ports/DROP54000/s1.jpg",
+     "ports/DROP54000/s2.jpg",
+     "ports/DROP54000/s3.jpg"
+    ],
+    "description": "Dropsy — нетрадиционный взгляд на классический point-and-click квест. Главный герой, вечно беззаботный клоун, исследует богато детализированный мир, полный ярких персонажей и зловещих тайн, и раздаёт объятия по пути.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -6628,6 +6661,52 @@
      "homebrew/DOS1ESCHE/s2.jpg"
     ],
     "description": "М. К. Эшер устал быть MC и решил попробовать себя в роли DJ!\\nОн бросает шестиугольные виниловые пластинки с записями своей любимой группы поющих картофелин, а вам нужно поймать как можно больше своими вертушками.\\n\\nИсходники: gitlab.com/dosowisko.net/djescher/\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DOS1POTAT",
+    "name": "Non-Competitive Singing Potatoes",
+    "version": "1.0",
+    "author": "dos & Holy Pangolin",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DOS1POTAT/potatoes-vita.vpk",
+    "size": 22941783,
+    "sha256": "cae6caada6c25a3ffc3bfbfc3394ace62c739231b4d4a1a514457c3600fafd20",
+    "icon": "homebrew/DOS1POTAT/icon.png",
+    "shots": [
+     "homebrew/DOS1POTAT/s1.jpg",
+     "homebrew/DOS1POTAT/s2.jpg"
+    ],
+    "description": "Никаких соревнований, только пение.\\nВы — группа поющих картофелин, и вы поёте, не соревнуясь.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DOS1RUKAV",
+    "name": "Rukavychka",
+    "version": "1.0",
+    "author": "Holy Pangolin & dos",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DOS1RUKAV/rukavychka-vita.vpk",
+    "size": 26869727,
+    "sha256": "8a732ac2a01bf999c075e8ab9fd228727f6b10a04de799b8bc9a52561bc97720",
+    "icon": "homebrew/DOS1RUKAV/icon.png",
+    "shots": [
+     "homebrew/DOS1RUKAV/s1.jpg",
+     "homebrew/DOS1RUKAV/s2.jpg"
+    ],
+    "description": "Игра вдохновлена украинской легендой о рукавичке: старик потерял рукавичку, которая стала домом для множества лесных зверей, больших и малых, от маленькой мышки до огромного медведя. В сказке старик забирает рукавичку обратно, но мы представляем историю, в которой звери могут безопасно жить в волшебном доме. Они потерялись, и нам нужно привести их к нему: помогают лиса из украинской сказки и Вавельский дракон из польских легенд, чтобы объединить наши народы в социальном сотрудничестве и построить безопасное будущее для всех (включая лесных существ, которым тоже нужен мир, чтобы существовать).\\n\\nИсходники: gitlab.com/HolyPangolin/rukavychka\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "DRON57468",
+    "name": "Super Drone Racer Ultra",
+    "version": "1.0",
+    "author": "JacobsPlayground",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/DRON57468/DR0056.vpk",
+    "size": 57031071,
+    "sha256": "63a95e0ee30b68fb765fe4f598669bb06444a61366931509c063d8e19e8a55ca",
+    "icon": "homebrew/DRON57468/icon.png",
+    "shots": [
+     "homebrew/DRON57468/s1.jpg",
+     "homebrew/DRON57468/s2.jpg",
+     "homebrew/DRON57468/s3.jpg"
+    ],
+    "description": "Аркадная гонка в стиле synthwave.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
