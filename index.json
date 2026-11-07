@@ -1,5 +1,5 @@
 {
- "version": "bddbf33caf87",
+ "version": "70217f5ba442",
  "categories": {
   "ports": [
    {
@@ -8717,6 +8717,66 @@
      "ports/RKYCASTLE/s3.jpg"
     ],
     "description": "Это обёртка/порт Rocky Castle для PS Vita.\\nПорт работает так: официальные исполняемые файлы Android ARMv7 загружаются в память, их импорты подменяются нативными функциями, а сами файлы патчатся для корректного запуска. По сути, это эмуляция минималистичной среды Android, в которой исполняемые файлы запускаются нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/rocky-castle-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RLYX00002",
+    "name": "Vita Milk",
+    "version": "1.03",
+    "author": "rlyx",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RLYX00002/Vita_Milk.vpk",
+    "size": 15734635,
+    "sha256": "fe3fec3b06780e8a221062a6277d34714128b07d4a83a89d71e7d9439bb73211",
+    "icon": "ports/RLYX00002/icon.png",
+    "description": "Короткая история о том, какими испытаниями могут оказаться повседневные мелочи. Помогите девушке купить молоко, станьте первым, кто её не разочарует.\\nИгра — небольшая визуальная новелла, показывающая то забавные абстракции и игру слов, то мучительные психологические эпизоды. Утверждать, что история основана на реальных событиях, было бы слишком конкретно, поэтому проще сделать вид, что это просто набор абстракций и игры слов.\\n\\nИсходники: gitlab.com/rlyx/vita-milk\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RLYX00003",
+    "name": "Vita Kohana",
+    "version": "1.02",
+    "author": "rlyx",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RLYX00003/Vita_Kohana.vpk",
+    "size": 14785560,
+    "sha256": "268c1f9d517ebb94b027913c9b96f1add3d61cc3b4ff2112ca4df9374d6e4b1f",
+    "icon": "ports/RLYX00003/icon.png",
+    "description": "Kohana — короткая визуальная новелла, сделанная за один месяц студией Mushroomallow Studio для события Spooktober VN Jam 2021. В ней можно найти 2 разные концовки.\\n\\nИсходники: gitlab.com/rlyx/vita-kohana\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RLYX00004",
+    "name": "Vita First Sight",
+    "version": "1.00",
+    "author": "rlyx",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RLYX00004/Vita_First_Sight.vpk",
+    "size": 14664602,
+    "sha256": "ee7790108a46de60ed207799faeb6083d706571b54b158560d25a290f2ec663b",
+    "icon": "ports/RLYX00004/icon.png",
+    "description": "Порт визуальной новеллы Love at First Sight для PSVITA.\\n\\nИсходники: gitlab.com/rlyx/vita-first-sight\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RNEGA3101",
+    "name": "Renegade Vita",
+    "version": "A3.5 Dev142",
+    "author": "TheGh0stShip",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RNEGA3101/RenegadeVita.vpk",
+    "size": 3801778,
+    "sha256": "52927e6cf8f521ad025b2921343ddc2f0c678e88f2817a55eb8228694b24520e",
+    "requires": "libshacccg",
+    "icon": "ports/RNEGA3101/icon.png",
+    "description": "Нативный ARM-порт исходного кода Command & Conquer: Renegade для PlayStation Vita.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/TheGh0stShip/RenegadeVita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RNPYDDLC1",
+    "name": "Doki Doki Literature Club Vita",
+    "version": "1.0.1",
+    "author": "SonicMastr",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RNPYDDLC1/ddlc.vpk",
+    "size": 17191800,
+    "sha256": "5d7570c9edfa179ed791f241af29e0b4dde71fca771cc29b8d8462351eb78de9",
+    "icon": "ports/RNPYDDLC1/icon.png",
+    "shots": [
+     "ports/RNPYDDLC1/s1.jpg",
+     "ports/RNPYDDLC1/s2.jpg"
+    ],
+    "description": "Порт Doki Doki Literature Club! для PSVITA, работающий на renpy.\\nDoki Doki Literature Club! (DDLC) — бесплатная визуальная новелла 2017 года, разработанная американской независимой студией Team Salvato.\\n\\nНужны файлы оригинальной игры (PC Steam), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -13942,6 +14002,37 @@
      "homebrew/RETROFLOW/s3.jpg"
     ],
     "description": "Это модифицированная версия HexFlow Launcher — 3D-лаунчера в стиле coverflow для PS Vita.\\nВ эту версию добавлены категории для ретро-игр, которые можно запускать без бабблов для RetroArch и DaedalusX64. Игры PlayStation и PSP тоже можно запускать без создания бабблов для каждой игры.\\n\\nИсходники: github.com/jimbob4000/RetroFlow-Launcher\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RMTCLI001",
+    "name": "vita-ezremote-client",
+    "version": "1.12",
+    "author": "cy33hc",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/RMTCLI001/ezremoteclient.vpk",
+    "size": 17773809,
+    "sha256": "db9aa4741fb5280c8864edca8b39b226ef0d7394e81ebd539d8146adfda5a9a6",
+    "requires": "libshacccg",
+    "icon": "homebrew/RMTCLI001/icon.png",
+    "shots": [
+     "homebrew/RMTCLI001/s1.jpg"
+    ],
+    "description": "ezRemote Client — файловый менеджер, позволяющий подключать Vita к удалённым серверам FTP, SMB, NFS и WebDAV для передачи файлов и управления ими. Интерфейс вдохновлён клиентом Filezilla и представляет собой GUI в стиле коммандера.\\n\\nИсходники: github.com/cy33hc/vita-ezremote-client/\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RNPY20221",
+    "name": "Red Moon of April",
+    "version": "1.11",
+    "author": "Sansigolo",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/RNPY20221/RedMoon.vpk",
+    "size": 43552816,
+    "sha256": "2239aee28bf20f2e64d7d0c527c3b851eb8ec2afa3bd62acbde8fbf6d2765832",
+    "icon": "homebrew/RNPY20221/icon.png",
+    "shots": [
+     "homebrew/RNPY20221/s1.jpg",
+     "homebrew/RNPY20221/s2.jpg",
+     "homebrew/RNPY20221/s3.jpg"
+    ],
+    "description": "Red Moon of April — научно-фантастическая визуальная новелла о Кохиме, японской девушке, которая, потеряв всё, отправилась в месячное путешествие на своём Metal Knight.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
