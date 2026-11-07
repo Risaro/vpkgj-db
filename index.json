@@ -1,5 +1,5 @@
 {
- "version": "f846edb4acde",
+ "version": "cc870dd7312a",
  "categories": {
   "ports": [
    {
@@ -9659,6 +9659,22 @@
      "ports/SOSR00003/s3.jpg"
     ],
     "description": "Порт фанатской игры Sonic SMS 3 Timelines v3.2 beta2 на PSVita.\\nПрисоединяйтесь к Turquoise Hill в невиданном виде: пружины, воздушные шары и секретные стены повсюду. В зависимости от того, как вы пройдёте уровень, вы попадёте в специальный этап на ракетных ботинках или перенесётесь в другое измерение, чтобы попытаться получить Time Stone. А ещё: сможете ли вы найти, где в саду Tiny Animal спрятана мини-игра Pairs?\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SOTT06722",
+    "name": "Sonic Time Twisted",
+    "version": "1.1.2.1",
+    "author": "MEGAgameBoy & MDashK",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SOTT06722/SonicTimeTwisted.vpk",
+    "size": 102118727,
+    "sha256": "679d481340a3065322fcdac355a3b39548a3e963ea3e142c5a330669e4687c34",
+    "icon": "ports/SOTT06722/icon.png",
+    "shots": [
+     "ports/SOTT06722/s1.jpg",
+     "ports/SOTT06722/s2.jpg",
+     "ports/SOTT06722/s3.jpg"
+    ],
+    "description": "Sonic Time Twisted — фанатская игра по Sonic the Hedgehog, вдохновлённая Sonic CD и Sonic 3 & Knuckles. Оригинальная игра от Overbound Game Studio.\\n\\nИсходники: github.com/MEGAgameBoy/Sonic-Time-Twisted-PS-Vita-Port\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -15633,6 +15649,22 @@
      "homebrew/SONIC1111/s2.jpg"
     ],
     "description": "Простая экшен-игра, фанатская игра по Sonic.\\nУправление простое: достаточно нажимать кнопки.\\nВперёд!\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SOUL45638",
+    "name": "FALLEN KNIGHTS",
+    "version": "0.2",
+    "author": "VitaHEX Games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SOUL45638/Fallen-Knights.vpk",
+    "size": 90545320,
+    "sha256": "de0f465516f22bdf3cf04dd3e3da08d66f40b1c013f33f86e5145cc0a1221d48",
+    "icon": "homebrew/SOUL45638/icon.png",
+    "shots": [
+     "homebrew/SOUL45638/s1.jpg",
+     "homebrew/SOUL45638/s2.jpg",
+     "homebrew/SOUL45638/s3.jpg"
+    ],
+    "description": "Fallen Knights — экшен/приключенческая игра в тёмном мире демонов и замков.\\nВ игре есть элементы, похожие на серию Souls. Нужно исследовать большую карту, полную смертельно опасных врагов.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
