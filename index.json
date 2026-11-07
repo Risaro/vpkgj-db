@@ -1,5 +1,5 @@
 {
- "version": "2b21466c77b3",
+ "version": "3f66543c2f54",
  "categories": {
   "ports": [
    {
@@ -9411,6 +9411,64 @@
      "ports/SMB2SAKED/s3.jpg"
     ],
     "description": "Это обёртка/порт Super Monkey Ball 2: Sakura Edition для PS Vita.\\nПорт работает так: официальные исполняемые файлы Android ARMv7 загружаются в память, их импорты подменяются нативными функциями, а сами файлы патчатся для корректного запуска. По сути, это эмуляция минималистичной среды Android, в которой исполняемые файлы запускаются нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/smb2se-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SMBV00001",
+    "name": "SuperMarioBros C Vita",
+    "version": "0.1",
+    "author": "Gustavo3211",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SMBV00001/smbc.vpk",
+    "size": 1125976,
+    "sha256": "c004d130c0e0505549adf0e7e58431814821db7c72139a3f78b794a571ed3630",
+    "icon": "ports/SMBV00001/icon.png",
+    "shots": [
+     "ports/SMBV00001/s1.jpg"
+    ],
+    "description": "Порт Super Mario Bros на основе декомпиляции оригинальной игры для NES.\\n\\nНужны файлы оригинальной игры (NES), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Gustavo3211/SuperMarioBros-C-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SMGV00001",
+    "name": "Super Mario Galaxy Vita",
+    "version": "1.1",
+    "author": "CBOC-Vita",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SMGV00001/Galaxy-Vita.vpk",
+    "size": 6973544,
+    "sha256": "7a9edc2570c953b9b95b0a61d3a9acb95a8cc0dfdf74c85e863e231d59af72e6",
+    "requires": "libshacccg",
+    "icon": "ports/SMGV00001/icon.png",
+    "shots": [
+     "ports/SMGV00001/s1.jpg",
+     "ports/SMGV00001/s2.jpg"
+    ],
+    "description": "Это Super Mario Galaxy, нативно работающая на PS Vita. Здесь нет ни эмулятора, ни стриминга: сама игра была перестроена для работы на собственном процессоре и графическом чипе Vita. Мы не нашли никого, кто раньше запускал Galaxy на Vita, так что, насколько нам известно, это первый случай.\\nЗапустите игру, и вы окажетесь в Comet Observatory под музыку Rosalina, держа всю игру в руках. И играется она так, будто создана для Vita: проводите пальцем по заднему тачпаду, чтобы целиться Star Bits, касайтесь экрана там, куда раньше указывали Wii Remote, и наклоняйте Vita, чтобы катить Star Ball.\\n\\nНужны файлы оригинальной игры (Wii), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/CBOC-Vita-Lab/galaxy-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SMRV00000",
+    "name": "Super Mega Runners Vita",
+    "version": "1.00",
+    "author": "Regular Character",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SMRV00000/smrun.vpk",
+    "size": 14733060,
+    "sha256": "f6a769f162c0bddc6137b53557774f826f2ff4add2cddbd363c5bbd2a8d7109d",
+    "icon": "ports/SMRV00000/icon.png",
+    "shots": [
+     "ports/SMRV00000/s1.jpg",
+     "ports/SMRV00000/s2.jpg",
+     "ports/SMRV00000/s3.jpg"
+    ],
+    "description": "Порт Super Mega Runners для PS Vita. Раннер, вдохновлённый 8-битными ретро-играми.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SMSVITA01",
+    "name": "Strikers Vita",
+    "version": "1.5.0",
+    "author": "robin994",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SMSVITA01/strikers_vita.vpk",
+    "size": 3923112,
+    "sha256": "971af6b6514abcf7eeac5d385de8348e1f56cd970f5a154d69018714670616be",
+    "requires": "libshacccg",
+    "icon": "ports/SMSVITA01/icon.png",
+    "description": "Неофициальный порт Super Mario Strikers / Mario Smash Football для PlayStation Vita. Текущий рантайм использует VitaGL, подготовленную на PC нативную графику, PCM-аудио и видеоролики MP4 H.264/AAC, стримящиеся из PSARC через SceAvPlayer. Проект всё ещё в разработке. Следующая цель по производительности — стабильные 30 FPS в рендерных катсценах, затем 60 FPS. Ни одна из целей пока не достигнута и не подтверждена.\\n\\nИсходники: github.com/robin994/strikersVita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -15277,6 +15335,36 @@
      "homebrew/SMBCLI001/s1.jpg"
     ],
     "description": "Простое приложение SMB-клиента для Vita для подключения к удалённым ресурсам Windows, SMB-ресурсам Linux и NAS для передачи файлов туда и обратно.\\n\\nИсходники: github.com/cy33hc/vita-smb-client\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SMLA00001",
+    "name": "Vita Launcher",
+    "version": "3.9.6",
+    "author": "cy33hc",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SMLA00001/launcher.vpk",
+    "size": 5286589,
+    "sha256": "b6f5101e05775882baa6841cf543db8d3fb86d097cb6eb9ec0d6f1e1cf0ec193",
+    "icon": "homebrew/SMLA00001/icon.png",
+    "shots": [
+     "homebrew/SMLA00001/s1.jpg"
+    ],
+    "description": "Приложение для запуска других установленных приложений, ромов из эмуляторов, а также игр и хоумбрю для PSP через Adrenaline. Снимает ограничение LiveArea на количество бабблов и позволяет раскладывать приложения по категориям.\\n\\nИсходники: github.com/cy33hc/vita-launcher\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SMTV00001",
+    "name": "Smash TV HD-2D",
+    "version": "1.0",
+    "author": "captkuso",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SMTV00001/smash_tv.vpk",
+    "size": 23896518,
+    "sha256": "89d8b4dca50b18efbfa4f62afda1521d609ce289a5e4f1b6461fcdf31ceab1c4",
+    "icon": "homebrew/SMTV00001/icon.png",
+    "shots": [
+     "homebrew/SMTV00001/s1.jpg",
+     "homebrew/SMTV00001/s2.jpg",
+     "homebrew/SMTV00001/s3.jpg"
+    ],
+    "description": "Короткая экшен-игра для PSVITA, сделанная на Godot.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
