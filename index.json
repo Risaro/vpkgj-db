@@ -1,5 +1,5 @@
 {
- "version": "97dd79b3da89",
+ "version": "f42b0465194c",
  "categories": {
   "ports": [
    {
@@ -9216,6 +9216,53 @@
      "ports/SEGA12345/s2.jpg"
     ],
     "description": "Порт 8-Bit Bayonetta для PSVITA.\\n8-Bit Bayonetta, ранее известная как Angel Land, — неточно названная экшен-стрелялка в стиле 16 бит для веб-браузеров, основанная на серии игр Bayonetta.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SFIV00001",
+    "name": "SF4 Vita",
+    "version": "1.0.0",
+    "author": "John Lay",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SFIV00001/sf4-vita.vpk",
+    "size": 2718776,
+    "sha256": "28efa3ce7c3158146f6ee719be36f92ade97229351ca05cc486f6a112bc0370f",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/SFIV00001/icon.png",
+    "shots": [
+     "ports/SFIV00001/s1.jpg"
+    ],
+    "description": "Порт Android-версии Street Fighter IV: Champion Edition на PlayStation Vita.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/john-lay/sf4-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SFMR10000",
+    "name": "SF1MR Vita",
+    "version": "1.1",
+    "author": "AnasHalideen",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SFMR10000/SF1MR.vpk",
+    "size": 33517678,
+    "sha256": "c299c8348eb43da55085ddc2d97780990bc255a028febb2bc1bf68c889793e78",
+    "icon": "ports/SFMR10000/icon.png",
+    "shots": [
+     "ports/SFMR10000/s1.jpg",
+     "ports/SFMR10000/s2.jpg",
+     "ports/SFMR10000/s3.jpg"
+    ],
+    "description": "Порт для PS Vita популярного Mugen-ремейка Street Fighter One (SF1MR) на движке Dolmexica Infinite.\\nStreet Fighter One M.U.G.E.N Remake. Ещё одна игра Street Fighter на Mugen. На этот раз это ремейк самой первой игры Street Fighter, называемой просто Street Fighter 1, которая в домашних портах также известна как Fighting Street.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SHDS88320",
+    "name": "Siren Head Dating Sim",
+    "version": "1.01",
+    "author": "Rayc",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SHDS88320/siren_head.vpk",
+    "size": 31793401,
+    "sha256": "65dd559cc7333dde1eaaa3b95a47881f36cb26b82f848652f97a038d6e76c23e",
+    "icon": "ports/SHDS88320/icon.png",
+    "shots": [
+     "ports/SHDS88320/s1.jpg",
+     "ports/SHDS88320/s2.jpg",
+     "ports/SHDS88320/s3.jpg"
+    ],
+    "description": "Порт Siren Head Dating Sim для PSVITA.\\nВы когда-нибудь смотрели на Siren Head и думали: «Чувак, я бы с ним определённо встречался»?\\nТеперь это возможно!\\nПопробуйте Siren Head Dating Sim и проведите волшебный день с Siren Head!\\nГлавное — постарайтесь не погибнуть.\\n\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -14786,6 +14833,38 @@
      "homebrew/SFHB00001/s2.jpg"
     ],
     "description": "UniPCemu — циклически точный эмулятор x86 (ранее назывался x86EMU до переименования; не основан на другом эмуляторе процессора x86emu со строчными буквами). Это эмулятор от 8086 (IBM PC) до Pentium II (Compaq Deskpro 386, Compaq Deskpro 386 с мышью PS/2 (добавляет мышь PS/2 к чипсету Compaq Deskpro 386, с опциональной заменой BIOS ROM (загружается вместо него) или, как вариант, чипсет i430fx Pentium или i440fx Pentium Pro/Pentium II с мышью PS/2) и отдельными настройками CMOS, как у других архитектур) (с различным настраиваемым оборудованием), с таймингами вплоть до 80386 (80486SX и Pentium используют тайминги 80386 или 1 цикл для новых/неизвестных таймингов/инструкций, и у обоих нет блока вычислений с плавающей запятой).\\n\\nИсходники: bitbucket.org/superfury/unipcemu/src/default/\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SHC100001",
+    "name": "Super Hero Chronicles",
+    "version": "1.0",
+    "author": "Island_Games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SHC100001/Super_Hero_Chronicles.vpk",
+    "size": 6289721,
+    "sha256": "1e283f3c8a9eab428d035d84b08afa99e0aed37f4abd581816e43f742fd6bcae",
+    "icon": "homebrew/SHC100001/icon.png",
+    "shots": [
+     "homebrew/SHC100001/s1.jpg",
+     "homebrew/SHC100001/s2.jpg",
+     "homebrew/SHC100001/s3.jpg"
+    ],
+    "description": "Шутер с горизонтальной прокруткой для PSVITA/PSTV.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SHDW00001",
+    "name": "AdvRemap",
+    "version": "Alpha 1",
+    "author": "ShadowPrince",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SHDW00001/advremap.vpk",
+    "size": 363307,
+    "sha256": "3bbeb17b0805ab5b2ecdea1a86defe252723919a0f81faa41db6be49f0b868e3",
+    "icon": "homebrew/SHDW00001/icon.png",
+    "shots": [
+     "homebrew/SHDW00001/s1.jpg",
+     "homebrew/SHDW00001/s2.jpg",
+     "homebrew/SHDW00001/s3.jpg"
+    ],
+    "description": "Хоумбрю для PSVita для переназначения управления и назначения макросов.\\n\\nИсходники: github.com/ShadowPrince/advremap\\nИсточник: VitaDB."
    }
   ],
   "translations": [
