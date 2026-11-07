@@ -1,5 +1,5 @@
 {
- "version": "0002a8fa5849",
+ "version": "0cb2a563d2b0",
  "categories": {
   "ports": [
    {
@@ -8097,6 +8097,55 @@
      "ports/PCSE69420/s3.jpg"
     ],
     "description": "Помогите Изабелле улучшить навыки балета в Isabelle Dance Studio. Нажимайте на звёзды, чтобы Изабелла тянулась и прыгала, не давая им упасть. Касайтесь звёзд, чтобы получать очки. Пусть звёзды попадают в самоцветы, чтобы заполнить шкалу звёздного взрыва и открыть её особую силу. Нажимайте на мегазвёзды ради дополнительных очков и сил, но не трогайте чёрную жемчужину! Если коснётесь, придётся начинать заново. Помните, практика ведёт к совершенству!\\nЭто обновлённый и модернизированный порт игры для PS Vita (и поздних релизов для Android), собранный на Unity 2018.2.19f1.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PDTA10721",
+    "name": "Please, Don't Touch Anything",
+    "version": "1.07",
+    "author": "hatoving",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PDTA10721/PleaseDontTouchAnything.vpk",
+    "size": 2938656,
+    "sha256": "f1f24f7aa33265d461995549095e589e1b6ccb39cbebd77b2eca7d4f7cf02b79",
+    "icon": "ports/PDTA10721/icon.png",
+    "shots": [
+     "ports/PDTA10721/s1.jpg",
+     "ports/PDTA10721/s2.jpg",
+     "ports/PDTA10721/s3.jpg"
+    ],
+    "description": "Please, Don't Touch Anything — загадочный, выносящий мозг симулятор нажатия кнопки.\\nПока коллега отошёл в туалет, вы оказываетесь перед таинственной панелью, единственный элемент которой — красная кнопка. И раз вам прямо сказали ничего не трогать, единственное, чего вам теперь хочется, — нажать эту чёртову кнопку.\\nНажмите её и будьте готовы отвечать за любые непредвиденные последствия. А их будет много. Благодарности m1s3ry, Grossleymoo, Four Quarters Team и ForwardXP.\\n\\nНужны файлы оригинальной игры (Android OR PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PDWT00001",
+    "name": "PlumbersDontWearTies-SDL-vita",
+    "version": "1.0",
+    "author": "Serph",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PDWT00001/PlumbersDontWearTies.vpk",
+    "size": 1252752,
+    "sha256": "f8b8ad2d674214f2e7c5ed1cd63f5879724611bf88435827bc6c0969ee05fed1",
+    "icon": "ports/PDWT00001/icon.png",
+    "shots": [
+     "ports/PDWT00001/s1.jpg",
+     "ports/PDWT00001/s2.jpg",
+     "ports/PDWT00001/s3.jpg"
+    ],
+    "description": "Plumbers Don't Wear Ties — «романтическая комедия» для взрослых, визуальная новелла/симулятор свиданий, разработанная United Pixtures и изданная Kirin Entertainment для 3DO Interactive Multiplayer. \\nХотя у игры была и DOS-версия, она распространялась очень ограниченно и издавалась самой United Pixtures. \\nВ главных ролях Edward J. Foster и Jeanne Basone в роли Джона и Джейн соответственно — двух людей, на которых родители давят, чтобы они нашли себе супруга. \\nЗадача игрока — свести Джона и Джейн.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Serph/PlumbersDontWearTies-SDL-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PEKKAKANA",
+    "name": "Pekka Kana 2 Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PEKKAKANA/Pekka2.vpk",
+    "size": 1761732,
+    "sha256": "82ebcc96568ac083a1ce11e1b16058a5981316da7363003ea0ade6a75520cd04",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/PEKKAKANA/icon.png",
+    "shots": [
+     "ports/PEKKAKANA/s1.jpg",
+     "ports/PEKKAKANA/s2.jpg",
+     "ports/PEKKAKANA/s3.jpg"
+    ],
+    "description": "Это враппер/порт Pekka Kana 2 для Android для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, а сам файл патчится для корректного запуска.\\nПо сути, это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/Pekka-Kana-2-Vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -12655,6 +12704,82 @@
      "homebrew/PCSB00999/s1.jpg"
     ],
     "description": "Станьте маленькой мышкой с угасающим прошлым в Lantern Mouse — приключении от третьего лица о возвращении потерянных воспоминаний. Эта ранняя демоверсия показывает основу мира — открытое окружение с деревьями и местностью для исследования — и управляемую мышь.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PCSXR0001",
+    "name": "PCSX AwO",
+    "version": "0.5.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PCSXR0001/pcsx-awo.vpk",
+    "data": "https://firsts3.ru/vpkgj/homebrew/PCSXR0001/data.zip",
+    "data_path": "ux0:data",
+    "size": 2715358,
+    "sha256": "fba71dcdbcbabd6e591192bf5df24feb537d3a79347826b3f90fed4df1d81e7f",
+    "requires": "libshacccg,kubridge",
+    "icon": "homebrew/PCSXR0001/icon.png",
+    "shots": [
+     "homebrew/PCSXR0001/s1.jpg",
+     "homebrew/PCSXR0001/s2.jpg",
+     "homebrew/PCSXR0001/s3.jpg"
+    ],
+    "description": "PCSX AwO (ARMed with Octane) — форк PCSX ReARMed, специально заточенный под PSVita, с ультраоптимизированным новым рендерером, созданным на основе Crash Team Racing: High Octane.\\nПоддерживает нативное внутреннее разрешение Vita, MSAA 4x, генерацию кадров, постобработку шейдерами и многое другое.\\n\\nИсходники: github.com/Rinnegatamante/PCSX_AwO\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PEND00000",
+    "name": "AccountSwitcher",
+    "version": "2.4",
+    "author": "pendor",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PEND00000/AccountSwitcher.vpk",
+    "size": 441993,
+    "sha256": "e05b45bbedd5bd0266148743ee272ac6f40cedf67a3b47f37f35d48ac3690369",
+    "icon": "homebrew/PEND00000/icon.png",
+    "shots": [
+     "homebrew/PEND00000/s1.jpg"
+    ],
+    "description": "Приложение для переключения аккаунтов PSN на одной SD-карте. Очень полезно, если на карте есть контент с нескольких аккаунтов: можно беспрепятственно переключаться между ними.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PFBN00001",
+    "name": "pFBN",
+    "version": "7.2",
+    "author": "cpasjuste",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PFBN00001/pfbneo.vpk",
+    "size": 15451845,
+    "sha256": "435b5178d9d733581571f4da8fa441377eee94d2dc1a79f6c5e65ff8e48adfb2",
+    "icon": "homebrew/PFBN00001/icon.png",
+    "shots": [
+     "homebrew/PFBN00001/s1.jpg"
+    ],
+    "description": "Эмулятор нескольких аркадных платформ, мультиплатформенный порт эмулятора FinalBurn Neo.\\n\\nИсходники: github.com/Cpasjuste/pemu\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PGBA00001",
+    "name": "pGBA",
+    "version": "7.2",
+    "author": "cpasjuste",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PGBA00001/pgba.vpk",
+    "size": 3654153,
+    "sha256": "0c86d16547ecd61fe56e659473c3f37818705c06c69bef3adb98b36f58251182",
+    "icon": "homebrew/PGBA00001/icon.png",
+    "shots": [
+     "homebrew/PGBA00001/s1.jpg"
+    ],
+    "description": "Мультиплатформенный эмулятор GBA на основе mGBA.\\n\\nИсходники: github.com/Cpasjuste/pemu\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PGEN00001",
+    "name": "pGEN",
+    "version": "7.2",
+    "author": "cpasjuste",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PGEN00001/pgen.vpk",
+    "size": 3871356,
+    "sha256": "c5513b8039f085acd69b2b74563ef51e3d6ee6a7d5d2bb6ebe21d95314f42237",
+    "icon": "homebrew/PGEN00001/icon.png",
+    "shots": [
+     "homebrew/PGEN00001/s1.jpg",
+     "homebrew/PGEN00001/s2.jpg"
+    ],
+    "description": "Эмулятор Sega Genesis, мультиплатформенный порт Genesis Plus GX.\\n\\nИсходники: github.com/Cpasjuste/pemu\\nИсточник: VitaDB."
    }
   ],
   "translations": [
