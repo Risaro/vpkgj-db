@@ -1,5 +1,5 @@
 {
- "version": "d509f6be716c",
+ "version": "21594c643f64",
  "categories": {
   "ports": [
    {
@@ -7714,6 +7714,80 @@
      "ports/ONAR00001/s3.jpg"
     ],
     "description": "Отбивайтесь от орд классических средневековых монстров в динамичном аркадном шутере!\\nВы — Кзам, опытный боец. Побеждайте волну за волной безжалостных врагов: гоблинов, циклопов, злых колдунов, песчаных червей и других! К счастью, в вашем арсенале самое разное смертоносное оружие: мечи, кинжалы, копья, боевые топоры и даже огненные шары!\\nКак долго вы продержитесь на арене?!\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ONEGAVITA",
+    "name": "Eugene Onegin Vita",
+    "version": "1.0",
+    "author": "FARGUSJUNJA",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ONEGAVITA/Eugene.Onegin.vpk",
+    "size": 195885335,
+    "sha256": "5671bd1260baf264686af412eb739d2fcd7bd0f6e5700886810bbaf415bc0425",
+    "icon": "ports/ONEGAVITA/icon.png",
+    "description": "Визуальная новелла по бессмертному роману в стихах Александра Пушкина, выпущенная в сентябре 2009 года. Игрок выступает невидимым наблюдателем, чьи решения могут повлиять на судьбы Онегина, Татьяны и Ленского, а также гостевых персонажей из других произведений русской классики.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OOPP54321",
+    "name": "Get the F off my lawn",
+    "version": "1.0",
+    "author": "Paulo",
+    "vpk": "https://firsts3.ru/vpkgj/ports/OOPP54321/Get%20the%20F%20off%20my%20lawn.vpk",
+    "size": 50247729,
+    "sha256": "429fd595f873361043000d61b1ecbefeec6a350f787efda82c022dad7b4f7505",
+    "icon": "ports/OOPP54321/icon.png",
+    "shots": [
+     "ports/OOPP54321/s1.jpg",
+     "ports/OOPP54321/s2.jpg"
+    ],
+    "description": "Порт Get the F off my lawn для PSVITA/PSTV.\\nЗащитите свой дом от Больших Плохих Волков.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OPENJAZZ1",
+    "name": "OpenJazz",
+    "version": "1.1",
+    "author": "usineur",
+    "vpk": "https://firsts3.ru/vpkgj/ports/OPENJAZZ1/OpenJazz.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/OPENJAZZ1/data.zip",
+    "data_path": "ux0:data",
+    "size": 752944,
+    "sha256": "5ef407f7cf764289b70c313e2d816dcaf340de966f7ca1e5941d8f289d8dfdb4",
+    "icon": "ports/OPENJAZZ1/icon.png",
+    "shots": [
+     "ports/OPENJAZZ1/s1.jpg"
+    ],
+    "description": "OpenJazz — бесплатная версия классических игр Jazz Jackrabbit™ с открытым исходным кодом. OpenJazz можно собрать на самых разных операционных системах, включая Windows 98/Me/XP и Linux. Для игры понадобятся файлы одной из оригинальных игр.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/usineur/openjazz\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OPENMRACE",
+    "name": "OpenMRac Vita",
+    "version": "1.0.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/OPENMRACE/OpenMRac.vpk",
+    "size": 7223492,
+    "sha256": "3abb14093cead62d3013ccb66b1b57b466f94fb1240adbfbd82b40935b983ce5",
+    "requires": "libshacccg",
+    "icon": "ports/OPENMRACE/icon.png",
+    "shots": [
+     "ports/OPENMRACE/s1.jpg",
+     "ports/OPENMRACE/s2.jpg",
+     "ports/OPENMRACE/s3.jpg"
+    ],
+    "description": "Порт OpenMRac для PSVITA.\\nOpenMRac — гонка с открытым исходным кодом, с заездами на время и мультиплеером на разделённом экране до 4 игроков.\\n\\nИсходники: github.com/Rinnegatamante/OpenMRac\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OPENTITUS",
+    "name": "OpenTitus",
+    "version": "1.0",
+    "author": "usineur",
+    "vpk": "https://firsts3.ru/vpkgj/ports/OPENTITUS/Titus.vpk",
+    "size": 543212,
+    "sha256": "0330eebed22dab5b48aa7bc3cf2c60e21c75b149c166079fa7562d3b84ac17f9",
+    "icon": "ports/OPENTITUS/icon.png",
+    "shots": [
+     "ports/OPENTITUS/s1.jpg",
+     "ports/OPENTITUS/s2.jpg"
+    ],
+    "description": "Порт игрового движка, на котором работают DOS-версии Titus the Fox.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/usineur/opentitus\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -12124,6 +12198,47 @@
      "homebrew/OMBK00001/s3.jpg"
     ],
     "description": "Приложение для чтения книг на PSVITA с поддержкой перевода.\\n\\nИсходники: github.com/ninuzzomagno/OmniBook\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ONSVITA01",
+    "name": "ONScripter-Vita",
+    "version": "1.0",
+    "author": "yizhigai",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ONSVITA01/ONScripter-Vita.vpk",
+    "size": 4567773,
+    "sha256": "fe27656f2c44ac357754dcab3fba5e2c8905762073b34915b25980f5ce138e2e",
+    "icon": "homebrew/ONSVITA01/icon.png",
+    "description": "Порт ONScripter для PSVITA. ONScripter (O-N-Scripter) — программа, которая интерпретирует и выполняет скрипты, написанные для NScripter, по-своему. Позволяет запускать игры на Windows, Android, iOS и других платформах, используя те же самые игровые данные.\\n\\nИсходники: gitee.com/yizhigai/onscripter-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OPENBOR01",
+    "name": "OpenBOR",
+    "version": "1.2",
+    "author": "cpasjuste & rsn8887 & Plombo",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/OPENBOR01/OpenBOR.vpk",
+    "size": 1026839,
+    "sha256": "05fbd7753092871bfe3f004ebd61f51dd6b9676496c57cacaff2196917cd21c5",
+    "icon": "homebrew/OPENBOR01/icon.png",
+    "shots": [
+     "homebrew/OPENBOR01/s1.jpg",
+     "homebrew/OPENBOR01/s2.jpg",
+     "homebrew/OPENBOR01/s3.jpg"
+    ],
+    "description": "OpenBOR — лучший 2D-игровой движок с более чем 10-летней активной разработкой. С OpenBOR можно сделать что угодно: от простых файтингов-мэшеров до масштабных проектов, соперничающих с самыми роскошными профессиональными играми. Скачайте один из десятков готовых игровых модулей или возьмите набор для разработки и создайте собственный!\\n\\nИсходники: github.com/rsn8887/openbor\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OPENNOWV0",
+    "name": "OpenNow Vita",
+    "version": "0.3.2",
+    "author": "josephinoo",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/OPENNOWV0/opennow-vita.vpk",
+    "size": 9435152,
+    "sha256": "a60d8cc520fa8e7fa39fd07a6781e49c3616ac2a05e3c9af5c31b173d548c14e",
+    "icon": "homebrew/OPENNOWV0/icon.png",
+    "shots": [
+     "homebrew/OPENNOWV0/s1.jpg"
+    ],
+    "description": "Нативный хомбрю-клиент GeForce NOW для PlayStation Vita.\\n\\nИсходники: github.com/OpenCloudGaming/OpenNOW-vita\\nИсточник: VitaDB."
    }
   ],
   "translations": [
