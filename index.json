@@ -1,5 +1,5 @@
 {
- "version": "d44a40f03f69",
+ "version": "0002a8fa5849",
  "categories": {
   "ports": [
    {
@@ -8003,6 +8003,100 @@
      "ports/PAUL00004/s2.jpg"
     ],
     "description": "Порт Echo Moth для PSVITA/PSTV.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PBNS00001",
+    "name": "PinballNS Vita",
+    "version": "1.1",
+    "author": "astro-plane",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PBNS00001/PinballNS.vpk",
+    "size": 481694,
+    "sha256": "cbc93ca9f203cedbaf79cc2f2a4ea3c89b0237af6957362074d4c943bd724739",
+    "icon": "ports/PBNS00001/icon.png",
+    "description": "Это порт Pinball NS от Reinhard Sharapov для PS Vita / PS TV. В оригинальной игре для Game Boy Color каждый стол разделён на верхнюю и нижнюю половины, и пока загружается другая половина, экран гаснет. Pinball NS объединяет их в единое поле: обе половины работают вместе, а шарик перекатывается из одной в другую без загрузок. Оригинальная физика сохранена, так что играется как картридж.\\nВ версии для Vita добавлен нативный ARM-фронтенд. Процессор Game Boy эмулируется на ассемблере ARM, написанном для Cortex-A9 в Vita, поэтому игра работает на полной скорости.\\n\\nНужны файлы оригинальной игры (GBC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/astro-plane/Pinball-NS-VITA-EDITION\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PBR002666",
+    "name": "Vita PrBoom++",
+    "version": "2.6.66-1.1",
+    "author": "Tony Fideo & fgsfds",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PBR002666/vita-prboom_vibed.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/PBR002666/data.zip",
+    "data_path": "ux0:data",
+    "size": 3155126,
+    "sha256": "eefaddf2ddaf63e975bd9816eeb6faabac40567e0e08ca1c5d63b3bffb108483",
+    "requires": "libshacccg",
+    "icon": "ports/PBR002666/icon.png",
+    "shots": [
+     "ports/PBR002666/s1.jpg",
+     "ports/PBR002666/s2.jpg"
+    ],
+    "description": "Улучшенный порт PrBoom+ 2.6.66 для PSVita.\\n\\nИсходники: github.com/TonyFideo/Vita-PrBoom-PlusPlus\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PCEXHUMED",
+    "name": "vitaExhumed",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PCEXHUMED/vitaExhumed.vpk",
+    "size": 1657588,
+    "sha256": "9f8f224c2459a5be60a9ae75daef69cf38d5969571c2bd81a98295b5d8f32fae",
+    "icon": "ports/PCEXHUMED/icon.png",
+    "shots": [
+     "ports/PCEXHUMED/s1.jpg",
+     "ports/PCEXHUMED/s2.jpg",
+     "ports/PCEXHUMED/s3.jpg"
+    ],
+    "description": "vitaExhumed — порт PCExhumed, форка EDuke32 с поддержкой игры PowerSlave/Exhumed. PowerSlave, известная в Европе как Exhumed, — шутер от первого лица, разработанный Lobotomy Software и изданный Playmates Interactive в 1996 году.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/vitaExhumed\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PCMN00001",
+    "name": "Pacman CE DX Vita",
+    "version": "3",
+    "author": "mcallbosco",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PCMN00001/pacmancedx.vpk",
+    "size": 1996349,
+    "sha256": "4304e5d5a129bf4e034a45ac57232f4a6f0709d598203c75e5e2bccb4333485e",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/PCMN00001/icon.png",
+    "shots": [
+     "ports/PCMN00001/s1.jpg",
+     "ports/PCMN00001/s2.jpg",
+     "ports/PCMN00001/s3.jpg"
+    ],
+    "description": "Хомбрю-порт PAC-MAN Championship Edition DX (Android) для PlayStation Vita на основе .so-загрузчика.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/mcallbosco/pacman-cedx-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PCOS21047",
+    "name": "PanComOS",
+    "version": "1.1",
+    "author": "hatoving",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PCOS21047/PanComOS.vpk",
+    "size": 14601663,
+    "sha256": "6b4c7e1eeef41014a974cdc8e01f18e41b6d1121d0e4271b1426fd69c73d5117",
+    "icon": "ports/PCOS21047/icon.png",
+    "shots": [
+     "ports/PCOS21047/s1.jpg",
+     "ports/PCOS21047/s2.jpg",
+     "ports/PCOS21047/s3.jpg"
+    ],
+    "description": "Добро пожаловать в PanCom OS, первую в мире операционную систему для фильтрации спама. Ваша задача — проверять электронные письма и решать, можно ли их отправлять. Зарабатывайте деньги, чтобы настраивать рабочий стол темами, курсорами и фонами! Вторгайтесь в частную жизнь людей во имя безопасности! Веселитесь и удачи! Большое спасибо и благодарности m1s3ry и Grossley за помощь, Hyohnoo и Viktor Kraus за создание этой игры.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PCSE69420",
+    "name": "Isabelle Dance Studio",
+    "version": "1.02-PSP2",
+    "author": "huckleberrypie & ParkingLotStudio",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PCSE69420/isabelle.vpk",
+    "size": 17515315,
+    "sha256": "6c6d84ae86dbf40edd703828ff12ad20c904b3c546568fceed53bd7bee55e17a",
+    "icon": "ports/PCSE69420/icon.png",
+    "shots": [
+     "ports/PCSE69420/s1.jpg",
+     "ports/PCSE69420/s2.jpg",
+     "ports/PCSE69420/s3.jpg"
+    ],
+    "description": "Помогите Изабелле улучшить навыки балета в Isabelle Dance Studio. Нажимайте на звёзды, чтобы Изабелла тянулась и прыгала, не давая им упасть. Касайтесь звёзд, чтобы получать очки. Пусть звёзды попадают в самоцветы, чтобы заполнить шкалу звёздного взрыва и открыть её особую силу. Нажимайте на мегазвёзды ради дополнительных очков и сил, но не трогайте чёрную жемчужину! Если коснётесь, придётся начинать заново. Помните, практика ведёт к совершенству!\\nЭто обновлённый и модернизированный порт игры для PS Vita (и поздних релизов для Android), собранный на Unity 2018.2.19f1.\\n\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -12498,6 +12592,69 @@
      "homebrew/PATH00027/s3.jpg"
     ],
     "description": "Программа для чтения документов на PS VITA на основе оригинального Bookr и bookr-mod для PSP.\\n\\nИсходники: github.com/pathway27/bookr-mod-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PAUSEGAME",
+    "name": "Pause",
+    "version": "1.0",
+    "author": "WZ",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PAUSEGAME/Pause.vpk",
+    "size": 48276346,
+    "sha256": "b5175d4b8625dc21a9fe65bbbdd599a7ce0e67a674b0c86ae430427962f9e6d9",
+    "icon": "homebrew/PAUSEGAME/icon.png",
+    "shots": [
+     "homebrew/PAUSEGAME/s1.jpg",
+     "homebrew/PAUSEGAME/s2.jpg",
+     "homebrew/PAUSEGAME/s3.jpg"
+    ],
+    "description": "В игре два режима: режим перемещения и режим заморозки. Режим перемещения позволяет поднимать и ставить объекты, например складывать стопку ящиков, чтобы добраться до высокого места. Режим заморозки позволяет замораживать объекты на месте, например зафиксировать ящик над пропастью, чтобы перейти на другую сторону и не упасть.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PCM300001",
+    "name": "Pro Camera Vita",
+    "version": "1.1",
+    "author": "VitaHEX games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PCM300001/ProCameraVita.vpk",
+    "size": 2871322,
+    "sha256": "c4862dc41a4e06b06beb89c19a143142d0ab37a3081f399b39c5444540ec5cc9",
+    "icon": "homebrew/PCM300001/icon.png",
+    "shots": [
+     "homebrew/PCM300001/s1.jpg",
+     "homebrew/PCM300001/s2.jpg",
+     "homebrew/PCM300001/s3.jpg"
+    ],
+    "description": "Pro Camera Vita — мощное приложение камеры, которое открывает все скрытые функции стандартного приложения камеры и добавляет множество новых возможностей. С Pro Camera Vita можно вручную настраивать яркость, контрастность, баланс белого, а также добавлять к фото эффекты и рамки в реальном времени с плавной частотой кадров.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PCRA00001",
+    "name": "PCSX ReArcade",
+    "version": "0.2",
+    "author": "frangarcj",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PCRA00001/pcsx-rearcade.vpk",
+    "size": 7544398,
+    "sha256": "84079b0a63ea6601b13aec66b6108dd39899e891a4e810961ec67a88e713d016",
+    "requires": "libshacccg",
+    "icon": "homebrew/PCRA00001/icon.png",
+    "shots": [
+     "homebrew/PCRA00001/s1.jpg",
+     "homebrew/PCRA00001/s2.jpg",
+     "homebrew/PCRA00001/s3.jpg"
+    ],
+    "description": "PCSX ReArcade — эмулятор аркадных игр Namco System 12 на основе PCSX-ReARMed и фронтенда PCSX AwO от Rinnegatamante. Игры загружаются из zip-архивов романсета MAME (split, merged или non-merged) и отображаются в виде 3D-аркадных автоматов на игровой полке, при этом региональные версии каждой игры сгруппированы вместе.\\nSoul Calibur, Tekken 3 и Tekken Tag Tournament проверены на PS Vita. Другие игры System 12, не использующие специального оборудования, распознаются, но пока не проверены; игры со световым пистолетом, Techno Drive, Truck Kyosokyoku, Um Jammer Lammy NOW!, Attack Pla Rail и Kart Duel не эмулируются.\\nЕсть два рендерера: vitaGL с HD-выводом и рендерер NEON с точным выводом PlayStation GPU, меню паузы с сохранениями состояния, настраиваемые кнопки аркады, тестовый переключатель платы для сервисного меню и усиление громкости звука платы. Изображение автомата можно взять из запущенной игры.\\n\\nИсходники: github.com/frangarcj/pcsx_rearmed\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PCSB00999",
+    "name": "Lantern Mouse",
+    "version": "1.0",
+    "author": "Stalgix",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PCSB00999/LMSubmit.vpk",
+    "size": 50358675,
+    "sha256": "a886b6304c930a2ef7d5ac2a0998b5c444350641a5f410108af498e818faa3e1",
+    "icon": "homebrew/PCSB00999/icon.png",
+    "shots": [
+     "homebrew/PCSB00999/s1.jpg"
+    ],
+    "description": "Станьте маленькой мышкой с угасающим прошлым в Lantern Mouse — приключении от третьего лица о возвращении потерянных воспоминаний. Эта ранняя демоверсия показывает основу мира — открытое окружение с деревьями и местностью для исследования — и управляемую мышь.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
