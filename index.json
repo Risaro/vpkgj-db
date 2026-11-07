@@ -1,5 +1,5 @@
 {
- "version": "4ee0da59f42f",
+ "version": "706a9c484dd5",
  "categories": {
   "ports": [
    {
@@ -7842,6 +7842,54 @@
      "ports/OSPX00001/s3.jpg"
     ],
     "description": "OpenSupaplex — реимплементация Supaplex с открытым исходным кодом от sergiou87. Supaplex — видеоигра, созданная двумя швейцарскими студентами Филиппом Йесперсеном и Михаэлем Штоппом и изданная Digital Integration в 1991 году. Это расширенный клон Boulder Dash.\\n\\nИсходники: github.com/sergiou87/open-supaplex\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OSU000001",
+    "name": "osu!octave",
+    "version": "1.20",
+    "author": "gl33ntwine",
+    "vpk": "https://firsts3.ru/vpkgj/ports/OSU000001/osu-octave.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/OSU000001/data.zip",
+    "data_path": "ux0:data",
+    "size": 2493928,
+    "sha256": "338a453fb18e2a656c0757636524f914d9e604eed935b36264dc9f38b83211bb",
+    "icon": "ports/OSU000001/icon.png",
+    "shots": [
+     "ports/OSU000001/s1.jpg",
+     "ports/OSU000001/s2.jpg",
+     "ports/OSU000001/s3.jpg"
+    ],
+    "description": "osu!octave — бесплатная ритм-игра с открытым исходным кодом для игры по битмапам osu!standard, оптимизированная для лучшей производительности и играбельности на PlayStation Vita.\\n\\nИсходники: github.com/v-atamanenko/osu-octave\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OTTOMATIC",
+    "name": "OttoMatic Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/OTTOMATIC/OttoMatic.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/OTTOMATIC/data.zip",
+    "data_path": "ux0:data",
+    "size": 1816103,
+    "sha256": "b86ef48c191f8573f22e0637b4d3ede8d51466426ca79ec38957b5aa595bac5d",
+    "requires": "libshacccg",
+    "icon": "ports/OTTOMATIC/icon.png",
+    "shots": [
+     "ports/OTTOMATIC/s1.jpg",
+     "ports/OTTOMATIC/s2.jpg",
+     "ports/OTTOMATIC/s3.jpg"
+    ],
+    "description": "Порт Otto Matic для PSVita.\\nOtto Matic — экшен-приключение 2001 года от Pangea Software.\\nИгра пародирует ретро-фантастику в причудливом стиле. Геймплей напоминает предыдущие игры Pangea, такие как Bugdom и Nanosaur.\\n\\nИсходники: github.com/Rinnegatamante/OttoMatic\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OTYR20000",
+    "name": "OpenTyrian2000 Engaged Vita",
+    "version": "1.5.3",
+    "author": "wlfn1116",
+    "vpk": "https://firsts3.ru/vpkgj/ports/OTYR20000/OpenTyrian2000-Engaged-Vita.vpk",
+    "size": 7073210,
+    "sha256": "d9e6637f5f152080030de09a1633acfc01b24b40dacfc30e8c22f9178ef8c092",
+    "icon": "ports/OTYR20000/icon.png",
+    "description": "OpenTyrian2000 Engaged — форк OpenTyrian2000, порта DOS-игры Tyrian 2000 с открытым исходным кодом.\\n\\nИсходники: github.com/wlfn1116/OpenTyrian2000-Engaged\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
