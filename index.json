@@ -1,5 +1,5 @@
 {
- "version": "3f66543c2f54",
+ "version": "ae6510a210f7",
  "categories": {
   "ports": [
    {
@@ -9469,6 +9469,76 @@
     "requires": "libshacccg",
     "icon": "ports/SMSVITA01/icon.png",
     "description": "Неофициальный порт Super Mario Strikers / Mario Smash Football для PlayStation Vita. Текущий рантайм использует VitaGL, подготовленную на PC нативную графику, PCM-аудио и видеоролики MP4 H.264/AAC, стримящиеся из PSARC через SceAvPlayer. Проект всё ещё в разработке. Следующая цель по производительности — стабильные 30 FPS в рендерных катсценах, затем 60 FPS. Ни одна из целей пока не достигнута и не подтверждена.\\n\\nИсходники: github.com/robin994/strikersVita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SMUM30622",
+    "name": "Super Mario UniMaker",
+    "version": "1.2.3.4",
+    "author": "MEGAgameBoy",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SMUM30622/unimaker.vpk",
+    "size": 294642493,
+    "sha256": "e1f08b7bbd845627153366fb582d3d6fd17263b2e9af3ed1440085b8c67d4ffe",
+    "icon": "ports/SMUM30622/icon.png",
+    "shots": [
+     "ports/SMUM30622/s1.jpg",
+     "ports/SMUM30622/s2.jpg",
+     "ports/SMUM30622/s3.jpg"
+    ],
+    "description": "Super Mario UniMaker — фанатская игра по мотивам Super Mario Maker, позволяющая делать собственные уровни Super Mario. Уровни можно создавать, проходить и изменять как угодно! Оригинальная игра от NinStar.\\nЧтобы установить пользовательские уровни, нужно взять файл '.unis' и положить его в папку ux0:app/SMUM30622/games/courses/.\\n\\nИсходники: github.com/MEGAgameBoy/Super-Mario-UniMaker-PS-Vita-Port\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SMWAR0000",
+    "name": "SuperMarioWar",
+    "version": "1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SMWAR0000/SuperMarioWar.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SMWAR0000/data.zip",
+    "data_path": "ux0:data",
+    "size": 2346872,
+    "sha256": "932de9fea8e3f2ac4578027489e88805908c7560cb25ea7203a246c62e4a94a4",
+    "icon": "ports/SMWAR0000/icon.png",
+    "shots": [
+     "ports/SMWAR0000/s1.jpg",
+     "ports/SMWAR0000/s2.jpg",
+     "ports/SMWAR0000/s3.jpg"
+    ],
+    "description": "Super Mario War — мультиплеерная игра про Super Mario.\\nЦель — растоптать как можно больше других Марио, чтобы победить в игре.\\n\\nИсходники: github.com/Rinnegatamante/smw-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SNCA00002",
+    "name": "Sonic 2 Absolute Vita",
+    "version": "1.2",
+    "author": "MDashK",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SNCA00002/Sonic2Absolute.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SNCA00002/data.zip",
+    "data_path": "ux0:data",
+    "size": 1903668,
+    "sha256": "4fd0ebfa33b5fc5d4a4f1856c069d329e3dab4b383767f46b8a487978d8cd182",
+    "icon": "ports/SNCA00002/icon.png",
+    "shots": [
+     "ports/SNCA00002/s1.jpg",
+     "ports/SNCA00002/s2.jpg",
+     "ports/SNCA00002/s3.jpg"
+    ],
+    "description": "Sonic the Hedgehog 2 Absolute (также известная как Sonic 2 Absolute) — мод ремейка Sonic the Hedgehog 2 2013 года. Добавляет множество функций, таких как Drop Dash, плавное вращение спрайтов, как в Sonic Mania, и Amy Rose. Разработана Team Forever и считается окончательной и осовремененной версией игры.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/MDashK/TeamForever-v4-1.3-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SNCF00001",
+    "name": "Sonic 1 Forever Vita",
+    "version": "1.5.1",
+    "author": "MDashK",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SNCF00001/Sonic1Forever.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SNCF00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 1929667,
+    "sha256": "bee6e8daa582b90a7237e9038c221066cb7a85e49afad4080865f558ac6b507d",
+    "icon": "ports/SNCF00001/icon.png",
+    "shots": [
+     "ports/SNCF00001/s1.jpg",
+     "ports/SNCF00001/s2.jpg",
+     "ports/SNCF00001/s3.jpg"
+    ],
+    "description": "Sonic the Hedgehog Forever (также известная как Sonic 1 Forever) — мод ремейка Sonic the Hedgehog 2013 года. Добавляет множество функций, таких как Drop Dash, плавное вращение спрайтов, как в Sonic Mania, и Amy Rose. Разработана Team Forever и считается окончательной и осовремененной версией игры.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/MDashK/TeamForever-v4-1.3-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -15365,6 +15435,37 @@
      "homebrew/SMTV00001/s3.jpg"
     ],
     "description": "Короткая экшен-игра для PSVITA, сделанная на Godot.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SNAKO0002",
+    "name": "Snake!",
+    "version": "2.0",
+    "author": "Ccoolguy",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SNAKO0002/Snake!.vpk",
+    "size": 5956779,
+    "sha256": "098d72f7a24b7fdc8011b4709209203e4dcd2799978b20d7a8e905e4bf1d7649",
+    "icon": "homebrew/SNAKO0002/icon.png",
+    "shots": [
+     "homebrew/SNAKO0002/s1.jpg",
+     "homebrew/SNAKO0002/s2.jpg"
+    ],
+    "description": "Игра «Змейка», сделанная на GameMaker для PSVITA/PSTV.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SNCH00001",
+    "name": "VitaChess",
+    "version": "1.0",
+    "author": "shoshkabob99",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SNCH00001/VitaChess.vpk",
+    "size": 5434950,
+    "sha256": "844c76a4244eda7410514db1db3b95aec2f8607343ae3ec39f621d75a381f835",
+    "icon": "homebrew/SNCH00001/icon.png",
+    "shots": [
+     "homebrew/SNCH00001/s1.jpg",
+     "homebrew/SNCH00001/s2.jpg",
+     "homebrew/SNCH00001/s3.jpg"
+    ],
+    "description": "Полноценная игра в шахматы для PlayStation Vita.\\nИграйте против компьютера, решайте задачи, учитесь играть и собирайте трофеи.\\n\\nИсходники: github.com/shoshkabob99/VitaChess\\nИсточник: VitaDB."
    }
   ],
   "translations": [
