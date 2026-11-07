@@ -1,5 +1,5 @@
 {
- "version": "5638e6b7b50e",
+ "version": "cf5a57a2639f",
  "categories": {
   "ports": [
    {
@@ -8440,6 +8440,24 @@
      "ports/PRYA22322/s3.jpg"
     ],
     "description": "Pureya — сборник аркадных мини-игр, в которые играют всего двумя кнопками.\\nКаждые 10 секунд игра переключается с одной случайной мини-игры на другую.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PXLV00001",
+    "name": "Pixel Dungeon Console Edition",
+    "version": "0.5.0 beta",
+    "author": "xqspx",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PXLV00001/PixelDungeonConsoleEdition.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/PXLV00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 4246249,
+    "sha256": "a277f0b69e76312d6c66e906a30b654e670b22074d38c811ed30b1bc697aeeac",
+    "icon": "ports/PXLV00001/icon.png",
+    "shots": [
+     "ports/PXLV00001/s1.jpg",
+     "ports/PXLV00001/s2.jpg",
+     "ports/PXLV00001/s3.jpg"
+    ],
+    "description": "Нативный порт Pixel Dungeon на C++ для PlayStation Vita и PlayStation TV.\\nПроект имеет открытый исходный код и распространяется под лицензией GNU GPL v3.0.\\n\\nИсходники: github.com/xqwpx/pixel-dungeon-console-edition\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -13284,6 +13302,136 @@
     "sha256": "d09e868383f3ba4ebf90bddad02a1ccf69429d4a14c830b40a8b7686a72ddb4d",
     "icon": "homebrew/PSMFIXER2/icon.png",
     "description": "Эта программа обходит требование аккаунта PSN при использовании игр PSM.\\n\\nИсходники: github.com/Yoti/psv_npdrmfix\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PSNE00001",
+    "name": "pSNES",
+    "version": "7.2",
+    "author": "cpasjuste",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PSNE00001/psnes.vpk",
+    "data": "https://firsts3.ru/vpkgj/homebrew/PSNE00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 4414449,
+    "sha256": "b87897f2c0442b42dcd58a3c9b414ee62a646b85ed9ad82f51c290b96befa917",
+    "icon": "homebrew/PSNE00001/icon.png",
+    "shots": [
+     "homebrew/PSNE00001/s1.jpg"
+    ],
+    "description": "Эмулятор SNES, мультиплатформенный порт эмулятора snes9x.\\n\\nИсходники: github.com/Cpasjuste/pemu\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PSP2PUP00",
+    "name": "PUP-Extractor",
+    "version": "1.3",
+    "author": "Princess-Of-Sleeping",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PSP2PUP00/PUP-Extractor.vpk",
+    "size": 40368,
+    "sha256": "21fcac252989634c298dec90c36e5e0b17d74853491f08077da05fddd7610f0e",
+    "icon": "homebrew/PSP2PUP00/icon.png",
+    "description": "Приложение для извлечения обновлений прошивки PSVITA/PSTV в формате .PUP.\\n\\nИсходники: github.com/Princess-of-Sleeping/PSV-PUP-Extractor\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PSREGPROF",
+    "name": "Registry Profiler",
+    "version": "1.0",
+    "author": "Codiak101",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PSREGPROF/RegistryProfiler.vpk",
+    "size": 1710335,
+    "sha256": "e722316c9e6546bcf06887c9359bfcf3c602a8d29f7d6b329029da894afafde0",
+    "icon": "homebrew/PSREGPROF/icon.png",
+    "shots": [
+     "homebrew/PSREGPROF/s1.jpg",
+     "homebrew/PSREGPROF/s2.jpg",
+     "homebrew/PSREGPROF/s3.jpg"
+    ],
+    "description": "Это приложение позволяет изменять и сохранять в профили определённые значения реестра, например яркость и громкость. Первое меню даёт возможность управлять профилями, хранящимися в созданном файле. При первом запуске приложение сохраняет профиль по умолчанию с текущими значениями устройства, а также любые другие, созданные позже. Горизонтальное меню содержит категории реестра, в каждой из которых есть настройки: часть из них — флажки, другие — числовые поля.\\n\\nИсходники: github.com/Codiak101/RegistryProfiler\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PSVGC0001",
+    "name": "Virtual GC",
+    "version": "2.0",
+    "author": "motoharu",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PSVGC0001/psvgc.vpk",
+    "size": 53085,
+    "sha256": "2ec5e48c300c0483a388f8205a334181b6f06c436e23d70bf2e8413a516eec59",
+    "icon": "homebrew/PSVGC0001/icon.png",
+    "description": "Приложение, позволяющее дампить и запускать ваши физические игровые карты.\\n\\nИсходники: github.com/motoharu-gosuto/psvgamesd\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PSVIBE001",
+    "name": "PSVibe",
+    "version": "2-final",
+    "author": "NamelessGhoul0",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PSVIBE001/PSVibe.vpk",
+    "size": 159008,
+    "sha256": "090dd1e79de92b90a06a449fe76ba1724e2a4a796282ab1fe06d09036dc8a351",
+    "icon": "homebrew/PSVIBE001/icon.png",
+    "shots": [
+     "homebrew/PSVIBE001/s1.jpg"
+    ],
+    "description": "PSVibe — простой вибратор для контроллера, вдохновлённый старым хомбрю для PS3; с его помощью можно проверять свои контроллеры.\\n\\nИсходники: github.com/NamelessGhoul0/PSVibe\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PSVIDENT0",
+    "name": "PSVident",
+    "version": "1.00",
+    "author": "Freakler",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PSVIDENT0/PSVident.vpk",
+    "size": 253763,
+    "sha256": "e089566e3cd518489164381b82bdfcd0db4b2a960cf410fe485df9afeb6c6724",
+    "icon": "homebrew/PSVIDENT0/icon.png",
+    "shots": [
+     "homebrew/PSVIDENT0/s1.jpg",
+     "homebrew/PSVIDENT0/s2.jpg",
+     "homebrew/PSVIDENT0/s3.jpg"
+    ],
+    "description": "Инструмент, собирающий всю информацию о вашей Vita/PSTV в одном месте. У приложения очень ностальгический дизайн для первых пользователей PSP, интерфейс сильно напоминает известное приложение PSPident для PSP.\\n\\nИсходники: github.com/Freakler/vita-PSVident\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PSVSPHSIM",
+    "name": "VitaSPH",
+    "version": "1.0",
+    "author": "sjoerdwouters",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PSVSPHSIM/VitaSPH.vpk",
+    "size": 742391,
+    "sha256": "aa746db21031c145ce421941e9b72d8d070ee5583d240fbce31d88e572d65bfd",
+    "requires": "libshacccg",
+    "icon": "homebrew/PSVSPHSIM/icon.png",
+    "shots": [
+     "homebrew/PSVSPHSIM/s1.jpg",
+     "homebrew/PSVSPHSIM/s2.jpg"
+    ],
+    "description": "Симуляция жидкости для PSVita: играйте с физически смоделированной водой.\\n\\nИсходники: github.com/sjoerdev/fluid-simulation-vitagl\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PSVTM0001",
+    "name": "PSVITAMAN",
+    "version": "0.1.0 Alpha 3",
+    "author": "ObsoleteSony",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PSVTM0001/PSVITAMAN.vpk",
+    "size": 18218091,
+    "sha256": "4cb5cefef6626f609d0e6347acb0ee2b6ec37b13d5a7fa99667aceb3cff40f91",
+    "icon": "homebrew/PSVTM0001/icon.png",
+    "shots": [
+     "homebrew/PSVTM0001/s1.jpg"
+    ],
+    "description": "Плеер FLAC и MP3 для PS Vita в духе Walkman, с локальными библиотеками, стримингом Jellyfin, эквалайзером, видами Spectrum и Cassette.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PTVT44218",
+    "name": "Vita Stacks",
+    "version": "1.0",
+    "author": "VitaHEX games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PTVT44218/VitaStacks.vpk",
+    "size": 30303195,
+    "sha256": "eadf0ca4ea1335affc21dddfc0e51602a24e5a27f427a2e9443631e1f053726a",
+    "icon": "homebrew/PTVT44218/icon.png",
+    "shots": [
+     "homebrew/PTVT44218/s1.jpg",
+     "homebrew/PTVT44218/s2.jpg",
+     "homebrew/PTVT44218/s3.jpg"
+    ],
+    "description": "Vita Stacks — простая, но чрезвычайно затягивающая игра. Ваша цель — сложить блоки как можно выше. Всё просто.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
