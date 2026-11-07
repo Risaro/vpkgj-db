@@ -1,5 +1,5 @@
 {
- "version": "141ee6c41cc3",
+ "version": "f2566e691e6a",
  "categories": {
   "ports": [
    {
@@ -8883,6 +8883,58 @@
      "ports/ROBB00001/s3.jpg"
     ],
     "description": "GNU Robbo — свободная открытая переработка игры, созданной Янушем Пельцем и изданной LK Avalon в 1989 году для компьютеров Atari XL/XE. Игра имела успех на польском внутреннем рынке, позже была портирована на другие компьютерные платформы и выпущена в США под названием The Adventures of Robbo.\\n\\nИсходники: github.com/bomblik/GNU_Robbo_PSVITA_PSP\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ROCKS0000",
+    "name": "rocksndiamonds",
+    "version": "1.12",
+    "author": "rsn8887",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ROCKS0000/rocksndiamonds.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/ROCKS0000/data.zip",
+    "data_path": "ux0:data",
+    "size": 2814410,
+    "sha256": "3682a768a4558cdf5eb50e9797f70c9ea7a98397ac1d7921f19d75f7fcaed19a",
+    "icon": "ports/ROCKS0000/icon.png",
+    "shots": [
+     "ports/ROCKS0000/s1.jpg",
+     "ports/ROCKS0000/s2.jpg",
+     "ports/ROCKS0000/s3.jpg"
+    ],
+    "description": "Rocks'n'Diamonds — компьютерная головоломка с прокруткой на основе тайлов, которую можно описать как смесь клонов Boulder Dash, Supaplex, Emerald Mine и Sokoban. Это свободная игра под лицензией GPLv2, созданная Artsoft Entertainment и разработанная Holger Schemel. Дополнительные наборы уровней смотрите в примечаниях к релизу: https://github.com/rsn8887/rocksndiamonds/releases/latest\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/rsn8887/rocksndiamonds\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ROLI00000",
+    "name": "Roguelight",
+    "version": "1.0",
+    "author": "m1s3ry",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ROLI00000/Roguelight.vpk",
+    "size": 27966935,
+    "sha256": "38d6a528b228437be3291fcca91610ae167e23f4fa57de3896e3f3fad509c209",
+    "icon": "ports/ROLI00000/icon.png",
+    "shots": [
+     "ports/ROLI00000/s1.jpg",
+     "ports/ROLI00000/s2.jpg",
+     "ports/ROLI00000/s3.jpg"
+    ],
+    "description": "«Чем глубже вы спускаетесь, тем темнее становится, и только ваши стрелы освещают путь».\\nОригинальная игра от Daniel Linssen.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ROTT00001",
+    "name": "rottexpr-vita",
+    "version": "1.0-vita.1",
+    "author": "Northfear",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ROTT00001/rottexpr.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/ROTT00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 4232041,
+    "sha256": "c827f6996c3b2cbdae43d1b62bafdc25bc4241a0987ab5af8e7d7144a1719fc2",
+    "icon": "ports/ROTT00001/icon.png",
+    "shots": [
+     "ports/ROTT00001/s1.jpg",
+     "ports/ROTT00001/s2.jpg",
+     "ports/ROTT00001/s3.jpg"
+    ],
+    "description": "Порт rottexpr — порта исходного кода Rise of the Triad с улучшениями и новыми функциями на основе релиза порта исходного кода Rise of the Triad от icculus.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Northfear/rottexpr-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -14139,6 +14191,68 @@
      "homebrew/RNPY20221/s3.jpg"
     ],
     "description": "Red Moon of April — научно-фантастическая визуальная новелла о Кохиме, японской девушке, которая, потеряв всё, отправилась в месячное путешествие на своём Metal Knight.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ROCK12345",
+    "name": "Rocket Cars Vita",
+    "version": "1.0a",
+    "author": "VitaDev Games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ROCK12345/rocket_league.vpk",
+    "size": 91911109,
+    "sha256": "d93fcbd2294613a41806e96d35ad141270703de24d07b6b2d231ab62ccb127ed",
+    "icon": "homebrew/ROCK12345/icon.png",
+    "shots": [
+     "homebrew/ROCK12345/s1.jpg",
+     "homebrew/ROCK12345/s2.jpg",
+     "homebrew/ROCK12345/s3.jpg"
+    ],
+    "description": "Rocket Cars vita — клон Rocket League для PS Vita с аркадным и онлайн-режимами.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ROLY90117",
+    "name": "Rolly Poly",
+    "version": "2.1",
+    "author": "Spartanfox",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ROLY90117/RollyPoly.vpk",
+    "size": 56032306,
+    "sha256": "0e26c5f07f76020ab05f639de4edec310d772396258416e25e1998c8ebb729e7",
+    "icon": "homebrew/ROLY90117/icon.png",
+    "shots": [
+     "homebrew/ROLY90117/s1.jpg",
+     "homebrew/ROLY90117/s2.jpg",
+     "homebrew/ROLY90117/s3.jpg"
+    ],
+    "description": "Rolly Poly — игра в духе Marble Madness с гравитацией в стиле Mario Galaxy, где нужно собирать самоцветы и как можно быстрее добраться до конца.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ROM000069",
+    "name": "VitaSSH",
+    "version": "1.0.0",
+    "author": "Rompelhd",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ROM000069/VitaSSH.vpk",
+    "size": 1130397,
+    "sha256": "3762bbe3174ed0042d2ed8624ef5041c4200fc43152596a6fc2959a8287374d1",
+    "icon": "homebrew/ROM000069/icon.png",
+    "shots": [
+     "homebrew/ROM000069/s1.jpg",
+     "homebrew/ROM000069/s2.jpg",
+     "homebrew/ROM000069/s3.jpg"
+    ],
+    "description": "VitaSSH — proof-of-concept SSH-клиент, созданный специально для PlayStation Vita, использующий libssh2 для защищённых соединений и VitaSDK для нативной интеграции с железом Vita. Этот экспериментальный клиент предоставляет базовый функционал SSH-терминала на уникальной платформе Vita.\\n\\nИсходники: github.com/rompelhd/VitaSSH\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ROWS00001",
+    "name": "4Rows",
+    "version": "1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ROWS00001/4Rows.vpk",
+    "size": 1122931,
+    "sha256": "e6495aa18b0980def5552e335f0051907dab7f5c334a633349be54044de4f7e5",
+    "icon": "homebrew/ROWS00001/icon.png",
+    "shots": [
+     "homebrew/ROWS00001/s1.jpg"
+    ],
+    "description": "4Rows — порт хоумбрю-примера «Четыре в ряд»/«Connect4», поставлявшегося с самым первым PSP Lua Interpreter.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
