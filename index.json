@@ -1,5 +1,5 @@
 {
- "version": "aa4fde0228a7",
+ "version": "ff1e934544f4",
  "categories": {
   "ports": [
    {
@@ -9862,6 +9862,22 @@
      "ports/SSAM10002/s3.jpg"
     ],
     "description": "Порт Serious Sam: The Second Encounter для PSVita на основе выложенного Croteam исходного кода.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/fgsfdsfgs/Serious-Engine/tree/psvita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "STARCATCH",
+    "name": "Starcatcher",
+    "version": "1.0",
+    "author": "withLogic",
+    "vpk": "https://firsts3.ru/vpkgj/ports/STARCATCH/Starcatcher.vpk",
+    "size": 20053215,
+    "sha256": "cc0cad2c45def96ea3ed01c104698b14097960aebee9f8ecc554d0cfa46505cd",
+    "icon": "ports/STARCATCH/icon.png",
+    "shots": [
+     "ports/STARCATCH/s1.jpg",
+     "ports/STARCATCH/s2.jpg",
+     "ports/STARCATCH/s3.jpg"
+    ],
+    "description": "Starcatcher — космический платформер про сбор звёзд, созданный Escada Games для One Button Jam 2022.\\nПройдите 25 уровней возрастающей сложности. Но помните: в игре используется всего одна кнопка.\\nБольше информации о Starcatcher и Escada Games: https://escada-games.itch.io/starcatcher\\n\\nИсходники: github.com/withLogic/starcatcher\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -15999,6 +16015,83 @@
      "homebrew/STAK00001/s3.jpg"
     ],
     "description": "Простой 2D-платформер с кривоватой физикой.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "STARKILL0",
+    "name": "StarKiller 2D",
+    "version": "1.00",
+    "author": "Freakler",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/STARKILL0/StarKiller2D.vpk",
+    "size": 3486345,
+    "sha256": "63921d685372a1898be3f13edba195afc3d7048c46e34833058b589c0f704503",
+    "icon": "homebrew/STARKILL0/icon.png",
+    "shots": [
+     "homebrew/STARKILL0/s1.jpg",
+     "homebrew/STARKILL0/s2.jpg",
+     "homebrew/STARKILL0/s3.jpg"
+    ],
+    "description": "Базовая минималистичная 2D-головоломка. Игра не стремится выглядеть красиво и пестрить графикой, а скорее остаётся в духе текстовых приключений.\\nВ этом релизе сейчас 54 уровня, а для ещё большего веселья есть редактор уровней.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "STBB00002",
+    "name": "Save The Bees",
+    "version": "R1",
+    "author": "Nathan Kewley",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/STBB00002/SaveTheBees.vpk",
+    "size": 18663017,
+    "sha256": "3ba084a30e50bca5c311771c213c960b4c5ec8b0ef578701cf70a5a310f45f4b",
+    "icon": "homebrew/STBB00002/icon.png",
+    "shots": [
+     "homebrew/STBB00002/s1.jpg",
+     "homebrew/STBB00002/s2.jpg"
+    ],
+    "description": "Небольшая головоломка для PSVITA. В игре всего 7 небольших уровней, так как это был учебный проект.\\n\\nИсходники: github.com/NathanKewley/godot_save_the_bees/tree/port/psp-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "STBL00001",
+    "name": "Steel Blossom: Vita",
+    "version": "01.01",
+    "author": "illestalive",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/STBL00001/SteelBlossomVita.vpk",
+    "size": 4877787,
+    "sha256": "63dd143039326da924e48d55be07b26283b0f2fcde4b65c1abb8c7090ede9a01",
+    "icon": "homebrew/STBL00001/icon.png",
+    "shots": [
+     "homebrew/STBL00001/s1.jpg",
+     "homebrew/STBL00001/s2.jpg",
+     "homebrew/STBL00001/s3.jpg"
+    ],
+    "description": "Steel Blossom: Vita — hack-and-slash с волнами врагов, где нужно пережить 13 всё более сложных волн и не погибнуть. В каждом забеге встречаются шесть типов врагов с уникальными атаками и поведением, а также три битвы с боссами. Игра изначально разработана для PSP на C++ и SDL2, а теперь Steel Blossom портирована на PS Vita нативно.\\n\\nИсходники: github.com/elliottwahl/Steel-Blossom-PSP\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "STEM00001",
+    "name": "StemLoader",
+    "version": "0.2",
+    "author": "Voxel",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/STEM00001/StemLoader.vpk",
+    "size": 1774769,
+    "sha256": "19b0bcdf7f1ed6f907f5839e0b521d42d4ab98a2cc80c8511ef33272d1c8ad08",
+    "icon": "homebrew/STEM00001/icon.png",
+    "shots": [
+     "homebrew/STEM00001/s1.jpg",
+     "homebrew/STEM00001/s2.jpg",
+     "homebrew/STEM00001/s3.jpg"
+    ],
+    "description": "Аналог b0xLoader для PS3. Позволяет удобно запускать и тестировать SELF-файлы (исполняемые файлы Vita), созданные вами или другими людьми, в рамках одного приложения.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "STFD00001",
+    "name": "Starfield Vita",
+    "version": "0.2",
+    "author": "gnmmarechal",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/STFD00001/Starfield-Vita.vpk",
+    "size": 6051088,
+    "sha256": "4c625f80a120a540b80587919fbb1b844b7fc0ac765f19ef546e80a6dc7d4370",
+    "icon": "homebrew/STFD00001/icon.png",
+    "shots": [
+     "homebrew/STFD00001/s1.jpg"
+    ],
+    "description": "Небольшая бесконечная игра, где нужно уворачиваться от звёзд.\\n\\nЭто порт (точнее, переписанная версия, создававшаяся одновременно с PC-версией) небольшой игры, сделанной для занятий по программированию в моём университете. Я решил переписать её на Lua. Она довольно неполная, потому что оригинальная игра тоже не закончена, и большинство функций из PC-версии я добавлю, когда та будет готова.\\n\\nИсходники: github.com/gnmmarechal/starfield-vita\\nИсточник: VitaDB."
    }
   ],
   "translations": [
