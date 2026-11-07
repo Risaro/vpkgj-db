@@ -1,5 +1,5 @@
 {
- "version": "fde80b199356",
+ "version": "8ace7bee1c5f",
  "categories": {
   "ports": [
    {
@@ -7293,6 +7293,54 @@
      "ports/MORT00001/s3.jpg"
     ],
     "description": "The Dark Queen Of Mortholme — игра, где вы играете за Тёмную Королеву, самое могущественное существо во всей вселенной. В ваше логово проникает начинающий герой — жалкое создание, которое легко раздавить.\\nВот только они продолжают возвращаться.\\n20-минутная анти-игра о нетрадиционных отношениях и способности меняться.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "MYSW00001",
+    "name": "Mystic Warriors Vita",
+    "version": "1.0",
+    "author": "Tobic-99",
+    "vpk": "https://firsts3.ru/vpkgj/ports/MYSW00001/mystwarr.vpk",
+    "size": 5933539,
+    "sha256": "4679e4e819c1396c63a8a6a3a87964149eb769203e81a5c43d3efe7fd4318106",
+    "requires": "libshacccg",
+    "icon": "ports/MYSW00001/icon.png",
+    "description": "Статическая рекомпиляция Mystic Warriors (Konami, 1993, аркадная плата GX128) в нативный ARM-код. Программа игры для 68000 переведена в C++ и скомпонована с нативным рантаймом, заменяющим плату: карта памяти, EEPROM, программный рендерер (тайловые слои, спрайты, тени, смешивание) и звуковая плата (интерпретатор Z80, два K054539).\\n\\nНужны файлы оригинальной игры (MAME), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Tobic-99/mystwarr-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NAHR00001",
+    "name": "Not A Hero Vita",
+    "version": "1.0.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NAHR00001/notahero.vpk",
+    "size": 2558138,
+    "sha256": "f98f146b2ba6820ed1cf51f0c0e2075696138254a7fa984ee7b25caf3aead450",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/NAHR00001/icon.png",
+    "shots": [
+     "ports/NAHR00001/s1.jpg",
+     "ports/NAHR00001/s2.jpg",
+     "ports/NAHR00001/s3.jpg"
+    ],
+    "description": "Это враппер/порт Not A Hero для PS Vita.\\nПорт работает так: официальные исполняемые файлы Android ARMv7 загружаются в память, их импорты подменяются нативными функциями, и они патчатся для корректного запуска. По сути, это как если бы мы эмулировали минималистичную среду Android, в которой исполняемые файлы запускаются нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/not_a_hero-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NANOSAUR1",
+    "name": "Nanosaur Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NANOSAUR1/Nanosaur.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/NANOSAUR1/data.zip",
+    "data_path": "ux0:data",
+    "size": 1698368,
+    "sha256": "eac4efe36607d4a6158dcf86036a0c915c1eaa86af0eff8fd23582cefd1b0bdc",
+    "requires": "libshacccg",
+    "icon": "ports/NANOSAUR1/icon.png",
+    "shots": [
+     "ports/NANOSAUR1/s1.jpg",
+     "ports/NANOSAUR1/s2.jpg",
+     "ports/NANOSAUR1/s3.jpg"
+    ],
+    "description": "Nanosaur — научно-фантастический шутер от третьего лица, разработанный Pangea Software и изданный Ideas From the Deep для Mac OS 9 и Microsoft Windows. Игрок становится нанозавром — генетически созданным разумным динозавром из будущего, отправленным в прошлое незадолго до мел-палеогенового вымирания.\\n\\nИсходники: github.com/Rinnegatamante/Nanosaur\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -11365,6 +11413,108 @@
      "homebrew/MSWEEPER1/s3.jpg"
     ],
     "description": "Простой «Сапёр» для PSVITA/PSTV.\\n\\nИсходники: github.com/Creckeryop/MSweep\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "MUSC00001",
+    "name": "Music Vita",
+    "version": "1.0",
+    "author": "bvilleretro",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/MUSC00001/MusicVita.vpk",
+    "size": 1466555,
+    "sha256": "39309d749652a75b883051371f84649bcd867fc32b9fd503ce12171544f46e0b",
+    "icon": "homebrew/MUSC00001/icon.png",
+    "shots": [
+     "homebrew/MUSC00001/s1.jpg",
+     "homebrew/MUSC00001/s2.jpg",
+     "homebrew/MUSC00001/s3.jpg"
+    ],
+    "description": "Музыкальный плеер для PlayStation Vita (MP3 + WAV).\\n\\nИсходники: github.com/bvilleretro/music-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "MVPLAYER0",
+    "name": "MVPlayer",
+    "version": "1.4",
+    "author": "AntHJ",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/MVPLAYER0/MVPLAYER0.vpk",
+    "size": 4528105,
+    "sha256": "60b3c6d0edd091724928c27f43f1e4b7c88e39fa5d3e65ba701068abd1cd30fa",
+    "icon": "homebrew/MVPLAYER0/icon.png",
+    "shots": [
+     "homebrew/MVPLAYER0/s1.jpg"
+    ],
+    "description": "С помощью ПК-инструментов со страницы GitHub вы конвертируете и подготавливаете скачанные фильмы, после чего получаете выглядящую профессионально видеотеку и плеер с рядом функций, таких как закладки и растяжение/масштабирование изображения.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "MYLEGNOOB",
+    "name": "Happy Land",
+    "version": "1.1",
+    "author": "MyLegGuy",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/MYLEGNOOB/HappyLand.vpk",
+    "size": 956066,
+    "sha256": "ac95dd87675cf6702f942502b42618453f33d5ba78f7b766179719ad9243eec7",
+    "icon": "homebrew/MYLEGNOOB/icon.png",
+    "shots": [
+     "homebrew/MYLEGNOOB/s1.jpg",
+     "homebrew/MYLEGNOOB/s2.jpg"
+    ],
+    "description": "Happy Land — игра, в которой вы отправляетесь в большое путешествие, чтобы вернуть картошку, которую у вас украл Большая Нога.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "MYSH00001",
+    "name": "MyShell",
+    "version": "1.2.0",
+    "author": "ALVA-Store",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/MYSH00001/MyShell.vpk",
+    "size": 11190213,
+    "sha256": "7e7d8edc39adc7449523b3863c947e2e29a5c120755c3f1562c5962c732d2b92",
+    "icon": "homebrew/MYSH00001/icon.png",
+    "description": "Хоумбрю-лаунчер для PlayStation Vita в стиле PS5.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "MYSR00000",
+    "name": "TrainsLIVE - London",
+    "version": "1.00",
+    "author": "Mysters789",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/MYSR00000/trainsliveldn.vpk",
+    "size": 1635419,
+    "sha256": "98f8703f8d9e89b774606c1868095a14aeed51d69cedae23714e2ade3097f77d",
+    "icon": "homebrew/MYSR00000/icon.png",
+    "shots": [
+     "homebrew/MYSR00000/s1.jpg",
+     "homebrew/MYSR00000/s2.jpg"
+    ],
+    "description": "Приложение, которое через API TfL показывает в реальном времени все лондонские поезда на векторной карте лондонского метро. Загрузка всех поездов и их размещение занимает примерно 1,5 минуты.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "MYST00001",
+    "name": "Mystery House",
+    "version": "1.0.2",
+    "author": "Artem Isaiev",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/MYST00001/Mystery-House.vpk",
+    "size": 13327308,
+    "sha256": "8ae68237bddc49ee60a5078854e7f0336cda4bd0739d463d8240e3239ace4dd8",
+    "icon": "homebrew/MYST00001/icon.png",
+    "shots": [
+     "homebrew/MYST00001/s1.jpg",
+     "homebrew/MYST00001/s2.jpg"
+    ],
+    "description": "Выпущенная в 1980 году для Apple II игра «Mystery House» была придумана, написана и проиллюстрирована Roberta Williams, а запрограммирована Ken Williams. Она стала первой графической приключенческой игрой, первым проектом On-Line Systems (позже Sierra On-Line) и на поколения вперёд помогла определить жанр квестов.\\nЭтот ремейк возвращает классическую тайну с улучшенной графикой и духом, сюжетом и атмосферой оригинального приключения.\\nЭто независимый ремейк, созданный как дань уважения оригинальной «Mystery House». Оригинальная игра была передана в общественное достояние компанией Sierra On-Line в 1987 году в рамках празднования 7-летия компании.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NABO12345",
+    "name": "Naruto Boruto",
+    "version": "2",
+    "author": "gambikules",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/NABO12345/NarutoBoruto.vpk",
+    "size": 48899900,
+    "sha256": "8a0750ad1640e1139fef32c93a994485e6abae1208d2b5d91abd195a20675d3c",
+    "icon": "homebrew/NABO12345/icon.png",
+    "shots": [
+     "homebrew/NABO12345/s1.jpg",
+     "homebrew/NABO12345/s2.jpg",
+     "homebrew/NABO12345/s3.jpg"
+    ],
+    "description": "3D-файтинг на Unity с персонажами из аниме Naruto.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
