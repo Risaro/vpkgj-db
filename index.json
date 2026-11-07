@@ -1,5 +1,5 @@
 {
- "version": "ce773cd0f4c6",
+ "version": "aa4fde0228a7",
  "categories": {
   "ports": [
    {
@@ -9843,6 +9843,25 @@
      "ports/SRBV00001/s3.jpg"
     ],
     "description": "Порт Sonic Robo Blast 2 v2.2.15 на PlayStation Vita. Использует собственный OpenGL-рендерер SRB2 поверх vitaGL. Меню, уровни, сохранения, музыка и звук работают на реальном железе, а основные усилия ушли на то, чтобы добиться играбельной частоты кадров.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/KiddRwxSsj/srb2-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SSAM10002",
+    "name": "Serious Sam TSE Vita",
+    "version": "psvita2",
+    "author": "fgsfds",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SSAM10002/ssam_tse.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SSAM10002/data.zip",
+    "data_path": "ux0:data",
+    "size": 4225479,
+    "sha256": "21eecf6de06b6e1bf804b897cd8718ee6a1b044176ff177dd162babc47b2c70b",
+    "requires": "libshacccg",
+    "icon": "ports/SSAM10002/icon.png",
+    "shots": [
+     "ports/SSAM10002/s1.jpg",
+     "ports/SSAM10002/s2.jpg",
+     "ports/SSAM10002/s3.jpg"
+    ],
+    "description": "Порт Serious Sam: The Second Encounter для PSVita на основе выложенного Croteam исходного кода.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/fgsfdsfgs/Serious-Engine/tree/psvita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -15953,6 +15972,33 @@
      "homebrew/SQUIDGAME/s3.jpg"
     ],
     "description": "Игра с испытаниями, вдохновлённая нашумевшим сериалом Netflix. Создана на Lua с помощью Lua Player Plus.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SSSP00001",
+    "name": "SSSPlayer",
+    "version": "1.1.34",
+    "author": "SergioSSantiago",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SSSP00001/SSSPlayer.vpk",
+    "size": 49061562,
+    "sha256": "62f3877552d9ad9527a8531b1e87259c2777e75ae151c1635004181027b43d72",
+    "icon": "homebrew/SSSP00001/icon.png",
+    "description": "SSSPlayer сочетает в себе удобный музыкальный плеер (эквалайзер, визуализатор, плейлисты, темы, по умолчанию Terminus) и видеоплеер с точной перемоткой на нужный момент, а также локальные папки и сетевые источники (SMB / SFTP / WebDAV / Jellyfin).\\n\\nИсходники: github.com/SergioSSantiago/SSSPlayer\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "STAK00001",
+    "name": "Wonky Adventures",
+    "version": "1.0",
+    "author": "stacksta",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/STAK00001/wonkeyadventures.vpk",
+    "size": 8332347,
+    "sha256": "050738b0b5495e4535a02f3a6e60b2f5953ae11288d489a2e1e0f6d257fbf676",
+    "icon": "homebrew/STAK00001/icon.png",
+    "shots": [
+     "homebrew/STAK00001/s1.jpg",
+     "homebrew/STAK00001/s2.jpg",
+     "homebrew/STAK00001/s3.jpg"
+    ],
+    "description": "Простой 2D-платформер с кривоватой физикой.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
