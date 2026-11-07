@@ -1,5 +1,5 @@
 {
- "version": "39ac4d4b581a",
+ "version": "f9cacb0d80e6",
  "categories": {
   "ports": [
    {
@@ -10090,6 +10090,66 @@
     "requires": "libshacccg",
     "icon": "ports/THPS00001/icon.png",
     "description": "Tony Hawk's Pro Skater (PS1, 1999), нативно работающая на PlayStation Vita. Собрана из общественной декомпиляции игры для PS1 (SLUS-00860): собственный код PS1, перекомпилированный под ARM-процессор Vita, с нативным OpenGL ES-рендерером через vitaGL. Без эмулятора.\\n\\nНужны файлы оригинальной игры (PS1), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/DarthSully/Tony-Hawk-Slop-Skater\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "THSV12302",
+    "name": "Touhou 12.3 Vita",
+    "version": "0.1.1 alpha",
+    "author": "Botarguirix",
+    "vpk": "https://firsts3.ru/vpkgj/ports/THSV12302/Touhou123Vita.vpk",
+    "size": 24343655,
+    "sha256": "6221e90d91bd63b4bb558d4406226c5ad31a61b7cb9d78c974a17eec8a239794",
+    "requires": "libshacccg",
+    "icon": "ports/THSV12302/icon.png",
+    "description": "Порт Touhou 12.3: Hisoutensoku для PSVita.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Botarguirix/Touhou123Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "TICR00002",
+    "name": "Tiny Crate Vita",
+    "version": "1.1.6",
+    "author": "Thatoneham & Harmony Honey",
+    "vpk": "https://firsts3.ru/vpkgj/ports/TICR00002/tiny_crate.vpk",
+    "size": 23590662,
+    "sha256": "5ed6a60e0e9668070712cf5512aff4024478a8ff7686c33a81ffc2f2bc5c57a8",
+    "icon": "ports/TICR00002/icon.png",
+    "shots": [
+     "ports/TICR00002/s1.jpg",
+     "ports/TICR00002/s2.jpg",
+     "ports/TICR00002/s3.jpg"
+    ],
+    "description": "Tiny Crate — милый небольшой платформер на точность с элементами головоломки.\\nПоднимайте и бросайте ящики, чтобы перебираться через шипы и добираться до более высоких уступов.\\nУстанавливайте вес на кнопки, чтобы создавать платформы и решать головоломки.\\n\\nИсходники: github.com/thatoneham/Tiny-Crate-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "TIEE00000",
+    "name": "TIE Vita",
+    "version": "1.0",
+    "author": "LordChickenBlaster",
+    "vpk": "https://firsts3.ru/vpkgj/ports/TIEE00000/TIE.vpk",
+    "size": 14984183,
+    "sha256": "a642e3668d7b36feb2ffe1bf2af6de4771eee370347f198f03537380464b069b",
+    "icon": "ports/TIEE00000/icon.png",
+    "shots": [
+     "ports/TIEE00000/s1.jpg",
+     "ports/TIEE00000/s2.jpg",
+     "ports/TIEE00000/s3.jpg"
+    ],
+    "description": "TIE — игра о депрессии и повседневной рутине, которую всем нам приходится терпеть. Проживите неделю одинаковых дней глазами главного героя, пока мир и его обитатели постепенно становятся всё более чужими. Странности в окружающем мире и глубоко внутри отравляют вашу повседневность, а некая странная сила словно разрывает саму ткань реальности — становится ясно, что не всё так, как кажется. Это короткая атмосферная игра о депрессии и экзистенциальном ужасе.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "TLOL00020",
+    "name": "The Legend of Lumina Vita",
+    "version": "1.0",
+    "author": "Rocroverss",
+    "vpk": "https://firsts3.ru/vpkgj/ports/TLOL00020/TLOL.vpk",
+    "size": 16561478,
+    "sha256": "fd881e48299a7df3b32233446f055ee80afaeb50bd3b55b701275fbc4eff29c3",
+    "icon": "ports/TLOL00020/icon.png",
+    "shots": [
+     "ports/TLOL00020/s1.jpg",
+     "ports/TLOL00020/s2.jpg",
+     "ports/TLOL00020/s3.jpg"
+    ],
+    "description": "Порт The Legend of Lumina для PSVITA.\\nИсследуйте древний лес, двигайте блоки, чтобы решать головоломки, и найдите способ снять проклятие с родной земли.\\nИгра изначально разработана на Godot для KB Games ZeldaJam 2022. The Legend of Lumina — головоломка с передвижением блоков и прогрессией в стиле Metroidvania, действие которой происходит в мирном лесу.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -16622,6 +16682,35 @@
      "homebrew/THMX00001/s3.jpg"
     ],
     "description": "Theme Manager Ex — продвинутый менеджер тем для PS Vita, вводящий новый тип пользовательских тем: расширенные темы.\\n\\nИсходники: bitbucket.org/kylon/theme-manager-ex-theme-engine\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "THTR00001",
+    "name": "Tetromino: Touhou Edition",
+    "version": "0.7A-TH1",
+    "author": "Aurora & svennd",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/THTR00001/Tetromino%20-%20Touhou%20Edition.vpk",
+    "size": 31349146,
+    "sha256": "af63738b319be8b581fabf027a8aeed07f188ee6a1e14edd32c8cd26fad3a508",
+    "icon": "homebrew/THTR00001/icon.png",
+    "shots": [
+     "homebrew/THTR00001/s1.jpg",
+     "homebrew/THTR00001/s2.jpg"
+    ],
+    "description": "Клон Tetris на основе vita-tetromino с дополнительными функциями и оформлением по мотивам Touhou.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "TLSF00001",
+    "name": "tls_fixer",
+    "version": "0.2.2",
+    "author": "devnoname120",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/TLSF00001/tls_fixer.vpk",
+    "size": 5481751,
+    "sha256": "d31f0db384c6981c138265b692dab925559c6d901ccd667e72834037eabd01ca",
+    "icon": "homebrew/TLSF00001/icon.png",
+    "shots": [
+     "homebrew/TLSF00001/s1.jpg"
+    ],
+    "description": "tls_fixer предоставляет современный TLS-транспорт на основе Mbed TLS 4.2.0 и TF-PSA-Crypto 1.2.0, а также авторитетный набор сертификатов Sony + curl/Mozilla. Обработку URL, перенаправлений, аутентификации, cookie и запросов по-прежнему выполняет HTTP-реализация Sony.\\n\\nИсходники: github.com/devnoname120/vita_tls_fixer\\nИсточник: VitaDB."
    }
   ],
   "translations": [
