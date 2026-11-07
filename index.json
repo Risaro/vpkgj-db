@@ -1,5 +1,5 @@
 {
- "version": "336d95f7c727",
+ "version": "4f1226e857aa",
  "categories": {
   "ports": [
    {
@@ -8595,6 +8595,80 @@
      "ports/RELICLOOT/s3.jpg"
     ],
     "description": "Это обёртка/порт Relic Looter для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, а сам файл патчится для корректного запуска. По сути, это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/relic-looter-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RENPYHIKE",
+    "name": "HIKE BACK Vita",
+    "version": "1.1",
+    "author": "SilverCrow",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RENPYHIKE/HIKE.BACK.vpk",
+    "size": 14441674,
+    "sha256": "9f4405c2f686a5e5b2ff3c0a4695756444a90262e5be400b22536baae0293d87",
+    "icon": "ports/RENPYHIKE/icon.png",
+    "shots": [
+     "ports/RENPYHIKE/s1.jpg"
+    ],
+    "description": "HIKEBACK — короткая визуальная новелла о доверии, саморазрушении и бесконечных циклах. Вы играете за водителя, поздней ночью едущего по горной дороге, и замечаете впереди автостопщика, который машет вам рукой. То, как вы поступите дальше, определит судьбу не только вас и этого широко раскрывшего глаза незнакомца, но и вашу общую судьбу в нескольких плоскостях бытия. Сколько времени понадобится, чтобы в цикле, который, кажется, мучает вас БЕСКОНЕЧНО, наконец добраться до ПОРОГА? Найдёте ли вы желанную лучшую концовку? Или поддадитесь уготованной вам судьбе?\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RESI00001",
+    "name": "Resident Evil Vita",
+    "version": "1.0",
+    "author": "KiddRwxSsj",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RESI00001/biohazard-vita.vpk",
+    "size": 5631889,
+    "sha256": "23ffb95ab1508084bcbd292313c55b36e189f7112c187e893ff03134d1a18085",
+    "requires": "libshacccg",
+    "icon": "ports/RESI00001/icon.png",
+    "shots": [
+     "ports/RESI00001/s1.jpg",
+     "ports/RESI00001/s2.jpg",
+     "ports/RESI00001/s3.jpg"
+    ],
+    "description": "Порт PC-версии Resident Evil 1997 года на PS Vita, созданный на основе общественной декомпиляции игры. Сохраняет оригинальный код игры и добавляет платформенный слой для Vita на vitaGL, SceAudio, ffmpeg и SceAvPlayer.\\nПоддерживает американский PC-релиз и японский релиз MediaKite, а также добавляет режим 60 FPS, панель настроек в игре, быстрые сохранения, совместимость с PC-сохранениями и менеджер модов для пакетов HD-фонов, пакетов видеороликов и аудиомодов. Файлы игры не включены.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/KiddRwxSsj/biohazard-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RESO00022",
+    "name": "Resolutiion Vita",
+    "version": "1.0",
+    "author": "Rocroverss",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RESO00022/Resolution.vpk",
+    "size": 15693447,
+    "sha256": "38d92e272606eede7d61a372a50e410668e64926d9917e2160ad7081dd04c5f1",
+    "icon": "ports/RESO00022/icon.png",
+    "shots": [
+     "ports/RESO00022/s1.jpg",
+     "ports/RESO00022/s2.jpg",
+     "ports/RESO00022/s3.jpg"
+    ],
+    "description": "Старый убийца сопровождает любопытный ИИ в раздробленное будущее, полное хаотичных боёв, загадочных тайн и тревожного спокойствия.\\nИзначально игра разработана на Godot студией Monolith of Minds. RESOLUTIION — замечательная игра, рассказывающая о путешествии Valor и Alibii по двухмерному миру грёз с милыми пикселями, пошлыми шутками и крутой эмоциональной музыкой, вдохновлённая классическими Zelda и подобными экшен-приключениями.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RESS00001",
+    "name": "Resurgent",
+    "version": "1.0",
+    "author": "Markus95",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RESS00001/Resurgent_fr.vpk",
+    "size": 11295740,
+    "sha256": "1b50878dec4de6c57fdd80436934bda3620569f456105e6ad3afdd6485286622",
+    "icon": "ports/RESS00001/icon.png",
+    "description": "Пройдите через постапокалиптический город, опустошённый неизвестным вирусом, в поисках безопасного места. Оригинальная игра от Tristan Harris.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RESURGENT",
+    "name": "Resurgent",
+    "version": "1.0.0",
+    "author": "m1s3ry",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RESURGENT/Resurgent.vpk",
+    "size": 11664999,
+    "sha256": "9948e56ee06d5834e0c0721ff383d137efef60d5cb0c9a1c02019d33ae922910",
+    "icon": "ports/RESURGENT/icon.png",
+    "shots": [
+     "ports/RESURGENT/s1.jpg",
+     "ports/RESURGENT/s2.jpg",
+     "ports/RESURGENT/s3.jpg"
+    ],
+    "description": "Пройдите через постапокалиптический город, опустошённый неизвестным вирусом, в поисках безопасного места. Оригинальная игра от Tristan Harris.\\n\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -13772,6 +13846,54 @@
      "homebrew/REGEDIT01/s3.jpg"
     ],
     "description": "Простое приложение для чтения и редактирования всех параметров реестра в удобном структурированном виде. Интерфейс во многом основан на VitaShell от TheFloW.\\n\\nИсходники: github.com/devnoname120/RegistryEditorMOD\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "REMGR0001",
+    "name": "rePatch Manager",
+    "version": "1.10",
+    "author": "Eyeman",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/REMGR0001/rePatch.Manager.vpk",
+    "size": 3969733,
+    "sha256": "840fb3ea84c48245986dabe9c05b336824fbeabe2b0a745a36231bfd0934637d",
+    "icon": "homebrew/REMGR0001/icon.png",
+    "shots": [
+     "homebrew/REMGR0001/s1.jpg",
+     "homebrew/REMGR0001/s2.jpg",
+     "homebrew/REMGR0001/s3.jpg"
+    ],
+    "description": "Инструмент для включения и отключения отдельных игр через rePatch. Полезен для включения и отключения модов, использующих rePatch.\\nПроверено на прошивках 3.60 и 3.65.\\n\\nИсходники: github.com/Eyeman420/rePatch-Manager\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RETBUBMKR",
+    "name": "Retroarch Bubble Builder",
+    "version": "1.0",
+    "author": "AntHJ",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/RETBUBMKR/Retroarch.Bubble.Builder.vpk",
+    "size": 5885149,
+    "sha256": "620a53bc0e45e09963924bed1a4718f6dd7dcfe98fe297013f302c41a9a657a0",
+    "icon": "homebrew/RETBUBMKR/icon.png",
+    "shots": [
+     "homebrew/RETBUBMKR/s1.jpg",
+     "homebrew/RETBUBMKR/s2.jpg",
+     "homebrew/RETBUBMKR/s3.jpg"
+    ],
+    "description": "С помощью этого инструмента можно загружать собственные изображения и менять их размер, чтобы создавать свои бабблы и страницы запуска. Если вы используете сборку Crazymac или старые версии Retroarch, в которых не было функции ярлыков, это приложение также сделает ваш Retroarch совместимым с ярлыками-бабблами.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RETROFLOW",
+    "name": "RetroFlow Launcher",
+    "version": "8.5.0",
+    "author": "jimbob4000 & VitaHEX games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/RETROFLOW/RetroFlow.vpk",
+    "size": 14100541,
+    "sha256": "9e18b5dcaae28b3dde8ee56c979e3a9823b439e991fdab5036511b953819e53e",
+    "icon": "homebrew/RETROFLOW/icon.png",
+    "shots": [
+     "homebrew/RETROFLOW/s1.jpg",
+     "homebrew/RETROFLOW/s2.jpg",
+     "homebrew/RETROFLOW/s3.jpg"
+    ],
+    "description": "Это модифицированная версия HexFlow Launcher — 3D-лаунчера в стиле coverflow для PS Vita.\\nВ эту версию добавлены категории для ретро-игр, которые можно запускать без бабблов для RetroArch и DaedalusX64. Игры PlayStation и PSP тоже можно запускать без создания бабблов для каждой игры.\\n\\nИсходники: github.com/jimbob4000/RetroFlow-Launcher\\nИсточник: VitaDB."
    }
   ],
   "translations": [
