@@ -1,5 +1,5 @@
 {
- "version": "f9cacb0d80e6",
+ "version": "b3f73ea79d24",
  "categories": {
   "ports": [
    {
@@ -10150,6 +10150,90 @@
      "ports/TLOL00020/s3.jpg"
     ],
     "description": "Порт The Legend of Lumina для PSVITA.\\nИсследуйте древний лес, двигайте блоки, чтобы решать головоломки, и найдите способ снять проклятие с родной земли.\\nИгра изначально разработана на Godot для KB Games ZeldaJam 2022. The Legend of Lumina — головоломка с передвижением блоков и прогрессией в стиле Metroidvania, действие которой происходит в мирном лесу.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "TNSJOB001",
+    "name": "Sorcerer's job Vita",
+    "version": "1.0",
+    "author": "VSM GAMMER",
+    "vpk": "https://firsts3.ru/vpkgj/ports/TNSJOB001/sorcerer.vpk",
+    "size": 65284172,
+    "sha256": "990097619e6c34fc6017e8b30b27d786ed9fcd296092ca0ae5608a4fdedbf7ea",
+    "icon": "ports/TNSJOB001/icon.png",
+    "description": "Порт игры This is not a sorcerer's job для PSVITA.\\nБило — молодой бунтарь, ученик чародея, который однажды устроил розыгрыш одному из учителей в магической башне, где учится.\\nЕго поймали и наказали: он должен очистить все уголки Itsmoor от странного мха, внезапно появившегося повсюду.\\nВ ходе работы (необычной для чародея) он выяснит, где и как появился этот мох, кто за этим стоит и каковы его планы, и решит их сорвать. Вам также встретятся разные персонажи, которые помогут продвинуться в миссии (конечно, в обмен на услуги).\\nПомогите ему в задаче и оставьте каждый уголок Itsmor нетронутым, распутывая загадочный заговор, используя лишь магию… и хитрость!\\nНо помните: ваша магическая сила истощена, и её нужно восполнять.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "TOHO06REV",
+    "name": "Touhou 6 Vita",
+    "version": "0.1",
+    "author": "Wavy667",
+    "vpk": "https://firsts3.ru/vpkgj/ports/TOHO06REV/th06-vita.vpk",
+    "size": 2679945,
+    "sha256": "415dcb93f85e0b2f7ffa947ed0eba00c6c755d7f80c6b42f0f71e7eecb92a3f0",
+    "requires": "libshacccg",
+    "icon": "ports/TOHO06REV/icon.png",
+    "description": "Порт Touhou Koumakyou - the Embodiment of Scarlet Devil на Playstation Vita с использованием портативной декомпиляции EoSD от GensokyoClub.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Wavy667/th06-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "TOMCASTLE",
+    "name": "Rocky Castle 2 Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/TOMCASTLE/rocky2.vpk",
+    "size": 2794258,
+    "sha256": "617bea7effcf3d92067d8e84b3fc5b77e4da2251e37ae9dcf30122214705ccfb",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/TOMCASTLE/icon.png",
+    "shots": [
+     "ports/TOMCASTLE/s1.jpg",
+     "ports/TOMCASTLE/s2.jpg",
+     "ports/TOMCASTLE/s3.jpg"
+    ],
+    "description": "Обёртка/порт Rocky Castle 2 для PS Vita.\\nПорт работает так: официальные Android ARMv7-исполняемые файлы загружаются в память, их импорты подменяются нативными функциями, а сам код патчится для корректного запуска. По сути, это эмуляция минималистичной среды Android, в которой исполняемые файлы запускаются нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/rocky-castle-2-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "TOONCUBE1",
+    "name": "Toon Rescue Vita",
+    "version": "0.8",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/TOONCUBE1/toon-rescue.vpk",
+    "size": 2786886,
+    "sha256": "2b9a92dbf629e9ed02a90e7b12f8d0a37385073f8c10f0b425a6cbbbf0dca725",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/TOONCUBE1/icon.png",
+    "shots": [
+     "ports/TOONCUBE1/s1.jpg",
+     "ports/TOONCUBE1/s2.jpg",
+     "ports/TOONCUBE1/s3.jpg"
+    ],
+    "description": "Обёртка/порт Toon Rescue: Cube Blast Match для PS Vita.\\nПорт работает так: официальный Android ARMv7-исполняемый файл загружается в память, его импорты подменяются нативными функциями, а сам код патчится для корректного запуска. По сути, это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/toon-rescue-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "TOPT00001",
+    "name": "Top Tennis Vita",
+    "version": "1.4",
+    "author": "figarocool",
+    "vpk": "https://firsts3.ru/vpkgj/ports/TOPT00001/TopTennis.vpk",
+    "size": 752984,
+    "sha256": "c1fae46d92174e527907ed0337deac708b1115c18eff95eff8f4c21a2e90bc01",
+    "icon": "ports/TOPT00001/icon.png",
+    "description": "Top Tennis (The Game Factory, 1997, программист John Dolph) — DOS-игра в теннис, написанная на Borland Pascal 7. Этот проект — точная переписанная версия на C с SDL2, созданная путём изучения оригинальной программы (реверс-инжиниринг). Работает на Linux, на других системах с SDL2, на PS Vita и на PSP. Это не эмулятор: игровая логика переписана, с той же физикой мяча, тем же ИИ, теми же меню и таймингами, что и в оригинале.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/figarocool/Top-Tennis-game-Factory\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "TPPG00001",
+    "name": "Tricky Towers Endless Race",
+    "version": "0.5",
+    "author": "TushkaN",
+    "vpk": "https://firsts3.ru/vpkgj/ports/TPPG00001/TTER.vpk",
+    "size": 54375202,
+    "sha256": "9500d92cf9788149da44ec7aeae5b5c784044810cf5e7e4e85b12b6fb08d8969",
+    "icon": "ports/TPPG00001/icon.png",
+    "shots": [
+     "ports/TPPG00001/s1.jpg",
+     "ports/TPPG00001/s2.jpg",
+     "ports/TPPG00001/s3.jpg"
+    ],
+    "description": "С великолепной мантией и магическими силами самое время строить Tricky Towers! Укладывайте кирпичи в этой сказочной стране — чья чудесная башня окажется самой устойчивой? Сражайтесь с друзьями и добивайтесь славы в этой безумной игре с физикой.\\n\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -16711,6 +16795,50 @@
      "homebrew/TLSF00001/s1.jpg"
     ],
     "description": "tls_fixer предоставляет современный TLS-транспорт на основе Mbed TLS 4.2.0 и TF-PSA-Crypto 1.2.0, а также авторитетный набор сертификатов Sony + curl/Mozilla. Обработку URL, перенаправлений, аутентификации, cookie и запросов по-прежнему выполняет HTTP-реализация Sony.\\n\\nИсходники: github.com/devnoname120/vita_tls_fixer\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "TOSF87312",
+    "name": "The Orange Sunflower",
+    "version": "1.0",
+    "author": "Modello",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/TOSF87312/OrangeSunflower.vpk",
+    "size": 45872461,
+    "sha256": "ad7bc875884c08c9ab504f56e865465b4237e1d129b14bb3ba4d99410a36c501",
+    "icon": "homebrew/TOSF87312/icon.png",
+    "shots": [
+     "homebrew/TOSF87312/s1.jpg"
+    ],
+    "description": "Игра, в которой нужно уворачиваться от падающих семечек подсолнуха.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "TOTH00001",
+    "name": "The Other Her",
+    "version": "1.0",
+    "author": "SoySilver",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/TOTH00001/TheOtherHer.vpk",
+    "size": 28327338,
+    "sha256": "15b1c63624c24dd049b406ca96829ea3ec6c891ebc0a822913e0c9a730dd68d1",
+    "icon": "homebrew/TOTH00001/icon.png",
+    "shots": [
+     "homebrew/TOTH00001/s1.jpg",
+     "homebrew/TOTH00001/s2.jpg",
+     "homebrew/TOTH00001/s3.jpg"
+    ],
+    "description": "The Other Her — короткая сюжетная визуальная новелла в жанре психологического хоррора, вдохновлённая микрофикшеном и рассчитанная на одно напряжённое прохождение.\\nРаспутайте тайну, где важен каждый выбор, а ваш рассудок угасает с каждым вдохом.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "TQUE00001",
+    "name": "TextQuest",
+    "version": "1.0",
+    "author": "joshaxey",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/TQUE00001/TextQuest.vpk",
+    "size": 291942,
+    "sha256": "999ebacf9ea88cf5a40eccce73be1601c8c0e1e1f0ef0791a8a90927c7199ef2",
+    "icon": "homebrew/TQUE00001/icon.png",
+    "shots": [
+     "homebrew/TQUE00001/s1.jpg"
+    ],
+    "description": "Простая текстовая игра для Vita в жанре «выбери своё приключение».\\nПросто очень простое ностальгическое текстовое приключение, homebrew для PS Vita.\\n\\nИсходники: github.com/joshaxey/textquest\\nИсточник: VitaDB."
    }
   ],
   "translations": [
