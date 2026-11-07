@@ -1,5 +1,5 @@
 {
- "version": "53532cca45b4",
+ "version": "f07d3c5b1bdd",
  "categories": {
   "ports": [
    {
@@ -6865,6 +6865,100 @@
      "ports/LEAP00001/s2.jpg"
     ],
     "description": "Платформер, сделанный в GameMaker для Game Maker's Toolkit Jam 2018 командой HeartLamp.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LEOFORT01",
+    "name": "Leo's Fortune Vita",
+    "version": "1.0",
+    "author": "stoicpingu",
+    "vpk": "https://firsts3.ru/vpkgj/ports/LEOFORT01/leosfortune.vpk",
+    "size": 2236369,
+    "sha256": "7fb252560dc663ccd96e685105b208c2868c325cfa9c5dfb27129ced70c94730",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/LEOFORT01/icon.png",
+    "shots": [
+     "ports/LEOFORT01/s1.jpg",
+     "ports/LEOFORT01/s2.jpg",
+     "ports/LEOFORT01/s3.jpg"
+    ],
+    "description": "Это враппер/порт Leo's Fortune для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, и он патчится для корректного запуска. По сути, это как если бы мы эмулировали минималистичную среду Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/stoicpingu/leos-fortune-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LF2V00001",
+    "name": "Little Fighter 2 Vita",
+    "version": "0.60 alpha",
+    "author": "DannyDLux90",
+    "vpk": "https://firsts3.ru/vpkgj/ports/LF2V00001/LittleFighter2-Vita.vpk",
+    "size": 38358031,
+    "sha256": "22e757796a330f833fc61cdc7b7efe333880eac269d4627ce5a61f43a95fd157",
+    "icon": "ports/LF2V00001/icon.png",
+    "description": "Proof-of-concept порт Little Fighter 2 для PSVita.\\n\\nИсходники: github.com/DannyDLux90/LF2Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LIER01337",
+    "name": "OpenVitaLiero",
+    "version": "0.3",
+    "author": "Ak1M1223",
+    "vpk": "https://firsts3.ru/vpkgj/ports/LIER01337/openliero.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/LIER01337/data.zip",
+    "data_path": "ux0:data",
+    "size": 1524796,
+    "sha256": "70d578093ce5711518a203181f52e2cea40dafb9242a4935e161860728bf27b6",
+    "icon": "ports/LIER01337/icon.png",
+    "shots": [
+     "ports/LIER01337/s1.jpg"
+    ],
+    "description": "Симулятор земляных червей на основе реальной физической модели. Особенности: 2 червя, 40 видов оружия, отличная играбельность. Четыре режима игры: Kill'em All, Game of Tag, Capture the Flag и Simple CtF!\\n\\nИсходники: github.com/Ak1M1223/vitaliero\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LISA00001",
+    "name": "LISA Vita",
+    "version": "0.1.0-alpha1",
+    "author": "Pinol0",
+    "vpk": "https://firsts3.ru/vpkgj/ports/LISA00001/LISA-Vita.vpk",
+    "size": 4488876,
+    "sha256": "2682aa14846358938c9db174bb4ffbe171dde3811dc625e0c8778a1da7767231",
+    "requires": "libshacccg",
+    "icon": "ports/LISA00001/icon.png",
+    "shots": [
+     "ports/LISA00001/s1.jpg"
+    ],
+    "description": "Неофициальный нативный порт LISA: The Painful для PS Vita на основе mkxp-z и рантайма RGSS3.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Pinol0/LISA-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LOVEVITA0",
+    "name": "LOVE",
+    "version": "1.0",
+    "author": "hatoving",
+    "vpk": "https://firsts3.ru/vpkgj/ports/LOVEVITA0/LOVE.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/LOVEVITA0/data.zip",
+    "data_path": "ux0:data",
+    "size": 2847533,
+    "sha256": "d34597a08d507c7ffbae04bcf7fe4cb8d0ab9bdb2fe2b52e44d51c9180d59484",
+    "icon": "ports/LOVEVITA0/icon.png",
+    "shots": [
+     "ports/LOVEVITA0/s1.jpg",
+     "ports/LOVEVITA0/s2.jpg",
+     "ports/LOVEVITA0/s3.jpg"
+    ],
+    "description": "LOVE — короткий и затягивающе сложный платформер с минималистичным дизайном. В нём есть собственная система возрождения, 16 уровней, оригинальный саундтрек из 12 треков, соревновательный подсчёт очков и несколько способов игры.\\nЭтот порт использует Android-версию игры.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LSDR00001",
+    "name": "LSD Revamped Vita",
+    "version": "1.0",
+    "author": "arielxflores",
+    "vpk": "https://firsts3.ru/vpkgj/ports/LSDR00001/LSDRevamped-Vita.vpk",
+    "size": 1193064,
+    "sha256": "96d4236a52e96c3e1a8f59de94a01a470f9d23e5a8803dd63ea37d5a4821bd23",
+    "requires": "libshacccg",
+    "icon": "ports/LSDR00001/icon.png",
+    "shots": [
+     "ports/LSDR00001/s1.jpg",
+     "ports/LSDR00001/s2.jpg",
+     "ports/LSDR00001/s3.jpg"
+    ],
+    "description": "LSD Revamped Vita — нативный порт LSD Revamped, ремейка LSD: Dream Emulator (1998) с открытым исходным кодом от Figglewatts, на PS Vita. Игра переписана на C с использованием vitaGL по коду LSD Revamped на Unity и работает на 60 fps.\\nВ порте есть все 14 снов оригинального дневника, переходы между снами, граф снов, флешбэки, особые дни, Серый человек и сохранения; классическая графика (пикселизация, дизеринг, аффинное текстурирование, ограничение частоты кадров PSX) и графика Revamped с профилями графики; классическое и Revamped-управление с настраиваемыми схемами; оригинальный саундтрек, синтезированный из последовательностей PS1, и саундтрек Revamped; а также вступительные и внутриигровые видео. Загрузка модов и пользовательских дневников не включена.\\n\\nНужны файлы оригинальной игры (PS1), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/arielxflores/LSDRevamped-Vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -10470,6 +10564,145 @@
     "sha256": "ab3fadf1cf924345745577d2906b69643253cc789f77cc081b8c01908f34c5b0",
     "icon": "homebrew/LEDGE0001/icon.png",
     "description": "The Ledge — короткая нарративная игра, изначально созданная на RPG Maker MV и адаптированная для PlayStation Vita с помощью заменяющего нативного рантайма с изменённым кодом LPP-Vita.\\nОснована на рассказе «Man With A Problem» Дональда Хонига (1958). Примерное время прохождения — 5–10 минут.\\nПредупреждение о содержании: суицид, смерть и тревожные образы.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LIFELUAJT",
+    "name": "LifeLua",
+    "version": "08-06-2025",
+    "author": "Harommel Rabbid",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LIFELUAJT/LifeLua.vpk",
+    "size": 1414258,
+    "sha256": "a303a29f5fd6842e6461bd6292286a8b2e54ee7d172d7287115aaa1b4bf97f3b",
+    "icon": "homebrew/LIFELUAJT/icon.png",
+    "shots": [
+     "homebrew/LIFELUAJT/s1.jpg",
+     "homebrew/LIFELUAJT/s2.jpg",
+     "homebrew/LIFELUAJT/s3.jpg"
+    ],
+    "description": "Интерпретатор Lua для PSVITA со встроенным примером приложения, демонстрирующим его возможности.\\n\\nИсходники: github.com/HarommelRabbid/LifeLua\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LIRC00001",
+    "name": "luaIrc",
+    "version": "1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LIRC00001/luaIrc.vpk",
+    "data": "https://firsts3.ru/vpkgj/homebrew/LIRC00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 1761292,
+    "sha256": "177fd85a0d3183dce80827d747924787468fb042ab4b604dd3cf9e384afc3a80",
+    "icon": "homebrew/LIRC00001/icon.png",
+    "shots": [
+     "homebrew/LIRC00001/s1.jpg",
+     "homebrew/LIRC00001/s2.jpg",
+     "homebrew/LIRC00001/s3.jpg"
+    ],
+    "description": "luaIrc — IRC-клиент для PS Vita, написанный на Lua Player Plus Vita, позволяет общаться с друзьями когда угодно.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LIVAREA01",
+    "name": "LiveArea Designer",
+    "version": "1.24",
+    "author": "robin994",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LIVAREA01/LIVAREA01.vpk",
+    "size": 2160432,
+    "sha256": "39e0bb61314296f9f5237e57dc9ffebd564df658b243c68066caea0d3f99c4af",
+    "icon": "homebrew/LIVAREA01/icon.png",
+    "shots": [
+     "homebrew/LIVAREA01/s1.jpg",
+     "homebrew/LIVAREA01/s2.jpg"
+    ],
+    "description": "LiveArea Designer — хоумбрю-утилита для PlayStation Vita, помогающая разработчикам и дизайнерам создавать и просматривать собственные макеты LiveArea прямо на консоли.\\nВ инструменте есть интерактивный редактор, где можно размещать кнопку на карточке LiveArea и менять её размер с помощью переднего сенсорного экрана или физических кнопок. Все размеры показываются в пикселях относительно границ карточки.\\n\\nИсходники: github.com/robin994/LiveAreaDesigner\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LNLY00001",
+    "name": "Evie",
+    "version": "0.4.0.1",
+    "author": "LonelyPie Studio",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LNLY00001/Evie-Vita.vpk",
+    "size": 20554862,
+    "sha256": "bbdce83895f68ce85c45f2988ef42a2b5599a877f628454ba3aca01a7534cd72",
+    "icon": "homebrew/LNLY00001/icon.png",
+    "shots": [
+     "homebrew/LNLY00001/s1.jpg",
+     "homebrew/LNLY00001/s2.jpg"
+    ],
+    "description": "Вы играете за девушку по имени Эви. Вскоре вы узнаете, что король запирает эльфов в тюрьме. Хотя вы всего лишь горожанка, вы решаете помочь им и устроить побег из тюрьмы.\\n\\nИсходники: github.com/LnlyPie/Evie-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LOON8VITA",
+    "name": "Loonies 8192",
+    "version": "r66",
+    "author": "thp",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LOON8VITA/loonies8192.vpk",
+    "size": 12651987,
+    "sha256": "751fb0a4b96bb58c0a61b9abcb19e9c594cdf9a6ab684d870273caa49787a2c3",
+    "icon": "homebrew/LOON8VITA/icon.png",
+    "shots": [
+     "homebrew/LOON8VITA/s1.jpg",
+     "homebrew/LOON8VITA/s2.jpg"
+    ],
+    "description": "Мультиплатформенная мини-головоломка в ретро-стиле.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LP1D00003",
+    "name": "Vita VirtualKeyboard",
+    "version": "00.01",
+    "author": "lp1",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LP1D00003/VirtualKeyboard.vpk",
+    "size": 3509116,
+    "sha256": "648e1424b2af85ad1d9eb98ca02e8f8b33a96ecc41e197e13a041f9e8e8ff34a",
+    "icon": "homebrew/LP1D00003/icon.png",
+    "shots": [
+     "homebrew/LP1D00003/s1.jpg"
+    ],
+    "description": "Vita VirtualKeyboard превращает вашу PS Vita с джейлбрейком в полноценную USB-клавиатуру с низкой задержкой.\\n\\nИсходники: github.com/lp1dev/vita_virtualkeyboard\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LP1HT0001",
+    "name": "Vita Ports Scanner",
+    "version": "0.10.0",
+    "author": "lp1",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LP1HT0001/ports_scanner.vpk",
+    "size": 2995698,
+    "sha256": "c144b19dc40b7b8f40408cc7604ae0ff9feee13c50d27fdbdeac075de0880b31",
+    "icon": "homebrew/LP1HT0001/icon.png",
+    "description": "TCP-сканер хостов и портов для локальных сетей, у которого для каждого типа сканирования есть 3 разных уровня.\\n\\nИсходники: github.com/lp1dev/vita_ports_scanner\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LPPV00001",
+    "name": "Lua Player Plus Vita",
+    "version": "r6",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LPPV00001/Lua%20Player%20Plus%20Vita.vpk",
+    "data": "https://firsts3.ru/vpkgj/homebrew/LPPV00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 2365705,
+    "sha256": "c7c2b7d31b1d64973711fe79bf3361aeab584ab3079cea66690b7497352db645",
+    "icon": "homebrew/LPPV00001/icon.png",
+    "shots": [
+     "homebrew/LPPV00001/s1.jpg",
+     "homebrew/LPPV00001/s2.jpg",
+     "homebrew/LPPV00001/s3.jpg"
+    ],
+    "description": "Первый интерпретатор Lua для PSVITA.\\nУ него есть множество возможностей: 3D-рендеринг, 2D-рендеринг, полноценная аудиосистема с поддержкой разных форматов аудиофайлов, сетевые функции и т. д.\\n\\nИсходники: github.com/Rinnegatamante/lpp-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LSND00001",
+    "name": "LocalSend",
+    "version": "1.15.4-vita.2",
+    "author": "resashkin",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LSND00001/localsend.vpk",
+    "size": 20088974,
+    "sha256": "b81b6af9fa21af5b4b7f9577e3bcdd60f2dc4eee2d2e205949239cb11b6d525b",
+    "requires": "libshacccg",
+    "icon": "homebrew/LSND00001/icon.png",
+    "shots": [
+     "homebrew/LSND00001/s1.jpg",
+     "homebrew/LSND00001/s2.jpg",
+     "homebrew/LSND00001/s3.jpg"
+    ],
+    "description": "LocalSend — порт LocalSend 1.15.4, приложения с открытым исходным кодом для передачи файлов между устройствами в одной локальной сети без интернета и аккаунта. Работает с LocalSend на Android, iOS, Windows, macOS и Linux.\\nVita находит другие устройства с LocalSend в сети, и они находят Vita. Файлы принимаются по HTTPS и сохраняются в ux0:downloads. Отправлять файлы можно с карты памяти или внутреннего накопителя через встроенный файловый браузер. Пока приложение открыто, консоль не уходит в спящий режим, поэтому передача не прерывается.\\nПорт запускает оригинальное Flutter-приложение на Vita с помощью flutter-vita — эмбеддера и тулчейна Flutter для PS Vita.\\n\\nИсходники: github.com/flutter-vita/localsend\\nИсточник: VitaDB."
    }
   ],
   "translations": [
