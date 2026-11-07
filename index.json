@@ -1,5 +1,5 @@
 {
- "version": "4f1226e857aa",
+ "version": "bddbf33caf87",
  "categories": {
   "ports": [
    {
@@ -8669,6 +8669,54 @@
      "ports/RESURGENT/s3.jpg"
     ],
     "description": "Пройдите через постапокалиптический город, опустошённый неизвестным вирусом, в поисках безопасного места. Оригинальная игра от Tristan Harris.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RFLM32541",
+    "name": "RunFromReality",
+    "version": "1.0",
+    "author": "LuckTheGamers",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RFLM32541/RFLM.vpk",
+    "size": 36596959,
+    "sha256": "2f7a0ff96e73f9974b73cce512fe8565f9073f0c2ed91ee799333bb091a5b256",
+    "icon": "ports/RFLM32541/icon.png",
+    "shots": [
+     "ports/RFLM32541/s1.jpg"
+    ],
+    "description": "Run From Reality — 2D-игра с бесконечным бегом и боковой прокруткой, где нужно проходить очень случайные препятствия, чтобы набрать как можно больше очков.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RHYTHMROF",
+    "name": "THE RHYTHM OF FIGHTERS Vita",
+    "version": "1.4.1",
+    "author": "MDashK",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RHYTHMROF/rof.vpk",
+    "size": 2862837,
+    "sha256": "a1e9484836e39df02edf55e7c6606e377378281669019723c155a2504ed71713",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/RHYTHMROF/icon.png",
+    "shots": [
+     "ports/RHYTHMROF/s1.jpg",
+     "ports/RHYTHMROF/s2.jpg",
+     "ports/RHYTHMROF/s3.jpg"
+    ],
+    "description": "THE RHYTHM OF FIGHTERS - SNK Original Sound Collection — ритм-экшен для мобильных устройств, выпущенный SNK Playmore для iOS и Android. В игре звучат саундтреки из многих классических игр SNK, таких как The King of Fighters, Fatal Fury, Samurai Shodown, Art of Fighting, Metal Slug и игровых автоматов патинко, а также специальные аранжировки классических мелодий, созданные для этой игры их первоначальными композиторами.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/MDashK/rof-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RKYCASTLE",
+    "name": "Rocky Castle Vita",
+    "version": "1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RKYCASTLE/rocky.vpk",
+    "size": 2701590,
+    "sha256": "a26fe26492224ef7a337ba343fe121d21bc3940b6caaf8a89d83beba5dffe704",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/RKYCASTLE/icon.png",
+    "shots": [
+     "ports/RKYCASTLE/s1.jpg",
+     "ports/RKYCASTLE/s2.jpg",
+     "ports/RKYCASTLE/s3.jpg"
+    ],
+    "description": "Это обёртка/порт Rocky Castle для PS Vita.\\nПорт работает так: официальные исполняемые файлы Android ARMv7 загружаются в память, их импорты подменяются нативными функциями, а сами файлы патчатся для корректного запуска. По сути, это эмуляция минималистичной среды Android, в которой исполняемые файлы запускаются нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/rocky-castle-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
