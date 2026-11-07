@@ -1,5 +1,5 @@
 {
- "version": "8ace7bee1c5f",
+ "version": "1a212a1f39c9",
  "categories": {
   "ports": [
    {
@@ -7341,6 +7341,87 @@
      "ports/NANOSAUR1/s3.jpg"
     ],
     "description": "Nanosaur — научно-фантастический шутер от третьего лица, разработанный Pangea Software и изданный Ideas From the Deep для Mac OS 9 и Microsoft Windows. Игрок становится нанозавром — генетически созданным разумным динозавром из будущего, отправленным в прошлое незадолго до мел-палеогенового вымирания.\\n\\nИсходники: github.com/Rinnegatamante/Nanosaur\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NANOSAUR2",
+    "name": "Nanosaur 2 Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NANOSAUR2/Nanosaur2.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/NANOSAUR2/data.zip",
+    "data_path": "ux0:data",
+    "size": 1872464,
+    "sha256": "009019b43fce9e167141e51c00186c174a594b1ef6627dac3489063f3f106a09",
+    "requires": "libshacccg",
+    "icon": "ports/NANOSAUR2/icon.png",
+    "shots": [
+     "ports/NANOSAUR2/s1.jpg",
+     "ports/NANOSAUR2/s2.jpg",
+     "ports/NANOSAUR2/s3.jpg"
+    ],
+    "description": "Nanosaur 2 Vita — порт Nanosaur 2.\\nДействие Nanosaur 2 происходит вскоре после событий первой Nanosaur (если считать, что она была успешно пройдена): ценные яйца динозавров теперь в руках расы нанозавров. Однако неназванная повстанческая группа нанозавров похищает яйца, чтобы создать боевую силу против Земли. Одно яйцо птеранодона остаётся, и именно птенец, давший игре название, становится аватаром игрока. Цель — вернуть потерянные яйца у повстанцев.\\n\\nИсходники: github.com/Rinnegatamante/Nanosaur2\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NAUGHT101",
+    "name": "Naught Vita",
+    "version": "1.1",
+    "author": "usineur",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NAUGHT101/naught.vpk",
+    "size": 2360778,
+    "sha256": "852ee805d0598b9f5fbfe1f6d4a3a8cac1153f033b8dd2f363a3802859bea21c",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/NAUGHT101/icon.png",
+    "shots": [
+     "ports/NAUGHT101/s1.jpg",
+     "ports/NAUGHT101/s2.jpg",
+     "ports/NAUGHT101/s3.jpg"
+    ],
+    "description": "Это враппер/порт Naught для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, и он патчится для корректного запуска. По сути, это как если бы мы эмулировали минималистичную среду Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/usineur/naught-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NAUGHT201",
+    "name": "Naught 2 Vita",
+    "version": "1.1",
+    "author": "usineur",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NAUGHT201/naught2.vpk",
+    "size": 1815090,
+    "sha256": "3aa632bb70a471aa905d2efc86cbf865663b09be7a1ae20316ae7969de7a54d2",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/NAUGHT201/icon.png",
+    "shots": [
+     "ports/NAUGHT201/s1.jpg",
+     "ports/NAUGHT201/s2.jpg",
+     "ports/NAUGHT201/s3.jpg"
+    ],
+    "description": "Это враппер/порт Naught 2 для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, и он патчится для корректного запуска. По сути, это как если бы мы эмулировали минималистичную среду Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/usineur/naught2-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NBBM00001",
+    "name": "Ninja Baseball Bat Man Vita",
+    "version": "1.0",
+    "author": "Tobic-99",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NBBM00001/nbbatman.vpk",
+    "size": 1425385,
+    "sha256": "02825cd4b2efacd6e4352cd28b9c7050ba235c929c9fc7ad4682beedcf82d503",
+    "requires": "libshacccg",
+    "icon": "ports/NBBM00001/icon.png",
+    "description": "Статическая рекомпиляция Ninja Baseball Bat Man (Irem, 1993, аркадная плата M92) в нативный ARM-код. Основная программа игры для V33 переведена в C++ и скомпонована с нативным рантаймом, заменяющим плату: карта памяти, контроллер прерываний, DMA, программный видеорендерер и звуковая плата (V35 с шифрованием опкодов Irem, YM2151 и GA20). Звуковой процессор работает в интерпретаторе.\\n\\nНужны файлы оригинальной игры (MAME), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Tobic-99/nbbatman-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NBDI56749",
+    "name": "fast-areas NEON",
+    "version": "1.0.1",
+    "author": "OrbitalFlagStudio",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NBDI56749/fast-areas.vpk",
+    "size": 36494661,
+    "sha256": "753c0a6e9857ee1aacf6b7610b336e3a1833d41ba57125a69e8b1a50bf11901a",
+    "icon": "ports/NBDI56749/icon.png",
+    "shots": [
+     "ports/NBDI56749/s1.jpg",
+     "ports/NBDI56749/s2.jpg",
+     "ports/NBDI56749/s3.jpg"
+    ],
+    "description": "Порт fast-areas NEON для PSVITA.\\nПройдите как можно дальше и не касайтесь препятствий, иначе проиграете!\\n\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
