@@ -1,5 +1,5 @@
 {
- "version": "cc870dd7312a",
+ "version": "a55f8fce6345",
  "categories": {
   "ports": [
    {
@@ -9675,6 +9675,41 @@
      "ports/SOTT06722/s3.jpg"
     ],
     "description": "Sonic Time Twisted — фанатская игра по Sonic the Hedgehog, вдохновлённая Sonic CD и Sonic 3 & Knuckles. Оригинальная игра от Overbound Game Studio.\\n\\nИсходники: github.com/MEGAgameBoy/Sonic-Time-Twisted-PS-Vita-Port\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SPAGHETTI",
+    "name": "Spaghetti Kart Vita",
+    "version": "1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SPAGHETTI/spaghetti.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SPAGHETTI/data.zip",
+    "data_path": "ux0:data",
+    "size": 7722903,
+    "sha256": "f0f9c9108a64083e6d7adc27837ebd744d91c52167366092de0eb78c0e03ce18",
+    "requires": "libshacccg",
+    "icon": "ports/SPAGHETTI/icon.png",
+    "shots": [
+     "ports/SPAGHETTI/s1.jpg",
+     "ports/SPAGHETTI/s2.jpg",
+     "ports/SPAGHETTI/s3.jpg"
+    ],
+    "description": "Spaghetti Kart — сорспорт Mario Kart 64, основанный на декомпиляции игры. В нём есть ряд улучшений и поддержка модов. Порт для Vita основан на версии 1.0.0 (Bolognese Alfa) с исправлениями ошибок из разрабатываемой ветки.\\n\\nНужны файлы оригинальной игры (N64), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/SpaghettiKart\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SPCL00001",
+    "name": "Spelunky Classic HD Vita",
+    "version": "1.0",
+    "author": "SiulPop",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SPCL00001/spelunky.vpk",
+    "size": 7648928,
+    "sha256": "952cb3e66a44da896fc330a3ee137711b770a4470633fdd123d27a19091a0252",
+    "icon": "ports/SPCL00001/icon.png",
+    "shots": [
+     "ports/SPCL00001/s1.jpg",
+     "ports/SPCL00001/s2.jpg",
+     "ports/SPCL00001/s3.jpg"
+    ],
+    "description": "Spelunky — игра про исследование пещер и поиск сокровищ, вдохновлённая классическими платформерами и рогаликами. Цель — унести из пещеры как можно больше сокровищ. Каждый раз планировка пещеры будет другой. Используйте смекалку, реакцию и доступные предметы, чтобы выжить и спуститься как можно глубже. Возможно, в конце вы найдёте то, что ищете… Не бойтесь умереть! Но и не бойтесь жить! Приятного Spelunky-ing!\\n\\nИсходники: github.com/SiulPop/Spelunky.Classic.HD.VITA.\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -15665,6 +15700,38 @@
      "homebrew/SOUL45638/s3.jpg"
     ],
     "description": "Fallen Knights — экшен/приключенческая игра в тёмном мире демонов и замков.\\nВ игре есть элементы, похожие на серию Souls. Нужно исследовать большую карту, полную смертельно опасных врагов.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SOUN02006",
+    "name": "Sonic Unleashed",
+    "version": "1.6",
+    "author": "UnrealDude06",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SOUN02006/sonic_unleashed.vpk",
+    "size": 114452200,
+    "sha256": "c67753da212c911fc8fbdf1f491f15175fdf194c0566eecfa44b0bb432364636",
+    "icon": "homebrew/SOUN02006/icon.png",
+    "shots": [
+     "homebrew/SOUN02006/s1.jpg",
+     "homebrew/SOUN02006/s2.jpg",
+     "homebrew/SOUN02006/s3.jpg"
+    ],
+    "description": "Демейк Sonic Unleashed для PSVITA. Игра основана на версии для Wii/PS2 и включает единственный уровень — Apotos Windmill Isle Act 1.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SPCRCKRKR",
+    "name": "Rock Recker",
+    "version": "1",
+    "author": "SomeonPC",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SPCRCKRKR/RockRecker.vpk",
+    "size": 2361624,
+    "sha256": "88716765c6ecf5bdeb4cbb2d936b537611ad68f744b0e6f4ddc54dd052ecf5c0",
+    "icon": "homebrew/SPCRCKRKR/icon.png",
+    "shots": [
+     "homebrew/SPCRCKRKR/s1.jpg",
+     "homebrew/SPCRCKRKR/s2.jpg",
+     "homebrew/SPCRCKRKR/s3.jpg"
+    ],
+    "description": "Rock Recker — клон популярной игры Asteroids, созданный в Game Maker Studio как хобби-проект.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
