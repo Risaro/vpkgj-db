@@ -1,5 +1,5 @@
 {
- "version": "0cb2a563d2b0",
+ "version": "d4428e162404",
  "categories": {
   "ports": [
    {
@@ -8146,6 +8146,88 @@
      "ports/PEKKAKANA/s3.jpg"
     ],
     "description": "Это враппер/порт Pekka Kana 2 для Android для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, а сам файл патчится для корректного запуска.\\nПо сути, это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/Pekka-Kana-2-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PHEROES01",
+    "name": "Palm Heroes Vita",
+    "version": "1.1.0",
+    "author": "Cardas26",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PHEROES01/palmheroes.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/PHEROES01/data.zip",
+    "data_path": "ux0:data",
+    "size": 7740492,
+    "sha256": "57df3ecbfb04c84f23ae0e21641ac02291876aee0d69f1c44471d79fbd03e0ee",
+    "requires": "kubridge",
+    "icon": "ports/PHEROES01/icon.png",
+    "shots": [
+     "ports/PHEROES01/s1.jpg",
+     "ports/PHEROES01/s2.jpg",
+     "ports/PHEROES01/s3.jpg"
+    ],
+    "description": "Palm Heroes (iO UPG, 2010) — стратегия в стиле Heroes of Might and Magic для Windows Mobile. Версия v1.05.3 была выпущена разработчиками бесплатно в 2010 году. Этот порт использует специально созданный загрузчик WinMobile, чтобы запустить эту версию игры на PS Vita, и включает несколько дополнительных улучшений.\\n\\nИсходники: github.com/Cardas26/psp2-pheroes\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PICKRV016",
+    "name": "Pickr VITA",
+    "version": "1.1",
+    "author": "joel16",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PICKRV016/PickrVITA.vpk",
+    "size": 303520,
+    "sha256": "e9659bee09456a60f1abf28419af145b815287c20d42378ddd3c74a5d30d60e6",
+    "icon": "ports/PICKRV016/icon.png",
+    "shots": [
+     "ports/PICKRV016/s1.jpg"
+    ],
+    "description": "PickrVITA — порт игры Pickr3DS от BernardoGiordano. Первоначальная идея принадлежит Sean M. Tracey. Цель игры — нажимать на отличающийся по цвету элемент на экране, пока не закончатся жизни. В отличие от игры Sean M. Tracey, в PickrVITA можно играть только в режиме таймера.\\n\\nИсходники: github.com/joel16/PickrVITA\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PIKLEBALL",
+    "name": "Pickleball Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PIKLEBALL/pickleball.vpk",
+    "size": 2298938,
+    "sha256": "2c8cbb7167b4e8a6a3ba32d9240675e6c336982c7be2fcfa8c8f8f26fba55505",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/PIKLEBALL/icon.png",
+    "shots": [
+     "ports/PIKLEBALL/s1.jpg",
+     "ports/PIKLEBALL/s2.jpg",
+     "ports/PIKLEBALL/s3.jpg"
+    ],
+    "description": "Это враппер/порт Pickleball Pro для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, а сам файл патчится для корректного запуска.\\nПо сути, это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/pickleball_vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PIKU12345",
+    "name": "Pikuniku Vita",
+    "version": "1.00",
+    "author": "gl00mm",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PIKU12345/pikuniku.vpk",
+    "size": 14955745,
+    "sha256": "b99721d47d46bf1cdebd638c4fa446689da4e6372c6e076b369d9d4e0a327eb3",
+    "icon": "ports/PIKU12345/icon.png",
+    "shots": [
+     "ports/PIKU12345/s1.jpg",
+     "ports/PIKU12345/s2.jpg",
+     "ports/PIKU12345/s3.jpg"
+    ],
+    "description": "Pikuniku — абсурдно чудесная игра-головоломка с исследованием, действие которой происходит в странном, но игривом мире, где не всё так радостно, как кажется.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PKMR00001",
+    "name": "Pokeemerald Rogue Vita",
+    "version": "1.5",
+    "author": "MinZe25",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PKMR00001/pokeemerald_rogue.vpk",
+    "size": 6326263,
+    "sha256": "e70c76cac5f220e5a913d22c02e534612676b0d19fed33b9b104286222164785",
+    "icon": "ports/PKMR00001/icon.png",
+    "shots": [
+     "ports/PKMR00001/s1.jpg",
+     "ports/PKMR00001/s2.jpg",
+     "ports/PKMR00001/s3.jpg"
+    ],
+    "description": "Pokemon Emerald Rogue — рогалик-фанатская игра от Pokabbie, построенная на декомпиляции Pokemon Emerald pokeemerald-expansion. Каждое приключение начинается в городе-хабе и идёт по разветвляющемуся пути из маршрутов, битв с тренерами, спортзалов и особых встреч, заканчиваясь забегом к чемпиону. Покемоны, предметы и тренеры меняются от забега к забегу. Прогресс между забегами сохраняется в хабе, где открываются квесты, улучшения, детский сад, ягодные поля и другие сооружения. В игре есть покемоны и приёмы вплоть до 9 поколения, способности, удерживаемые предметы, мега-эволюция, изначальный возврат, Z-приёмы, местности, погода и парные бои, а также опциональный пересмотренный режим приёмов и покемонов.\\nДля работы необходимо положить копию ROM Pokemon Emerald Rogue EX v2.2.1 в ux0:data/pokeemerald_rogue/.\\n\\nНужны файлы оригинальной игры (GBA), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/MinZe25/pokeemerald-rogue-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -12780,6 +12862,79 @@
      "homebrew/PGEN00001/s2.jpg"
     ],
     "description": "Эмулятор Sega Genesis, мультиплатформенный порт Genesis Plus GX.\\n\\nИсходники: github.com/Cpasjuste/pemu\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PICOLOOP1",
+    "name": "Picoloop",
+    "version": "0.77a",
+    "author": "yoyz",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PICOLOOP1/picoloop.vpk",
+    "size": 6826055,
+    "sha256": "ef140dc476e059529a0857484e306342aee702ce671f814113e4592de0b429a4",
+    "icon": "homebrew/PICOLOOP1/icon.png",
+    "shots": [
+     "homebrew/PICOLOOP1/s1.jpg",
+     "homebrew/PICOLOOP1/s2.jpg"
+    ],
+    "description": "Picoloop — синтезатор и степ-секвенсор (клон знаменитого nanoloop). Секвенсор одновременно играет 4 трека, по умолчанию длина каждого трека 16 шагов, но можно задать до 128 шагов. У каждого трека есть синтезаторный движок: виртуальный аналоговый, драм-синтезатор или FM-синтезатор. Каждый шаг можно редактировать на всех 4 треках. Например, можно поставить ноту C4 на шаге 0, ничего на шагах 1 и 2, а затем D+5 на шаге 3 вплоть до шага 15.\\n\\nПаттерн из 16 шагов проигрывается циклически, а ноты можно редактировать по разным параметрам: громкость, высота тона, фильтр, LFO и т. д. Все параметры задаются пошагово, поэтому на одном паттерне можно получить огромное разнообразие звука. Паттерны каждого канала можно сохранять в файловые слоты и затем использовать в новых комбинациях. Наконец, сохранённые паттерны можно выстроить в структуру песни.\\n\\nИсходники: github.com/yoyz/picoloop\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PICRESTGM",
+    "name": "PiCrest",
+    "version": "1.15",
+    "author": "Creckeryop",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PICRESTGM/PiCrest.vpk",
+    "size": 2529584,
+    "sha256": "016ff1025f84f0f412b06e9c1830fdec5474c67eaa94724d2369c4636e266ef9",
+    "icon": "homebrew/PICRESTGM/icon.png",
+    "shots": [
+     "homebrew/PICRESTGM/s1.jpg",
+     "homebrew/PICRESTGM/s2.jpg",
+     "homebrew/PICRESTGM/s3.jpg"
+    ],
+    "description": "Игра Picross для PSVITA с редактором уровней для создания новых уровней и поддержкой нескольких языков.\\n\\nИсходники: github.com/Creckeryop/PiCrest\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PIXC02137",
+    "name": "Pixel Chess",
+    "version": "1.0",
+    "author": "Macperek",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PIXC02137/PixelChess.vpk",
+    "size": 290363,
+    "sha256": "07a828ace8ea3caa9a2953c22d23f331a1d03be48e60818460ff5b8d5cd39302",
+    "icon": "homebrew/PIXC02137/icon.png",
+    "shots": [
+     "homebrew/PIXC02137/s1.jpg"
+    ],
+    "description": "Хомбрю-игра в шахматы в стиле пиксель-арт, созданная специально для PlayStation Vita. Обратите внимание: это любительский проект, созданный ради удовольствия и обучения.\\n\\nИсходники: github.com/Macperek/PixelChess\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PKGI00000",
+    "name": "PKGi",
+    "version": "0.05",
+    "author": "mmozeiko",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PKGI00000/pkgi.vpk",
+    "size": 159126,
+    "sha256": "c596bce071ab2887c29ff84c697a1bbd9dab0722ce0e1fb663766ceb3019d4e9",
+    "icon": "homebrew/PKGI00000/icon.png",
+    "shots": [
+     "homebrew/PKGI00000/s1.jpg"
+    ],
+    "description": "PKGi позволяет устанавливать оригинальные pkg-файлы на Vita.\\nЭтот хомбрю позволяет скачивать и распаковывать pkg-файлы прямо на Vita вместе с вашей фейковой лицензией NoNpDrm.\\n\\nИсходники: github.com/mmozeiko/pkgi\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PLMN00001",
+    "name": "Plugins Manager",
+    "version": "2.5",
+    "author": "kylon",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PLMN00001/plgmn.vpk",
+    "size": 477308,
+    "sha256": "8c30c21f17b936fe6f6f7efcc4f422478c570336c28e8140fcdd4867bdb5e0ff",
+    "icon": "homebrew/PLMN00001/icon.png",
+    "shots": [
+     "homebrew/PLMN00001/s1.jpg"
+    ],
+    "description": "Минималистичный менеджер плагинов для taiHEN.\\n\\nИсходники: bitbucket.org/kylon/plugins-manager-vita/overview\\nИсточник: VitaDB."
    }
   ],
   "translations": [
