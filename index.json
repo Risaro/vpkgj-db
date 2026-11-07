@@ -1,5 +1,5 @@
 {
- "version": "7679608bb9b6",
+ "version": "39ac4d4b581a",
  "categories": {
   "ports": [
    {
@@ -10013,6 +10013,83 @@
      "ports/TDRV01990/s1.jpg"
     ],
     "description": "Нативный аппаратно ускоренный порт Test Drive III: The Passion (1990) на PlayStation Vita и PlayStation TV, основанный на статической рекомпиляции и реверс-инжиниринге от kylofon (test-drive-3-sdl3).\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/smart-pickle/TestDriveIII-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "TEAR00001",
+    "name": "Shiromino",
+    "version": "pre-v2",
+    "author": "Tear",
+    "vpk": "https://firsts3.ru/vpkgj/ports/TEAR00001/shiromino.vpk",
+    "size": 20951200,
+    "sha256": "29626b14f58429ef126f5417da25d811a653b6f8537e336cf798458e1dc5fb76",
+    "icon": "ports/TEAR00001/icon.png",
+    "shots": [
+     "ports/TEAR00001/s1.jpg",
+     "ports/TEAR00001/s2.jpg"
+    ],
+    "description": "Разнообразная и сложная головоломка/экшен со стилистическими корнями в аркадных автоматах.\\n\\nИсходники: github.com/Tearff/shiromino\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "TECMAN001",
+    "name": "Techmaniac THPG",
+    "version": "1.0",
+    "author": "VSM GAMMER",
+    "vpk": "https://firsts3.ru/vpkgj/ports/TECMAN001/Techmaniac-THPG.vpk",
+    "size": 32788929,
+    "sha256": "32682e5907a2cf0c74fdc66a0b369185e848147e55108dc86a3d22209243650f",
+    "icon": "ports/TECMAN001/icon.png",
+    "shots": [
+     "ports/TECMAN001/s1.jpg",
+     "ports/TECMAN001/s2.jpg",
+     "ports/TECMAN001/s3.jpg"
+    ],
+    "description": "Порт Techmaniac с улучшенной графикой для PSVITA.\\nОднажды Рой Уэбб, великий диванный лежебока, сидел среди кучи своего бесполезного старого барахла, как вдруг по комнате пронёсся странный ветер и забросил его любимые вещи в неведомую страну, известную ему лишь как «улица»!\\nОставшись без единственного источника радости в жизни, Рой должен отправиться в путь и вернуть своё добро, пока кто-нибудь другой не нашёл его и не загнал на eBay!\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "THEBREACH",
+    "name": "Into the Breach",
+    "version": "1.0-vita",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/THEBREACH/breach.vpk",
+    "size": 2719702,
+    "sha256": "4f6ecf1cc9b62acb0b5a0ed1c1ae8e8dae1956097dfb850105005d076bb144f3",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/THEBREACH/icon.png",
+    "shots": [
+     "ports/THEBREACH/s1.jpg",
+     "ports/THEBREACH/s2.jpg",
+     "ports/THEBREACH/s3.jpg"
+    ],
+    "description": "Обёртка/порт Into the Breach для PS Vita.\\nПорт работает так: официальные Android ARMv7-исполняемые файлы загружаются в память, их импорты подменяются нативными функциями, а сам код патчится для корректного запуска. По сути, это эмуляция минималистичной среды Android, в которой исполняемые файлы запускаются нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/Into-The-Breach-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "THIMBPARK",
+    "name": "Thimbleweed Park Vita",
+    "version": "1.2",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/THIMBPARK/thimbleweed.vpk",
+    "size": 2736197,
+    "sha256": "5f77ad0330f0987f047d7b3c5257fba5224d8489533080a0ebea1bbd7127198d",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/THIMBPARK/icon.png",
+    "shots": [
+     "ports/THIMBPARK/s1.jpg",
+     "ports/THIMBPARK/s2.jpg",
+     "ports/THIMBPARK/s3.jpg"
+    ],
+    "description": "Обёртка/порт Thimbleweed Park для PS Vita.\\nПорт работает так: официальный Android ARMv7-исполняемый файл загружается в память, его импорты подменяются нативными функциями, а сам код патчится для корректного запуска. По сути, это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/thimbleweed-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "THPS00001",
+    "name": "Tony Hawk Slop Skater",
+    "version": "0.30",
+    "author": "DarthSully",
+    "vpk": "https://firsts3.ru/vpkgj/ports/THPS00001/thps.vpk",
+    "size": 1912039,
+    "sha256": "dcf7f51f8977c413962f91877d801518580861f78a633384d754a16bda5ef8e6",
+    "requires": "libshacccg",
+    "icon": "ports/THPS00001/icon.png",
+    "description": "Tony Hawk's Pro Skater (PS1, 1999), нативно работающая на PlayStation Vita. Собрана из общественной декомпиляции игры для PS1 (SLUS-00860): собственный код PS1, перекомпилированный под ARM-процессор Vita, с нативным OpenGL ES-рендерером через vitaGL. Без эмулятора.\\n\\nНужны файлы оригинальной игры (PS1), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/DarthSully/Tony-Hawk-Slop-Skater\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -16474,6 +16551,77 @@
      "homebrew/TCHAT0013/s2.jpg"
     ],
     "description": "Локальный клиент LLM-чата для PlayStation Vita. Модель SmolLM 135M Q8_0 работает полностью на самой консоли, сеть не нужна.\\n\\nИсходники: github.com/LuckyI13I/WoozyLLM\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "TEMA00001",
+    "name": "Tema",
+    "version": "2.1",
+    "author": "Mithrenes & xamthor",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/TEMA00001/tema.vpk",
+    "size": 1934139,
+    "sha256": "2c90a57660904b87f99a3a51e46e7a4af4237fdb446b75513537f038a60f8600",
+    "icon": "homebrew/TEMA00001/icon.png",
+    "shots": [
+     "homebrew/TEMA00001/s1.jpg",
+     "homebrew/TEMA00001/s2.jpg"
+    ],
+    "description": "Tema позволяет скачивать темы прямо через веб-браузер PSVita.\\nРаботает похоже на VPKMirror Direct Installer.\\n\\nИсходники: github.com/xamthor/Tema\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "TETR00001",
+    "name": "vita-tetromino",
+    "version": "0.8",
+    "author": "svennd",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/TETR00001/tetromino.vpk",
+    "size": 3396609,
+    "sha256": "fe1cf671c86ebf918b0bfad3bb37bc5c5bb38a6b54930606656b7c1137719174",
+    "icon": "homebrew/TETR00001/icon.png",
+    "shots": [
+     "homebrew/TETR00001/s1.jpg"
+    ],
+    "description": "Игра в духе Tetris для PSVITA/PSTV, написанная на Lua.\\n\\nИсходники: github.com/svennd/vita-tetromino/\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "TFAR00001",
+    "name": "Pixel Acres",
+    "version": "0.8.1",
+    "author": "ETX Vantage",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/TFAR00001/PixelAcresVita.vpk",
+    "size": 40569649,
+    "sha256": "4a71271c0f36febc8003574063b5e42598320807220f0342df0bd21173155cc3",
+    "icon": "homebrew/TFAR00001/icon.png",
+    "description": "Pixel Acres для PS Vita — спокойное офлайн-превью фермерской игры для портативной консоли. Ухаживайте за компактным участком 4×4: вспахивайте землю, сажайте и поливайте пшеницу, подсолнухи и чернику, затем собирайте урожай, сажайте заново или продавайте. Проверяйте семена и урожай в Silo, заглядывайте на Market и возвращайтесь: культуры продолжают расти, пока игра закрыта. Играть можно с сенсорным экраном или физическими кнопками.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "THHM00001",
+    "name": "Vita Hangman - Touhou Edition",
+    "version": "1.1A-TH1",
+    "author": "Aurora & Jackiepooh & Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/THHM00001/Vita%20Hangman%20-%20Touhou%20Edition.vpk",
+    "size": 6749665,
+    "sha256": "231d3e33bab60676816c30d3f7077216f2ec71036394e77b4bc02fbbcf7bb982",
+    "icon": "homebrew/THHM00001/icon.png",
+    "shots": [
+     "homebrew/THHM00001/s1.jpg",
+     "homebrew/THHM00001/s2.jpg"
+    ],
+    "description": "Игра «Виселица» для PSVITA на Lua. Улучшенная версия Vita Hangman со звуками, фоновой музыкой, фонами и доработанной игровой механикой.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "THMX00001",
+    "name": "Theme Manager EX",
+    "version": "2.1",
+    "author": "kylon",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/THMX00001/vtheme.vpk",
+    "size": 1169632,
+    "sha256": "4cee097f275ede0bc2ce90c857e812060f15e1ccc0b49df2af4c4974b0df5e7f",
+    "icon": "homebrew/THMX00001/icon.png",
+    "shots": [
+     "homebrew/THMX00001/s1.jpg",
+     "homebrew/THMX00001/s2.jpg",
+     "homebrew/THMX00001/s3.jpg"
+    ],
+    "description": "Theme Manager Ex — продвинутый менеджер тем для PS Vita, вводящий новый тип пользовательских тем: расширенные темы.\\n\\nИсходники: bitbucket.org/kylon/theme-manager-ex-theme-engine\\nИсточник: VitaDB."
    }
   ],
   "translations": [
