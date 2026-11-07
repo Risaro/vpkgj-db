@@ -1,5 +1,5 @@
 {
- "version": "f2566e691e6a",
+ "version": "9b1792a5988f",
  "categories": {
   "ports": [
    {
@@ -8935,6 +8935,88 @@
      "ports/ROTT00001/s3.jpg"
     ],
     "description": "Порт rottexpr — порта исходного кода Rise of the Triad с улучшениями и новыми функциями на основе релиза порта исходного кода Rise of the Triad от icculus.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Northfear/rottexpr-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RSDK00001",
+    "name": "Sonic CD",
+    "version": "2",
+    "author": "Xeeynamo",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RSDK00001/SonicCD.vpk",
+    "size": 824084,
+    "sha256": "ca67cbca15b366e5f132ecaadb9ab12deae5af07142ce415ac9f41f1f06bc40c",
+    "icon": "ports/RSDK00001/icon.png",
+    "shots": [
+     "ports/RSDK00001/s1.jpg",
+     "ports/RSDK00001/s2.jpg",
+     "ports/RSDK00001/s3.jpg"
+    ],
+    "description": "Порт Sonic CD для PSVITA/PSTV на основе декомпиляции Sonic CD 2011.\\nЭта конкретная декомпиляция основана на PC-ремейке с улучшениями и доработками из мобильных ремейков.\\n\\nНужны файлы оригинальной игры (Android OR PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Xeeynamo/Sonic-CD-11-Decompilation\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RSDK00002",
+    "name": "Sonic 1",
+    "version": "1.1.0",
+    "author": "Xeeynamo",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RSDK00002/Sonic1.vpk",
+    "size": 818584,
+    "sha256": "492843c5fdddeb9eabe2a19931ac6062e1df8979d14e7fe77460dc9d2ea05ce4",
+    "icon": "ports/RSDK00002/icon.png",
+    "shots": [
+     "ports/RSDK00002/s1.jpg",
+     "ports/RSDK00002/s2.jpg",
+     "ports/RSDK00002/s3.jpg"
+    ],
+    "description": "Порт первой игры про Sonic (Sonic The Hedgehog) на основе полной декомпиляции оригинальной игры.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Xeeynamo/Sonic-1-2-2013-Decompilation\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RSDK00003",
+    "name": "Sonic 2",
+    "version": "1.1.0",
+    "author": "Xeeynamo",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RSDK00003/Sonic2.vpk",
+    "size": 826709,
+    "sha256": "73e9c59931086d0601dea220f35ad21af323739ae4e6e9349581c623dc3e335b",
+    "icon": "ports/RSDK00003/icon.png",
+    "shots": [
+     "ports/RSDK00003/s1.jpg",
+     "ports/RSDK00003/s2.jpg",
+     "ports/RSDK00003/s3.jpg"
+    ],
+    "description": "Порт второй игры про Sonic (Sonic The Hedgehog 2) на основе полной декомпиляции оригинальной игры.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Xeeynamo/Sonic-1-2-2013-Decompilation\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RTCW00001",
+    "name": "vitaRTCW",
+    "version": "0.9",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RTCW00001/vitaRTCW.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/RTCW00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 4214703,
+    "sha256": "6fb0edd849169ecb969031bc27fd5fb68dd59de7ea72e6bedba267a2a237a3d8",
+    "requires": "libshacccg",
+    "icon": "ports/RTCW00001/icon.png",
+    "shots": [
+     "ports/RTCW00001/s1.jpg",
+     "ports/RTCW00001/s2.jpg",
+     "ports/RTCW00001/s3.jpg"
+    ],
+    "description": "Порт Return to Castle Wolfenstein для PSVITA/PSTV на основе iortcw.\\nБушует Вторая мировая, страны падают. Глава СС Гиммлер заручился полной поддержкой Гитлера, чтобы поставить науку и оккультизм на службу армии, способной раз и навсегда уничтожить Союзников. Сражаясь в одиночку, вы выполняете напряжённую миссию: пронзить чёрное сердце Третьего рейха и остановить Гиммлера — или умереть, пытаясь. В продвинутом командном мультиплеере вы развернёте собственную Вторую мировую в тотальном противостоянии Оси и Союзников за господство на передовой.\\nНа движке Quake III Arena вселенная Wolfenstein взрывается эпическими локациями, ИИ, огневой мощью и кинематографичными эффектами, на которые способна только игра, созданная настоящими мастерами. Тёмный рейх приближается. Действовать нужно сейчас. Зло торжествует, когда хорошие люди бездействуют.\\n\\nНужны файлы оригинальной игры (PC Steam), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/vitaRTCW/\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RTFD12345",
+    "name": "Red Runner",
+    "version": "1.0",
+    "author": "RetroGamer74",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RTFD12345/redrunner.vpk",
+    "size": 51410836,
+    "sha256": "19434b61e124f261a8b7e2025634988f450409b1de2d2ae3c8c869f17356e51e",
+    "icon": "ports/RTFD12345/icon.png",
+    "shots": [
+     "ports/RTFD12345/s1.jpg",
+     "ports/RTFD12345/s2.jpg"
+    ],
+    "description": "Red Runner — игра с бесконечным забегом с открытым исходным кодом, по механике похожая на Super Meat Boy.\\n\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -14253,6 +14335,98 @@
      "homebrew/ROWS00001/s1.jpg"
     ],
     "description": "4Rows — порт хоумбрю-примера «Четыре в ряд»/«Connect4», поставлявшегося с самым первым PSP Lua Interpreter.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RPG100001",
+    "name": "Galactic Federation",
+    "version": "0.1",
+    "author": "Island_Games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/RPG100001/Galactic_Federation.vpk",
+    "size": 7584796,
+    "sha256": "b4894cc1982488790327e6c3f5c06f585a3b1052f90ca2092843bbe98bc89745",
+    "icon": "homebrew/RPG100001/icon.png",
+    "shots": [
+     "homebrew/RPG100001/s1.jpg",
+     "homebrew/RPG100001/s2.jpg",
+     "homebrew/RPG100001/s3.jpg"
+    ],
+    "description": "Galactic Federation — научно-фантастическая экшен-RPG с видом сверху. Это ранний образец с одним подземельем, но полная игра планируется гораздо больше. Сейчас в игре 4 класса, но рекомендуется Human/Marine, так как он проработан лучше всех. Цель демо — просто исследовать подземелье и убить всех врагов. В демо также есть битва с боссом. Управление можно посмотреть и изменить на экране опций в главном меню.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RPLP00001",
+    "name": "Deckis Platformer",
+    "version": "2.0",
+    "author": "DrDecki",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/RPLP00001/deckisplatformer.vpk",
+    "size": 76691,
+    "sha256": "fd2263962d4bcd640e9c51a62f694b925005c3c9ca5a8ff51a003ad0c29b02de",
+    "icon": "homebrew/RPLP00001/icon.png",
+    "shots": [
+     "homebrew/RPLP00001/s1.jpg",
+     "homebrew/RPLP00001/s2.jpg",
+     "homebrew/RPLP00001/s3.jpg"
+    ],
+    "description": "Платформер, который строит себя сам. Каждый забег — новый случайно сгенерированный уровень.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RPOK00001",
+    "name": "Picture Poker",
+    "version": "1.0",
+    "author": "4brm01",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/RPOK00001/PicturePoker.vpk",
+    "size": 15227039,
+    "sha256": "4e431d31886c5aa1a1bdd1e42951996e3ce297921ec3f3ce2653119f96819ad7",
+    "icon": "homebrew/RPOK00001/icon.png",
+    "description": "Игра, вдохновлённая Luigi's Picture Poker.\\n\\nИсходники: github.com/4brm01/Picture-Poker\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RSIMVITA1",
+    "name": "Roulette Strategy Simulator VITA",
+    "version": "1.0",
+    "author": "Gremlin Software",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/RSIMVITA1/RSimVita.vpk",
+    "size": 9476459,
+    "sha256": "76a6953aa3de54e57e97e800546b054cb5c9b64fadc79088bd92f762ae737158",
+    "icon": "homebrew/RSIMVITA1/icon.png",
+    "shots": [
+     "homebrew/RSIMVITA1/s1.jpg",
+     "homebrew/RSIMVITA1/s2.jpg",
+     "homebrew/RSIMVITA1/s3.jpg"
+    ],
+    "description": "В рулетке:\\n- В долгосрочной перспективе проигрыш гарантирован\\n- В краткосрочной перспективе возможен выигрыш\\nЭта симуляция подтверждает реальность пункта (1) и исследует возможности пункта (2).\\nПроверять стратегии рулетки по одному вращению — занятие долгое. Эта программа быстро прогоняет серию вращений по заданной стратегии, пока стратегия не сработает или не провалится.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RSTV00001",
+    "name": "ReST-V",
+    "version": "0.1.457",
+    "author": "Reyanon",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/RSTV00001/ReST-V.vpk",
+    "size": 2031096,
+    "sha256": "43109250425dbb1d5c3177841353271f2be82a1d2cd7433d640455e74a70c258",
+    "icon": "homebrew/RSTV00001/icon.png",
+    "shots": [
+     "homebrew/RSTV00001/s1.jpg",
+     "homebrew/RSTV00001/s2.jpg",
+     "homebrew/RSTV00001/s3.jpg"
+    ],
+    "description": "ReST-V — аркадный эмулятор платы Sega ST-V (Titan) с дополнительной поддержкой более старых плат Sega System C и System C2. Ядро ST-V основано на Yabause / YabaSanshiro с поддержкой ST-V из Kronos; System C / C2 работает на отдельном ядре на базе 68000 с рендерером VDP 315-5313, YM3438 (ymfm), SN76489 и uPD7759 для звука.\\nЭмулятор нацелен на полную скорость (60 fps) на PS Vita без пропуска кадров. Процессоры SH-2 работают через динамический рекомпилятор для ARMv7, часто используемые подпрограммы библиотеки SGL заменены нативным кодом, а холостые циклы определяются автоматически. Спрайты VDP1 и фоновые слои VDP2 отрисовываются и компонуются на GPU через sceGxm, а звуковой DSP SCSP компилируется в код ARM.\\nСписок игр охватывает 174 набора (117 ST-V, 47 System C2, 10 System C) с вкладками по платам и фильтрами Playable / All / Favorites. Среди других возможностей: сохранения состояния (10 слотов плюс быстрое сохранение), переназначение кнопок с турбо, настройки для каждой игры, параметры соотношения сторон и фильтров, scanlines, а также цвета рамки или собственное оформление рамки.\\n\\nИсходники: github.com/Reyanon/ReST-V\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RSYS00012",
+    "name": "ReSys12",
+    "version": "0.1.222",
+    "author": "Reyanon",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/RSYS00012/ReSys12.vpk",
+    "size": 2077251,
+    "sha256": "004102b539e0454f34920e65f3b8278aaccdc07e61cba3db3ae63570b871d3ca",
+    "requires": "libshacccg",
+    "icon": "homebrew/RSYS00012/icon.png",
+    "shots": [
+     "homebrew/RSYS00012/s1.jpg",
+     "homebrew/RSYS00012/s2.jpg",
+     "homebrew/RSYS00012/s3.jpg"
+    ],
+    "description": "ReSys12 — эмулятор аркадной платы Namco System 12, оборудования на базе PlayStation, использовавшегося в Tekken Tag Tournament, Tekken 3, Soul Calibur, Ehrgeiz, Point Blank 2 и других играх Namco с 1997 по 2001 год.\\nЭмуляция процессора R3000A, GTE и GPU взята из pcsx_rearmed: используются её динамический рекомпилятор ARMv7, NEON GTE и программный растеризатор gpu_neon. Сама плата System 12 (банки ROM, защита KC0xx, ROM DMA, вспомогательный процессор H8/3002, звуковой чип C352, EEPROM и ввод-вывод JVS) портирована из MAME.\\nОсновной процессор, растеризатор GPU и звук работают на отдельных ядрах CPU. Холостые циклы основного процессора и H8/3002 пропускаются, а в GPU загружаются только изменившиеся строки VRAM. Каждый кадр эмулируется и отрисовывается; пропуска кадров нет.\\nЗапускаются 52 из 59 наборов MAME System 12, включая файтинги, игры с оружием (прицеливание аналоговым стиком) и гонки (руль или рычаг на аналоговом стике). Игры, требующие плату CD-XA (Um Jammer Lammy NOW!, Quest for Fame, Truck Kyosokyoku), не поддерживаются.\\nСреди возможностей: список игр, сгруппированный по типу контроллера, с фильтрами Playable / All / Favorites, сохранения состояния с 10 слотами и быстрым сохранением, переназначение кнопок с турбо и комбо-клавишами, доступ к сервисному режиму, параметры соотношения сторон и фильтров, оформление рамки и настройки для каждой игры.\\nReSys12 — свободное ПО под лицензией GNU GPL версии 3.\\n\\nИсходники: github.com/Reyanon/ReSys12\\nИсточник: VitaDB."
    }
   ],
   "translations": [
