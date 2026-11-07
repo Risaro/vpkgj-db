@@ -1,5 +1,5 @@
 {
- "version": "70217f5ba442",
+ "version": "141ee6c41cc3",
  "categories": {
   "ports": [
    {
@@ -8777,6 +8777,112 @@
      "ports/RNPYDDLC1/s2.jpg"
     ],
     "description": "Порт Doki Doki Literature Club! для PSVITA, работающий на renpy.\\nDoki Doki Literature Club! (DDLC) — бесплатная визуальная новелла 2017 года, разработанная американской независимой студией Team Salvato.\\n\\nНужны файлы оригинальной игры (PC Steam), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RNPYDEMON",
+    "name": "Contract Demon Vita",
+    "version": "1.00",
+    "author": "SonicMastr",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RNPYDEMON/contractdemon.vpk",
+    "size": 14300706,
+    "sha256": "0747d4dc4bcd27f505ff74befbfa91000ed34327cd54639a0ce345e6ef52a8a5",
+    "icon": "ports/RNPYDEMON/icon.png",
+    "shots": [
+     "ports/RNPYDEMON/s1.jpg",
+     "ports/RNPYDEMON/s2.jpg",
+     "ports/RNPYDEMON/s3.jpg"
+    ],
+    "description": "Порт Contract Demon для PSVITA/PSTV.\\nCONTRACT DEMON — визуальная новелла, созданная для NaNoRenO 2019. Ангел призывает демона, и в итоге они... влюбляются?! Чтение истории занимает 20–30 минут. Выборов и альтернативных концовок нет.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RNPYDNOPE",
+    "name": "(Don't) Open Your Eyes",
+    "version": "1.11",
+    "author": "SilverCrow",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RNPYDNOPE/dontopen.vpk",
+    "size": 26243091,
+    "sha256": "7bd0810f2b52b23f89f44fdae819695ec277b7702e5d242f6a496d169a9be7f0",
+    "icon": "ports/RNPYDNOPE/icon.png",
+    "shots": [
+     "ports/RNPYDNOPE/s1.jpg"
+    ],
+    "description": "(Don't) Open Your Eyes — короткая визуальная новелла в жанре хоррор о полуночной встрече с загадочным существом. В разговоре вы узнаете о нём больше: о его пути до сих пор или о том, что оно думает о себе. Время от времени оно будет просить вас о простом: открыть глаза.\\nОткрывать глаза или нет — решать вам. Вам же решать, верить ли, что оно действительно здесь, или шепчущий голос — лишь часть вашего воображения. Только не заставляйте вашего гостя ждать слишком долго.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RNPYLYNNE",
+    "name": "Lynne",
+    "version": "1.01",
+    "author": "Just Fer",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RNPYLYNNE/Linne.vpk",
+    "size": 14384313,
+    "sha256": "a023837b7960c394864872968ccdc6544a5c34781bd8f8bc963f0250f514d2b7",
+    "icon": "ports/RNPYLYNNE/icon.png",
+    "shots": [
+     "ports/RNPYLYNNE/s1.jpg",
+     "ports/RNPYLYNNE/s2.jpg",
+     "ports/RNPYLYNNE/s3.jpg"
+    ],
+    "description": "Порт Lynne для PSVITA/PSTV — визуальной новеллы, сделанной на RenPy.\\nLynne — короткая история о самом страшном на свете: быть подростком.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RNPYSS001",
+    "name": "Sakura Succubus Vita",
+    "version": "1.10",
+    "author": "SilverCrow",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RNPYSS001/Sakura-Succubus.vpk",
+    "size": 14558681,
+    "sha256": "ab695e9809f673dec939bd1b2072e70af8154bb23811d956d364930220b5c18b",
+    "icon": "ports/RNPYSS001/icon.png",
+    "description": "Sakura Succubus — визуальная новелла о сборе гарема из сексуальных суккубов. Милая идол, властная бизнесвумен и витающая в облаках звезда соцсетей — недостатка в женщинах, которых можно покорить, не будет!\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RNPYSS002",
+    "name": "Sakura Succubus II Vita",
+    "version": "1.10",
+    "author": "SilverCrow",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RNPYSS002/Sakura.Succubus.II.vpk",
+    "size": 14667034,
+    "sha256": "a83e46f09540fd7a4458dfe1d27667aee61ad369a40a6b9b72eff3cddcafe742",
+    "icon": "ports/RNPYSS002/icon.png",
+    "description": "Sakura Succubus 2 — прямое продолжение Sakura Succubus. История продолжается с того места, где закончилась предыдущая: Хироки добиваются две новые суккубы, желающие присоединиться к его гарему, — элегантная актриса и жизнерадостная теннисистка.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RNPYSS004",
+    "name": "Sakura Succubus IV Vita",
+    "version": "1.1",
+    "author": "SilverCrow",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RNPYSS004/Sakura.Succubus.IV.vpk",
+    "size": 14567290,
+    "sha256": "cdb8ad9cd9f1264a18233b052a5dddef36d13c51c27877ddba8bd473eaeb01ce",
+    "icon": "ports/RNPYSS004/icon.png",
+    "description": "Огасавара Хироки когда-то был обычным мужчиной, но его жизнь приняла совсем необычный оборот. Совершенно случайно он наткнулся на тщательно охраняемую тайну, перевернувшую его скучное существование: несколько самых известных японских знаменитостей оказались суккубами.\\nЭти суккубы массово влюбляются в Хироки, и вскоре у него набирается целый гарем. В толпу его обожающих суккубов входят двуличная идол Икуэ Аю, взбалмошная звезда соцсетей Космос, садистичная бизнесвумен Марина, элегантная актриса Хифуми, жизнерадостная теннисистка Хейзел и надменная принцесса суккубов Юэ.\\nЕле избежав пожизненного заточения в мире суккубов, Хироки готов расслабиться и отдохнуть. Аю приглашает его в отпуск в свой частный дом на пляже в Окинаве, и Хироки с радостью отказывается. Остальные суккубы отправляются вместе с ними, и начинается неделя летнего веселья.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "RNPYSSIII",
+    "name": "Sakura Succubus III Vita",
+    "version": "1.1",
+    "author": "SilverCrow",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RNPYSSIII/Sakura.Succubus.III.vpk",
+    "size": 14641731,
+    "sha256": "a3047a1e2cb8d784bc8675aaf1e090b8b061b1c3fdac5e16639eab29227ac77d",
+    "icon": "ports/RNPYSSIII/icon.png",
+    "description": "Огасавара Хироки был обычным мужчиной, пока случайная встреча с главной идол Японии не изменила его жизнь. Вскоре он узнаёт, что многие представительницы японской элиты на самом деле суккубы — и, более того, что-то в его запахе делает их ненасытно влюблёнными в него.\\nХироки собирает гарем из пяти прекрасных и успешных женщин: Аю, знаменитая идол; Космос, бестолковая звезда соцсетей; Марина, рассудительная бизнесвумен; Хифуми, элегантная актриса; и Хейзел, бодрая теннисистка.\\nСовмещать работу фотографом на полную ставку с армией прилипчивых подруг-суккубов непросто, но такие трудности приятны. Дела Хироки идут в гору, а будущее кажется радужным.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ROBB00001",
+    "name": "GNU Robbo",
+    "version": "0.68",
+    "author": "bomblik",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ROBB00001/GNU_Robbo.vpk",
+    "size": 3840296,
+    "sha256": "a63d83849bb8980fc177cc83b9d3672a012ad236b5a99151163e34eed05b78a8",
+    "icon": "ports/ROBB00001/icon.png",
+    "shots": [
+     "ports/ROBB00001/s1.jpg",
+     "ports/ROBB00001/s2.jpg",
+     "ports/ROBB00001/s3.jpg"
+    ],
+    "description": "GNU Robbo — свободная открытая переработка игры, созданной Янушем Пельцем и изданной LK Avalon в 1989 году для компьютеров Atari XL/XE. Игра имела успех на польском внутреннем рынке, позже была портирована на другие компьютерные платформы и выпущена в США под названием The Adventures of Robbo.\\n\\nИсходники: github.com/bomblik/GNU_Robbo_PSVITA_PSP\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
