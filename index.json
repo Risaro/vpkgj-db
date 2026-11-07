@@ -1,5 +1,5 @@
 {
- "version": "d61620049f6c",
+ "version": "d509f6be716c",
  "categories": {
   "ports": [
    {
@@ -7662,6 +7662,58 @@
      "ports/NYANCAT02/s3.jpg"
     ],
     "description": "Это враппер/порт Flappy Nyan для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, а сам файл патчится для корректного запуска. По сути, это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/flappy-nyan-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OHCL00001",
+    "name": "OpenHCL",
+    "version": "2021.11.08",
+    "author": "JeffRulz345",
+    "vpk": "https://firsts3.ru/vpkgj/ports/OHCL00001/OpenHCL_Vita.vpk",
+    "size": 10454487,
+    "sha256": "8b5c72f9ef02facaf3f887b68c91bb8291e398718dc948f786e2f7e50d027f55",
+    "icon": "ports/OHCL00001/icon.png",
+    "description": "Мультиплатформенный порт Hydra Castle Labyrinth на SDL.\\n\\nИсходники: github.com/JeffRuLz/OpenHCL\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OMEGAVITA",
+    "name": "Omega Strike Vita",
+    "version": "1.0",
+    "author": "elpapadelospollitos",
+    "vpk": "https://firsts3.ru/vpkgj/ports/OMEGAVITA/OmegaStrike.vpk",
+    "size": 3167033,
+    "sha256": "f772dd83dfa222582fb8ae8212cb21d10b2560d859dcd4bbdef0798d8024250a",
+    "icon": "ports/OMEGAVITA/icon.png",
+    "description": "Omega Strike — метроидвания с огромным открытым миром и несколькими играбельными персонажами. Исследуйте мир, изучайте новые способности, улучшайте оружие и победите доктора Омегу и его армии мутантов!\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OMSPK0004",
+    "name": "Keen4Vita",
+    "version": "1.0",
+    "author": "Boundish91",
+    "vpk": "https://firsts3.ru/vpkgj/ports/OMSPK0004/Keen4Vita.vpk",
+    "size": 1233213,
+    "sha256": "f93eae46635a130a5031c4b5674f8b7220c9b94550a2a23854bf27e989339ad2",
+    "icon": "ports/OMSPK0004/icon.png",
+    "shots": [
+     "ports/OMSPK0004/s1.jpg"
+    ],
+    "description": "Порт Commander Keen 4 для PSVita на основе Omnispeak.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ONAR00001",
+    "name": "Onslaught Arena",
+    "version": "1.0",
+    "author": "PsJuan",
+    "vpk": "https://firsts3.ru/vpkgj/ports/ONAR00001/OnslaughtArena.vpk",
+    "size": 2806372,
+    "sha256": "055900cedd423465afd574e47539e2826f55be68577c0dd89e982936605da88c",
+    "icon": "ports/ONAR00001/icon.png",
+    "shots": [
+     "ports/ONAR00001/s1.jpg",
+     "ports/ONAR00001/s2.jpg",
+     "ports/ONAR00001/s3.jpg"
+    ],
+    "description": "Отбивайтесь от орд классических средневековых монстров в динамичном аркадном шутере!\\nВы — Кзам, опытный боец. Побеждайте волну за волной безжалостных врагов: гоблинов, циклопов, злых колдунов, песчаных червей и других! К счастью, в вашем арсенале самое разное смертоносное оружие: мечи, кинжалы, копья, боевые топоры и даже огненные шары!\\nКак долго вы продержитесь на арене?!\\n\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -11989,6 +12041,89 @@
      "homebrew/NTXS00053/s3.jpg"
     ],
     "description": "Рантайм на C++, находящийся в разработке, который должен перенести большинство проектов Scratch 3 на консоли и портативные платформы 6–8 поколений (и не только).\\n\\nИсходники: github.com/ScratchEverywhere/ScratchEverywhere\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NZZMBSPTB",
+    "name": "Nazi Zombies Portable",
+    "version": "Nightly",
+    "author": "NZ:P Team",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/NZZMBSPTB/nzp_nightly.vpk",
+    "data": "https://firsts3.ru/vpkgj/homebrew/NZZMBSPTB/data.zip",
+    "data_path": "ux0:data",
+    "size": 2779589,
+    "sha256": "5a4b18cff8717fd38e8fa894868032ced90fe2cd4b7b529a788393a849f8c5ed",
+    "requires": "libshacccg",
+    "icon": "homebrew/NZZMBSPTB/icon.png",
+    "shots": [
+     "homebrew/NZZMBSPTB/s1.jpg",
+     "homebrew/NZZMBSPTB/s2.jpg",
+     "homebrew/NZZMBSPTB/s3.jpg"
+    ],
+    "description": "«Демейк» Call of Duty: Zombies для PlayStation Portable и VITA, Nintendo Switch и 3DS, Windows и Linux (ARM и x86). Работает на разных сорспортах Quake. Включает \"Nacht der Untoten\" и несколько карт от сообщества.\\n\\nИсходники: github.com/nzp-team/nzportable\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OBJL00001",
+    "name": "Vita Object Loader",
+    "version": "1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/OBJL00001/Vita%20Object%20Loader.vpk",
+    "size": 2311152,
+    "sha256": "0d762aab7043df727735ba83adb97865bdd70cf33526ae26aaabfb4f0f697f0e",
+    "icon": "homebrew/OBJL00001/icon.png",
+    "shots": [
+     "homebrew/OBJL00001/s1.jpg",
+     "homebrew/OBJL00001/s2.jpg",
+     "homebrew/OBJL00001/s3.jpg"
+    ],
+    "description": "Vita Object Loader — просмотрщик 3D-моделей, написанный на lpp-vita, с полностью открытым исходным кодом.\\nМожно использовать для бенчмарков (учтите, что модели рендерятся программно!) или просто для развлечения.\\nПоддерживает модели Wavefront (.obj) с ограничениями: только треугольные примитивы, материалы не поддерживаются.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OCTO00000",
+    "name": "G&W Octopus",
+    "version": "1.0",
+    "author": "JacobsPlayground",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/OCTO00000/OC029.vpk",
+    "size": 32334215,
+    "sha256": "6dfec6e30221d4d6345f62a5892fd0c1cbaef394d5bff8c9814bad738592acc7",
+    "icon": "homebrew/OCTO00000/icon.png",
+    "shots": [
+     "homebrew/OCTO00000/s1.jpg",
+     "homebrew/OCTO00000/s2.jpg",
+     "homebrew/OCTO00000/s3.jpg"
+    ],
+    "description": "Клон электронной консоли Nintendo Game & Watch Octopus.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "ODLS00001",
+    "name": "Shards of Dawn",
+    "version": "Nightly",
+    "author": "HunterAzar",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/ODLS00001/odlamki.vpk",
+    "size": 6389644,
+    "sha256": "757436723a74c33e43d6cb4187f0b0fd77f9ad523bad095d215450e5437bf437",
+    "icon": "homebrew/ODLS00001/icon.png",
+    "shots": [
+     "homebrew/ODLS00001/s1.jpg",
+     "homebrew/ODLS00001/s2.jpg",
+     "homebrew/ODLS00001/s3.jpg"
+    ],
+    "description": "Shards of Dawn — онлайн-изометрическая RPG, в которой каждый бой — пошаговая карточная битва. Игрок исследует общий мир, общается с NPC, берёт задания и сражается с монстрами, собирая колоду из карт, полученных в виде добычи, за квесты и из древа навыков класса.\\nВ игре 5 классов, почти 300 квестов, 47 сюжетных роликов и более 250 карт, а также обучение. Все игроки живут в одном мире и в реальном времени видят друг друга на карте, играют ли они на PS Vita или в браузере. Мультиплеер включает локальный, личный, групповой и гильдейский чат, друзей и гильдии, группы до 5 игроков с общими боями, дуэли, командные бои 2 на 2 и 3 на 3, обмен и аукцион за внутриигровое золото.\\nКлиент для PS Vita нативный (C++/SDL2) и поддерживает как кнопки, так и сенсорный экран. Один аккаунт работает на PS Vita, в браузере и на телефонах. Игра бесплатная, без платежей и рекламы. Доступна на английском и польском.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OMBK00001",
+    "name": "OmniBook",
+    "version": "1.96",
+    "author": "ninuzzomagno",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/OMBK00001/OmniBook.vpk",
+    "size": 35873988,
+    "sha256": "b1ebc0c14cb4d1434ef7f0c031348c185f64171389f23ef15f2580fefd55a86e",
+    "icon": "homebrew/OMBK00001/icon.png",
+    "shots": [
+     "homebrew/OMBK00001/s1.jpg",
+     "homebrew/OMBK00001/s2.jpg",
+     "homebrew/OMBK00001/s3.jpg"
+    ],
+    "description": "Приложение для чтения книг на PSVITA с поддержкой перевода.\\n\\nИсходники: github.com/ninuzzomagno/OmniBook\\nИсточник: VitaDB."
    }
   ],
   "translations": [
