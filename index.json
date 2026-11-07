@@ -1,5 +1,5 @@
 {
- "version": "f42b0465194c",
+ "version": "ec0f6a59f7a0",
  "categories": {
   "ports": [
    {
@@ -9263,6 +9263,71 @@
      "ports/SHDS88320/s3.jpg"
     ],
     "description": "Порт Siren Head Dating Sim для PSVITA.\\nВы когда-нибудь смотрели на Siren Head и думали: «Чувак, я бы с ним определённо встречался»?\\nТеперь это возможно!\\nПопробуйте Siren Head Dating Sim и проведите волшебный день с Siren Head!\\nГлавное — постарайтесь не погибнуть.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SHDWWRR32",
+    "name": "jfsw-vita",
+    "version": "1.2",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SHDWWRR32/jfsw.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SHDWWRR32/data.zip",
+    "data_path": "ux0:data",
+    "size": 3382817,
+    "sha256": "b4790ab50aeefb64d9e4026ff66c544e183ab4f224f56d8419bd18f715a1284d",
+    "icon": "ports/SHDWWRR32/icon.png",
+    "shots": [
+     "ports/SHDWWRR32/s1.jpg",
+     "ports/SHDWWRR32/s2.jpg",
+     "ports/SHDWWRR32/s3.jpg"
+    ],
+    "description": "jfsw-vita — порт jfsw (JonoF's Shadow Warrior), популярного мультиплатформенного порта исходного кода Shadow Warrior.\\nПоддерживает как shareware-, так и полные файлы данных игры, а поскольку Shadow Warrior Classic стала бесплатной с 2013 года с выходом Shadow Warrior Classic Redux, этот релиз будет содержать полную игру бесплатно.\\n\\nИсходники: github.com/Rinnegatamante/jfsw-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SHIPOFHAR",
+    "name": "Ship of Harkinian Vita",
+    "version": "1.2",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SHIPOFHAR/soh.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SHIPOFHAR/data.zip",
+    "data_path": "ux0:data",
+    "size": 12732891,
+    "sha256": "19a7afb5b0627e880fea3aa7116eb77df4867c9fff239edf04cd3e364452c428",
+    "requires": "libshacccg",
+    "icon": "ports/SHIPOFHAR/icon.png",
+    "shots": [
+     "ports/SHIPOFHAR/s1.jpg",
+     "ports/SHIPOFHAR/s2.jpg",
+     "ports/SHIPOFHAR/s3.jpg"
+    ],
+    "description": "Ship of Harkinian — порт исходного кода The Legend of Zelda: Ocarina of Time на основе усилий по декомпиляции игры. Включает ряд улучшений и поддержку модов. Порт для Vita основан на собственной старой версии (примерно Khan Charlie (6.1.2)).\\n\\nНужны файлы оригинальной игры (N64), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/Shipwright\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SHOK00001",
+    "name": "Shockolate",
+    "version": "0.8.2-vita.1",
+    "author": "Northfear",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SHOK00001/systemshock.vpk",
+    "size": 2376428,
+    "sha256": "f8f56f05389281ac917584a9782d26cec98a4fe9c069eca2f126754a4581cff1",
+    "icon": "ports/SHOK00001/icon.png",
+    "shots": [
+     "ports/SHOK00001/s1.jpg",
+     "ports/SHOK00001/s2.jpg",
+     "ports/SHOK00001/s3.jpg"
+    ],
+    "description": "System Shock — компьютерная игра 1994 года в жанре экшен-приключения от первого лица, разработанная LookingGlass Technologies и изданная Origin Systems. Режиссёром выступил Doug Church, продюсером — Warren Spector. Действие происходит на борту космической станции в киберпанковом видении 2072 года. Взяв на себя роль безымянного хакера службы безопасности, игрок пытается помешать планам злобного искусственного интеллекта SHODAN.\\n\\nНужны файлы оригинальной игры (PC GoG), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Northfear/systemshock-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SHXV00001",
+    "name": "Super Hexagon Vita",
+    "version": "1.0",
+    "author": "mcallbosco",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SHXV00001/superhexagon_vita.vpk",
+    "size": 1879964,
+    "sha256": "494f5e3ea6e360479ce910779247e3d97c21796bc511915feb58423863a12454",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/SHXV00001/icon.png",
+    "description": "Хоумбрю-порт Super Hexagon (Android) на PlayStation Vita, использующий загрузчик .so.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/mcallbosco/super-hexagon-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -14865,6 +14930,181 @@
      "homebrew/SHDW00001/s3.jpg"
     ],
     "description": "Хоумбрю для PSVita для переназначения управления и назначения макросов.\\n\\nИсходники: github.com/ShadowPrince/advremap\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SHRKBR33D",
+    "name": "ShaRKBR33D",
+    "version": "1.2",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SHRKBR33D/ShaRKBR33D.vpk",
+    "size": 1588522,
+    "sha256": "283856eaad4f99c72ee3d6b0db16ce76dc4716f1d6ef2e9fccf9e65a4acba9af",
+    "icon": "homebrew/SHRKBR33D/icon.png",
+    "shots": [
+     "homebrew/SHRKBR33D/s1.jpg"
+    ],
+    "description": "ShaRKBR33D — автоматизированный экстрактор/установщик libshacccg.suprx «всё в одном» в один клик. Это переупаковка функции VitaDB Downloader в виде отдельного приложения.\\n\\nИсходники: github.com/Rinnegatamante/ShaRKBR33D\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SHTD00001",
+    "name": "Shutdown Shortcut",
+    "version": "1.0",
+    "author": "luck",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SHTD00001/Shutdown.vpk",
+    "size": 24345,
+    "sha256": "eefdc984ee279b420384b412e82a0b8146122ae694299954b44d378778c937db",
+    "icon": "homebrew/SHTD00001/icon.png",
+    "description": "Быстрый способ выключить систему, когда работает Henkaku.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SIDESWIPE",
+    "name": "Pocket League",
+    "version": "1.1.0",
+    "author": "mrprofessorx",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SIDESWIPE/PocketLeague.vpk",
+    "size": 8044598,
+    "sha256": "4fdd2bef88560646065c5ea346cf9db5a196bfdae21886297c198c488812b5d0",
+    "icon": "homebrew/SIDESWIPE/icon.png",
+    "shots": [
+     "homebrew/SIDESWIPE/s1.jpg",
+     "homebrew/SIDESWIPE/s2.jpg",
+     "homebrew/SIDESWIPE/s3.jpg"
+    ],
+    "description": "Игра для PS Vita, вдохновлённая Rocket League SideSwipe.\\nМатчи идут до 10 голов\\nЧетыре разных бота\\nГараж пока не работает\\nИгра всё ещё в разработке, поэтому есть несколько багов.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SKEN12345",
+    "name": "Girls Are Weird Plus",
+    "version": "1.0",
+    "author": "BetterWinds",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SKEN12345/GirlsAreWeirdPlus.vpk",
+    "size": 19813881,
+    "sha256": "623b7eed651d01fc0bc93448de967b89034cdde9e3796fd8c75c66d7995c9cf5",
+    "icon": "homebrew/SKEN12345/icon.png",
+    "shots": [
+     "homebrew/SKEN12345/s1.jpg",
+     "homebrew/SKEN12345/s2.jpg",
+     "homebrew/SKEN12345/s3.jpg"
+    ],
+    "description": "Ремастер визуальной новеллы Girls are Weird для PSVITA/PSTV.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SKG4V2SW1",
+    "name": "VITA-NoAutoAvls",
+    "version": "1.0",
+    "author": "SKGleba",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SKG4V2SW1/naavls.vpk",
+    "size": 32445,
+    "sha256": "00846540d872132b80c43dab7d5c4fc87738bebdfc1b6d14539b2d638160b164",
+    "icon": "homebrew/SKG4V2SW1/icon.png",
+    "shots": [
+     "homebrew/SKG4V2SW1/s1.jpg",
+     "homebrew/SKG4V2SW1/s2.jpg"
+    ],
+    "description": "Небольшая утилита для постоянного включения/отключения функции Auto AVLS на Playstation Vita.\\n\\nИсходники: github.com/SKGleba/VITA-NoAutoAvls\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SKGB4TF1X",
+    "name": "PSP2-batteryFixer",
+    "version": "3.0.1",
+    "author": "SKGleba",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SKGB4TF1X/batteryFixer.vpk",
+    "size": 43566,
+    "sha256": "1d9d155465c8bb3368d959599ac90ee71bd1dd994c15b753430e69342cc5c546",
+    "icon": "homebrew/SKGB4TF1X/icon.png",
+    "shots": [
+     "homebrew/SKGB4TF1X/s1.jpg"
+    ],
+    "description": "Небольшое приложение с ядерным плагином для enso, исправляющее большинство проблем PSVita, связанных с аккумулятором.\\nФактически результат такой же, как при аппаратном отключении аккумулятора или использовании комбинации клавиш syscon.\\nВ качестве бонуса удаляет все временные флаги с чипа аккумулятора.\\nВНИМАНИЕ: есть проблемы совместимости с некоторыми ревизиями PSVita 2000: https://github.com/SKGleba/PSP2-batteryFixer/issues/13\\n\\nИсходники: github.com/SKGleba/PSP2-batteryFixer\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SKGCBSMGR",
+    "name": "Custom Boot Splash Manager",
+    "version": "3.1",
+    "author": "SKGleba",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SKGCBSMGR/cbs_manager.vpk",
+    "size": 895862,
+    "sha256": "6fb5f97995bb4310fcde64c03d2d2a77dfc0f1427278f0324f2d86e4dcfe5176",
+    "icon": "homebrew/SKGCBSMGR/icon.png",
+    "shots": [
+     "homebrew/SKGCBSMGR/s1.jpg"
+    ],
+    "description": "Этот инструмент может отображать изображение/анимацию во время загрузки PSVita.\\nЕсли установлен Enso 3.65-update365 и в vs0:tai/ есть boot_config.txt, CBS не будет загружен — обновите Enso до последней версии.\\n\\nИсходники: github.com/SKGleba/CBS-Manager\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SKGIMCULK",
+    "name": "IMCUnlockLite",
+    "version": "4",
+    "author": "SKGleba",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SKGIMCULK/IMCUnlockLite.vpk",
+    "size": 57571,
+    "sha256": "fbe22e048716427b3e971e2142b98e6166dadff2588dd8dd0a367b5d48edd6ae",
+    "icon": "homebrew/SKGIMCULK/icon.png",
+    "shots": [
+     "homebrew/SKGIMCULK/s1.jpg",
+     "homebrew/SKGIMCULK/s2.jpg"
+    ],
+    "description": "Этот мод позволяет навсегда добавить внутренний накопитель ux0 (imc) на PSVita 1000, изменяя области загрузочных данных.\\n\\nИсходники: github.com/SKGleba/IMCUnlockLite\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SKGPKG2CH",
+    "name": "PKGInstaller Launcher",
+    "version": "1.0",
+    "author": "SKGleba",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SKGPKG2CH/PKGInstallerLauncher.vpk",
+    "size": 2571959,
+    "sha256": "b4f987064d4282378fc8796596e59834e6ee87e7a864b46a47bcfc082109e06d",
+    "icon": "homebrew/SKGPKG2CH/icon.png",
+    "shots": [
+     "homebrew/SKGPKG2CH/s1.jpg",
+     "homebrew/SKGPKG2CH/s2.jpg",
+     "homebrew/SKGPKG2CH/s3.jpg"
+    ],
+    "description": "PKGInstaller Launcher — приложение, позволяющее выбрать раздел, с которого Package Installer будет устанавливать .pkg-файлы.\\nТакже поддерживает установку DEX pkg при нажатии L trigger в главном меню.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SKGTLSE12",
+    "name": "iTLS-Enso",
+    "version": "3.2.1",
+    "author": "SKGleba",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SKGTLSE12/iTLS-Enso.vpk",
+    "size": 2873670,
+    "sha256": "8853cf3d685e6eabac0ca4c6d9e81f0dff3636c4805ba2a79de487cbd05ccf9b",
+    "icon": "homebrew/SKGTLSE12/icon.png",
+    "shots": [
+     "homebrew/SKGTLSE12/s1.jpg"
+    ],
+    "description": "Приложение, добавляющее поддержку TLS 1.2 на PSVITA/PSTV с Henkaku enso CFW.\\n\\nИсходники: github.com/SKGleba/iTLS-Enso\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SKGVBANIM",
+    "name": "vita-bootanim",
+    "version": "1.1",
+    "author": "SKGleba",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SKGVBANIM/vbanim.vpk",
+    "size": 491527,
+    "sha256": "c71bc0f0dd61198c5f27596012c57d1ce4685fce1fb85c57ab3d1376ce62b569",
+    "icon": "homebrew/SKGVBANIM/icon.png",
+    "shots": [
+     "homebrew/SKGVBANIM/s1.jpg"
+    ],
+    "description": "Простое приложение, устанавливающее плагин, который позволяет использовать собственные анимации вместо заставки при загрузке консоли.\\n\\nИсходники: github.com/SKGleba/VitaTools/tree/main/vita-bootanim/source\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SKGYAMT01",
+    "name": "YAMT",
+    "version": "4.0",
+    "author": "SKGleba",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SKGYAMT01/yamt.vpk",
+    "size": 68071,
+    "sha256": "ba4be76c17aa0b93ce765831925d47b9086e7c1ca9ca0a50a0093cbc3fe51579",
+    "icon": "homebrew/SKGYAMT01/icon.png",
+    "shots": [
+     "homebrew/SKGYAMT01/s1.jpg",
+     "homebrew/SKGYAMT01/s2.jpg",
+     "homebrew/SKGYAMT01/s3.jpg"
+    ],
+    "description": "Установщик более быстрого драйвера для SD2Vita. Монтирует SD2Vita как ux0, а memcard (или, если не найдена, внутренний накопитель ux0) — как uma0.\\n\\nИсходники: github.com/SKGleba/yamt-vita\\nИсточник: VitaDB."
    }
   ],
   "translations": [
