@@ -1,5 +1,5 @@
 {
- "version": "797e55f978bd",
+ "version": "dba7a4b4c35d",
  "categories": {
   "ports": [
    {
@@ -10256,6 +10256,61 @@
      "homebrew/LAPY10004/s1.jpg"
     ],
     "description": "Бесконечная игра, где нужно как можно дольше не врезаться в стены и другие машины.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LAPY30012",
+    "name": "Lapy Games Collection",
+    "version": "1.0",
+    "author": "Lapy",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LAPY30012/LapyGC.vpk",
+    "size": 155765604,
+    "sha256": "15810ea29fe44a9f6b434de4eaa08c52980afe62cc34335cbe40b7ecdeaf92f0",
+    "icon": "homebrew/LAPY30012/icon.png",
+    "shots": [
+     "homebrew/LAPY30012/s1.jpg"
+    ],
+    "description": "Сборник большинства оригинальных хоумбрю-игр Lapy для PSVITA/PSTV.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LAPY30014",
+    "name": "River Raid",
+    "version": "1.0",
+    "author": "Lapy",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LAPY30014/RiverRaid.vpk",
+    "size": 48778063,
+    "sha256": "c19d29cb9dd7a02948835a5d6e18c6f997e49ce6fde57bd90e9c9a2fad5249aa",
+    "icon": "homebrew/LAPY30014/icon.png",
+    "shots": [
+     "homebrew/LAPY30014/s1.jpg"
+    ],
+    "description": "3D-шутер с вертикальной прокруткой, сделанный на Unity.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LAPY30015",
+    "name": "Super Console Wars",
+    "version": "1.05",
+    "author": "Lapy & Acekone & Dragonixplay",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LAPY30015/SuperConsoleWars.vpk",
+    "size": 52121578,
+    "sha256": "13e1bb7d9f9c20412a63f623c5406245db27f9a84754d2b0b444aba1b044a66e",
+    "icon": "homebrew/LAPY30015/icon.png",
+    "description": "Шутер с боковой прокруткой для PSVITA/PSTV, сделанный на Unity.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LAPY30016",
+    "name": "NanoSpeed Gamer",
+    "version": "1.0",
+    "author": "Lapy",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LAPY30016/NanospeedGamer.vpk",
+    "size": 38962353,
+    "sha256": "d7541dc5a9b554ad9a455f9d528def648df0a8cdebbe1f4da87de67d364c6589",
+    "icon": "homebrew/LAPY30016/icon.png",
+    "shots": [
+     "homebrew/LAPY30016/s1.jpg",
+     "homebrew/LAPY30016/s2.jpg",
+     "homebrew/LAPY30016/s3.jpg"
+    ],
+    "description": "2D-бесконечный раннер для PSVITA/PSTV, вдохновлённый популярным ютубером.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
