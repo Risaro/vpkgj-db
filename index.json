@@ -1,5 +1,5 @@
 {
- "version": "d4428e162404",
+ "version": "744d657d0698",
  "categories": {
   "ports": [
    {
@@ -8228,6 +8228,89 @@
      "ports/PKMR00001/s3.jpg"
     ],
     "description": "Pokemon Emerald Rogue — рогалик-фанатская игра от Pokabbie, построенная на декомпиляции Pokemon Emerald pokeemerald-expansion. Каждое приключение начинается в городе-хабе и идёт по разветвляющемуся пути из маршрутов, битв с тренерами, спортзалов и особых встреч, заканчиваясь забегом к чемпиону. Покемоны, предметы и тренеры меняются от забега к забегу. Прогресс между забегами сохраняется в хабе, где открываются квесты, улучшения, детский сад, ягодные поля и другие сооружения. В игре есть покемоны и приёмы вплоть до 9 поколения, способности, удерживаемые предметы, мега-эволюция, изначальный возврат, Z-приёмы, местности, погода и парные бои, а также опциональный пересмотренный режим приёмов и покемонов.\\nДля работы необходимо положить копию ROM Pokemon Emerald Rogue EX v2.2.1 в ux0:data/pokeemerald_rogue/.\\n\\nНужны файлы оригинальной игры (GBA), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/MinZe25/pokeemerald-rogue-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PLSP00001",
+    "name": "X-Racer",
+    "version": "1.0",
+    "author": "ParkingLotStudio",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PLSP00001/X-Racer.vpk",
+    "size": 40557290,
+    "sha256": "80f5906aa1e8c524c84f437602cd0b7b34e881003367e39e6b9d7908cdc3f21b",
+    "icon": "ports/PLSP00001/icon.png",
+    "shots": [
+     "ports/PLSP00001/s1.jpg",
+     "ports/PLSP00001/s2.jpg",
+     "ports/PLSP00001/s3.jpg"
+    ],
+    "description": "X-Racer — бесконечная аркадная гонка, изначально созданная Deer Cat.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PONY22412",
+    "name": "Pony Island",
+    "version": "1.2",
+    "author": "hatoving",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PONY22412/PonyIsland.vpk",
+    "size": 32772175,
+    "sha256": "b9f9a783d4e067375d3dabd4ee4487708de9ea485db61235e7c20556d9247732",
+    "icon": "ports/PONY22412/icon.png",
+    "shots": [
+     "ports/PONY22412/s1.jpg",
+     "ports/PONY22412/s2.jpg",
+     "ports/PONY22412/s3.jpg"
+    ],
+    "description": "Порт Pony Island на PS Vita. Pony Island — головоломка-саспенс под видом чего-то другого. Вы в лимбе, в ловушке злобного неисправного аркадного автомата, созданного самим дьяволом. Дьявол терпеть не может, когда решают его головоломки и обнажают его плохое программирование; чтобы продвинуться, придётся мыслить нестандартно, а за это вас будут оскорблять. Для игры нужны легально приобретённые файлы. Все заслуги в создании игры принадлежат Daniel Mullins Games.\\n\\nНужны файлы оригинальной игры (PC Steam), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "POP2RC001",
+    "name": "Prince of Persia 2: The Shadow and the Flame Vita",
+    "version": "1.0.0",
+    "author": "Cardas26",
+    "vpk": "https://firsts3.ru/vpkgj/ports/POP2RC001/pop2v.vpk",
+    "size": 3387257,
+    "sha256": "c04a6c7ac8d67416df6e1da0892e807bd4e93efd4f4f79290a35e126a06d0201",
+    "icon": "ports/POP2RC001/icon.png",
+    "shots": [
+     "ports/POP2RC001/s1.jpg",
+     "ports/POP2RC001/s2.jpg",
+     "ports/POP2RC001/s3.jpg"
+    ],
+    "description": "Prince of Persia 2: The Shadow and the Flame — сиквел 1993 года от Brøderbund к Prince of Persia Джордана Мехнера, кинематографичный платформер, в котором принца изгоняет из дворца чародей Джаффар, и он пробивается обратно, чтобы спасти принцессу. Этот порт нативно запускает DOS-версию 1.1 на PS Vita без эмулятора: статический рекомпилятор от Supermedo, доработанный под v1.1, переводит оригинальный PRINCE.EXE, его оверлеи и драйвер Sound Blaster Pro в код на C. За отображение, тайминг, ввод и звук отвечают SDL2 и GXM. Доступны все уровни и ролики, поддерживаются сохранение и продолжение. Примечание: игра рассчитана примерно на 12 кадров в секунду, её тайминг идёт от собственного таймера 240 Гц, который порт воспроизводит на частоте 241,5 Гц. Игра идёт на полной скорости.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Cardas26/psp2-pop2\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "POPPYKART",
+    "name": "Poppy Kart Collection",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/POPPYKART/PoppyKart.vpk",
+    "size": 3017065,
+    "sha256": "ea486fb1af542f48bd560f9f4750c96b7277dc5c42867abfee00346f4536ae9d",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/POPPYKART/icon.png",
+    "shots": [
+     "ports/POPPYKART/s1.jpg",
+     "ports/POPPYKART/s2.jpg",
+     "ports/POPPYKART/s3.jpg"
+    ],
+    "description": "Это враппер/порт Poppy Kart и Poppy Kart 2 для PS Vita.\\nПорт работает так: официальные исполняемые файлы Android ARMv7 загружаются в память, их импорты подменяются нативными функциями, а сами файлы патчатся для корректного запуска. По сути, это эмуляция минималистичной среды Android, в которой исполняемые файлы запускаются нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/Poppy-Kart-Collection\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "POSTAL001",
+    "name": "Postal Vita",
+    "version": "1.2",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/POSTAL001/Postal.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/POSTAL001/data.zip",
+    "data_path": "ux0:data",
+    "size": 2701813,
+    "sha256": "37c813842baed7f52462c92c3bde7ebe1819197d2eb0cf2437d72ba95efea8b3",
+    "icon": "ports/POSTAL001/icon.png",
+    "shots": [
+     "ports/POSTAL001/s1.jpg",
+     "ports/POSTAL001/s2.jpg",
+     "ports/POSTAL001/s3.jpg"
+    ],
+    "description": "Возьмите под контроль Postal Dude в его печально известном первом выходе, где он борется за выживание в сошедшем с ума мире! POSTAL — классический изометрический шутер, до краёв набитый стремительным взрывным экшеном. За каждым углом вас ждут обезумевшие стрелки, жаждущие вашей крови, и ваш единственный выбор — успеть первым. Отвечайте разрушительным арсеналом, пробираясь через охваченный насилием город.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/PostalVita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -12935,6 +13018,63 @@
      "homebrew/PLMN00001/s1.jpg"
     ],
     "description": "Минималистичный менеджер плагинов для taiHEN.\\n\\nИсходники: bitbucket.org/kylon/plugins-manager-vita/overview\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PLSG10001",
+    "name": "Dark Paradigm",
+    "version": "0.08a",
+    "author": "ParkingLotStudio",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PLSG10001/DarkParadigm.vpk",
+    "size": 125810977,
+    "sha256": "366017c43ab5350c4a93689f18c1a45de9e2421195fbe0b5bb42ef118e1c67f9",
+    "icon": "homebrew/PLSG10001/icon.png",
+    "shots": [
+     "homebrew/PLSG10001/s1.jpg",
+     "homebrew/PLSG10001/s2.jpg",
+     "homebrew/PLSG10001/s3.jpg"
+    ],
+    "description": "Dark Paradigm — проект, созданный, чтобы заполнить нишу шутеров на PS Vita; это смесь хоррора и FPS, окружение в основном тёмное, а патронов будет не хватать, если не целиться в голову.\\nПроект в разработке, нужна обратная связь от сообщества. Пока доступен только аркадный режим, подбираемых пуль/патронов/взрывчатки/оружия пока нет, но скоро появятся!\\nНе забудьте попробовать фоторежим!\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PLVT00001",
+    "name": "Plus Vita",
+    "version": "000",
+    "author": "Calligula87",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PLVT00001/plus-vita.vpk",
+    "size": 4027154,
+    "sha256": "90bd483b6092fd4162d4b37083ea43d2eb2919257342af2990b6f744369c996a",
+    "icon": "homebrew/PLVT00001/icon.png",
+    "description": "Plus-Vita позволяет играть в подходящие облачные игры PlayStation Plus прямо на PlayStation Vita. Нужны собственный аккаунт Sony и подписка PlayStation Plus уровня, включающего облачный стриминг в вашем регионе.\\n\\nИсходники: github.com/Calligula87/plus-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PLYMARS01",
+    "name": "Terri-Fried",
+    "version": "1.0",
+    "author": "PolyMars",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PLYMARS01/Terri-Fried.vpk",
+    "size": 952796,
+    "sha256": "cd75262fd655eeb8dbd4831ab999497217c6bf54cff1fb540796a5bbf84f6774",
+    "icon": "homebrew/PLYMARS01/icon.png",
+    "shots": [
+     "homebrew/PLYMARS01/s1.jpg",
+     "homebrew/PLYMARS01/s2.jpg",
+     "homebrew/PLYMARS01/s3.jpg"
+    ],
+    "description": "Все мертвы, кроме... яйца. Судьба человечества зависит от вас: нужно сделать так, чтобы яйцо выжило. Сочетайте силу и точность в Terri-Fried — игре, сделанной за 72 часа на raylib для Ludum Dare 46!\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PNES00001",
+    "name": "pNES",
+    "version": "7.2",
+    "author": "cpasjuste",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PNES00001/pnes.vpk",
+    "size": 4535618,
+    "sha256": "ac4db6985cabffc95f2dfa49c878a58b29b92da826b1ff6c8610fc2065f6b93f",
+    "icon": "homebrew/PNES00001/icon.png",
+    "shots": [
+     "homebrew/PNES00001/s1.jpg"
+    ],
+    "description": "Эмулятор NES, мультиплатформенный порт эмулятора Nestopia.\\n\\nИсходники: github.com/Cpasjuste/pemu\\nИсточник: VitaDB."
    }
   ],
   "translations": [
