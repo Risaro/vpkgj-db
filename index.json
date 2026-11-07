@@ -1,5 +1,5 @@
 {
- "version": "1a212a1f39c9",
+ "version": "695ba6f65a7a",
  "categories": {
   "ports": [
    {
@@ -7422,6 +7422,55 @@
      "ports/NBDI56749/s3.jpg"
     ],
     "description": "Порт fast-areas NEON для PSVITA.\\nПройдите как можно дальше и не касайтесь препятствий, иначе проиграете!\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NECROVITA",
+    "name": "Book of the Dead Vita",
+    "version": "1.0",
+    "author": "FARGUSJUNJA",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NECROVITA/Book.of.the.Dead.vpk",
+    "size": 86355323,
+    "sha256": "3046e0ac2557807e727bb30a6666c42172a610d93a9e628cabcbf90260d9a1fd",
+    "icon": "ports/NECROVITA/icon.png",
+    "shots": [
+     "ports/NECROVITA/s1.jpg",
+     "ports/NECROVITA/s2.jpg",
+     "ports/NECROVITA/s3.jpg"
+    ],
+    "description": "Первая в истории русская визуальная новелла, выпущенная в мае 2006 года. Сюжет рассказывает о супружеской паре, которая переезжает в унаследованный мрачный особняк, где события разворачиваются в духе произведений Лавкрафта.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NECTAR001",
+    "name": "Open Nectar Vita",
+    "version": "0.0.1",
+    "author": "bren",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NECTAR001/Pikmin-Vita.vpk",
+    "size": 3718676,
+    "sha256": "02a1087baea2505efc8830df4ab4c5c86acfb3ea63c347f9cabe0f917d7b9594",
+    "requires": "libshacccg",
+    "icon": "ports/NECTAR001/icon.png",
+    "shots": [
+     "ports/NECTAR001/s1.jpg",
+     "ports/NECTAR001/s2.jpg",
+     "ports/NECTAR001/s3.jpg"
+    ],
+    "description": "Неофициальный нативный порт Pikmin для PS Vita на основе декомпиляции Open Nectar. Требуется ваш собственный образ диска Pikmin (USA) для GameCube (iso, gcm, rvz, wia или ciso), помещённый в ux0:data/Pikmin. Сохранения — стандартные файлы GameCube .gci, совместимые с Dolphin.\\n\\nНужны файлы оригинальной игры (Gamecube), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Brendonm17/Open-Nectar-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NEKU23850",
+    "name": "The World Ends With You Vita",
+    "version": "1.1",
+    "author": "hatoving",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NEKU23850/TWEWY.vpk",
+    "size": 36773104,
+    "sha256": "f9c298b22469863c49b66a780a235712dcf30c7cc0907be0d6fe06cd2f5ed573",
+    "icon": "ports/NEKU23850/icon.png",
+    "shots": [
+     "ports/NEKU23850/s1.jpg",
+     "ports/NEKU23850/s2.jpg",
+     "ports/NEKU23850/s3.jpg"
+    ],
+    "description": "Порт Android-версии The World Ends With You для PS Vita.\\nИгра — Action-RPG, разработанная Square Enix и Jupiter, изначально для Nintendo DS. Порт на Android выполнила h.a.n.d.\\nВыполни задание... или будешь стёрт. Это всё, что знает Нику, придя в себя посреди оживлённого перекрёстка без воспоминаний. Теперь ему и его партнёру придётся бороться за выживание в игре на жизнь и смерть в этой запутанной истории, где поворотов больше, чем в городском лабиринте Токио, в котором они оказались в ловушке.\\n\\nНужны файлы оригинальной игры (NDS/Android), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -11596,6 +11645,67 @@
      "homebrew/NABO12345/s3.jpg"
     ],
     "description": "3D-файтинг на Unity с персонажами из аниме Naruto.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NEDO12345",
+    "name": "The Great Adventures of NedMapagmahal",
+    "version": "1.1",
+    "author": "nedmapagmahal",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/NEDO12345/NedoKun.vpk",
+    "size": 111872206,
+    "sha256": "7bd624dd827e9cecb1ad5140b912f3d67c38d081e6c7131a64c1804bfb7cb7de",
+    "icon": "homebrew/NEDO12345/icon.png",
+    "shots": [
+     "homebrew/NEDO12345/s1.jpg",
+     "homebrew/NEDO12345/s2.jpg",
+     "homebrew/NEDO12345/s3.jpg"
+    ],
+    "description": "Отвергнутый коллегой, он в слезах убежал куда глаза глядят и случайно перенёсся в какое-то загадочное место, а чтобы вернуться в свой мир, ему нужно добраться до замка Bu-Wind.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NEMIKO001",
+    "name": "NekoDrome",
+    "version": "2.0.0",
+    "author": "NekoMimi",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/NEMIKO001/nekodrome.vpk",
+    "size": 6242282,
+    "sha256": "595dd0bce3f264f85a0449955f45bced5712e7b5352d5e8b65c5e59f828d2307",
+    "icon": "homebrew/NEMIKO001/icon.png",
+    "shots": [
+     "homebrew/NEMIKO001/s1.jpg",
+     "homebrew/NEMIKO001/s2.jpg",
+     "homebrew/NEMIKO001/s3.jpg"
+    ],
+    "description": "Клиент Navidrome/Subsonic для PS Vita для воспроизведения песен с выделенных серверов.\\n\\nИсходники: github.com/NekoMimiOfficial/NekoDrome\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NEOVITADB",
+    "name": "NeoVitaDB Downloader",
+    "version": "2.9.1",
+    "author": "robin994 & Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/NEOVITADB/NeoVitaDB.vpk",
+    "size": 3941103,
+    "sha256": "ef1e21d988a43e423a4c814fa812219569c5ceba921b1003e169243256e51c67",
+    "requires": "libshacccg",
+    "icon": "homebrew/NEOVITADB/icon.png",
+    "shots": [
+     "homebrew/NEOVITADB/s1.jpg"
+    ],
+    "description": "NeoVitaDB Downloader — хоумбрю-клиент для PSVita/PSTV, форк VitaDB Downloader от Rinnegatamante.\\nРаботает на NeoVitaDB-Catalog — статическом каталоге хоумбрю для PSVITA/PSTV, размещённом на GitHub Pages.\\n\\nИсходники: github.com/robin994/NeoVitaDB-Downloader\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NESTF0001",
+    "name": "nestfolder",
+    "version": "1.0.3",
+    "author": "emrhky",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/NESTF0001/nestfolder.vpk",
+    "size": 99169,
+    "sha256": "83770097cb12020a0b19a1904f88574d15ca939dc58c8f282bdc1375fc3d9e20",
+    "icon": "homebrew/NESTF0001/icon.png",
+    "shots": [
+     "homebrew/NESTF0001/s1.jpg"
+    ],
+    "description": "Папки внутри папок на домашнем экране PS Vita (LiveArea).\\nВ стандартной Vita приложения можно группировать в папки, но папка не может содержать другую папку. nestfolder добавляет такую возможность: можно поместить папку в папку, открыть её и управлять ею как любой другой папкой.\\n\\nИсходники: github.com/emrhky/nestfolder\\nИсточник: VitaDB."
    }
   ],
   "translations": [
