@@ -1,5 +1,5 @@
 {
- "version": "0d567f85c7a5",
+ "version": "e3b112da736e",
  "categories": {
   "ports": [
    {
@@ -9878,6 +9878,24 @@
      "ports/STARCATCH/s3.jpg"
     ],
     "description": "Starcatcher — космический платформер про сбор звёзд, созданный Escada Games для One Button Jam 2022.\\nПройдите 25 уровней возрастающей сложности. Но помните: в игре используется всего одна кнопка.\\nБольше информации о Starcatcher и Escada Games: https://escada-games.itch.io/starcatcher\\n\\nИсходники: github.com/withLogic/starcatcher\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "STUX00001",
+    "name": "SuperTux Vita",
+    "version": "1.0",
+    "author": "DrDecki",
+    "vpk": "https://firsts3.ru/vpkgj/ports/STUX00001/supertux2.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/STUX00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 5965606,
+    "sha256": "73b7107ae759bf6c8ed1151a27c5cc71927bfa47e504552664f2668c5f62dda2",
+    "icon": "ports/STUX00001/icon.png",
+    "shots": [
+     "ports/STUX00001/s1.jpg",
+     "ports/STUX00001/s2.jpg",
+     "ports/STUX00001/s3.jpg"
+    ],
+    "description": "SuperTux Vita — порт SuperTux 0.7.0 на PS Vita. SuperTux — jump'n'run с открытым исходным кодом, вдохновлённая серией Super Mario Bros., в которой Tux путешествует по разным мирам, чтобы спасти Penny из крепости Nolok.\\n\\nИсходники: github.com/DrDecki/supertux-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
