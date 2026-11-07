@@ -1,5 +1,5 @@
 {
- "version": "21594c643f64",
+ "version": "4ee0da59f42f",
  "categories": {
   "ports": [
    {
@@ -7788,6 +7788,60 @@
      "ports/OPENTITUS/s2.jpg"
     ],
     "description": "Порт игрового движка, на котором работают DOS-версии Titus the Fox.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/usineur/opentitus\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OPRCT0002",
+    "name": "OpenRCT2-CE Vita",
+    "version": "1",
+    "author": "technicaljicama",
+    "vpk": "https://firsts3.ru/vpkgj/ports/OPRCT0002/openrct2.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/OPRCT0002/data.zip",
+    "data_path": "ux0:data",
+    "size": 4749899,
+    "sha256": "8da2772a70952eec66234004b1620635628c2b2f7dbe929783f53d34728dc874",
+    "icon": "ports/OPRCT0002/icon.png",
+    "description": "Порт OpenRCT2 для PSVITA.\\nOpenRCT2 — реализация RollerCoaster Tycoon 2 с открытым исходным кодом. Строительный и управленческий симулятор, в котором нужно руководить парком аттракционов.\\n\\nИсходники: github.com/technicaljicama/OpenRCT2-CE\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OPTIRYAN2",
+    "name": "OpenTyrian2000",
+    "version": "3.0.0-SDL3",
+    "author": "andyvand",
+    "vpk": "https://firsts3.ru/vpkgj/ports/OPTIRYAN2/OpenTyrian2000.vpk",
+    "size": 5581607,
+    "sha256": "f2b96b91bb21dbbee6834831ef488393f46526691917a488f7cab1d0fd5b4951",
+    "icon": "ports/OPTIRYAN2/icon.png",
+    "description": "OpenTyrian2000 — порт DOS-игры Tyrian с открытым исходным кодом. Это форк OpenTyrian, цель которого — как можно точнее воспроизвести впечатления от Tyrian 2000.\\nTyrian — аркадный шутер с вертикальной прокруткой. Действие происходит в 20031 году, вы играете за Трента Хокинса, опытного лётчика-истребителя, нанятого для борьбы с MicroSol и спасения галактики.\\nВ Tyrian есть сюжетный режим, аркадные режимы для одного и двух игроков и сетевой мультиплеер.\\n\\nИсходники: github.com/andyvand/opentyrian2000\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OSNC00001",
+    "name": "OpenSonic Vita",
+    "version": "1.0.7",
+    "author": "KiddRwxSsj",
+    "vpk": "https://firsts3.ru/vpkgj/ports/OSNC00001/opensonic-vita.vpk",
+    "size": 10858520,
+    "sha256": "a938bae08931e14dea756e5b97d2ed8b693dd41b529266e39f66eaa7e8d4c6ab",
+    "icon": "ports/OSNC00001/icon.png",
+    "shots": [
+     "ports/OSNC00001/s1.jpg"
+    ],
+    "description": "OpenSonic Vita переносит классический демонстрационный движок с открытым исходным кодом на PS Vita.\\n\\nИсходники: github.com/KiddRwxSsj/opensonic-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OSPX00001",
+    "name": "OpenSupaplex",
+    "version": "7.1.1",
+    "author": "sergiou87",
+    "vpk": "https://firsts3.ru/vpkgj/ports/OSPX00001/OpenSupaplex.vpk",
+    "size": 21131999,
+    "sha256": "0a0a92ef4f9cd91d03f305e9a7e2b9c051bf6a6a5a0876a738d7faa965590ad7",
+    "icon": "ports/OSPX00001/icon.png",
+    "shots": [
+     "ports/OSPX00001/s1.jpg",
+     "ports/OSPX00001/s2.jpg",
+     "ports/OSPX00001/s3.jpg"
+    ],
+    "description": "OpenSupaplex — реимплементация Supaplex с открытым исходным кодом от sergiou87. Supaplex — видеоигра, созданная двумя швейцарскими студентами Филиппом Йесперсеном и Михаэлем Штоппом и изданная Digital Integration в 1991 году. Это расширенный клон Boulder Dash.\\n\\nИсходники: github.com/sergiou87/open-supaplex\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -12239,6 +12293,34 @@
      "homebrew/OPENNOWV0/s1.jpg"
     ],
     "description": "Нативный хомбрю-клиент GeForce NOW для PlayStation Vita.\\n\\nИсходники: github.com/OpenCloudGaming/OpenNOW-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OPOP00001",
+    "name": "OceanPop",
+    "version": "2.0",
+    "author": "sharkwouter",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/OPOP00001/oceanpop.vpk",
+    "size": 28875218,
+    "sha256": "b050e85139fb352c05469a5471eb9cc12a4b2751a9b7a5e19530fc04e1e8e6ad",
+    "icon": "homebrew/OPOP00001/icon.png",
+    "shots": [
+     "homebrew/OPOP00001/s1.jpg"
+    ],
+    "description": "Окунитесь в расслабляющий мир OceanPop и пройдите волны игрового процесса «три в ряд» в трёх доступных режимах!\\nНе дайте приливам раздавить вас до прохождения 35 уровней в обычном режиме, почувствуйте напор течений в режиме испытания или просто плывите по течению под морской бриз в расслабленном режиме!\\n\\nИсходники: github.com/sharkwouter/oceanpop\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OSDB00001",
+    "name": "OpenSeason",
+    "version": "1.0",
+    "author": "InquisitionImplied",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/OSDB00001/OpenSeason.vpk",
+    "size": 31490419,
+    "sha256": "07f00122017f74a8429c45282b59d105debe0b3687861435f30cf63da02b5c78",
+    "icon": "homebrew/OSDB00001/icon.png",
+    "shots": [
+     "homebrew/OSDB00001/s1.jpg"
+    ],
+    "description": "OpenSeason(notTM) — колодостроительная игра, теперь без дробовиков в стартовом наборе.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
