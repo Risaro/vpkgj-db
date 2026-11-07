@@ -1,5 +1,5 @@
 {
- "version": "dba7a4b4c35d",
+ "version": "53532cca45b4",
  "categories": {
   "ports": [
    {
@@ -6780,6 +6780,91 @@
      "ports/LANGO0002/s1.jpg"
     ],
     "description": "Lango — простой проект RPG с открытым исходным кодом в стиле легендарных игр серии Zelda, сделанный на движке Godot. Задуман как основа, на которой можно создать собственную игру.\\n\\nИсходники: github.com/ParallelProductions/Lango_GodotRPG-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LATESHIFT",
+    "name": "Late Shift Vita",
+    "version": "1.0.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/LATESHIFT/lateshift.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/LATESHIFT/data.zip",
+    "data_path": "ux0:data",
+    "size": 5195068,
+    "sha256": "6d4e7410accd78b2ccf38fda03905bdce8b87d8dfe1c644d2a8fe44ca26cf918",
+    "requires": "libshacccg",
+    "icon": "ports/LATESHIFT/icon.png",
+    "shots": [
+     "ports/LATESHIFT/s1.jpg",
+     "ports/LATESHIFT/s2.jpg",
+     "ports/LATESHIFT/s3.jpg"
+    ],
+    "description": "Это полностью переписанная с нуля FMV-игра Late Shift от студии CtrlMovie. Работает на движке OpenFMV — движке для FMV-игр, написанном с нуля по образцу движка Wales Interactive, который они используют для своих FMV-игр.\\nLate Shift — криминальный FMV-триллер с высокими ставками. Вас втягивают в жестокое ограбление в Лондоне, и ваш выбор имеет значение в этом интерактивном кино с изменяющимся сюжетом, который ведёт к одной из семи концовок. Ваши решения — это вы.\\n\\nНужны файлы оригинальной игры (Steam), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/OpenFMV\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LAYTON001",
+    "name": "Professor Layton: Curious Village HD Vita",
+    "version": "1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/LAYTON001/layton.vpk",
+    "size": 1580065,
+    "sha256": "68efac514852f16a2d0d71a60c7d966951e0f473ca6ab5b80a8d1f656de5bcdb",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/LAYTON001/icon.png",
+    "shots": [
+     "ports/LAYTON001/s1.jpg",
+     "ports/LAYTON001/s2.jpg",
+     "ports/LAYTON001/s3.jpg"
+    ],
+    "description": "Это враппер/порт Professor Layton: Curious Village HD для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, и он патчится для корректного запуска. По сути, это как если бы мы эмулировали минималистичную среду Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/layton-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LAYTON002",
+    "name": "Professor Layton: Pandora's Box HD Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/LAYTON002/layton2.vpk",
+    "size": 1548874,
+    "sha256": "d9603b354dc6b35b7bc2ee089f207be4017088c8d3887ad61498c2a8b1b6dca3",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/LAYTON002/icon.png",
+    "shots": [
+     "ports/LAYTON002/s1.jpg",
+     "ports/LAYTON002/s2.jpg",
+     "ports/LAYTON002/s3.jpg"
+    ],
+    "description": "Это враппер/порт Professor Layton: Pandora's Box HD для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, и он патчится для корректного запуска. По сути, это как если бы мы эмулировали минималистичную среду Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/layton2-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LAYTON003",
+    "name": "Professor Layton: Lost Future HD Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/LAYTON003/layton3.vpk",
+    "size": 1674862,
+    "sha256": "09d982eaf7a218d57026870e104a092fd9aa87776929ef866276dd9c7569c08e",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/LAYTON003/icon.png",
+    "shots": [
+     "ports/LAYTON003/s1.jpg",
+     "ports/LAYTON003/s2.jpg",
+     "ports/LAYTON003/s3.jpg"
+    ],
+    "description": "Это враппер/порт Professor Layton: Lost Future HD для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, и он патчится для корректного запуска. По сути, это как если бы мы эмулировали минималистичную среду Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/layton3-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LEAP00001",
+    "name": "Leap of Faith",
+    "version": "1.0",
+    "author": "Markus95",
+    "vpk": "https://firsts3.ru/vpkgj/ports/LEAP00001/Leap_of_Faith.vpk",
+    "size": 14939938,
+    "sha256": "648771447bfc147c08af6577dade91b5d5264115024120728a9b58021f829ebd",
+    "icon": "ports/LEAP00001/icon.png",
+    "shots": [
+     "ports/LEAP00001/s1.jpg",
+     "ports/LEAP00001/s2.jpg"
+    ],
+    "description": "Платформер, сделанный в GameMaker для Game Maker's Toolkit Jam 2018 командой HeartLamp.\\n\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -10311,6 +10396,80 @@
      "homebrew/LAPY30016/s3.jpg"
     ],
     "description": "2D-бесконечный раннер для PSVITA/PSTV, вдохновлённый популярным ютубером.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LAPY30017",
+    "name": "Brain Splitter",
+    "version": "1.0",
+    "author": "Lapy",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LAPY30017/BrainSplitter.vpk",
+    "size": 68658061,
+    "sha256": "1cecb3ee0ccc66c5b8952ad87ee8dc0ce96bee40a0eb0d113dc2839d2c4e12f8",
+    "icon": "homebrew/LAPY30017/icon.png",
+    "shots": [
+     "homebrew/LAPY30017/s1.jpg",
+     "homebrew/LAPY30017/s2.jpg",
+     "homebrew/LAPY30017/s3.jpg"
+    ],
+    "description": "Brain Splitter — оригинальный одиночный шутер с вертикальной прокруткой, в котором нужно управлять двумя космическими кораблями одновременно с помощью обоих стиков. Есть фоторежим, позволяющий делать потрясающие скриншоты, которые сохраняются прямо в галерею, а также система трофеев, имитирующая трофеи официальных игр.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LAPY30018",
+    "name": "Ghost of Tsushima Mini Games",
+    "version": "1.00",
+    "author": "Lapy",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LAPY30018/got.vpk",
+    "size": 62388542,
+    "sha256": "1db86459d668115a4c5127b72df9ca2b18792ade13fa18c89a5969a5329efa41",
+    "icon": "homebrew/LAPY30018/icon.png",
+    "shots": [
+     "homebrew/LAPY30018/s1.jpg",
+     "homebrew/LAPY30018/s2.jpg",
+     "homebrew/LAPY30018/s3.jpg"
+    ],
+    "description": "Сборник из трёх мини-игр на быструю реакцию в тематике Ghost of Tsushima.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LBRN00001",
+    "name": "Labyrinth 3D",
+    "version": "1.4",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LBRN00001/Labyrinth_3D.vpk",
+    "size": 9083464,
+    "sha256": "c3c65164ec463878b115e48f170178130aec4085b945c54aa5b9d43c12bdf89a",
+    "icon": "homebrew/LBRN00001/icon.png",
+    "shots": [
+     "homebrew/LBRN00001/s1.jpg",
+     "homebrew/LBRN00001/s2.jpg",
+     "homebrew/LBRN00001/s3.jpg"
+    ],
+    "description": "Labyrinth 3D — мой первый 3D-хоумбрю, сделанный на Lua Player Plus Vita и движке RayCast3D.\\nЕго можно считать демонстрацией того, насколько мощен и прост в использовании движок RayCast3D.\\nLabyrinth 3D, как следует из названия, — игра, где нужно найти выход из лабиринта. Поддерживаются разные размеры карт, и в зависимости от размера у вас будет несколько свитков. Свитками можно «пометить» стену лабиринта, чтобы видеть, где вы уже были (помеченная стена становится золотой).\\nЛабиринты генерируются алгоритмом Прима, поэтому у вас будет бесконечное количество случайных лабиринтов. Каждый сгенерированный лабиринт имеет seed, которым можно поделиться с другими и пройти этот лабиринт через пункт «Start game with Seed».\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LCDSAT000",
+    "name": "LCD Color Saturation",
+    "version": "1.1.0",
+    "author": "Electric",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LCDSAT000/lcdsat.vpk",
+    "size": 202901,
+    "sha256": "f70b0e0b8014da2bc8c5d3154ffd91a04905837d5c9c29038e0ab239cabb7b72",
+    "icon": "homebrew/LCDSAT000/icon.png",
+    "shots": [
+     "homebrew/LCDSAT000/s1.jpg",
+     "homebrew/LCDSAT000/s2.jpg"
+    ],
+    "description": "Небольшая утилита, улучшающая насыщенность цветов на PSVITA Slim.\\n\\nИсходники: github.com/Electric1447/lcd-color-saturation\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "LEDGE0001",
+    "name": "The Ledge",
+    "version": "0.34",
+    "author": "James Beaufort",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/LEDGE0001/The-Ledge.vpk",
+    "size": 64264428,
+    "sha256": "ab3fadf1cf924345745577d2906b69643253cc789f77cc081b8c01908f34c5b0",
+    "icon": "homebrew/LEDGE0001/icon.png",
+    "description": "The Ledge — короткая нарративная игра, изначально созданная на RPG Maker MV и адаптированная для PlayStation Vita с помощью заменяющего нативного рантайма с изменённым кодом LPP-Vita.\\nОснована на рассказе «Man With A Problem» Дональда Хонига (1958). Примерное время прохождения — 5–10 минут.\\nПредупреждение о содержании: суицид, смерть и тревожные образы.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
