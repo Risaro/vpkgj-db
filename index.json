@@ -1,5 +1,5 @@
 {
- "version": "744d657d0698",
+ "version": "5638e6b7b50e",
  "categories": {
   "ports": [
    {
@@ -8311,6 +8311,135 @@
      "ports/POSTAL001/s3.jpg"
     ],
     "description": "Возьмите под контроль Postal Dude в его печально известном первом выходе, где он борется за выживание в сошедшем с ума мире! POSTAL — классический изометрический шутер, до краёв набитый стремительным взрывным экшеном. За каждым углом вас ждут обезумевшие стрелки, жаждущие вашей крови, и ваш единственный выбор — успеть первым. Отвечайте разрушительным арсеналом, пробираясь через охваченный насилием город.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/PostalVita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PPERTRAIN",
+    "name": "Paper Train Reloaded Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PPERTRAIN/papertrain.vpk",
+    "size": 2874768,
+    "sha256": "ba197e4bddb893fd13fcbfe1f6d3f7bcfda114b01e0b0122200512cd4477e179",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/PPERTRAIN/icon.png",
+    "shots": [
+     "ports/PPERTRAIN/s1.jpg",
+     "ports/PPERTRAIN/s2.jpg",
+     "ports/PPERTRAIN/s3.jpg"
+    ],
+    "description": "Это враппер/порт Paper Train Reloaded для PS Vita.\\nПорт работает так: официальные исполняемые файлы Android ARMv7 загружаются в память, их импорты подменяются нативными функциями, а сами файлы патчатся для корректного запуска. По сути, это эмуляция минималистичной среды Android, в которой исполняемые файлы запускаются нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/paper-train-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PPGMV2000",
+    "name": "The Powerpuff Girls: Mojo Madness Vita",
+    "version": "0.1",
+    "author": "SpliffCurryBeats",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PPGMV2000/PowerpuffVita.vpk",
+    "size": 2266049,
+    "sha256": "ca7940ad64e20bb8ae5992a55340b3a8b2d89010a9afdf2d558f52ede9703534",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/PPGMV2000/icon.png",
+    "description": "Порт Android-игры The Powerpuff Girls: Mojo Madness для PSVita с использованием so loader.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: gitlab.com/sexcurrybeats/powerpuff-mojo-madness-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PPOP00001",
+    "name": "PanelPop",
+    "version": "0.0.3",
+    "author": "sharkwouter",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PPOP00001/panel-pop.vpk",
+    "size": 9182952,
+    "sha256": "f352f003421358e89fe950ccffb98e8a4d53c03437be131ae18bd41896c38c0f",
+    "icon": "ports/PPOP00001/icon.png",
+    "shots": [
+     "ports/PPOP00001/s1.jpg",
+     "ports/PPOP00001/s2.jpg",
+     "ports/PPOP00001/s3.jpg"
+    ],
+    "description": "Клон Panel de Pon / Tetris Attack / Puzzle League.\\n\\nИсходники: github.com/sharkwouter/panel-pop\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PREHIST01",
+    "name": "Prehistorik 2",
+    "version": "1.0",
+    "author": "gl33ntwine",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PREHIST01/prehistorik-2.vpk",
+    "size": 1118947,
+    "sha256": "a97b2f3b4a8f0e64dacc79e3f6613abcdc8ad222506e208efff29e0bba02de48",
+    "icon": "ports/PREHIST01/icon.png",
+    "shots": [
+     "ports/PREHIST01/s1.jpg",
+     "ports/PREHIST01/s2.jpg"
+    ],
+    "description": "Prehistorik 2 — платформер, в котором вы управляете неандертальцем, идущим через враждебные доисторические локации в поисках еды и стараясь остаться в безопасности. Используйте дубину, чтобы крушить животных-врагов, многие из которых после этого роняют бонусы. Другие бонусы лежат на уровнях, а ещё больше можно найти, если творчески и смело применять дубину.\\n\\nНужны файлы оригинальной игры (DOS), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/v-atamanenko/blues-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PRFCTDARK",
+    "name": "Perfect Dark Vita",
+    "version": "1.4",
+    "author": "Rinnegatamante & fgsfds",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PRFCTDARK/pd.armv7.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/PRFCTDARK/data.zip",
+    "data_path": "ux0:data",
+    "size": 13062334,
+    "sha256": "cbf5fec3151e914b847e3858fef612dec4b2d4ad0d4f4cab57ea8a54e1a5d65f",
+    "requires": "libshacccg",
+    "icon": "ports/PRFCTDARK/icon.png",
+    "shots": [
+     "ports/PRFCTDARK/s1.jpg",
+     "ports/PRFCTDARK/s2.jpg",
+     "ports/PRFCTDARK/s3.jpg"
+    ],
+    "description": "Это порт сорспорта Perfect Dark от fgsfds, основанного на декомпиляции Perfect Dark.\\nPerfect Dark — шутер от первого лица 2000 года, разработанный и изданный Rare для Nintendo 64. Первая игра серии Perfect Dark рассказывает о Джоанне Дарк, агенте исследовательского центра Carrington Institute, которая пытается остановить инопланетный заговор конкурирующей корпорации dataDyne. В игре есть кампания, где нужно проходить уровни, продвигаясь по сюжету, и разные мультиплеерные режимы, включая кооператив и классический дезматч с ботами под управлением компьютера.\\n\\nНужны файлы оригинальной игры (N64), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/perfect_dark\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PRINCEPER",
+    "name": "Prince Of Persia",
+    "version": "1.12",
+    "author": "cpasjuste",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PRINCEPER/Prince-Of-Persia.vpk",
+    "size": 6224036,
+    "sha256": "b33c1c109d2f8d88bba7d4b0c15a2b16cf2c0fba1f618850c12898f1ff66ce5d",
+    "icon": "ports/PRINCEPER/icon.png",
+    "shots": [
+     "ports/PRINCEPER/s1.jpg",
+     "ports/PRINCEPER/s2.jpg"
+    ],
+    "description": "Порт Prince of Persia с открытым исходным кодом для PSVITA/PSTV.\\n\\nИсходники: github.com/Cpasjuste/SDLPoP\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PROTOTYPE",
+    "name": "Prototype Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PROTOTYPE/Prototype.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/PROTOTYPE/data.zip",
+    "data_path": "ux0:data",
+    "size": 1962902,
+    "sha256": "65a3829a7e505b56a6ac16a4aba651fa1d848d71907f834e59dbe38b5c601487",
+    "requires": "libshacccg",
+    "icon": "ports/PROTOTYPE/icon.png",
+    "shots": [
+     "ports/PROTOTYPE/s1.jpg",
+     "ports/PROTOTYPE/s2.jpg",
+     "ports/PROTOTYPE/s3.jpg"
+    ],
+    "description": "Порт Prototype для PSVITA.\\nPrototype — ремейк R-Type от Dark Castle Software.\\n\\nИсходники: github.com/Rinnegatamante/prototype-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PRYA22322",
+    "name": "Pureya Vita",
+    "version": "1.0",
+    "author": "PatnosD",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PRYA22322/pureya.vpk",
+    "size": 16848282,
+    "sha256": "0962faf2fb639c5906ba8d26a476712ea44988c4f267082a127544bbeecae774",
+    "icon": "ports/PRYA22322/icon.png",
+    "shots": [
+     "ports/PRYA22322/s1.jpg",
+     "ports/PRYA22322/s2.jpg",
+     "ports/PRYA22322/s3.jpg"
+    ],
+    "description": "Pureya — сборник аркадных мини-игр, в которые играют всего двумя кнопками.\\nКаждые 10 секунд игра переключается с одной случайной мини-игры на другую.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -13075,6 +13204,86 @@
      "homebrew/PNES00001/s1.jpg"
     ],
     "description": "Эмулятор NES, мультиплатформенный порт эмулятора Nestopia.\\n\\nИсходники: github.com/Cpasjuste/pemu\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "POTO00002",
+    "name": "How to Rob A Gas Station",
+    "version": "2.3.2",
+    "author": "POtO Software",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/POTO00002/gas.vpk",
+    "size": 51863224,
+    "sha256": "57a3590f199d2230d88046257c294ea66c7d2a1d24e3fdd88f127c0eb3278d05",
+    "icon": "homebrew/POTO00002/icon.png",
+    "shots": [
+     "homebrew/POTO00002/s1.jpg"
+    ],
+    "description": "В этой игре вы, представьте себе, грабите заправку. По сути, это пошаговое руководство по ограблению заправки. Игра длится около 5 минут, поэтому в ней несколько концовок. Если вам интересно, можно пройти все: всего их 22.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PRIMER001",
+    "name": "Procedural Planets",
+    "version": "1.0",
+    "author": "Primer0 & Ruben_Wolfe",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PRIMER001/Procedural_Planets.vpk",
+    "size": 677970,
+    "sha256": "527be318a600897b370b1a7fcbe887f863d665ea8ac81cbc97b4430e04d0c5f5",
+    "icon": "homebrew/PRIMER001/icon.png",
+    "shots": [
+     "homebrew/PRIMER001/s1.jpg"
+    ],
+    "description": "Генератор пиксельных 2D-пейзажей процедурных планет для PSVITA/PSTV, вдохновлённый артами No Man's Sky.\\n\\nИсходники: drive.google.com/file/d/0B4QqovA_rXzGT3I3ZUdpTnJtc2s/view\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PS4LINKM1",
+    "name": "ReLink",
+    "version": "1.0",
+    "author": "theorywrong",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PS4LINKM1/ReLink.vpk",
+    "size": 330074,
+    "sha256": "b9c53ffe758b6c53a042f0a3a254539b61347c2011e03468260f87de205423f5",
+    "icon": "homebrew/PS4LINKM1/icon.png",
+    "description": "ReLink — хомбрю для PSVita, позволяющий менять онлайн-ID, чтобы повторно использовать PS4 Link на 3.60.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PS4LNKGUI",
+    "name": "ps4linkcontrols-gui",
+    "version": "0.1",
+    "author": "keltar",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PS4LNKGUI/ps4linkcontrols-gui.vpk",
+    "size": 338830,
+    "sha256": "31e784a7d60ea014090effb15d658eba33081efc32958fed02049efb3a3b0973",
+    "icon": "homebrew/PS4LNKGUI/icon.png",
+    "shots": [
+     "homebrew/PS4LNKGUI/s1.jpg"
+    ],
+    "description": "Графический конфигуратор для плагина ps4linkcontrols.\\n\\nИсходники: github.com/keltar/ps4linkcontrols-gui\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PSEE00001",
+    "name": "Psee Demo",
+    "version": "0.1",
+    "author": "aDeCon Production",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PSEE00001/psee.vpk",
+    "size": 33848976,
+    "sha256": "7bcd481d5f602b25cd5b4a3f4d848f35b0f94b0a1e1577c64f128a55847b255f",
+    "icon": "homebrew/PSEE00001/icon.png",
+    "shots": [
+     "homebrew/PSEE00001/s1.jpg",
+     "homebrew/PSEE00001/s2.jpg",
+     "homebrew/PSEE00001/s3.jpg"
+    ],
+    "description": "В мистическом мире Psee всем правит гравитация.\\nСущества-псеты могут управлять объектами в своём мире и перемещаться с помощью левитации.\\nВам предстоит управлять псетом, который работает в шахте и добывает воду.\\nГде-то в мир Psee приходит зло, и теперь главному герою нужно спасать свою жизнь.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PSMFIXER2",
+    "name": "PSM Manager",
+    "version": "2.0",
+    "author": "Yoti",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PSMFIXER2/PSM_Manager.vpk",
+    "size": 74543,
+    "sha256": "d09e868383f3ba4ebf90bddad02a1ccf69429d4a14c830b40a8b7686a72ddb4d",
+    "icon": "homebrew/PSMFIXER2/icon.png",
+    "description": "Эта программа обходит требование аккаунта PSN при использовании игр PSM.\\n\\nИсходники: github.com/Yoti/psv_npdrmfix\\nИсточник: VitaDB."
    }
   ],
   "translations": [
