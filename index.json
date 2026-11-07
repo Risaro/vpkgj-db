@@ -1,5 +1,5 @@
 {
- "version": "695ba6f65a7a",
+ "version": "54b4f141bed7",
  "categories": {
   "ports": [
    {
@@ -7471,6 +7471,95 @@
      "ports/NEKU23850/s3.jpg"
     ],
     "description": "Порт Android-версии The World Ends With You для PS Vita.\\nИгра — Action-RPG, разработанная Square Enix и Jupiter, изначально для Nintendo DS. Порт на Android выполнила h.a.n.d.\\nВыполни задание... или будешь стёрт. Это всё, что знает Нику, придя в себя посреди оживлённого перекрёстка без воспоминаний. Теперь ему и его партнёру придётся бороться за выживание в игре на жизнь и смерть в этой запутанной истории, где поворотов больше, чем в городском лабиринте Токио, в котором они оказались в ловушке.\\n\\nНужны файлы оригинальной игры (NDS/Android), их нужно скопировать самому, как написано на странице проекта.\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NEVERBALL",
+    "name": "Neverball Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NEVERBALL/neverball.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/NEVERBALL/data.zip",
+    "data_path": "ux0:data",
+    "size": 1558495,
+    "sha256": "a5cb15cee3ffc1a6c0ece2df95f07d4daffa8a5c149d574a61fad09d8fc75fb5",
+    "requires": "libshacccg",
+    "icon": "ports/NEVERBALL/icon.png",
+    "shots": [
+     "ports/NEVERBALL/s1.jpg",
+     "ports/NEVERBALL/s2.jpg",
+     "ports/NEVERBALL/s3.jpg"
+    ],
+    "description": "Наклоняйте пол, чтобы прокатить шар через полосу препятствий до окончания времени. Neverball — отчасти головоломка, отчасти экшен и полностью проверка мастерства.\\n\\nИсходники: github.com/Rinnegatamante/neverball\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NEVERPUTT",
+    "name": "Neverputt Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NEVERPUTT/neverputt.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/NEVERPUTT/data.zip",
+    "data_path": "ux0:data",
+    "size": 1493107,
+    "sha256": "2d62130c1fdeefef23d09a178a7f6617ded3b07b667805eea99090133b66b87a",
+    "requires": "libshacccg",
+    "icon": "ports/NEVERPUTT/icon.png",
+    "shots": [
+     "ports/NEVERPUTT/s1.jpg",
+     "ports/NEVERPUTT/s2.jpg",
+     "ports/NEVERPUTT/s3.jpg"
+    ],
+    "description": "3D-мини-гольф с множеством уровней.\\nПроверьте свои навыки в мини-гольфе. В игре есть разнообразные поля для игроков любого уровня.\\n\\nИсходники: github.com/Rinnegatamante/neverball\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NGDN00000",
+    "name": "Neet Girl Date Night Vita",
+    "version": "01.00",
+    "author": "raidengugga",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NGDN00000/ngdn.vpk",
+    "size": 14511015,
+    "sha256": "b7df3edd69f72ed1d4a48909ff83eea689f5d647d8b861df889189f8a1dbfbb0",
+    "icon": "ports/NGDN00000/icon.png",
+    "description": "Порт NEET Girl Date Night для PSVITA.\\nNEET Girl Date Night — небольшая визуальная новелла.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NINJA0001",
+    "name": "Ninjago Tournament Vita",
+    "version": "1.00",
+    "author": "reallootfury",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NINJA0001/ninjago-vita.vpk",
+    "size": 835426,
+    "sha256": "0803be210528ef9ca12dacdbdc245074d8e9ab1411e21fd85413d37f71888db4",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/NINJA0001/icon.png",
+    "description": "Порт совместимости Android ARMv7 для LEGO Ninjago Tournament с использованием vitaGL. Версия релиза: 1.00 (Vita SFO 01.00).\\nПостепенное уменьшение сердец игрока/босса подтверждённо работает на физической Vita. В релизе сохранено это исправление рендерера, а также есть отдельные пакеты — обычный и с включённым логированием; изменения в упаковке и логировании требуют проверки на устройстве. Задержки при загрузке и периодические рывки в игре остаются известными ограничениями.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/reallootfury/ninjago-tournament-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NISH12345",
+    "name": "Vanish Vita",
+    "version": "Beta",
+    "author": "MaloneCZSD",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NISH12345/VanishB16.vpk",
+    "size": 73348351,
+    "sha256": "6c78d2cfbb68a2528ccf303d2deb2a630192ee431bc057d3f3b050b05888acc6",
+    "icon": "ports/NISH12345/icon.png",
+    "shots": [
+     "ports/NISH12345/s1.jpg",
+     "ports/NISH12345/s2.jpg",
+     "ports/NISH12345/s3.jpg"
+    ],
+    "description": "Окунитесь в VANISH — инди-хоррор, проверяющий ваш рассудок в лабиринте неизвестности. Пробирайтесь по тёмным коридорам, перехитрите скрывающихся ужасов и найдите путь к свободе. Выживете ли вы или поддадитесь неописуемым кошмарам? Приготовьтесь к главному испытанию в этом бесплатном инди-хорроре. Vanish, возможно, самый жуткий хоррор от первого лица на Playstation Vita.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NJGT00001",
+    "name": "LEGO Ninjago Tournament Vita",
+    "version": "1.0",
+    "author": "1theronin",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NJGT00001/Ninjago.vpk",
+    "size": 938462,
+    "sha256": "c984ba77062df59e58ccb3fbf6c6053f422f6a2339df989a2ff38a61ec6f27bc",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/NJGT00001/icon.png",
+    "description": "LEGO Ninjago Tournament — экшен-файтинг с героями-ниндзя и злодеями из LEGO NINJAGO. Игроки выбирают персонажей из списка, тренируются в Додзё и проходят серию турнирных арен, используя атаки, блоки, рывки и Спинджицу, чтобы победить соперников и открыть новых бойцов.\\nЭто порт Android-версии (1.04.1) на PS Vita, сделанный с помощью .so-загрузчика, который нативно запускает оригинальный код игры. Есть звуковые эффекты и музыка, поддержка физических кнопок и аналоговых стиков Vita, отрисовка 3D-сцен в полном разрешении 960x544 и кэш шейдеров, сокращающий время загрузки после первого запуска.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/RONIN0095/Ninjago-Vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
