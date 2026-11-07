@@ -1,5 +1,5 @@
 {
- "version": "a2f7374a0380",
+ "version": "97dd79b3da89",
  "categories": {
   "ports": [
    {
@@ -9168,6 +9168,54 @@
      "ports/SDLLOPAN0/s1.jpg"
     ],
     "description": "Классический ремейк для Linux игры Lopan (клона маджонга) от Dave Ashley.\\nКак и в других играх Mahjongg, нужно убрать все фишки. Чтобы убрать фишки, нужно выбрать пару фишек с одинаковым рисунком.\\n\\nИсходники: github.com/nop90-PSVITA/SDLLopan-VITA\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SDLPAL001",
+    "name": "sdlpal",
+    "version": "1.3",
+    "author": "usineur",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SDLPAL001/sdlpal.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SDLPAL001/data.zip",
+    "data_path": "ux0:data",
+    "size": 2157092,
+    "sha256": "1d9d71bc374e68f59e9bac03e0b8b5ce6e86355b1e436064858defbaf1c39659",
+    "icon": "ports/SDLPAL001/icon.png",
+    "shots": [
+     "ports/SDLPAL001/s1.jpg",
+     "ports/SDLPAL001/s2.jpg",
+     "ports/SDLPAL001/s3.jpg"
+    ],
+    "description": "XianJian QiXia Zhuan (также известная как The Legend of Sword and Fairy и «PAL») — экшен-RPG, созданная тайваньской компанией Softstar Entertainment Inc. Многие считают её одной из лучших китайских RPG за всё время. С момента первого релиза в 1995 году (версия для DOS) было создано множество новых версий и сиквелов (включая приквел), однако ни одна не смогла заменить захватывающую и трагическую историю, из которой они родились. Здесь мы встречаем главного героя Ли Сяояо, начинающего мастера боевых искусств, и прекрасную Чжао Лин'эр, обаятельную потомицу Нюйвы.?\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/usineur/sdlpal\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SDLSAND01",
+    "name": "SDL2Sand",
+    "version": "1.0",
+    "author": "gl33ntwine",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SDLSAND01/sdlsand.vpk",
+    "size": 654139,
+    "sha256": "c84ead0fa101aea0198efd2369a86c2e2c67e189e543a01e70715e4bbd2027a8",
+    "icon": "ports/SDLSAND01/icon.png",
+    "shots": [
+     "ports/SDLSAND01/s1.jpg",
+     "ports/SDLSAND01/s2.jpg"
+    ],
+    "description": "SDL2Sand — ещё одна реализация ставшей классикой игры Falling Sand, олдскульная и минималистичная. Игра симулирует взаимодействие разных частиц (например, песка, воды, масла или огня). Игроку предоставлена свобода экспериментировать с разными материалами в песочнице.\\n\\nИсходники: github.com/v-atamanenko/sdl2sand\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SEGA12345",
+    "name": "8BitBayonetta",
+    "version": "1.0",
+    "author": "DanCooper",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SEGA12345/8BB.vpk",
+    "size": 38929762,
+    "sha256": "4fb566ffa94f2d1bd3787ca44023493a4da7db39bb4afef1dcc817b61e5eff2f",
+    "icon": "ports/SEGA12345/icon.png",
+    "shots": [
+     "ports/SEGA12345/s1.jpg",
+     "ports/SEGA12345/s2.jpg"
+    ],
+    "description": "Порт 8-Bit Bayonetta для PSVITA.\\n8-Bit Bayonetta, ранее известная как Angel Land, — неточно названная экшен-стрелялка в стиле 16 бит для веб-браузеров, основанная на серии игр Bayonetta.\\n\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -14723,6 +14771,21 @@
      "homebrew/SDKL39690/s1.jpg"
     ],
     "description": "Мультиплатформенная игра Sudoku, написанная на C++ с использованием SDL.\\nВозможности:\\n- Генератор головоломок судоку\\n- Поддержка сенсорного экрана\\n- Прокручивающийся фон, для которого можно менять размер, скорость и направление прокрутки\\n- Мини-цифры для заметок в сложных головоломках\\n- Необязательный чит, автоматически заполняющий клетку (нажмите X или Y 10 раз)\\n- 7 разных песен в формате MOD\\n\\nИсходники: github.com/Mode8fx/SuDokuL\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SFHB00001",
+    "name": "UniPCemu",
+    "version": "2022.10.19",
+    "author": "Superfury1",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SFHB00001/UniPCemu.vpk",
+    "size": 1788120,
+    "sha256": "f3bab8507d1cdb18c6be895f18baef22ae662089ed703749dcab54207f27f76c",
+    "icon": "homebrew/SFHB00001/icon.png",
+    "shots": [
+     "homebrew/SFHB00001/s1.jpg",
+     "homebrew/SFHB00001/s2.jpg"
+    ],
+    "description": "UniPCemu — циклически точный эмулятор x86 (ранее назывался x86EMU до переименования; не основан на другом эмуляторе процессора x86emu со строчными буквами). Это эмулятор от 8086 (IBM PC) до Pentium II (Compaq Deskpro 386, Compaq Deskpro 386 с мышью PS/2 (добавляет мышь PS/2 к чипсету Compaq Deskpro 386, с опциональной заменой BIOS ROM (загружается вместо него) или, как вариант, чипсет i430fx Pentium или i440fx Pentium Pro/Pentium II с мышью PS/2) и отдельными настройками CMOS, как у других архитектур) (с различным настраиваемым оборудованием), с таймингами вплоть до 80386 (80486SX и Pentium используют тайминги 80386 или 1 цикл для новых/неизвестных таймингов/инструкций, и у обоих нет блока вычислений с плавающей запятой).\\n\\nИсходники: bitbucket.org/superfury/unipcemu/src/default/\\nИсточник: VitaDB."
    }
   ],
   "translations": [
