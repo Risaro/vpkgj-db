@@ -1,5 +1,5 @@
 {
- "version": "e3b112da736e",
+ "version": "1e1d215b26a5",
  "categories": {
   "ports": [
    {
@@ -9896,6 +9896,34 @@
      "ports/STUX00001/s3.jpg"
     ],
     "description": "SuperTux Vita — порт SuperTux 0.7.0 на PS Vita. SuperTux — jump'n'run с открытым исходным кодом, вдохновлённая серией Super Mario Bros., в которой Tux путешествует по разным мирам, чтобы спасти Penny из крепости Nolok.\\n\\nИсходники: github.com/DrDecki/supertux-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "STUX00040",
+    "name": "SuperTux Vita",
+    "version": "0.40",
+    "author": "effL",
+    "vpk": "https://firsts3.ru/vpkgj/ports/STUX00040/supertux-vita.vpk",
+    "size": 83953680,
+    "sha256": "2e2b5fd982dd6e470a63108a63766f223e667b5d11ef73ca2d04353f2fdab4b3",
+    "icon": "ports/STUX00040/icon.png",
+    "description": "Порт SuperTux версии 0.40 на PSVita.\\n(Примечание о лицензии: часть изображений создана командой Supertux Team и распространяется по лицензии CC-BY-SA 3.0.)\\n\\nИсходники: github.com/git-effl/supertux-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SUPERFLUO",
+    "name": "Superfluous Returnz Vita",
+    "version": "0.5",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SUPERFLUO/superfluous.vpk",
+    "size": 2216617,
+    "sha256": "77a61e814db6e02ad6d232aa1d3e952a2b7a8f193d5707c15b39fd93000de856",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/SUPERFLUO/icon.png",
+    "shots": [
+     "ports/SUPERFLUO/s1.jpg",
+     "ports/SUPERFLUO/s2.jpg",
+     "ports/SUPERFLUO/s3.jpg"
+    ],
+    "description": "Обёртка/порт Superfluous Returnz для PS Vita.\\nПорт работает так: официальные Android ARMv7-исполняемые файлы загружаются в память, их импорты подменяются нативными функциями, а сам код патчится для корректного запуска. По сути, это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/superfluous-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -16151,6 +16179,67 @@
      "homebrew/STOWE0001/s3.jpg"
     ],
     "description": "SillyTower — игра с физикой, в которой нужно построить как можно более высокую башню.\\n\\nИсходники: github.com/Cpasjuste/sillytower\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SUDO00001",
+    "name": "VitaSudoku",
+    "version": "1.3",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SUDO00001/VitaSudoku.vpk",
+    "size": 1654538,
+    "sha256": "6b028c09de4d6bbd04415671f8fcabc265ee4b46dd7ff54cf20162a3deee3eda",
+    "icon": "homebrew/SUDO00001/icon.png",
+    "shots": [
+     "homebrew/SUDO00001/s1.jpg"
+    ],
+    "description": "VitaSudoku — игра в судоку для PSVITA, написанная с помощью Lua Player Plus. В ней есть алгоритм автоматической генерации судоку, так что можно играть бесконечно.\\nТакже поддерживается фоновая музыка во время игры.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SUNG14553",
+    "name": "Where The F*ck Did I Get These Sunglasses",
+    "version": "1.0",
+    "author": "Catarina Lopes & Isaque Sanches & Mariana Domingos & Tiago Quendera",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SUNG14553/WTFDIGTS.vpk",
+    "size": 58377878,
+    "sha256": "1852b86b3e2b28c13871b2feeafef5f692b31f021a6bedaaccd8ebde1e3ad79e",
+    "icon": "homebrew/SUNG14553/icon.png",
+    "shots": [
+     "homebrew/SUNG14553/s1.jpg",
+     "homebrew/SUNG14553/s2.jpg",
+     "homebrew/SUNG14553/s3.jpg"
+    ],
+    "description": "Визуальная головоломка, в которой нужно по кусочкам восстановить события прошлой ночи, пока вы мучаетесь утренним похмельем.\\nАвторы оригинала: Catarina Lopes, Isaque Sanches, Mariana Domingos, Tiago Quendera.\\nСделано на Unity.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SUPO27496",
+    "name": "Simple FPS Platformer",
+    "version": "1.6",
+    "author": "MEGAgameBoy",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SUPO27496/SimpleFPSplatformer.vpk",
+    "size": 64122004,
+    "sha256": "bb81ba1d33f0cee4ae2d23cc1fbaaca85ea1d0bee3751e47128c5d6e7b336321",
+    "icon": "homebrew/SUPO27496/icon.png",
+    "shots": [
+     "homebrew/SUPO27496/s1.jpg",
+     "homebrew/SUPO27496/s2.jpg",
+     "homebrew/SUPO27496/s3.jpg"
+    ],
+    "description": "Simple FPS Platformer — платформер от первого лица, в котором можно проходить набор уровней и бороться за лучшее время или создавать и делиться собственными уровнями.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "SVEW00001",
+    "name": "SwitchView UI",
+    "version": "0.1.2",
+    "author": "VitaHEX games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/SVEW00001/SwitchView.vpk",
+    "size": 2231742,
+    "sha256": "2db47f7b0a81fed9edd3487730514fe95ca595280e1003b7fd9c421c6ef27e9d",
+    "icon": "homebrew/SVEW00001/icon.png",
+    "shots": [
+     "homebrew/SVEW00001/s1.jpg",
+     "homebrew/SVEW00001/s2.jpg"
+    ],
+    "description": "Альтернативный лаунчер приложений с интерфейсом, похожим на Nintendo Switch.\\n\\nИсточник: VitaDB."
    }
   ],
   "translations": [
