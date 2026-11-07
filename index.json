@@ -1,5 +1,5 @@
 {
- "version": "54b4f141bed7",
+ "version": "d61620049f6c",
  "categories": {
   "ports": [
    {
@@ -7560,6 +7560,108 @@
     "requires": "libshacccg,kubridge",
     "icon": "ports/NJGT00001/icon.png",
     "description": "LEGO Ninjago Tournament — экшен-файтинг с героями-ниндзя и злодеями из LEGO NINJAGO. Игроки выбирают персонажей из списка, тренируются в Додзё и проходят серию турнирных арен, используя атаки, блоки, рывки и Спинджицу, чтобы победить соперников и открыть новых бойцов.\\nЭто порт Android-версии (1.04.1) на PS Vita, сделанный с помощью .so-загрузчика, который нативно запускает оригинальный код игры. Есть звуковые эффекты и музыка, поддержка физических кнопок и аналоговых стиков Vita, отрисовка 3D-сцен в полном разрешении 960x544 и кэш шейдеров, сокращающий время загрузки после первого запуска.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/RONIN0095/Ninjago-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NKARUGA01",
+    "name": "nKaruga",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NKARUGA01/nKaruga.vpk",
+    "size": 8285707,
+    "sha256": "92255daf5389bbeece3cfe5c00910a6e9b1970a5d34dccff96d9f73092852237",
+    "icon": "ports/NKARUGA01/icon.png",
+    "shots": [
+     "ports/NKARUGA01/s1.jpg",
+     "ports/NKARUGA01/s2.jpg",
+     "ports/NKARUGA01/s3.jpg"
+    ],
+    "description": "nKaruga — демейк популярного буллет-хелла Ikaruga, вышедшего в 2002 году на Dreamcast и в 2003 на Gamecube. Ikaruga — вертикальный шутер с уникальной механикой переключения полярности.\\nПереключайте полярность корабля и «получайте урон, поглощая» вражеские пули!\\nУстанавливайте рекорды с помощью бонуса за цепочки!\\n\\nИсходники: github.com/Rinnegatamante/nKaruga\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NREDNECK1",
+    "name": "NRedneck Vita",
+    "version": "1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NREDNECK1/NRedneck.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/NREDNECK1/data.zip",
+    "data_path": "ux0:data",
+    "size": 2163719,
+    "sha256": "5f39b6271f81d1924db5328907d7b08c6bb9eef3cfea68994687afc8515f10f5",
+    "icon": "ports/NREDNECK1/icon.png",
+    "shots": [
+     "ports/NREDNECK1/s1.jpg",
+     "ports/NREDNECK1/s2.jpg",
+     "ports/NREDNECK1/s3.jpg"
+    ],
+    "description": "NRedneck (ранее Rednukem) — форк EDuke32, добавляющий поддержку Redneck Rampage и Redneck Rampage: Rides Again.\\nRedneck Rampage — шутер от первого лица 1997 года, разработанный Xatrix Entertainment и изданный Interplay. В игре много видов оружия и уровней, а тема — деревенщины: действие в основном происходит в вымышленном городке в Арканзасе. Многое из оружия и усилений граничит с абсурдом, и в каком-то смысле игра пародирует и шутеры, и сельскую жизнь Америки.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/NRedneck-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NRSH00001",
+    "name": "Nitronic Rush Vita",
+    "version": "1.0",
+    "author": "arielxflores",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NRSH00001/NitronicRush-Vita.vpk",
+    "size": 1253988,
+    "sha256": "330b002bbb128dbf1a5c86db1dc92c0cba1d854cb4bccdc7ed36e258c5d4404d",
+    "requires": "libshacccg",
+    "icon": "ports/NRSH00001/icon.png",
+    "shots": [
+     "ports/NRSH00001/s1.jpg",
+     "ports/NRSH00001/s2.jpg",
+     "ports/NRSH00001/s3.jpg"
+    ],
+    "description": "Nitronic Rush Vita — нативный порт Nitronic Rush (2011), бесплатной футуристической гонки от Team Nitronic, студенческой команды DigiPen Institute of Technology. Игра переписана на C с использованием vitaGL: она загружает уровни, модели, текстуры, звуки и меню из PC-версии, а управление, объекты уровней, камера и правила гонок следуют коду PC-игры. Работает в 60 fps.\\nВ игре есть сюжетный режим (обучение, шесть уровней кампании со вступительными и финальными сценами и заезд с титрами), аркадные наборы уровней (Story, Hardcore, Challenge, Stunt mode, старые уровни и уровни сообщества из PC-версии, всего 52 уровня), призрачные машины, локальные рекорды, 28 достижений, открываемые машины, крылья и воздушные трюки, визуальные эффекты PC-версии, а также музыка с интерактивными слоями, комментатор и звуковые эффекты из звукового банка Wwise. Онлайн-таблицы лидеров из PC-версии не включены.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/arielxflores/NitronicRush-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NUMPTY001",
+    "name": "Numpty Physics",
+    "version": "0.5",
+    "author": "Rinnegatamante & meetpatty",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NUMPTY001/NumptyPhysics.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/NUMPTY001/data.zip",
+    "data_path": "ux0:data",
+    "size": 1206605,
+    "sha256": "02fc1cdc00c26c5e25522fc14a7061b030a7f7888284aa8f440f6b640ee5f766",
+    "icon": "ports/NUMPTY001/icon.png",
+    "shots": [
+     "ports/NUMPTY001/s1.jpg",
+     "ports/NUMPTY001/s2.jpg"
+    ],
+    "description": "Numpty Physics — головоломка с рисованием в духе (и стиле) Crayon Physics, использующая тот же отличный движок Box2D.\\n\\nИсходники: github.com/Rinnegatamante/NumptyPhysics-Vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NYANCAT01",
+    "name": "Nyan Cat: Lost in Space Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NYANCAT01/nyan.vpk",
+    "size": 2728807,
+    "sha256": "3bd15ecbc343178f2546811e6307f1406affae3d3f443c04bf14684e0fbb5ec5",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/NYANCAT01/icon.png",
+    "shots": [
+     "ports/NYANCAT01/s1.jpg",
+     "ports/NYANCAT01/s2.jpg",
+     "ports/NYANCAT01/s3.jpg"
+    ],
+    "description": "Это враппер/порт Nyan Cat: Lost in Space для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, а сам файл патчится для корректного запуска. По сути, это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/nyan-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NYANCAT02",
+    "name": "Flappy Nyan Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NYANCAT02/flappy.vpk",
+    "size": 2574892,
+    "sha256": "7b935dd5157a316979b3c0f0f2947557407b31360ff8e848d53d10d3f2fdfaac",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/NYANCAT02/icon.png",
+    "shots": [
+     "ports/NYANCAT02/s1.jpg",
+     "ports/NYANCAT02/s2.jpg",
+     "ports/NYANCAT02/s3.jpg"
+    ],
+    "description": "Это враппер/порт Flappy Nyan для PS Vita.\\nПорт работает так: официальный исполняемый файл Android ARMv7 загружается в память, его импорты подменяются нативными функциями, а сам файл патчится для корректного запуска. По сути, это эмуляция минималистичной среды Android, в которой исполняемый файл запускается нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/flappy-nyan-vita\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -11795,6 +11897,98 @@
      "homebrew/NESTF0001/s1.jpg"
     ],
     "description": "Папки внутри папок на домашнем экране PS Vita (LiveArea).\\nВ стандартной Vita приложения можно группировать в папки, но папка не может содержать другую папку. nestfolder добавляет такую возможность: можно поместить папку в папку, открыть её и управлять ею как любой другой папкой.\\n\\nИсходники: github.com/emrhky/nestfolder\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NLTK00001",
+    "name": "VITAPluginsManager",
+    "version": "0.6",
+    "author": "NeoLTK",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/NLTK00001/VITAPluginsManager.vpk",
+    "size": 69673,
+    "sha256": "d7e49b62246466bd37ed9917301870a20bee7ca36ad1e02d36fafeac0f9daccc",
+    "icon": "homebrew/NLTK00001/icon.png",
+    "shots": [
+     "homebrew/NLTK00001/s1.jpg"
+    ],
+    "description": "Менеджер плагинов для PSVITA для дампов игр Vitamin.\\n\\nИсходники: github.com/NeoLTK/VITAPluginsManager\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NMDG54882",
+    "name": "No More Dungeons!",
+    "version": "1.0",
+    "author": "VitaHEX Games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/NMDG54882/No-More-Dungeons.vpk",
+    "size": 44210913,
+    "sha256": "2cca78fc251e2301c94d7ee7b31fa0f3b296c39cafae6a2a973cc6fc5e3907d5",
+    "icon": "homebrew/NMDG54882/icon.png",
+    "shots": [
+     "homebrew/NMDG54882/s1.jpg",
+     "homebrew/NMDG54882/s2.jpg",
+     "homebrew/NMDG54882/s3.jpg"
+    ],
+    "description": "No More Dungeons! — динамичный данжен-кроулер со случайно генерируемыми подземельями и множеством опасных монстров.\\nСложность растёт постепенно и меняется каждый раз при переходе в следующую комнату, но баланс сохраняется: игрок получает мощные усиления и бонусы к очкам.\\nКак далеко вы сможете зайти? Игра запоминает ваш рекорд, чтобы вы могли поделиться им со всем миром.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NOBOR0001",
+    "name": "Noboru",
+    "version": "0.911",
+    "author": "Creckeryop",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/NOBOR0001/Noboru.vpk",
+    "size": 10066973,
+    "sha256": "6fd7135f5d07adf9d679757df74c445cfee20962a062844053f7653a39dea1ef",
+    "icon": "homebrew/NOBOR0001/icon.png",
+    "shots": [
+     "homebrew/NOBOR0001/s1.jpg",
+     "homebrew/NOBOR0001/s2.jpg",
+     "homebrew/NOBOR0001/s3.jpg"
+    ],
+    "description": "Приложение для чтения манги и комиксов на PSVITA с поддержкой онлайн- и офлайн-режимов.\\n\\nИсходники: github.com/Creckeryop/NOBORU\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NOTE00001",
+    "name": "Notepad Vita",
+    "version": "1.0",
+    "author": "VitaHEX games",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/NOTE00001/Notepad%20Vita.vpk",
+    "size": 4541035,
+    "sha256": "7721d99c8476c1e032f448964bea3ba5e426b5729dd7e4c14dfe75430d46d6e2",
+    "icon": "homebrew/NOTE00001/icon.png",
+    "shots": [
+     "homebrew/NOTE00001/s1.jpg"
+    ],
+    "description": "Notepad Vita — простое приложение для заметок на PS Vita.\\nNotepad Vita использует и сенсорный экран, и кнопки для навигации по меню, имеет аккуратный современный вид.\\nСлева виден список всех заметок, справа — предпросмотр выбранной заметки.\\nПоддерживается многострочная клавиатура для удобного редактирования.\\nЗаметки сохраняются в ux0:/data/Notes/ в формате .txt.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NP0APOLLO",
+    "name": "Apollo Save Tool",
+    "version": "2.3.2",
+    "author": "bucanero",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/NP0APOLLO/apollo-vita.vpk",
+    "size": 6175022,
+    "sha256": "bea089da4962ec764b620449b93366ea20c2cca6243952708d635daa206c5068",
+    "icon": "homebrew/NP0APOLLO/icon.png",
+    "shots": [
+     "homebrew/NP0APOLLO/s1.jpg",
+     "homebrew/NP0APOLLO/s2.jpg",
+     "homebrew/NP0APOLLO/s3.jpg"
+    ],
+    "description": "Apollo Save Tool — приложение для управления файлами сохранений на PlayStation Vita.\\nЭтот хомбрю позволяет скачивать, разблокировать, патчить и переподписывать файлы сохранений прямо на Vita.\\n\\nИсходники: github.com/bucanero/apollo-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "NTXS00053",
+    "name": "Scratch Everywhere!",
+    "version": "Beta Build 40",
+    "author": "NateXS & Dogo6647",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/NTXS00053/scratch-vita.vpk",
+    "size": 4188074,
+    "sha256": "4efc9b736908120bcfc430e033c53b13bbed15b35c3de6c11bd71ae08413a077",
+    "icon": "homebrew/NTXS00053/icon.png",
+    "shots": [
+     "homebrew/NTXS00053/s1.jpg",
+     "homebrew/NTXS00053/s2.jpg",
+     "homebrew/NTXS00053/s3.jpg"
+    ],
+    "description": "Рантайм на C++, находящийся в разработке, который должен перенести большинство проектов Scratch 3 на консоли и портативные платформы 6–8 поколений (и не только).\\n\\nИсходники: github.com/ScratchEverywhere/ScratchEverywhere\\nИсточник: VitaDB."
    }
   ],
   "translations": [
