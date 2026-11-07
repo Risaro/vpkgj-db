@@ -1,5 +1,5 @@
 {
- "version": "706a9c484dd5",
+ "version": "d44a40f03f69",
  "categories": {
   "ports": [
    {
@@ -7890,6 +7890,119 @@
     "sha256": "d9e6637f5f152080030de09a1633acfc01b24b40dacfc30e8c22f9178ef8c092",
     "icon": "ports/OTYR20000/icon.png",
     "description": "OpenTyrian2000 Engaged — форк OpenTyrian2000, порта DOS-игры Tyrian 2000 с открытым исходным кодом.\\n\\nИсходники: github.com/wlfn1116/OpenTyrian2000-Engaged\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "OXCE00001",
+    "name": "OpenXcom Extended",
+    "version": "7.10-vita.1",
+    "author": "Northfear",
+    "vpk": "https://firsts3.ru/vpkgj/ports/OXCE00001/oxce.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/OXCE00001/data.zip",
+    "data_path": "ux0:data",
+    "size": 6884745,
+    "sha256": "fb20ce216262f62cb48d72eff8a394a10333c27fffc1588be38ac371fd0b6e9e",
+    "icon": "ports/OXCE00001/icon.png",
+    "shots": [
+     "ports/OXCE00001/s1.jpg",
+     "ports/OXCE00001/s2.jpg",
+     "ports/OXCE00001/s3.jpg"
+    ],
+    "description": "Порт OpenXcom Extended для PSVITA.\\nOpenXcom Extended — улучшенная версия OpenXcom.\\n\\nНужны файлы оригинальной игры (PC), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Northfear/OpenXcom-vita/tree/oxce-plus-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PACG19820",
+    "name": "PAC-GAL 1982 Vita",
+    "version": "1.0.1",
+    "author": "figarocool",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PACG19820/PAC-GAL.vpk",
+    "size": 701127,
+    "sha256": "96e860e2189672df47dd99127d1cd9b8e6c75ae0130bc9128b8ede4652f993d0",
+    "icon": "ports/PACG19820/icon.png",
+    "shots": [
+     "ports/PACG19820/s1.jpg"
+    ],
+    "description": "PAC-GAL — DOS-игра-погоня в лабиринте, авторство которой приписывают Al J. Jiménez, датированная маем 1982 года. Игрок собирает точки, избегает четырёх врагов и с помощью особых точек временно может их съедать. Проект начался со старого ZIP-архива и оригинального DOS-исполняемого файла, предоставленных для анализа; исходный код на C был недоступен.\\n\\nИсходники: github.com/figarocool/Pac-Gal-Dos-PC-game-produced-by-J.-Jimenez-in-1982\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PANG00001",
+    "name": "Pang Adventures Vita",
+    "version": "1.1",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PANG00001/pang.vpk",
+    "size": 1854842,
+    "sha256": "ded88ef6b7cbe284b881d606e75628b7b949c66a949eb7a8d852a6eb2d684c2d",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/PANG00001/icon.png",
+    "shots": [
+     "ports/PANG00001/s1.jpg",
+     "ports/PANG00001/s2.jpg",
+     "ports/PANG00001/s3.jpg"
+    ],
+    "description": "Это враппер/порт Pang Adventures для PS Vita.\\nПорт работает так: официальные исполняемые файлы Android ARMv7 загружаются в память, их импорты подменяются нативными функциями, а сами файлы патчатся для корректного запуска. По сути, это эмуляция минималистичной среды Android, в которой исполняемые файлы запускаются нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/pang-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PAPTRARUS",
+    "name": "Paper Train: Rush Vita",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PAPTRARUS/papertrainrush.vpk",
+    "size": 2465386,
+    "sha256": "74569028b92010ff72bcaad1ea851b32672c8f1fdd5ab7fc2d3c4c929fc939c0",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/PAPTRARUS/icon.png",
+    "shots": [
+     "ports/PAPTRARUS/s1.jpg",
+     "ports/PAPTRARUS/s2.jpg",
+     "ports/PAPTRARUS/s3.jpg"
+    ],
+    "description": "Это враппер/порт Paper Train: Rush для PS Vita.\\nПорт работает так: официальные исполняемые файлы Android ARMv7 загружаются в память, их импорты подменяются нативными функциями, а сами файлы патчатся для корректного запуска. По сути, это эмуляция минималистичной среды Android, в которой исполняемые файлы запускаются нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/paper_rush-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PARTIAVGL",
+    "name": "Partia: The Granian Trilogy",
+    "version": "1.0",
+    "author": "Rinnegatamante",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PARTIAVGL/Partia.vpk",
+    "size": 5690682,
+    "sha256": "36264c3cdb107f4044f285e118717fc9331ba6dfffb9e1f5a1a552ae31d76acc",
+    "requires": "libshacccg,kubridge",
+    "icon": "ports/PARTIAVGL/icon.png",
+    "shots": [
+     "ports/PARTIAVGL/s1.jpg",
+     "ports/PARTIAVGL/s2.jpg",
+     "ports/PARTIAVGL/s3.jpg"
+    ],
+    "description": "Это враппер/порт Portia 1, Portia 2 и Porta 3 для Android на PS Vita.\\nПорт работает так: официальные исполняемые файлы Android ARMv7 загружаются в память, их импорты подменяются нативными функциями, а сами файлы патчатся для корректного запуска.\\nПо сути, это эмуляция минималистичной среды Android, в которой исполняемые файлы запускаются нативно как есть.\\n\\nНужны файлы оригинальной игры (Android), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/partia-vita\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PAUL00001",
+    "name": "The Call",
+    "version": "1.0.1",
+    "author": "Paulo",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PAUL00001/The%20Call.vpk",
+    "size": 43013021,
+    "sha256": "76ad0987aee97a932cf75278bdc77c7c49b4da768fa7d606ecc4839e2edb65e7",
+    "icon": "ports/PAUL00001/icon.png",
+    "shots": [
+     "ports/PAUL00001/s1.jpg",
+     "ports/PAUL00001/s2.jpg"
+    ],
+    "description": "Действие The Call, разработанной для Global Game Jam 2018, происходит в антиутопической Америке, погружённой в атмосферу нуара, и показывает будничную жизнь кабельного оператора — теперь забытой профессии. Но то, что кажется очередным обычным днём, в итоге превращается во что-то иное, ведь наш герой раскрывает нечто большее…\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PAUL00004",
+    "name": "Echo Moth",
+    "version": "1.0",
+    "author": "Paulo",
+    "vpk": "https://firsts3.ru/vpkgj/ports/PAUL00004/Echo%20Moth.vpk",
+    "size": 34575104,
+    "sha256": "fdd4cecbcfb3a0914070efb6188b46e6dc80f61a05df818dba270adfd4ad8f23",
+    "icon": "ports/PAUL00004/icon.png",
+    "shots": [
+     "ports/PAUL00004/s1.jpg",
+     "ports/PAUL00004/s2.jpg"
+    ],
+    "description": "Порт Echo Moth для PSVITA/PSTV.\\n\\nИсточник: VitaDB."
    }
   ],
   "homebrew": [
@@ -12369,6 +12482,22 @@
      "homebrew/OSDB00001/s1.jpg"
     ],
     "description": "OpenSeason(notTM) — колодостроительная игра, теперь без дробовиков в стартовом наборе.\\n\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "PATH00027",
+    "name": "Bookr MOD Vita",
+    "version": "0.4.0a",
+    "author": "pathway27",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/PATH00027/bookr-mod-vita.vpk",
+    "size": 29049449,
+    "sha256": "dd3b066e3f297d89345dfd593e3cebc833c4206c213677b99ee8695ac4914138",
+    "icon": "homebrew/PATH00027/icon.png",
+    "shots": [
+     "homebrew/PATH00027/s1.jpg",
+     "homebrew/PATH00027/s2.jpg",
+     "homebrew/PATH00027/s3.jpg"
+    ],
+    "description": "Программа для чтения документов на PS VITA на основе оригинального Bookr и bookr-mod для PSP.\\n\\nИсходники: github.com/pathway27/bookr-mod-vita\\nИсточник: VitaDB."
    }
   ],
   "translations": [
