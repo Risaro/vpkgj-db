@@ -1,5 +1,5 @@
 {
- "version": "721658bcd58f",
+ "version": "7e0a6d735025",
  "categories": {
   "ports": [
    {
@@ -254,7 +254,7 @@
     "lang": "ru",
     "vpk": "https://firsts3.ru/vpkgj/ports/BULLY0000/BULLY-V1.01-RELEASE.vpk",
     "data": "https://firsts3.ru/vpkgj/ports/BULLY0000/bully.zip",
-    "data_path": "ux0:data/Bully",
+    "data_path": "ux0:data/",
     "size": 1245400,
     "requires": "kubridge,fdfix",
     "icon": "ports/BULLY0000/c.jpg",
