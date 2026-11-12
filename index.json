@@ -1,5 +1,5 @@
 {
- "version": "7e0a6d735025",
+ "version": "c82227f090f7",
  "categories": {
   "ports": [
    {
@@ -1804,7 +1804,6 @@
     "author": "boomannotjeff",
     "vpk": "https://firsts3.ru/vpkgj/ports/USMR00001/udQymEAbFdSU/usm.vpk",
     "data": "https://firsts3.ru/vpkgj/ports/USMR00001/EYjxpXW2CfYZ/usmfixx.zip",
-    "data_path": "ur0:data/libshacccg.suprx",
     "size": 11080054,
     "sha256": "e07fc3942f46b4880f2dbe00eafbe77e467a1a77dd0011199531ba005a2281e5",
     "requires": "libshacccg",
