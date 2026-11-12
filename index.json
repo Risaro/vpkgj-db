@@ -1,5 +1,5 @@
 {
- "version": "a386f7d67e83",
+ "version": "3a5acf5b7f22",
  "categories": {
   "ports": [
    {
@@ -1095,13 +1095,14 @@
    {
     "titleid": "NFSMWVITA",
     "name": "Need For Speed: Most Wanted Black Edition",
-    "version": "00.01",
+    "version": "01.51",
     "author": "germanalvarez15",
     "lang": "ru",
-    "vpk": "https://firsts3.ru/vpkgj/ports/NFSMWVITA/nfsmw.vpk",
-    "data": "https://firsts3.ru/vpkgj/ports/NFSMWVITA/data.zip",
+    "vpk": "https://firsts3.ru/vpkgj/ports/NFSMWVITA/FMkquv3kcoFB/nfsmw.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/NFSMWVITA/data.zip;https://firsts3.ru/vpkgj/ports/NFSMWVITA/x6zC2dFx5SwD/nfsmwFullRus.zip",
     "data_path": "ux0:data",
-    "size": 3187680,
+    "size": 3234420,
+    "sha256": "fc6e72456ae7e3a31dda07f0630f379eb63c945ed0b867ead0925206a4dfae14",
     "icon": "ports/NFSMWVITA/c.jpg",
     "description": "Need For Speed: Most Wanted (2005)\\n\\nИ так друзья, этот порт релизнулся в целом недавно, и мы не спешили сразу его постить. В чатике пользователи хорошечно его протестировали, и с сегодняшней обновой порт в целом играбелен, поэтому могу нас смело поздравить, NFS Most Wanted 2005 теперь у нас в кармане! 🎉🎉🎉\\n\\nДумаю описывать игру нет смысла, все про нее и так знают. Могу сказать, что автор порта регульрно выпускает обновления. Как запустите игру, поковыряйтесь в настройках графики, FPS у порта стабильный.\\n\\nМы пости сборочку от подписчика со свежим VPK, с русскими видеороликами, в дальнейшем попробуем русифицировать игру полностью... Порт кстати с PS2)\\n\\nМини обзор с чатика:\\n\\nНа Виту ток сейчас в целом начали такие проекты закидывать и факт их запуска это уже хорошо\\n\\nЕсли хотите как на пк, берите прошитый свитч или консоли на его уровне или выше и играйте. Портатив всегда был про компромисс, так что это нормально\\n\\nПорт базируется на оригинальном образе американского региона версии Black Edition для PS2\\n\\nМожно настроить разрешение в нем, фильтр вкл/выкл, размытие также и освещение настроить\\n\\nФпс хороший в принципе и играть можно, плюс очень регулярно выходят апдейты\\n\\nИграть советую\\n\\nNeed for Speed: Most Wanted (PS2) port to PS Vita\\nПорт с PC / Console. Стадия: Release.\\nИсходники: github.com/germanalvarez15/nfsmw-vita",
     "alt_vpk": "https://github.com/germanalvarez15/nfsmw-vita/releases/download/1.4.0/nfsmw.vpk",
