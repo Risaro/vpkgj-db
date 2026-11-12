@@ -1,5 +1,5 @@
 {
- "version": "0289be571739",
+ "version": "c88dc9394978",
  "categories": {
   "ports": [
    {
@@ -1177,7 +1177,7 @@
     "lang": "ru",
     "vpk": "https://firsts3.ru/vpkgj/ports/PVZ2VITA1/pvz2-vita-latest.vpk",
     "data": "https://firsts3.ru/vpkgj/ports/PVZ2VITA1/Pvz2_PSVITA.zip",
-    "data_path": "ur0:data/external",
+    "data_path": "ux0:data",
     "size": 1108934,
     "requires": "kubridge,libshacccg",
     "icon": "ports/PVZ2VITA1/c.jpg",
@@ -1460,7 +1460,7 @@
     "author": "khajit2412",
     "vpk": "https://firsts3.ru/vpkgj/ports/SHPC00001/SilentHillVita.vpk",
     "data": "https://firsts3.ru/vpkgj/ports/SHPC00001/data.zip",
-    "data_path": "ur0:data/external",
+    "data_path": "ux0:data",
     "size": 5370796,
     "requires": "libshacccg",
     "description": "Silent Hill\\n\\nСостоялся нативный порт Silent Hill с PS1! Зачем он нужен, когда есть Adrenaline/PSP спросите вы?\\n\\nА вот почему:\\n\\n- Второй стик!\\n- Широкоэкранный формат.\\n- Два графических режима:\\nНовый: 480x272, 2x MSAA, PGXP (без искажения текстур и дрожания полигонов), попиксельный фонарик с мягкими тенями в реальном времени, ограничение частоты кадров 30 fps.\\nКлассический: 720x408, 2x MSAA, оригинальный фонарик PS1, PGXP отключен, ограничение частоты кадров до 60 fps.\\n- Три режима управления: стандартный, от третьего лица, от плеча и от первого лица, со свободным прицеливанием. Небольшой обзорчик\\n\\nПримечание:\\n\\nУ PS Vita две боковые кнопки, тогда как у PS1 их было четыре, поэтому L и R соответствуют кнопкам L2 и R2 на PS1 (прицеливание и обзор), а кнопки L1 и R1 на PS1 — двум верхним углам переднего сенсорного экрана. Каждый угол занимает четверть ширины экрана и треть его высоты. Более подробно на GitHub проекта.\\n\\nSilent Hill Vita Port\\nПорт с Console. Стадия: Release.\\nИсходники: github.com/khajit2412/SilentVitaHill"
@@ -1952,10 +1952,8 @@
     "version": "01.60",
     "author": "@psvitaport",
     "vpk": "https://firsts3.ru/vpkgj/ports/APPC00001/AppCenterCompanion.vpk",
-    "data": "https://firsts3.ru/vpkgj/ports/APPC00001/AppCenterPC.zip",
-    "data_path": "ux0:data",
     "size": 1334436,
-    "description": "Клиент для PC\\n\\n_\\n\\nКак использовать:\\n\\n- Запустите AppCenter Companion в консоли.\\n- Запустите клиент и нажмите кнопку «Connect» ."
+    "description": "Клиент для PC\\n\\n_\\n\\nКак использовать:\\n\\n- Запустите AppCenter Companion в консоли.\\n- Запустите клиент и нажмите кнопку «Connect» .\\n\\nКлиент для PC: https://firsts3.ru/vpkgj/ports/APPC00001/AppCenterPC.zip"
    },
    {
     "titleid": "ARCA69420",
@@ -6797,8 +6795,7 @@
     "version": "1.0.1",
     "author": "Rinnegatamante",
     "vpk": "https://firsts3.ru/vpkgj/ports/LATESHIFT/lateshift.vpk",
-    "data": "https://firsts3.ru/vpkgj/ports/LATESHIFT/data.zip",
-    "data_path": "ux0:data",
+    "data_path": "ux0:data/late shift",
     "size": 5195068,
     "sha256": "6d4e7410accd78b2ccf38fda03905bdce8b87d8dfe1c644d2a8fe44ca26cf918",
     "requires": "libshacccg",
@@ -6808,7 +6805,7 @@
      "ports/LATESHIFT/s2.jpg",
      "ports/LATESHIFT/s3.jpg"
     ],
-    "description": "Это полностью переписанная с нуля FMV-игра Late Shift от студии CtrlMovie. Работает на движке OpenFMV — движке для FMV-игр, написанном с нуля по образцу движка Wales Interactive, который они используют для своих FMV-игр.\\nLate Shift — криминальный FMV-триллер с высокими ставками. Вас втягивают в жестокое ограбление в Лондоне, и ваш выбор имеет значение в этом интерактивном кино с изменяющимся сюжетом, который ведёт к одной из семи концовок. Ваши решения — это вы.\\n\\nНужны файлы оригинальной игры (Steam), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/OpenFMV\\nИсточник: VitaDB."
+    "description": "Это полностью переписанная с нуля FMV-игра Late Shift от студии CtrlMovie. Работает на движке OpenFMV — движке для FMV-игр, написанном с нуля по образцу движка Wales Interactive, который они используют для своих FMV-игр.\\nLate Shift — криминальный FMV-триллер с высокими ставками. Вас втягивают в жестокое ограбление в Лондоне, и ваш выбор имеет значение в этом интерактивном кино с изменяющимся сюжетом, который ведёт к одной из семи концовок. Ваши решения — это вы.\\n\\nНужны файлы оригинальной игры (Steam), их нужно скопировать самому, как написано на странице проекта.\\nИсходники: github.com/Rinnegatamante/OpenFMV\\nИсточник: VitaDB.\\n\\nУтилиты для подготовки видео на ПК (запускаются на компьютере, не на Vita): https://firsts3.ru/vpkgj/ports/LATESHIFT/data.zip"
    },
    {
     "titleid": "LAYTON001",
@@ -12302,10 +12299,9 @@
     "version": "1.14",
     "author": "shev0k",
     "vpk": "https://firsts3.ru/vpkgj/homebrew/EQSP00001/EQVita.vpk",
-    "data": "https://firsts3.ru/vpkgj/homebrew/EQSP00001/data.zip",
-    "data_path": "ux0:data",
     "size": 1742554,
     "sha256": "8ae399c5f59355b5be98c9308d6cf6dee906e3f1e6144432204bcbc4ade3727e",
+    "requires": "eq_speaker",
     "icon": "homebrew/EQSP00001/icon.png",
     "shots": [
      "homebrew/EQSP00001/s1.jpg",
@@ -18927,6 +18923,17 @@
     "check": "file:ur0:data/libshacccg.suprx|file:ur0:data/external/libshacccg.suprx",
     "icon": "libshacccg/icon.png",
     "description": "Компилятор шейдеров, нужен многим портам. Раздавать его нельзя, он извлекается с твоей консоли: поставь ShaRKF00D из вкладки Хоумбрю и запусти один раз."
+   },
+   {
+    "id": "eq_speaker",
+    "name": "EQVita (kernel-плагин)",
+    "version": "1.14",
+    "author": "shev0k",
+    "url": "https://firsts3.ru/vpkgj/homebrew/EQSP00001/data.zip",
+    "size": 28351,
+    "tai_section": "KERNEL",
+    "check": "eq_speaker",
+    "description": "Kernel-плагин системного эквалайзера для EQVita. Ставится в tai и прописывается в *KERNEL автоматически."
    }
   ],
   "games": []
