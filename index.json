@@ -1,5 +1,5 @@
 {
- "version": "cfcb0fc7d6ab",
+ "version": "c61062ef1346",
  "categories": {
   "ports": [
    {
@@ -1480,7 +1480,7 @@
     "author": "vallfrr",
     "vpk": "https://firsts3.ru/vpkgj/ports/SILH00004/sh4vita.vpk",
     "data": "https://firsts3.ru/vpkgj/ports/SILH00004/data.zip",
-    "data_path": "ur0:data/libshacccg.suprx",
+    "data_path": "ur0:data",
     "size": 5773811,
     "requires": "libshacccg",
     "icon": "ports/SILH00004/c.jpg",
