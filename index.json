@@ -1,5 +1,5 @@
 {
- "version": "dc45a64b9775",
+ "version": "49a50390cf53",
  "categories": {
   "ports": [
    {
@@ -1793,10 +1793,19 @@
     "name": "Ultimate Spider-Man",
     "version": "01.00",
     "author": "boomannotjeff",
-    "vpk": "https://github.com/boomannotjeff/usm_vita/releases/download/1.0/usm.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/USMR00001/udQymEAbFdSU/usm.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/USMR00001/EYjxpXW2CfYZ/usmfixx.zip",
     "data_path": "ur0:data/libshacccg.suprx",
-    "size": 11012901,
+    "size": 11080054,
+    "sha256": "e07fc3942f46b4880f2dbe00eafbe77e467a1a77dd0011199531ba005a2281e5",
     "requires": "libshacccg",
+    "icon": "ports/USMR00001/icon-336081b8fb.jpg",
+    "shots": [
+     "ports/USMR00001/shot-da1c10d534.jpg",
+     "ports/USMR00001/shot-5273e970d7.jpg",
+     "ports/USMR00001/shot-0fdbd258c4.jpg",
+     "ports/USMR00001/shot-1b406c7494.jpg"
+    ],
     "description": "Порт с PC / Console. Стадия: Release.\\nИсходники: github.com/boomannotjeff/usm_vita"
    },
    {
