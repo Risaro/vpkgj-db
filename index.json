@@ -1,5 +1,5 @@
 {
- "version": "3a5acf5b7f22",
+ "version": "b8777da2b8e2",
  "categories": {
   "ports": [
    {
@@ -2244,13 +2244,14 @@
    {
     "titleid": "KOTR00001",
     "name": "Star Wars: Knights of the Old Republic",
-    "version": "01.00",
-    "author": "@lolkekkekkekcheburek",
+    "version": "01.01",
+    "author": "@Risaro",
     "lang": "ru",
-    "vpk": "https://firsts3.ru/vpkgj/ports/KOTR00001/KOTOR.vpk",
-    "data": "https://firsts3.ru/vpkgj/ports/KOTR00001/data.zip",
+    "vpk": "https://firsts3.ru/vpkgj/ports/KOTR00001/K6LxmnLr3hn0/KOTOR.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/KOTR00001/data.zip;https://firsts3.ru/vpkgj/ports/KOTR00001/Ve3dERKUmQVe/kotor.zip",
     "data_path": "ux0:data",
     "size": 2602049,
+    "sha256": "01f4b00c509b61de2f0e3b738d478e003bee48a2d95a7cbb0b8f99ed09dac743",
     "icon": "ports/KOTR00001/c.jpg",
     "shots": [
      "ports/KOTR00001/s1.jpg",
