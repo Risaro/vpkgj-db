@@ -1,5 +1,5 @@
 {
- "version": "738d9b1fe8f4",
+ "version": "dc45a64b9775",
  "categories": {
   "ports": [
    {
@@ -16866,7 +16866,13 @@
     "version": "0.39.05",
     "author": "Сергей",
     "lang": "ru",
-    "vpk": "https://github.com/ing156/VitaPlane",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/VITAGRM01/caslSNd4EJMU/VitaPlane-0.39.05.vpk",
+    "size": 35738509,
+    "sha256": "ff62b1fbbde56aa25f97868b658ad2a09d03568a4fa7e96b1cfc197f0555c0a2",
+    "icon": "homebrew/VITAGRM01/icon-33de21efd6.jpg",
+    "shots": [
+     "homebrew/VITAGRM01/shot-669a08c5b1.jpg"
+    ],
     "description": "Читайте чаты, отправляйте сообщения и файлы, используйте стикеры, смотрите медиа, записывайте голосовые сообщения и видеокружки с помощью кнопок или сенсорного экрана."
    }
   ],
