@@ -33,14 +33,15 @@ def bundled(vpk):
 def wanted(skip):
     idx = json.load(open(os.path.join(ROOT, "index.json"), encoding="utf-8"))
     out = set()
+    keep = set()
     for items in idx["categories"].values():
         for it in items:
             icon = it.get("icon") or ""
             if icon and ":" not in icon:
-                out.add(icon)
+                keep.add(icon)
             shots = it.get("shots") or []
             if shots and ":" not in shots[0]:
-                out.add(shots[0])
+                keep.add(shots[0])
     covers = os.path.join(ROOT, "covers.json")
     if os.path.exists(covers):
         for v in json.load(open(covers, encoding="utf-8")).values():
@@ -48,7 +49,8 @@ def wanted(skip):
                 out.add(v["s"][0])
             if v.get("c"):
                 out.add(v["c"])
-    return sorted(p for p in out if p not in skip and os.path.isfile(os.path.join(MEDIA, p)))
+    out = {p for p in out if p not in skip} | keep
+    return sorted(p for p in out if os.path.isfile(os.path.join(MEDIA, p)))
 
 
 def build(files, dst):
