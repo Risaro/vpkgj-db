@@ -1,5 +1,5 @@
 {
- "version": "e2f4ec626316",
+ "version": "5de6a5947e86",
  "categories": {
   "ports": [
    {
@@ -8999,7 +8999,7 @@
     "version": "0.9",
     "author": "Rinnegatamante",
     "vpk": "https://firsts3.ru/vpkgj/ports/RTCW00001/FxlnzF6as7HQ/vitaRTCW.vpk",
-    "data": "https://firsts3.ru/vpkgj/ports/RTCW00001/data.zip",
+    "data": "https://firsts3.ru/vpkgj/ports/RTCW00001/data.zip;https://firsts3.ru/vpkgj/ports/RTCW00001/pazrXASjiiWT/iortcw.zip",
     "data_path": "ux0:data",
     "size": 4214703,
     "sha256": "6fb0edd849169ecb969031bc27fd5fb68dd59de7ea72e6bedba267a2a237a3d8",
