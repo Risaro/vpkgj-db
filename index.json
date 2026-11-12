@@ -1,5 +1,5 @@
 {
- "version": "c88dc9394978",
+ "version": "b15edc69fc02",
  "categories": {
   "ports": [
    {
@@ -7054,13 +7054,13 @@
    {
     "titleid": "MAXP00000",
     "name": "Max Payne",
-    "version": "r4",
+    "version": "r41",
     "author": "fgsfds & TheFloW",
-    "vpk": "https://firsts3.ru/vpkgj/ports/MAXP00000/MaxPayne.vpk",
-    "data": "https://firsts3.ru/vpkgj/ports/MAXP00000/data.zip",
+    "vpk": "https://firsts3.ru/vpkgj/ports/MAXP00000/9xvsOeqfLXN0/Max_Payne_PCAE_r4_RUS.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/MAXP00000/data.zip;https://firsts3.ru/vpkgj/ports/MAXP00000/DfONqTrKJpEo/maxpayne.zip",
     "data_path": "ux0:data",
-    "size": 993040,
-    "sha256": "85abf876345643cebf1b61ecb7a226a1d645bcf92c9c4dc13a2f59299510b96c",
+    "size": 11163544,
+    "sha256": "2d1206edf4be07ce425d0daeacba895291e5b81f251c1cb1c6e2e111d7c55f5b",
     "requires": "libshacccg,kubridge",
     "icon": "ports/MAXP00000/icon.png",
     "shots": [
