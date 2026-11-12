@@ -1,5 +1,5 @@
 {
- "version": "b3f73ea79d24",
+ "version": "c1df5b5b7022",
  "categories": {
   "ports": [
    {
@@ -16839,6 +16839,15 @@
      "homebrew/TQUE00001/s1.jpg"
     ],
     "description": "Простая текстовая игра для Vita в жанре «выбери своё приключение».\\nПросто очень простое ностальгическое текстовое приключение, homebrew для PS Vita.\\n\\nИсходники: github.com/joshaxey/textquest\\nИсточник: VitaDB."
+   },
+   {
+    "titleid": "VITAGRM01",
+    "name": "VitaPlane",
+    "version": "0.39.05",
+    "author": "Сергей",
+    "lang": "ru",
+    "vpk": "https://github.com/ing156/VitaPlane",
+    "description": "Читайте чаты, отправляйте сообщения и файлы, используйте стикеры, смотрите медиа, записывайте голосовые сообщения и видеокружки с помощью кнопок или сенсорного экрана."
    }
   ],
   "translations": [
