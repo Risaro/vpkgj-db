@@ -1,5 +1,5 @@
 {
- "version": "3a47724b3e26",
+ "version": "ab469557482e",
  "categories": {
   "ports": [
    {
@@ -8998,7 +8998,7 @@
     "name": "vitaRTCW",
     "version": "0.9",
     "author": "Rinnegatamante",
-    "vpk": "https://firsts3.ru/vpkgj/ports/RTCW00001/vitaRTCW.vpk",
+    "vpk": "https://firsts3.ru/vpkgj/ports/RTCW00001/FxlnzF6as7HQ/vitaRTCW.vpk",
     "data": "https://firsts3.ru/vpkgj/ports/RTCW00001/data.zip",
     "data_path": "ux0:data",
     "size": 4214703,
