@@ -1,5 +1,5 @@
 {
- "version": "c7a1c340229c",
+ "version": "bec6a7fef254",
  "categories": {
   "ports": [
    {
@@ -18976,15 +18976,16 @@
    {
     "titleid": "FRUI57580",
     "name": "Fruit Ninja Free",
-    "version": "2.0.0",
+    "version": "2.1.1",
     "author": "Halfbrick",
     "lang": "en",
-    "apk": "https://firsts3.ru/vpkgj/android/FRUI57580/mTjp6gF8Latt/halfbrick.fruitninjafree_2.0.0-200004_minAPI10_armeabi_armeabi-v7a_mips_x86_nodpi__apkmirror.com.apk",
-    "size": 27590410,
-    "sha256": "99e7f24b265aec0b17b50e27278d0060711d72a8131050d39c2c26d0ae5258e9",
+    "apk": "https://firsts3.ru/vpkgj/android/FRUI57580/v211/fruitninja-2.1.1.apk",
+    "data": "https://firsts3.ru/vpkgj/android/FRUI57580/v211/fruitninja-2.1.1-data.zip",
+    "size": 84527265,
+    "sha256": "11ebbd0c80950173927579ed7768a6f2c6f5168c58c77a52870c4a948b57b804",
     "requires": "kubridge",
-    "description": "Fruit Ninja Free 2.0.0 для Android, запуск через VLoader.\\nВ работе: профиль первый, игра может не запуститься.",
-    "profile": "name=Fruit Ninja Free\\nso=libmortargame.so\\nonload=1\\nkeep_apk=1\\n\\nmkdir=@data/files/\\nmkdir=@data/cache/\\nmkdir=@data/ext/\\n\\nstart=Java_com_halfbrick_mortar_NativeGameLib_native_1InitFileManager env class str:@data/game.apk str:@data/files/ str:@data/cache/ str:@data/ext/ 0\\nstart=Java_com_halfbrick_mortar_NativeGameLib_native_1SystemInit env class width height str:en\\nstart=Java_com_halfbrick_mortar_NativeGameLib_native_1SetAppLicensed env class 1\\nstart=Java_com_halfbrick_mortar_NativeGameLib_native_1GameInit env class\\nframe=Java_com_halfbrick_mortar_NativeGameLib_native_1step env class\\ntouch=Java_com_halfbrick_mortar_NativeGameLib_native_1touchEvent env class action pad time 0 0 xn yn 1.0f 1.0f\\nresume=Java_com_halfbrick_mortar_NativeGameLib_native_1onResume env class\\n\\ntouch.down=0\\ntouch.up=1\\ntouch.move=2"
+    "description": "Fruit Ninja Free 2.1.1 для Android, запуск через VLoader.\\nВ работе: профиль ещё не проверен на консоли, игра может не запуститься.",
+    "profile": "name=Fruit Ninja Free\\nso=libmortargame.so\\nonload=1\\nkeep_apk=1\\n\\nmkdir=@data/files/\\nmkdir=@data/cache/\\nmkdir=@data/ext/\\n\\nstart=Java_com_halfbrick_mortar_NativeGameLib_native_1InitFileManager env class str:@data/game.apk str:@data/files/ str:@data/cache/ str:@data/ext/ 0\\nstart=Java_com_halfbrick_mortar_NativeGameLib_native_1SystemInit env class width height str:en\\nstart=Java_com_halfbrick_mortar_NativeGameLib_native_1SetAppLicensed env class 1\\nstart=Java_com_halfbrick_mortar_NativeGameLib_native_1GameInit env class\\nframe=Java_com_halfbrick_mortar_NativeGameLib_native_1step env class\\ntouch=Java_com_halfbrick_mortar_NativeGameLib_native_1touchEvent env class action pad time 0 0 xn yn 1.0f 1.0f\\nresume=Java_com_halfbrick_mortar_NativeGameLib_native_1onResume env class\\n\\ntouch.down=0\\ntouch.up=1\\ntouch.move=2\\n\\njava.string.GetPackageName=com.halfbrick.fruitninjafree\\njava.string.GetPackageVersion=201100\\njava.string.GetDeviceLanguage=en\\njava.string.GetCountry=US\\njava.string.GetModel=PS Vita\\njava.string.GetManufacturer=Sony\\njava.string.GetAndroidVersion=4.4.2\\njava.string.GetUUID=5f0c2a1e-7b3d-4c8e-9a61-0d4e2b7f1c35\\njava.string.GetAndroidID=a1b2c3d4e5f60718\\njava.string.GetDeviceID=vita000000000001\\njava.string.GetGoogleAccount=\\njava.string.GetAccountEmails=\\njava.long.GetDeviceTotalRAM=536870912\\njava.int.GetDensityDPIType=2\\njava.int.GetPhysicalScreenSizeTypeMask=2\\njava.int.GetTouchscreenCapabilities=1\\njava.int.GetWifi=0\\njava.bool.IsConnected=0\\njava.bool.HasSystemFeature=0\\njava.bool.PreferenceKeyExists=0\\njava.bool.GetBoolPreference=0\\njava.void.SetKeepScreenOn=\\njava.void.SetBoolPreference=\\njava.void.HomeOut="
    }
   ]
  },
