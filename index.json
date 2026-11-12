@@ -1,5 +1,5 @@
 {
- "version": "49a50390cf53",
+ "version": "721658bcd58f",
  "categories": {
   "ports": [
    {
@@ -1084,9 +1084,18 @@
     "name": "Need For Speed: Underground",
     "version": "00.90",
     "author": "NDRWhun",
-    "vpk": "https://github.com/NDRWhun/UG1VITA/releases/download/playtest-hotfix/NFSUG1VITA_0.9_playtest_EU_US.vpk",
-    "data_path": "ux0:data/NFSUG1VITA",
-    "size": 7014127,
+    "vpk": "https://firsts3.ru/vpkgj/ports/NFSUG1VTA/xbUpc1njWPh2/NFSUG1VITA_0.9_playtest_hotfix2_EU_US.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/NFSUG1VTA/u2uxCyYgP3xf/NFSUG1VITA.zip",
+    "data_path": "ux0:data/",
+    "size": 7015952,
+    "sha256": "98955282d059b2b6b4721fdf1661038001a43d4dfae33787c1c6a788e4227efd",
+    "icon": "ports/NFSUG1VTA/icon-14710a8ca6.jpg",
+    "shots": [
+     "ports/NFSUG1VTA/shot-0f4ac7371e.jpg",
+     "ports/NFSUG1VTA/shot-15fb9d3b3d.jpg",
+     "ports/NFSUG1VTA/shot-87ffb55cd9.jpg",
+     "ports/NFSUG1VTA/shot-2ee57c0c48.jpg"
+    ],
     "description": "Порт с PC / Console. Стадия: Beta.\\nИсходники: github.com/NDRWhun/UG1VITA"
    },
    {
