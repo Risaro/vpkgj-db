@@ -17,6 +17,7 @@ SCHEMA = {
     "translations": {"required": ["titleid", "name", "install", "url"], "urls": ["url", "mirror"]},
     "plugins": {"required": ["id", "name"], "urls": ["url", "mirror"]},
     "games": {"required": ["titleid", "region", "name", "pkg"], "urls": ["pkg", "mirror"]},
+    "android": {"required": ["titleid", "name", "version", "profile"], "urls": ["apk", "data", "mirror"]},
 }
 INSTALL = {"repatch", "plugin", "repatch+plugin", "data", "vpk"}
 TITLEID = re.compile(r"^[A-Z0-9_]{9}$")
@@ -80,6 +81,11 @@ def check_row(cat, n, row, errors):
         errors.append(f"{where}: у плагина нет url, нужен check вида file:путь")
     if cat == "plugins" and row.get("url") and not row.get("tai_section"):
         errors.append(f"{where}: нужен tai_section")
+    if cat == "android":
+        keys = {line.split("=", 1)[0].strip() for line in row.get("profile", "").split("\\n") if "=" in line and not line.strip().startswith("#")}
+        for need in ("so", "frame"):
+            if need not in keys:
+                errors.append(f"{where}: в профиле нет строки {need}=")
     if cat == "translations" and row.get("install") and row["install"] not in INSTALL:
         errors.append(f"{where}: install должен быть одним из {sorted(INSTALL)}")
     for rel in media_list(row.get("icon")) + media_list(row.get("shots")):
@@ -90,6 +96,8 @@ def check_row(cat, n, row, errors):
 def load(cat, errors):
     path = CATALOG / f"{cat}.tsv"
     items = []
+    if not path.exists():
+        return items
     with path.open(encoding="utf-8", newline="") as f:
         reader = csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE)
         for n, row in enumerate(reader, start=2):

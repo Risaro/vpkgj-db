@@ -1,5 +1,5 @@
 {
- "version": "b8777da2b8e2",
+ "version": "3a47724b3e26",
  "categories": {
   "ports": [
    {
@@ -18958,7 +18958,8 @@
     "description": "Kernel-плагин системного эквалайзера для EQVita. Ставится в tai и прописывается в *KERNEL автоматически."
    }
   ],
-  "games": []
+  "games": [],
+  "android": []
  },
  "media": "https://firsts3.ru/vpkgj/media/"
 }
