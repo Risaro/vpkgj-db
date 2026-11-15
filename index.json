@@ -1,5 +1,5 @@
 {
- "version": "5de6a5947e86",
+ "version": "96bb836e0a0d",
  "categories": {
   "ports": [
    {
@@ -2259,17 +2259,6 @@
      "ports/KOTR00001/s3.jpg"
     ],
     "description": "Представляем вашему внимаю Star Wars: Knights of the Old Republic на русском. Это работа от нашего подписчика, большой ему респект за этот проект!\\n\\nЧто вас ждет:\\n\\n- Полностью перенесена русификация и адаптирована под PS Vita.\\n- Визуально изменены элементы управления, теперь будто игра и делалась для Sony."
-   },
-   {
-    "titleid": "KOTR00002",
-    "name": "KOTOR II",
-    "version": "01.00",
-    "author": "@lolkekkekkekcheburek",
-    "vpk": "https://firsts3.ru/vpkgj/ports/KOTR00002/KOTOR2.vpk",
-    "data": "https://firsts3.ru/vpkgj/ports/KOTR00002/kotor2.zip",
-    "data_path": "ux0:data",
-    "size": 2007670,
-    "description": "KOTOR II"
    },
    {
     "titleid": "MKWV00001",
