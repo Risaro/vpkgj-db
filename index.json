@@ -1,5 +1,5 @@
 {
- "version": "5aaadb49ce3c",
+ "version": "4e8e30119ea0",
  "categories": {
   "ports": [
    {
@@ -2245,20 +2245,21 @@
     "titleid": "KOTR00001",
     "name": "Star Wars: Knights of the Old Republic",
     "version": "01.01",
-    "author": "@Risaro",
+    "author": "Kayse Nour",
     "lang": "ru",
-    "vpk": "https://firsts3.ru/vpkgj/ports/KOTR00001/K6LxmnLr3hn0/KOTOR.vpk",
-    "data": "https://firsts3.ru/vpkgj/ports/KOTR00001/data.zip;https://firsts3.ru/vpkgj/ports/KOTR00001/Ve3dERKUmQVe/kotor.zip",
+    "vpk": "https://firsts3.ru/vpkgj/ports/KOTR00001/j3Pjg8MKx9Bm/KOTOR.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/KOTR00001/66r14jgo1X65/data.zip",
     "data_path": "ux0:data",
     "size": 2602049,
     "sha256": "01f4b00c509b61de2f0e3b738d478e003bee48a2d95a7cbb0b8f99ed09dac743",
+    "requires": "kubridge,libshacccg",
     "icon": "ports/KOTR00001/c.jpg",
     "shots": [
      "ports/KOTR00001/s1.jpg",
      "ports/KOTR00001/s2.jpg",
      "ports/KOTR00001/s3.jpg"
     ],
-    "description": "Представляем вашему внимаю Star Wars: Knights of the Old Republic на русском. Это работа от нашего подписчика, большой ему респект за этот проект!\\n\\nЧто вас ждет:\\n\\n- Полностью перенесена русификация и адаптирована под PS Vita.\\n- Визуально изменены элементы управления, теперь будто игра и делалась для Sony."
+    "description": "Представляем вашему внимаю Star Wars: Knights of the Old Republic на русском.\\n\\nЧто вас ждет:\\n\\n- Полностью перенесена русификация и адаптирована под PS Vita.\\n- Визуально изменены элементы управления, теперь будто игра и делалась для Sony.\\n- Востановленный контент."
    },
    {
     "titleid": "MKWV00001",
