@@ -1,5 +1,5 @@
 {
- "version": "1641a69c3330",
+ "version": "ceaaeb7c665c",
  "categories": {
   "ports": [
    {
@@ -10296,6 +10296,27 @@
      "ports/KOTR00002/shot-39f92641dd.jpg"
     ],
     "description": "Великая Star Wars: Knights of the Old Republic II. Автором порта является pyjabox. В сборку уже включены русский язык, мод на восстановление вырезанного контента TSLRCM 1.8.6 и планета M4-78. Порт ещё не финальный, возможны баги и вылеты."
+   },
+   {
+    "titleid": "SILH00003",
+    "name": "Silent Hill 3",
+    "version": "0.01",
+    "author": "Kayse Nour",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SILH00003/V5oW9weLmUVw/sh3.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SILH00003/0rRxKOGUGgeO/sh3-vita.zip",
+    "data_path": "ux0:data",
+    "size": 6797935,
+    "sha256": "f33347d4fee9ecc5bd25401613d1363b3edee78feb8ae97249058f5eb0ea7e3a",
+    "requires": "libshacccg",
+    "icon": "ports/SILH00003/icon-973e24ea4a.jpg",
+    "shots": [
+     "ports/SILH00003/shot-b96f159d34.jpg",
+     "ports/SILH00003/shot-96aac00205.jpg",
+     "ports/SILH00003/shot-55fcc8ec81.jpg",
+     "ports/SILH00003/shot-513ca7b342.jpg"
+    ],
+    "description": "🔥 Silent Hill 3 на PS Vita — хоррор, который берёт под кожу.\\n• Хизер против культа и собственных страхов.\\n• Туман, монстры, тревожное радио.\\n• Мир меняется на глазах.\\n• Несколько концовок — твой выбор решает всё.\\n\\nФанатский порт даёт шанс заново пройти классику на портативке. Идеально для тех, кто ценит атмосферу больше графики. 🖤\\n\\nОтмечу, что есть проблемы раннего порта, например, отсутствие шейдера света от фонаря, разработчик уже решает эту проблему"
    }
   ],
   "homebrew": [
