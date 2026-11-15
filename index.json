@@ -1,5 +1,5 @@
 {
- "version": "4e8e30119ea0",
+ "version": "1641a69c3330",
  "categories": {
   "ports": [
    {
@@ -2253,7 +2253,7 @@
     "size": 2602049,
     "sha256": "01f4b00c509b61de2f0e3b738d478e003bee48a2d95a7cbb0b8f99ed09dac743",
     "requires": "kubridge,libshacccg",
-    "icon": "ports/KOTR00001/c.jpg",
+    "icon": "ports/KOTR00001/icon-f7b4f45bf8.jpg",
     "shots": [
      "ports/KOTR00001/s1.jpg",
      "ports/KOTR00001/s2.jpg",
