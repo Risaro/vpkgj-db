@@ -1,5 +1,5 @@
 {
- "version": "38bd45e421a2",
+ "version": "5aaadb49ce3c",
  "categories": {
   "ports": [
    {
@@ -2649,18 +2649,20 @@
    {
     "titleid": "VLTR00001",
     "name": "Vitalatro (Balatro)",
-    "version": "00.01",
-    "author": "@lolkekkekkekcheburek",
+    "version": "00.02",
+    "author": "Kayse Nour",
     "lang": "ru",
-    "vpk": "https://firsts3.ru/vpkgj/ports/VLTR00001/Vitalatro.vpk",
-    "size": 25536990,
-    "icon": "ports/VLTR00001/c.jpg",
+    "vpk": "https://firsts3.ru/vpkgj/ports/VLTR00001/kxD30cAzDoDX/Vitalatro.vpk",
+    "size": 27518670,
+    "sha256": "a0c0ffee4f9ab22f5bfac5678a023bbadef41c32a5f1837a4c6c5ef620651c26",
+    "icon": "ports/VLTR00001/icon-c3ff8ff538.jpg",
     "shots": [
-     "ports/VLTR00001/s1.jpg",
-     "ports/VLTR00001/s2.jpg",
-     "ports/VLTR00001/s3.jpg"
+     "ports/VLTR00001/shot-1a652ff9dd.jpg",
+     "ports/VLTR00001/shot-4f876bfa46.jpg",
+     "ports/VLTR00001/shot-6d7c2a52f5.jpg",
+     "ports/VLTR00001/shot-a13fff64b0.jpg"
     ],
-    "description": "Vitalatro (Balatro)\\n\\nРанее уже был порт Balatro прямо с ПК, мы его даже русифицировали, но многих он не устраивал по качеству оптимизации и разрешению... Так вот, Vitalatro - полное воссоздание движка игры для Виты, в порте уже присутствует русский язык, а также сенсорное управлением из коробки. Те кто ждал данную игру на Виту со стабильным фреймрейтом возрадуйтесь она уже здесь и сейчас!"
+    "description": "Vitalatro (Balatro)\\n\\nРанее уже был порт Balatro прямо с ПК, мы его даже русифицировали, но многих он не устраивал по качеству оптимизации и разрешению... Так вот, Vitalatro - полное воссоздание движка игры для Виты, в порте уже присутствует русский язык, а также сенсорное управлением из коробки. Те кто ждал данную игру на Виту со стабильным фреймрейтом возрадуйтесь она уже здесь и сейчас!\\nВ эту сборку внесён перевод от Nitablade, а это русские текстуры и новые шрифты, как в оригинале.\\nСтатистика побед не записывается в сохранение, но разработчик сообщил, что проблема решена, в скоро времени поделится обновлением."
    },
    {
     "titleid": "VTUB00001",
