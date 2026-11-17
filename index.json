@@ -1,5 +1,5 @@
 {
- "version": "a51dcc7d5787",
+ "version": "f424e03517c5",
  "categories": {
   "ports": [
    {
@@ -10317,6 +10317,28 @@
      "ports/SILH00003/shot-513ca7b342.jpg"
     ],
     "description": "🔥 Silent Hill 3 на PS Vita — хоррор, который берёт под кожу.\\n• Хизер против культа и собственных страхов.\\n• Туман, монстры, тревожное радио.\\n• Мир меняется на глазах.\\n• Несколько концовок — твой выбор решает всё.\\n\\nФанатский порт даёт шанс заново пройти классику на портативке. Идеально для тех, кто ценит атмосферу больше графики. 🖤\\n\\nОтмечу, что есть проблемы раннего порта, например, отсутствие шейдера света от фонаря, разработчик уже решает эту проблему"
+   },
+   {
+    "titleid": "OBJECTION",
+    "name": "Phoenix Wright: Ace Attorney Trilogy",
+    "version": "01.00",
+    "author": "RetroBoy",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/OBJECTION/a8nDzPAjgKxU/pwaatvita_1_.vpk",
+    "data": "https://drive.google.com/drive/folders/1ju_mpGzRr-_Shmk5QhmKmFhDryODW7bl>ux0:app/OBJECTION",
+    "data_path": "ux0:app/OBJECTION",
+    "size": 2684354560,
+    "sha256": "e7ed4abc121aa63473336a34a2a985e3fd269b695cb6b3369388facf8fecd001",
+    "requires": "kubridge,fdfix,libshacccg",
+    "icon": "ports/OBJECTION/icon-e89d1960fd.png",
+    "shots": [
+     "ports/OBJECTION/shot-205a855bf9.jpg",
+     "ports/OBJECTION/shot-cfa73b6c0f.jpg"
+    ],
+    "description": "Для запуска игры требуется установить pwaatvita.vpk файл и затем переместить папку Media в **ux0:app/OBJECTION** (Важно, чтобы внутри Media была папка StreamingAssets и прочие, вместо еще одной единственной папки Media!).\\n\\nДля работы локальных трофеев требуется NoTrpDrm. С этим плагином не получится синхронизировать призы с PSN, поэтому перед синхронизацией отключайте плагин.\\n\\nОТДЕЛЬНОЕ СПАСИБО:\\n\\n[Lucky_13X](https://t.me/Lucky_13X) за графическую помощь и тестирование игры\\n[Failing Forward](https://https://vk.ru/phoenix_wright_rus) за русификатор для этого порта.",
+    "alt_vpk": "https://github.com/BekaLife08/Phoenix-Wright-Ace-Attorney-Trilogy-Port-to-PS-Vita",
+    "alt_version": "01.00",
+    "alt_source": "GitHub"
    }
   ],
   "homebrew": [
