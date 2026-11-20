@@ -1,5 +1,5 @@
 {
- "version": "ee2fdc1862e2",
+ "version": "fe51720bbe8e",
  "categories": {
   "ports": [
    {
@@ -10343,7 +10343,7 @@
    {
     "titleid": "HUNT00001",
     "name": "Huntdown",
-    "version": "1.00",
+    "version": "1.2.0",
     "author": "Kayse Nour",
     "lang": "ru",
     "vpk": "https://firsts3.ru/vpkgj/ports/HUNT00001/fDwKcPLVHVxK/huntdown.vpk",
