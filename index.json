@@ -1,5 +1,5 @@
 {
- "version": "d29333f254f1",
+ "version": "462f6879b722",
  "categories": {
   "ports": [
    {
@@ -2939,7 +2939,7 @@
     "titleid": "STDF22222",
     "name": "StandOff 2",
     "version": "01.00",
-    "author": "@lolkekkekkekcheburek",
+    "author": "RetroBoy",
     "lang": "ru",
     "vpk": "https://firsts3.ru/vpkgj/ports/STDF22222/StandVita2FirstRelease.vpk",
     "size": 680312173,
