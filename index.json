@@ -1,5 +1,5 @@
 {
- "version": "ff420b20a9b9",
+ "version": "63a6004b65d4",
  "categories": {
   "ports": [
    {
@@ -1795,6 +1795,7 @@
     "name": "Ultimate Spider-Man",
     "version": "01.00",
     "author": "boomannotjeff",
+    "lang": "ru",
     "vpk": "https://firsts3.ru/vpkgj/ports/USMR00001/udQymEAbFdSU/usm.vpk",
     "data": "https://firsts3.ru/vpkgj/ports/USMR00001/EYjxpXW2CfYZ/usmfixx.zip",
     "data_path": "ux0:data",
