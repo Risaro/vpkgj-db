@@ -1,5 +1,5 @@
 {
- "version": "462f6879b722",
+ "version": "ba43d8a00995",
  "categories": {
   "ports": [
    {
@@ -2537,7 +2537,7 @@
     "titleid": "TANK00001",
     "name": "Tanks 2027",
     "version": "01.00",
-    "author": "@lolkekkekkekcheburek",
+    "author": "Loki D.S.",
     "vpk": "https://firsts3.ru/vpkgj/ports/TANK00001/Tanks2027vita.vpk",
     "data": "https://firsts3.ru/vpkgj/ports/TANK00001/Tanks2027_PSP.zip",
     "data_path": "ux0:data",
