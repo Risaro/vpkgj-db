@@ -1,5 +1,5 @@
 {
- "version": "4236e712ea5b",
+ "version": "2086b6999b12",
  "categories": {
   "ports": [
    {
@@ -10517,6 +10517,27 @@
      "ports/PSVTEMRUN/shot-d0c61a5b1c.jpg"
     ],
     "description": "Представлен нативный порт с iOS легендарного мобильного раннера. Эту игру застали все в свое время, поэтому описывать нет смысла, скажу так - отличный тайм-киллер.\\n\\nПримечания:\\n\\n- Внутриигровой магазин: любое его нажатие приводит к зависанию всей консоли. Не открывайте его.\\n- Вертикальный геймплей.\\n- Управление сенсор с гироскопом."
+   },
+   {
+    "titleid": "BBVT00002",
+    "name": "Spongebob: Battle for Bikini Bottom",
+    "version": "0.28",
+    "author": "Rinnegatamante",
+    "lang": "en",
+    "vpk": "https://firsts3.ru/vpkgj/ports/BBVT00002/n8xLpiOzReca/bfbb.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/BBVT00002/rk7iTaZxihr2/bfbb_data.zip",
+    "data_path": "ux0:data",
+    "size": 4448862,
+    "sha256": "3e0ad469eb91a7352eca722d5f493e15fd0f06cb5dd3a4045ed9051f37f72abc",
+    "requires": "repatch,kubridge,libshacccg",
+    "icon": "ports/BBVT00002/icon-baafcf7f37.jpg",
+    "shots": [
+     "ports/BBVT00002/shot-8dd43a7297.jpg",
+     "ports/BBVT00002/shot-dcbf699cb1.jpg",
+     "ports/BBVT00002/shot-1fb9989d33.jpg",
+     "ports/BBVT00002/shot-84eeaf1b37.jpg"
+    ],
+    "description": "Состоялся релиз порта от Ринне платформера по мотивам мультсериала «Губка Боб Квадратные Штаны»!\\n\\nПланктон решает в очередной раз захватить Бикини Боттом и создаёт машину-дупликатор для производства армии роботов. Однако он забывает переключить тумблер в режим «подчиняться», из-за чего роботы выходят из-под контроля и захватывают город. Губке Бобу, Патрику и Сэнди предстоит остановить вторжение и спасти жителей.\\n\\nПорт с GameCube и работает в 60 FPS без разгона, русского языка нет т.к. перевод выходил только на PS2. Иконки управления адаптированы под PS Vita"
    }
   ],
   "homebrew": [
