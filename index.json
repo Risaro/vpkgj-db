@@ -1,5 +1,5 @@
 {
- "version": "c53462480bdc",
+ "version": "ff420b20a9b9",
  "categories": {
   "ports": [
    {
@@ -10479,6 +10479,26 @@
     "alt_vpk": "https://github.com/LokiDSx/WorldofIllusionStarringMickeyMouseandDonaldDuck-PS-Vita/releases/download/v1.0/WorldOfIllusion.vpk",
     "alt_version": "1.0",
     "alt_source": "GitHub"
+   },
+   {
+    "titleid": "SSAM10003",
+    "name": "Serious Path",
+    "version": "1.00",
+    "author": "Loki D.S.",
+    "lang": "ru",
+    "vpk": "https://firsts3.ru/vpkgj/ports/SSAM10003/LInU1zRTw4gQ/seriouspath.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SSAM10003/WRaffPpVW0VA/seriouspath.zip",
+    "data_path": "ux0:data",
+    "size": 4039556,
+    "sha256": "fdfe1f8eab407b8fe58b7c85f4afc7176ce89fe93192edea4b1d8e3d27697a18",
+    "icon": "ports/SSAM10003/icon-8ec8c1b923.jpg",
+    "shots": [
+     "ports/SSAM10003/shot-79070db7e9.jpg",
+     "ports/SSAM10003/shot-bc674b8fd2.jpg",
+     "ports/SSAM10003/shot-25bed8b285.jpg",
+     "ports/SSAM10003/shot-676f66b9c1.jpg"
+    ],
+    "description": "Пришло время представить наш проект и внести свой скромный вклад в библиотеку игр для PS Vita. Работа над переносом модификации полностью завершена! Изначально этот мод создавался для оригинальной Serious Sam: The Second Encounter, затем был успешно перенесен на Serious Sam: Revolution, а теперь, на базе порта классической версии, он доступен и на PS Vita.\\nSerious Path — мой первый сюжетный мод, на котором я оттачивал мастерство маппинга. Ранее проект получил отличные отзывы как в РУ-, так и в западном сообществе. \\n\\nКраткое описание сюжета:\\nСэм попал в подземную лабораторию, по пути он находит уже не живых товарищей, обратного пути нет, ему предстоит во всем разобраться и найти выход. \\n\\nВ состав мода мы включили, то что было и так включено в оригинальный мод:\\n- Новые изображения меню игры\\n- Изменены звуки некоторых оружий: кольты, снайперка, дробовик.\\n- Музыкальное сопровождение на уровнях мода из таких игр: Serious Sam 3, Serious Sam 2, Cross Fire, Kane & Lynch.\\nСобственные наработки от Serious Sam: Revolution, а именно:\\n- Enemies Retexture Pack v2 \\n- MKIII Grenade Launcher Serious Edition \\n- Оптимизация, пилили пилили, и вроде допилили, переработаны множество арен, для удобства.\\nТак как это порт с ПК на консоль, мы не могли обойти стороннюю наработку Full Xbox Pack, где было портированы модели и анимации с Xbox версии игры:\\n- Прицел.\\n- Заменены враги (Безголовые (все), Кукурбито, Большеголовые и сам Серьезный Сэм)\\n- Заменено оружие (с Хbox руками и анимацией)\\n- Положения оружия от первого лица близки к Xbox версии\\nBubble:\\n- Скомпилирован новый пызерёк для PS Vita\\n- С последней версией VitaGL\\n- С новым интерфейсом и иконкой .\\n- Пузырек не конфликтует с оригинальным портов, ставится отдельно, как отдельная игра."
    }
   ],
   "homebrew": [
