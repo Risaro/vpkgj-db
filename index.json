@@ -1,5 +1,5 @@
 {
- "version": "ba43d8a00995",
+ "version": "64ab8beec374",
  "categories": {
   "ports": [
    {
@@ -693,7 +693,7 @@
     "titleid": "GDIF00001",
     "name": "Gravity Defied",
     "version": "01.05",
-    "author": "LokiDSx",
+    "author": "Loki D.S.",
     "vpk": "https://firsts3.ru/vpkgj/ports/GDIF00001/GravityDefied_1.5.vpk",
     "data": "https://firsts3.ru/vpkgj/ports/GDIF00001/data.zip",
     "data_path": "ux0:data",
