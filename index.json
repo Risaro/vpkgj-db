@@ -1,5 +1,5 @@
 {
- "version": "d1a9d27661db",
+ "version": "d29333f254f1",
  "categories": {
   "ports": [
    {
@@ -10416,6 +10416,25 @@
      "ports/UMKT00003/shot-9518288f89.jpg"
     ],
     "description": "Состоялся релиз порта ремейка UMK3 с iOS. Игра давно удалена из официального App Store, и на современных устройствах не поиграть.\\n\\nВместо спрайтов с оцифрованными актёрами из аркадной версии используются 3D-модели на 2D-плоскостях. Сохранены фаталити, анималити и бэбалити. Также можно менять скины своего персонажа. Есть несколько режимов игры."
+   },
+   {
+    "titleid": "NFSU2VITA",
+    "name": "Need for Speed: Underground 2",
+    "version": "1",
+    "author": "danos-x5",
+    "lang": "ru",
+    "vpk": "https://github.com/danos-x5/NFSUG2_VITA/releases/download/v0.8.4/NFSU2VITA.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/NFSU2VITA/Y9ZtVtMALJ1q/NeedForSpeedUnderground2.zip",
+    "data_path": "ux0:data",
+    "requires": "repatch,kubridge,libshacccg",
+    "icon": "ports/NFSU2VITA/icon-67d009cd68.jpg",
+    "shots": [
+     "ports/NFSU2VITA/shot-02295277b7.jpg",
+     "ports/NFSU2VITA/shot-ea346ab082.jpg",
+     "ports/NFSU2VITA/shot-23861a5750.jpg",
+     "ports/NFSU2VITA/shot-56be72c0a1.jpg"
+    ],
+    "description": "**Need for Speed: Underground 2**\\n\\nЯ думаю нам не стоит описывать эту игру, все мы знаем что это такое... Легендарная тройка NFS наконец-то схлопнулась, могу лишь нас с этим только поздравить!!!\\n\\n**По порту:**\\n- Да, это пока что бета, но уже вполне играбельна, на старте дропнулось намного лучше NFS MW, можно потыкаться в настройках и улучшить фреймрейт игры, порт пока что держит 30фпс.\\n- Порт с ПК.\\n- Русская и английская версия.\\n- Поддерживается сенсорное управление"
    }
   ],
   "homebrew": [
