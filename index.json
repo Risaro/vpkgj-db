@@ -1,5 +1,5 @@
 {
- "version": "4bfba54aab25",
+ "version": "1b5082080f64",
  "categories": {
   "ports": [
    {
@@ -10443,6 +10443,8 @@
     "author": "vallfrr",
     "lang": "ru",
     "vpk": "https://firsts3.ru/vpkgj/ports/SILHIL003/VfAPRXZuwMZB/sh3vitarus.vpk",
+    "data": "https://firsts3.ru/vpkgj/ports/SILHIL003/HcADN414VoCJ/sh3.zip",
+    "data_path": "ux0:data",
     "size": 6757705,
     "sha256": "3f4e6fdf3e65778c5f2b4b52836c1206b1cdd2630645630a3edf1e9c9c903e6e",
     "requires": "repatch,kubridge,libshacccg",
