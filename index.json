@@ -1,5 +1,5 @@
 {
- "version": "10342a6f4708",
+ "version": "5b6f92e96259",
  "categories": {
   "ports": [
    {
@@ -17146,17 +17146,17 @@
    {
     "titleid": "VITAGRM01",
     "name": "VitaPlane",
-    "version": "0.39.05",
+    "version": "0.40.06",
     "author": "Сергей",
     "lang": "ru",
-    "vpk": "https://firsts3.ru/vpkgj/homebrew/VITAGRM01/caslSNd4EJMU/VitaPlane-0.39.05.vpk",
-    "size": 35738509,
-    "sha256": "ff62b1fbbde56aa25f97868b658ad2a09d03568a4fa7e96b1cfc197f0555c0a2",
+    "vpk": "https://firsts3.ru/vpkgj/homebrew/VITAGRM01/bcWMBl7nOSVi/VitaPlane-0.40.06.vpk",
+    "size": 41164296,
+    "sha256": "4e7a9b9e4d3bcabaa8d684586d047249eb13321e97bc2a3ba3f8e44b0d0b5658",
     "icon": "homebrew/VITAGRM01/icon-33de21efd6.jpg",
     "shots": [
      "homebrew/VITAGRM01/shot-669a08c5b1.jpg"
     ],
-    "description": "Читайте чаты, отправляйте сообщения и файлы, используйте стикеры, смотрите медиа, записывайте голосовые сообщения и видеокружки с помощью кнопок или сенсорного экрана."
+    "description": "Читайте чаты, звоните отправляйте сообщения и файлы, используйте стикеры, смотрите медиа, записывайте голосовые сообщения и видеокружки с помощью кнопок или сенсорного экрана."
    }
   ],
   "translations": [
