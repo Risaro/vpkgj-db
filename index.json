@@ -1,5 +1,5 @@
 {
- "version": "5b6f92e96259",
+ "version": "2d3fddba6117",
  "categories": {
   "ports": [
    {
@@ -19218,7 +19218,7 @@
     "titleid": "STSW00001",
     "region": "INT",
     "name": "Star Swarm",
-    "pkg": "https://github.com/AnTaiCa/starswarm-vita/releases/download/v1.49/StarSwarm.vpk",
+    "pkg": "https://github.com/AnTaiCa/starswarm-vita/releases/download/v1.50/StarSwarm.vpk",
     "icon": "games/STSW00001_INT/icon-9cbd690952.png",
     "shots": [
      "games/STSW00001_INT/shot-60a12289d9.jpg",
